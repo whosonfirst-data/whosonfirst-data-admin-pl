@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.001032,
     "geom:area_square_m":7818512.148772,
-    "geom:bbox":"20.9996280142,52.2059235211,21.0567301152,52.2378923437",
+    "geom:bbox":"20.99962801424732,52.20592352110695,21.05673011519099,52.23789234373795",
     "geom:latitude":52.221162,
     "geom:longitude":21.028909,
     "gn:latitude":52.21534,
@@ -27,6 +27,12 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":4,
     "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Ujazd\u00f3w"
+    ],
+    "name:eng_x_variant":[
+        "Ujazdow"
+    ],
     "name:fra_x_preferred":[
         "Ujazd\u00f3w"
     ],
@@ -70,12 +76,12 @@
     "src:lbl_centroid":"mz",
     "wd:wordcount":44,
     "wof:belongsto":[
-        102191581,
-        1125365875,
-        85633723,
-        101752777,
         1477921687,
+        102191581,
+        85633723,
         1477743805,
+        1125365875,
+        101752777,
         85687257
     ],
     "wof:breaches":[],
@@ -105,7 +111,7 @@
     "wof:lang":[
         "pol"
     ],
-    "wof:lastmodified":1582357415,
+    "wof:lastmodified":1748855054,
     "wof:name":"Ujazdow",
     "wof:parent_id":1477921687,
     "wof:placetype":"neighbourhood",
