@@ -27,10 +27,10 @@
     "mz:tier_locality":4,
     "mz:tier_metro":30,
     "name:eng_x_preferred":[
-        "Suewiec"
+        "S\u0142u\u017cewiec"
     ],
     "name:eng_x_variant":[
-        "S\u0142u\u017cewiec"
+        "Suewiec"
     ],
     "name:nld_x_preferred":[
         "S\u0142u\u017cewiec"
@@ -75,12 +75,12 @@
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        102191581,
-        1125365875,
-        85633723,
-        101752777,
         1477921691,
+        102191581,
+        85633723,
         1477743805,
+        1125365875,
+        101752777,
         85687257
     ],
     "wof:breaches":[],
@@ -110,7 +110,7 @@
     "wof:lang":[
         "pol"
     ],
-    "wof:lastmodified":1690854454,
+    "wof:lastmodified":1748855143,
     "wof:name":"Sluzewiec",
     "wof:parent_id":1477921691,
     "wof:placetype":"neighbourhood",
