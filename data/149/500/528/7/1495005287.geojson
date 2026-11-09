@@ -46,7 +46,7 @@
         102191581,
         1477752657,
         85633723,
-        1175613137,
+        101913783,
         102079837
     ],
     "wof:breaches":[],
@@ -62,7 +62,7 @@
             "country_id":85633723,
             "county_id":102079837,
             "localadmin_id":1477752657,
-            "locality_id":1175613137,
+            "locality_id":101913783,
             "neighbourhood_id":1495005287,
             "region_id":85687261
         }
@@ -70,7 +70,7 @@
     "wof:id":1495005287,
     "wof:lastmodified":1570059878,
     "wof:name":"Teolin",
-    "wof:parent_id":1175613137,
+    "wof:parent_id":101913783,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

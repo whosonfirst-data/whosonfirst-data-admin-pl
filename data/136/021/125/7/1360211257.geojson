@@ -33,7 +33,7 @@
         102191581,
         85633723,
         85687257,
-        102079951
+        101752777
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,7 +45,6 @@
         {
             "continent_id":102191581,
             "country_id":85633723,
-            "county_id":102079951,
             "locality_id":1360211257,
             "region_id":85687257
         }
@@ -53,7 +52,7 @@
     "wof:id":1360211257,
     "wof:lastmodified":1536764117,
     "wof:name":"Warsaw Ghetto",
-    "wof:parent_id":102079951,
+    "wof:parent_id":101752777,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

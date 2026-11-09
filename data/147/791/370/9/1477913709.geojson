@@ -39,7 +39,7 @@
         85633723,
         101752145,
         102079529,
-        101863495
+        1477912459
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,7 +62,6 @@
             "country_id":85633723,
             "county_id":102079529,
             "localadmin_id":1125389309,
-            "locality_id":101863495,
             "neighbourhood_id":1477913709,
             "region_id":85687295
         }

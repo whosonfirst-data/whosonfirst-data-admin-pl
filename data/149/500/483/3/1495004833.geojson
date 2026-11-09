@@ -46,7 +46,7 @@
         102191581,
         1125298559,
         85633723,
-        101913701,
+        101913693,
         102079805
     ],
     "wof:breaches":[],
@@ -62,7 +62,7 @@
             "country_id":85633723,
             "county_id":102079805,
             "localadmin_id":1125298559,
-            "locality_id":101913701,
+            "locality_id":101913693,
             "neighbourhood_id":1495004833,
             "region_id":85687257
         }
@@ -70,7 +70,7 @@
     "wof:id":1495004833,
     "wof:lastmodified":1570059450,
     "wof:name":"Bielicha",
-    "wof:parent_id":101913701,
+    "wof:parent_id":101913693,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
