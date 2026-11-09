@@ -54,7 +54,7 @@
         "wk:page":"Paw%C5%82owo_Ko%C5%9Bcielne"
     },
     "wof:country":"PL",
-    "wof:geomhash":"fd870a14ded770434cf52b5b11dfcee6",
+    "wof:geomhash":"f802babf8b69fe65ec0d38adba227d18",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.71301,
     53.07273000000001
 ],
-  "geometry": {"coordinates":[20.71301,53.07273000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.71301,53.07273],"type":"Point"}
 }

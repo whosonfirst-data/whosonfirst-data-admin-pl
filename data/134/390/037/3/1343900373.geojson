@@ -54,7 +54,7 @@
         "wk:page":"Krup%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"09ca1ea7bcc99cda3c1802c7ec5731c2",
+    "wof:geomhash":"11cd1889f5304c8c7e4723fedb5688e2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.09629,
     51.16934000000001
 ],
-  "geometry": {"coordinates":[21.09629,51.16934000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.09629,51.16934],"type":"Point"}
 }

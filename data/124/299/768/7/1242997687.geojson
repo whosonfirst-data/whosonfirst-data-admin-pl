@@ -66,7 +66,7 @@
         "wk:page":"Wiklino"
     },
     "wof:country":"PL",
-    "wof:geomhash":"050eaaa0d8e6608f467e6cbbf36cb1d1",
+    "wof:geomhash":"da3e7c4135ba8f4ba3f080405cfd96d6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     17.1421,
     54.55063000000001
 ],
-  "geometry": {"coordinates":[17.1421,54.55063000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.1421,54.55063],"type":"Point"}
 }

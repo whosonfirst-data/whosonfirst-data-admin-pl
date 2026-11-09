@@ -54,7 +54,7 @@
         "wk:page":"Gorazdowo%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ee9ab27abd6c8c8034fd1c80ae981162",
+    "wof:geomhash":"f244d1c8e631065896ce37335e855363",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.68867000000001,
     52.22359
 ],
-  "geometry": {"coordinates":[17.68867000000001,52.22359],"type":"Point"}
+  "geometry": {"coordinates":[17.68867,52.22359],"type":"Point"}
 }

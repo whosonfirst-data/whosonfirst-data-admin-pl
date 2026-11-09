@@ -57,7 +57,7 @@
         "wk:page":"Podlewkowie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5a499e94f5117323f6f85576b795fcdd",
+    "wof:geomhash":"4e36f66efe4f693c4cc39804684228fd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     23.70732000000001,
     52.87300000000001
 ],
-  "geometry": {"coordinates":[23.70732000000001,52.87300000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.70732,52.873],"type":"Point"}
 }

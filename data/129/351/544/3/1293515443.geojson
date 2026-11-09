@@ -63,7 +63,7 @@
         "wk:page":"Ko%C5%BCuch%C3%B3wek"
     },
     "wof:country":"PL",
-    "wof:geomhash":"67dcfb8bd61e832443773e845224df62",
+    "wof:geomhash":"d3e89cb85241c87efdf5b824e04c2a43",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     22.33917000000001,
     52.34685
 ],
-  "geometry": {"coordinates":[22.33917000000001,52.34685],"type":"Point"}
+  "geometry": {"coordinates":[22.33917,52.34685],"type":"Point"}
 }

@@ -51,7 +51,7 @@
         "wk:page":"Krzecz%C3%B3w%2C_%C5%81%C3%B3d%C5%BA_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e82fcb9bb9578eb87be8329bbb43ee5d",
+    "wof:geomhash":"677a77f007c3efc742919b87881947e5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.7665,
     51.18604000000001
 ],
-  "geometry": {"coordinates":[18.7665,51.18604000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.7665,51.18604],"type":"Point"}
 }

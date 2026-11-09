@@ -54,7 +54,7 @@
         "wk:page":"Czerwona_Woda%2C_I%C5%82awa_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f6565d158b992695031a19a912daf535",
+    "wof:geomhash":"e9938fa6cc5f58499ec6b0ad5114ac4a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.35607000000001,
     53.67477
 ],
-  "geometry": {"coordinates":[19.35607000000001,53.67477],"type":"Point"}
+  "geometry": {"coordinates":[19.35607,53.67477],"type":"Point"}
 }

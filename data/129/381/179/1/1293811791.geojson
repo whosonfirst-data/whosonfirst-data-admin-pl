@@ -51,7 +51,7 @@
         "wk:page":"Piskorz%C3%B3wek"
     },
     "wof:country":"PL",
-    "wof:geomhash":"929b7785a060d810ded8cce5b5be8276",
+    "wof:geomhash":"6368ab367afb176b7b019061ca40d043",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.12562999999999,
     50.90985
 ],
-  "geometry": {"coordinates":[17.12562999999999,50.90985],"type":"Point"}
+  "geometry": {"coordinates":[17.12563,50.90985],"type":"Point"}
 }

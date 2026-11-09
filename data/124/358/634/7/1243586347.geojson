@@ -54,7 +54,7 @@
         "wk:page":"Rempin"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3509ee831238489aeee20e6c57f9f229",
+    "wof:geomhash":"71e89cf2b19b4b95285bff4925cdad75",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.64603,
     52.72078000000001
 ],
-  "geometry": {"coordinates":[19.64603,52.72078000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.64603,52.72078],"type":"Point"}
 }

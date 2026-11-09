@@ -51,7 +51,7 @@
         "wk:page":"Kisiel%C3%B3w%2C_Podkarpackie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d85ed1dc6ca0ad3e5206499bd3a4d42d",
+    "wof:geomhash":"f9ab28cd528f91621127c5e0be1467bc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     22.57038,
     49.98777000000001
 ],
-  "geometry": {"coordinates":[22.57038,49.98777000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.57038,49.98777],"type":"Point"}
 }

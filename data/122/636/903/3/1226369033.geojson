@@ -54,7 +54,7 @@
         "wk:page":"Ro%C5%BCnowo_Nowogardzkie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"314eda505c95807fdfa92f82352bccfa",
+    "wof:geomhash":"5844a80bd5a030cc893577f15b3661d8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     14.97557,
     53.48733000000001
 ],
-  "geometry": {"coordinates":[14.97557,53.48733000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.97557,53.48733],"type":"Point"}
 }

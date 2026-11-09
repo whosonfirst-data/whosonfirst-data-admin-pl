@@ -57,7 +57,7 @@
         "wk:page":"Wola_Wierzbowska"
     },
     "wof:country":"PL",
-    "wof:geomhash":"acb2fa2c7b2e18fdff8d52859335be0d",
+    "wof:geomhash":"c1fa94f7cf82f2bdb443e2dae29e4ad8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     20.75043,
     52.96494000000001
 ],
-  "geometry": {"coordinates":[20.75043,52.96494000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.75043,52.96494],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Brzozowa%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"957720df6b602c8c43d8fe1982236eaf",
+    "wof:geomhash":"c1b82895c78d113f10c9e1093966a34d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.60479,
     53.25803000000001
 ],
-  "geometry": {"coordinates":[21.60479,53.25803000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.60479,53.25803],"type":"Point"}
 }

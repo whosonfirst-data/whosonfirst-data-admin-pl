@@ -55,7 +55,7 @@
         "wk:page":"Gocza%C5%82ki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"28630cad688e6886d1e07603eb729f9e",
+    "wof:geomhash":"c7302a6996fa7336badc78068f2584e7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,5 +82,5 @@
     19.17938,
     53.50683000000001
 ],
-  "geometry": {"coordinates":[19.17938,53.50683000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.17938,53.50683],"type":"Point"}
 }

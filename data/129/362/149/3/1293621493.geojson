@@ -63,7 +63,7 @@
         "wk:page":"T%C4%99czki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"0296311b6f1e08470f6fb107a13b5192",
+    "wof:geomhash":"fb69bce3f8b9ef0db4a15b9e815ee2d6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     22.61141,
     52.03834000000001
 ],
-  "geometry": {"coordinates":[22.61141,52.03834000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.61141,52.03834],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"Krzywa_Wie%C5%9B%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"872d5bb558ed7096064d191ae4c5c86d",
+    "wof:geomhash":"84f8bede7c391c1d2489b9a65066bea9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     16.99937000000001,
     53.48701
 ],
-  "geometry": {"coordinates":[16.99937000000001,53.48701],"type":"Point"}
+  "geometry": {"coordinates":[16.99937,53.48701],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Gie%C5%82czynek"
     },
     "wof:country":"PL",
-    "wof:geomhash":"12ef99ecba2d3d7fd29afb71be5847c2",
+    "wof:geomhash":"b4ca6d7275d7c08fa8be35e0dcf0e573",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.22333,
     52.91206999999999
 ],
-  "geometry": {"coordinates":[20.22333,52.91206999999999],"type":"Point"}
+  "geometry": {"coordinates":[20.22333,52.91207],"type":"Point"}
 }

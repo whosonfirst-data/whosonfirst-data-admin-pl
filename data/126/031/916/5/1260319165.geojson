@@ -57,7 +57,7 @@
         "wk:page":"Szwelice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"162a9462575263b1bfd9150e5b7b2735",
+    "wof:geomhash":"0f52e91447c9153df88e470f99a35de0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.03318,
     52.79763000000001
 ],
-  "geometry": {"coordinates":[21.03318,52.79763000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.03318,52.79763],"type":"Point"}
 }

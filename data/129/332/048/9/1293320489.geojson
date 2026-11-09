@@ -63,7 +63,7 @@
         "wk:page":"Wykosowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b2bd6e18ec58e73ceecc1a51c393f010",
+    "wof:geomhash":"b7eb03ab01bbdcc921b5880364460463",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     17.4387,
     54.61366999999999
 ],
-  "geometry": {"coordinates":[17.4387,54.61366999999999],"type":"Point"}
+  "geometry": {"coordinates":[17.4387,54.61367],"type":"Point"}
 }

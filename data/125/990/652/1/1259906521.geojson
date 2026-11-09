@@ -57,7 +57,7 @@
         "wk:page":"Bertowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"78416ca04a6c7f9610310de07cb7e250",
+    "wof:geomhash":"01f418dfe6845e305a00766e945f6dfe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     18.89427,
     52.78863000000001
 ],
-  "geometry": {"coordinates":[18.89427,52.78863000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.89427,52.78863],"type":"Point"}
 }

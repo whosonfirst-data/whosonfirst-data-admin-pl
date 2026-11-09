@@ -54,7 +54,7 @@
         "wk:page":"Dalnia"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3e968cf2332ec3188441f18409cb1e3c",
+    "wof:geomhash":"b03e072a12eccb206402d1f0f319ef02",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.30288,
     52.96338000000001
 ],
-  "geometry": {"coordinates":[20.30288,52.96338000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.30288,52.96338],"type":"Point"}
 }

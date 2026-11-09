@@ -68,7 +68,7 @@
         "wk:page":"Pietraszki%2C_Warmian-Masurian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5bdd9e3e4bb43d1f368e25229f15706d",
+    "wof:geomhash":"bf8db94b9e427a13c917061f8aac45ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     22.16972,
     54.32123000000001
 ],
-  "geometry": {"coordinates":[22.16972,54.32123000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.16972,54.32123],"type":"Point"}
 }

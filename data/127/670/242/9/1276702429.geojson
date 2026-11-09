@@ -51,7 +51,7 @@
         "wk:page":"Boronice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"0faa835f0108fc5761e8d6eef3ed36f8",
+    "wof:geomhash":"423be0a81bf9200fcaff76e7fe8b1023",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     20.41087000000001,
     50.22909
 ],
-  "geometry": {"coordinates":[20.41087000000001,50.22909],"type":"Point"}
+  "geometry": {"coordinates":[20.41087,50.22909],"type":"Point"}
 }

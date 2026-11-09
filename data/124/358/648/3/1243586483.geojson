@@ -54,7 +54,7 @@
         "wk:page":"Olsz%C3%B3wka%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"57624f3e5c98b4cf1deda47e11de0691",
+    "wof:geomhash":"305fb1b1fc9c06241e482e7b1b33c9fd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.44062000000001,
     52.00652
 ],
-  "geometry": {"coordinates":[20.44062000000001,52.00652],"type":"Point"}
+  "geometry": {"coordinates":[20.44062,52.00652],"type":"Point"}
 }

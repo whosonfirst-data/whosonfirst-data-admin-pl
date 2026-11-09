@@ -54,7 +54,7 @@
         "wk:page":"Wierciochy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b82006425e523f8abfe1a0be6080243a",
+    "wof:geomhash":"3454d7ffde0a1277f542c9b7175743d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.70084,
     54.01533000000001
 ],
-  "geometry": {"coordinates":[22.70084,54.01533000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.70084,54.01533],"type":"Point"}
 }

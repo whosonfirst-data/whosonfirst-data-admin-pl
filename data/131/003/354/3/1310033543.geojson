@@ -54,7 +54,7 @@
         "wk:page":"Brzeziny%2C_Gmina_Rzeczyca"
     },
     "wof:country":"PL",
-    "wof:geomhash":"05aabe040fed3b0000dd633a405047e1",
+    "wof:geomhash":"20074377162c54c857068d31d32f5822",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.33157000000001,
     51.58763
 ],
-  "geometry": {"coordinates":[20.33157000000001,51.58763],"type":"Point"}
+  "geometry": {"coordinates":[20.33157,51.58763],"type":"Point"}
 }

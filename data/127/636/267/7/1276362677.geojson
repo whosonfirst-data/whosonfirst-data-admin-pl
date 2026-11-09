@@ -57,7 +57,7 @@
         "wk:page":"Szarki%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"fa377bddb3fd45619dc6d2847ac59463",
+    "wof:geomhash":"5e2e39ebdc231f5b81457c47bcbc8416",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     16.08827999999999,
     52.25986
 ],
-  "geometry": {"coordinates":[16.08827999999999,52.25986],"type":"Point"}
+  "geometry": {"coordinates":[16.08828,52.25986],"type":"Point"}
 }

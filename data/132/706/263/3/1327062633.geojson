@@ -54,7 +54,7 @@
         "wk:page":"Sko%C5%82atowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"038caff851715a3c4aefa52e826074ed",
+    "wof:geomhash":"641c790d66bfbc4bb805ad094a6fe6fd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.19978,
     52.61678000000001
 ],
-  "geometry": {"coordinates":[20.19978,52.61678000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.19978,52.61678],"type":"Point"}
 }

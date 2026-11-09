@@ -63,7 +63,7 @@
         "wk:page":"Gzowice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"629ce4e4cce9991119d7906614386503",
+    "wof:geomhash":"e125c8293b889b3e203cdda67d9908ea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     21.32857000000001,
     51.39933
 ],
-  "geometry": {"coordinates":[21.32857000000001,51.39933],"type":"Point"}
+  "geometry": {"coordinates":[21.32857,51.39933],"type":"Point"}
 }

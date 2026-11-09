@@ -72,7 +72,7 @@
         "wk:page":"Bia%C5%82obrzegi%2C_Podlaskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d99d59424def7ace608eba2893419d05",
+    "wof:geomhash":"90676546fcb21a79e789dbf1f37acc06",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,5 +99,5 @@
     22.96763,
     53.80193000000001
 ],
-  "geometry": {"coordinates":[22.96763,53.80193000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.96763,53.80193],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"Ko%C5%9Bcierska_Huta"
     },
     "wof:country":"PL",
-    "wof:geomhash":"0a5aa06e78a0bb6d9e5be1c93c6f0867",
+    "wof:geomhash":"f888964a56e5a666839c26f65aac60ca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     18.01239,
     54.13639000000001
 ],
-  "geometry": {"coordinates":[18.01239,54.13639000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.01239,54.13639],"type":"Point"}
 }

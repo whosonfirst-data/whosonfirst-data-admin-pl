@@ -54,7 +54,7 @@
         "wk:page":"Gzin"
     },
     "wof:country":"PL",
-    "wof:geomhash":"836275319d59deb40bd1c1f92e85234a",
+    "wof:geomhash":"d080170d1a26b0bb348f1c0202aa83aa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.31178,
     53.20503000000001
 ],
-  "geometry": {"coordinates":[18.31178,53.20503000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.31178,53.20503],"type":"Point"}
 }

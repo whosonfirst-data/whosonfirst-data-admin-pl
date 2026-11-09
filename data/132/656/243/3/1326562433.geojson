@@ -54,7 +54,7 @@
         "wk:page":"Gore%C5%84_Du%C5%BCy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2303b3cf20f34db456c140ad378b17b3",
+    "wof:geomhash":"b7a6096cafe3bb855b0504b072f3ee28",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.28333,
     52.53333000000001
 ],
-  "geometry": {"coordinates":[19.28333,52.53333000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.28333,52.53333],"type":"Point"}
 }

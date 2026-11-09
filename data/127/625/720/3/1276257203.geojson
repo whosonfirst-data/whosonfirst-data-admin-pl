@@ -54,7 +54,7 @@
         "wk:page":"Krzynow%C5%82oga_Wielka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b394de765806f70c2eaf25cce4412d3b",
+    "wof:geomhash":"c3d50fa0b1eae39261858d858d4d329b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.84903,
     53.21293000000001
 ],
-  "geometry": {"coordinates":[20.84903,53.21293000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.84903,53.21293],"type":"Point"}
 }

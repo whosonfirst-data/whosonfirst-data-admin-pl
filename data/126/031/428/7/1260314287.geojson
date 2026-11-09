@@ -66,7 +66,7 @@
         "wk:page":"Kunowa"
     },
     "wof:country":"PL",
-    "wof:geomhash":"cff0ef0d6dd4a280eb5cc3a3ff3d8e7c",
+    "wof:geomhash":"58711f3d2c1459e5069c19a410dcd077",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     21.32772000000001,
     49.73391
 ],
-  "geometry": {"coordinates":[21.32772000000001,49.73391],"type":"Point"}
+  "geometry": {"coordinates":[21.32772,49.73391],"type":"Point"}
 }

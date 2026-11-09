@@ -57,7 +57,7 @@
         "wk:page":"Paprocina"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3f3d1d04d9abd0b781ae2e0f37f2c969",
+    "wof:geomhash":"2a0a2aa15677461f29f5a4986e776e54",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     20.44276,
     54.26286999999999
 ],
-  "geometry": {"coordinates":[20.44276,54.26286999999999],"type":"Point"}
+  "geometry": {"coordinates":[20.44276,54.26287],"type":"Point"}
 }

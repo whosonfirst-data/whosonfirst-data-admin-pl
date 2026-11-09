@@ -54,7 +54,7 @@
         "wk:page":"Bor%C3%B3wek%2C_%C5%81%C3%B3d%C5%BA_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"71c4463311e9158baf4dc66396924e83",
+    "wof:geomhash":"95f73dc4f7a935aee860e83ca8eac31d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.59733,
     52.09222000000001
 ],
-  "geometry": {"coordinates":[19.59733,52.09222000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.59733,52.09222],"type":"Point"}
 }

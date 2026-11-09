@@ -58,7 +58,7 @@
         "wk:page":"Woryny"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1e0aebd146a425347e7a57834866ca93",
+    "wof:geomhash":"6caadb2899f0d9ef1e786e2651472e87",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,5 +85,5 @@
     20.57278,
     54.30778000000001
 ],
-  "geometry": {"coordinates":[20.57278,54.30778000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.57278,54.30778],"type":"Point"}
 }

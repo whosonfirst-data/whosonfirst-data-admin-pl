@@ -54,7 +54,7 @@
         "wk:page":"Rudziny%2C_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"997440dc3714e9eb457c2c3e4263e854",
+    "wof:geomhash":"07a797993d27e2fd20e4c0ca100e6eee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.85237,
     53.86143000000001
 ],
-  "geometry": {"coordinates":[17.85237,53.86143000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.85237,53.86143],"type":"Point"}
 }

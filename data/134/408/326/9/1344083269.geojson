@@ -57,7 +57,7 @@
         "wk:page":"%C5%81o%C5%BAnik"
     },
     "wof:country":"PL",
-    "wof:geomhash":"32a3fbb18411f1c31b8afa141cef9d9d",
+    "wof:geomhash":"944e5f38b61ed63682da43e183bfe3b3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     20.21767,
     54.24753000000001
 ],
-  "geometry": {"coordinates":[20.21767,54.24753000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.21767,54.24753],"type":"Point"}
 }

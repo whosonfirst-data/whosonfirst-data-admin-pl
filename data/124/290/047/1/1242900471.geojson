@@ -54,7 +54,7 @@
         "wk:page":"Wilkowyja%2C_Gniezno_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4938691d27113a40fdb417e6f0af6d9e",
+    "wof:geomhash":"d9f4249c8808ef1061b8ea50e761fe10",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.41692999999999,
     52.63838000000001
 ],
-  "geometry": {"coordinates":[17.41692999999999,52.63838000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.41693,52.63838],"type":"Point"}
 }

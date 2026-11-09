@@ -63,7 +63,7 @@
         "wk:page":"Galumin"
     },
     "wof:country":"PL",
-    "wof:geomhash":"0cd59dd861982452523bd45b6ab9a4e4",
+    "wof:geomhash":"52d55caad17e515df9ee709ad2c691b3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     19.87044,
     53.14279000000001
 ],
-  "geometry": {"coordinates":[19.87044,53.14279000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.87044,53.14279],"type":"Point"}
 }

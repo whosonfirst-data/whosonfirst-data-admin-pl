@@ -48,7 +48,7 @@
         "wk:page":"Podlaski%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"cbc6999c09946e9b463f61212b8e7591",
+    "wof:geomhash":"b4298bd4db08e6c02ffa7a657cb163ed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     17.80653,
     53.09311999999999
 ],
-  "geometry": {"coordinates":[17.80653,53.09311999999999],"type":"Point"}
+  "geometry": {"coordinates":[17.80653,53.09312],"type":"Point"}
 }

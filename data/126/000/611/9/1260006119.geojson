@@ -51,7 +51,7 @@
         "wk:page":"O%C5%9Bno%2C_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a364f5acff5b43bdcc076765bc95f3c5",
+    "wof:geomhash":"9be7d0db9aa5e3c1a09298bf0a955758",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.05643,
     53.76114000000001
 ],
-  "geometry": {"coordinates":[19.05643,53.76114000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.05643,53.76114],"type":"Point"}
 }

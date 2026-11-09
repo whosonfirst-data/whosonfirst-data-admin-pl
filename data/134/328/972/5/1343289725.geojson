@@ -69,7 +69,7 @@
         "wk:page":"Przytulanka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3730f84badac1b87e5d29225fef653a2",
+    "wof:geomhash":"0f3f9e6cb89fc52257a7e6c9e787f2fe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     22.85156,
     53.37954000000001
 ],
-  "geometry": {"coordinates":[22.85156,53.37954000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.85156,53.37954],"type":"Point"}
 }

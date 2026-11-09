@@ -60,7 +60,7 @@
         "wk:page":"Wojkowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"57988208b36f069b1929bc5dea8d7f22",
+    "wof:geomhash":"0d16948246f32f5630f78f9d2faa7bbe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     21.01559,
     54.09513000000001
 ],
-  "geometry": {"coordinates":[21.01559,54.09513000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.01559,54.09513],"type":"Point"}
 }

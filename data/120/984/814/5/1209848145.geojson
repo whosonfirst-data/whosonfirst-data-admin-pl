@@ -55,7 +55,7 @@
         "wk:page":"Grab%C3%B3wko%2C_Warmian-Masurian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"73e98e92b21b4561e2426c931d7771d8",
+    "wof:geomhash":"b601ab6c8eeac23a6e04141fd25431e0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,5 +82,5 @@
     20.62216,
     53.35386999999999
 ],
-  "geometry": {"coordinates":[20.62216,53.35386999999999],"type":"Point"}
+  "geometry": {"coordinates":[20.62216,53.35387],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Skar%C5%BCyce%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1e93f11a907a1f26d85ef3d121c1b86b",
+    "wof:geomhash":"62c71edb2df33d9cbc2ce2627e2d5bd0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.982,
     52.65326999999999
 ],
-  "geometry": {"coordinates":[20.982,52.65326999999999],"type":"Point"}
+  "geometry": {"coordinates":[20.982,52.65327],"type":"Point"}
 }

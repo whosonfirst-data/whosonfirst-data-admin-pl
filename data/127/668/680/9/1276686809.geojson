@@ -59,7 +59,7 @@
         "wk:page":"%C5%9Aci%C4%99ciel"
     },
     "wof:country":"PL",
-    "wof:geomhash":"13b2dfaccec41e19272b42d020f1c246",
+    "wof:geomhash":"5903f77f7db0642056cd061b5c0a7f3e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,5 +86,5 @@
     20.93445,
     53.32964000000001
 ],
-  "geometry": {"coordinates":[20.93445,53.32964000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.93445,53.32964],"type":"Point"}
 }

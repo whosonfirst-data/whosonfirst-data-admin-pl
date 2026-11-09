@@ -75,7 +75,7 @@
         "wk:page":"Mo%C5%BCd%C5%BCanowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"23931ca12874590c9b0c30a51e4e1471",
+    "wof:geomhash":"a7daf685c1f516210b16404c2b91a1f8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,5 +102,5 @@
     16.77747,
     54.50098000000001
 ],
-  "geometry": {"coordinates":[16.77747,54.50098000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.77747,54.50098],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Prze%C5%82omka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4dd07d3e8a6e404999cd41fcacaf7f4a",
+    "wof:geomhash":"25e321ca113274a6e19a693c88e96901",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.78062000000001,
     54.26335
 ],
-  "geometry": {"coordinates":[22.78062000000001,54.26335],"type":"Point"}
+  "geometry": {"coordinates":[22.78062,54.26335],"type":"Point"}
 }

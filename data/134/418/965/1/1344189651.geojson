@@ -57,7 +57,7 @@
         "wk:page":"Rzepczyno"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f82b70834cdee3cf6282342f2bcf274f",
+    "wof:geomhash":"081596934d5fdf074c506fa9e9a36e3c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     15.81922,
     53.69994000000001
 ],
-  "geometry": {"coordinates":[15.81922,53.69994000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.81922,53.69994],"type":"Point"}
 }

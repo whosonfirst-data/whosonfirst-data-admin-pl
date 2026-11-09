@@ -54,7 +54,7 @@
         "wk:page":"Leszczka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2e994dcbeb04d49b9f003bafb4625f1b",
+    "wof:geomhash":"8def2e69ba3917b90d5ed56de14fd920",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.8812,
     52.47918000000001
 ],
-  "geometry": {"coordinates":[22.8812,52.47918000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.8812,52.47918],"type":"Point"}
 }

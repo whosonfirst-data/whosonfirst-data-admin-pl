@@ -60,7 +60,7 @@
         "wk:page":"Turzany%2C_Lower_Silesian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6cb646a25e28b83c21b78e7960b317a6",
+    "wof:geomhash":"feea06868b69c695e85121d3e0f297cc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     16.76607000000001,
     51.44584
 ],
-  "geometry": {"coordinates":[16.76607000000001,51.44584],"type":"Point"}
+  "geometry": {"coordinates":[16.76607,51.44584],"type":"Point"}
 }

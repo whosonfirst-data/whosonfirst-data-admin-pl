@@ -51,7 +51,7 @@
         "wk:page":"Z%C5%82otowo%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7c00cfece3564c7cf9ff45ec259e737c",
+    "wof:geomhash":"696e2f25d8bcaab84b3c8ad88506aa9c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.45,
     52.43333000000001
 ],
-  "geometry": {"coordinates":[18.45,52.43333000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.45,52.43333],"type":"Point"}
 }

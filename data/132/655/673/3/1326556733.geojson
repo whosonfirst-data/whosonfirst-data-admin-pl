@@ -57,7 +57,7 @@
         "wk:page":"Elgiszewo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8713dd532df0145e11a8af7a9aaed55f",
+    "wof:geomhash":"4a4fd16c1fe2513612ebca4497314443",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     18.92447,
     53.06401999999999
 ],
-  "geometry": {"coordinates":[18.92447,53.06401999999999],"type":"Point"}
+  "geometry": {"coordinates":[18.92447,53.06402],"type":"Point"}
 }

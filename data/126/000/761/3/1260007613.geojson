@@ -51,7 +51,7 @@
         "wk:page":"Prusy%2C_Warmian-Masurian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e99f5a36ac0d1a2521d736e574fb6c8c",
+    "wof:geomhash":"c129755c5f4221c8166c36dd841f447a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.98479,
     53.37374000000001
 ],
-  "geometry": {"coordinates":[19.98479,53.37374000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.98479,53.37374],"type":"Point"}
 }

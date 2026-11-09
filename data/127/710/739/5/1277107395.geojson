@@ -57,7 +57,7 @@
         "wk:page":"Krajewo-Budzi%C5%82y"
     },
     "wof:country":"PL",
-    "wof:geomhash":"fadd3e1551dfbafd659127e81114a655",
+    "wof:geomhash":"5b6f92335ce4be301054c7cdc63067cc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.1248,
     52.94518000000001
 ],
-  "geometry": {"coordinates":[22.1248,52.94518000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.1248,52.94518],"type":"Point"}
 }

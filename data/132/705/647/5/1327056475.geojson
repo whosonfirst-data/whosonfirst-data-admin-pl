@@ -51,7 +51,7 @@
         "wk:page":"Machowa"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4db936d4614f26d6261adaa7d8ebe41f",
+    "wof:geomhash":"37eef806847b796669e0b49eed68b87e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     21.20361,
     50.01414000000001
 ],
-  "geometry": {"coordinates":[21.20361,50.01414000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.20361,50.01414],"type":"Point"}
 }

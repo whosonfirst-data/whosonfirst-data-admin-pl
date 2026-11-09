@@ -57,7 +57,7 @@
         "wk:page":"Polanka_Hallera"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7baccd8afe9e3d4bdc17ed73a8746f26",
+    "wof:geomhash":"b56691a39671c7b5db97bf808854578b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     19.76756,
     49.93297000000001
 ],
-  "geometry": {"coordinates":[19.76756,49.93297000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.76756,49.93297],"type":"Point"}
 }

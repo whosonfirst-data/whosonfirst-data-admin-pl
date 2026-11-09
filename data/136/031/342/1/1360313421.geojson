@@ -57,7 +57,7 @@
         "wk:page":"Chrystkowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d28ae6f66aa223261189ee7a6219e521",
+    "wof:geomhash":"30289175738e39482380d55d47d82c4d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     18.33417,
     53.33443000000001
 ],
-  "geometry": {"coordinates":[18.33417,53.33443000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.33417,53.33443],"type":"Point"}
 }

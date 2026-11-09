@@ -54,7 +54,7 @@
         "wk:page":"Radzyminek"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d688a8250cdd4c1cb2dc9e48aff24b2f",
+    "wof:geomhash":"5fc101fb5275a8baeb4942cf6a8b5527",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.34178,
     52.57044000000001
 ],
-  "geometry": {"coordinates":[20.34178,52.57044000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.34178,52.57044],"type":"Point"}
 }

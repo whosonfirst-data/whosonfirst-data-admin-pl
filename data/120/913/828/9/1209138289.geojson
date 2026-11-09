@@ -60,7 +60,7 @@
         "wk:page":"%C5%81awica%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"dc78caad95ba18137f724f75491a9170",
+    "wof:geomhash":"f24798861bdd95fdc1a5b7887ba21e5e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     16.00911,
     52.61448000000001
 ],
-  "geometry": {"coordinates":[16.00911,52.61448000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.00911,52.61448],"type":"Point"}
 }

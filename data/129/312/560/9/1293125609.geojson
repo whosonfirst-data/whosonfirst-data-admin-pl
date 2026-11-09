@@ -54,7 +54,7 @@
         "wk:page":"Cieciorki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"bf6f9972cc33939803a005211af933cf",
+    "wof:geomhash":"07e32ae2f37d6c478708896ddf5b6853",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.25633,
     53.01651999999999
 ],
-  "geometry": {"coordinates":[22.25633,53.01651999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.25633,53.01652],"type":"Point"}
 }

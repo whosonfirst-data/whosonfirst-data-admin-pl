@@ -54,7 +54,7 @@
         "wk:page":"Ziemie%C5%82owice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"922c8b8fa662dc688b038fa5cb96536f",
+    "wof:geomhash":"f9876bbbd4411b722f83debbb0b38ffb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.74142999999999,
     51.04191
 ],
-  "geometry": {"coordinates":[17.74142999999999,51.04191],"type":"Point"}
+  "geometry": {"coordinates":[17.74143,51.04191],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Retkowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ac2d07547f311c0d10c907a2a19b76be",
+    "wof:geomhash":"f5ec5528985d5afcca8d022ca376f36f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.62365,
     52.93013000000001
 ],
-  "geometry": {"coordinates":[17.62365,52.93013000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.62365,52.93013],"type":"Point"}
 }

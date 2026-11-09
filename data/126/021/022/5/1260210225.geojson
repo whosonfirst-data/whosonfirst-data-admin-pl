@@ -57,7 +57,7 @@
         "wk:page":"Orliniec%2C_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7dd36e52f73b76143624e7f27f223656",
+    "wof:geomhash":"27634c29be2ab2080754e72441a5b07d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     19.22124,
     54.20399999999999
 ],
-  "geometry": {"coordinates":[19.22124,54.20399999999999],"type":"Point"}
+  "geometry": {"coordinates":[19.22124,54.204],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"Bo%C5%84cza%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1c2399e23ddc40448e050467f3159102",
+    "wof:geomhash":"3cca402bb73727393ce0404cf0685272",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.05942000000001,
     51.72894
 ],
-  "geometry": {"coordinates":[21.05942000000001,51.72894],"type":"Point"}
+  "geometry": {"coordinates":[21.05942,51.72894],"type":"Point"}
 }

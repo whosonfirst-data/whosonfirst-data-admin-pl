@@ -54,7 +54,7 @@
         "wk:page":"Kusowo%2C_West_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1f127002d0b5ac3d76d5fa340cc50068",
+    "wof:geomhash":"81a49160b2b431301cce1f89a725aef5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     16.55034,
     53.81126999999999
 ],
-  "geometry": {"coordinates":[16.55034,53.81126999999999],"type":"Point"}
+  "geometry": {"coordinates":[16.55034,53.81127],"type":"Point"}
 }

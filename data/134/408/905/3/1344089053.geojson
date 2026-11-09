@@ -61,7 +61,7 @@
         "wk:page":"Talusy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5eef0e436cb4458d89e4fbff350305ca",
+    "wof:geomhash":"d6a8c5768fabe449fbab3bbdac3da761",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     22.24197,
     53.78908000000001
 ],
-  "geometry": {"coordinates":[22.24197,53.78908000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.24197,53.78908],"type":"Point"}
 }

@@ -51,7 +51,7 @@
         "wk:page":"Koszanowo%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"595473e305db8a07a57520bfb1f2b486",
+    "wof:geomhash":"113806d0679b1edf514173b1cf114315",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.94747000000001,
     52.55005
 ],
-  "geometry": {"coordinates":[18.94747000000001,52.55005],"type":"Point"}
+  "geometry": {"coordinates":[18.94747,52.55005],"type":"Point"}
 }

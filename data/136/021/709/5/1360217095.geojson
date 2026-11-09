@@ -51,7 +51,7 @@
         "wk:page":"Goc%C5%82awice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d24d091d4c7b44dd0da018e9aff60066",
+    "wof:geomhash":"30b575dc47677743d8883609ca168e9a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     15.0914,
     54.03593000000001
 ],
-  "geometry": {"coordinates":[15.0914,54.03593000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.0914,54.03593],"type":"Point"}
 }

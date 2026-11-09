@@ -57,7 +57,7 @@
         "wk:page":"Rososz%2C_Lublin_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"01b6280c9eaaf8eac72e1423b4e49820",
+    "wof:geomhash":"6b57db5d5b94c5ef1a4c5079919360b7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.98039,
     51.66569000000001
 ],
-  "geometry": {"coordinates":[21.98039,51.66569000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.98039,51.66569],"type":"Point"}
 }

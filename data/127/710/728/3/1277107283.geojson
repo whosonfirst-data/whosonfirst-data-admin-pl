@@ -63,7 +63,7 @@
         "wk:page":"Leszczka_Ma%C5%82a"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f7d7b8cd26331d2fbfcbb807b8677283",
+    "wof:geomhash":"268a41a2d8c54ec0037c5cd62b2e1ce0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     22.54706,
     52.57344000000001
 ],
-  "geometry": {"coordinates":[22.54706,52.57344000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.54706,52.57344],"type":"Point"}
 }

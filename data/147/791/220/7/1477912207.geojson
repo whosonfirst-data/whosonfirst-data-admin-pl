@@ -55,7 +55,7 @@
         "wk:page":"W%C4%85work%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"05325e6542ab46e88b65b5e65f116692",
+    "wof:geomhash":"0e3bd1e8de4dd790b57a8ddddecc0729",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,5 +85,5 @@
     21.44324,
     50.79819000000001
 ],
-  "geometry": {"coordinates":[21.44324,50.79819000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.44324,50.79819],"type":"Point"}
 }

@@ -48,7 +48,7 @@
         "wk:page":"Boles%C5%82awice%2C_West_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6e21eabb18ac87339118ded725ef59c2",
+    "wof:geomhash":"3c6a5b3a80fc0515afaa9a62f109a0ca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     14.67927,
     53.56446999999999
 ],
-  "geometry": {"coordinates":[14.67927,53.56446999999999],"type":"Point"}
+  "geometry": {"coordinates":[14.67927,53.56447],"type":"Point"}
 }

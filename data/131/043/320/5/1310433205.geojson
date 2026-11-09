@@ -51,7 +51,7 @@
         "wk:page":"Wujskie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"05277a07fea6bc4d774bf787bc2a6824",
+    "wof:geomhash":"4f756be5dc36abd06cb6f475e34c797c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     22.2941,
     49.55504000000001
 ],
-  "geometry": {"coordinates":[22.2941,49.55504000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.2941,49.55504],"type":"Point"}
 }

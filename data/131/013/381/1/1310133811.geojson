@@ -57,7 +57,7 @@
         "wk:page":"Wola_Kotkowska"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5ba17db235f76e777a2f23c30ee67246",
+    "wof:geomhash":"3065df1f81b83c80c311e29b4f286ce0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     19.61517000000001,
     51.15866
 ],
-  "geometry": {"coordinates":[19.61517000000001,51.15866],"type":"Point"}
+  "geometry": {"coordinates":[19.61517,51.15866],"type":"Point"}
 }

@@ -60,7 +60,7 @@
         "wk:page":"Wyszembork"
     },
     "wof:country":"PL",
-    "wof:geomhash":"fb502cecb8eb83ce189700ebc480c5ac",
+    "wof:geomhash":"082e5bf63f8722869217f02d0982cced",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     21.35902,
     53.92851999999999
 ],
-  "geometry": {"coordinates":[21.35902,53.92851999999999],"type":"Point"}
+  "geometry": {"coordinates":[21.35902,53.92852],"type":"Point"}
 }

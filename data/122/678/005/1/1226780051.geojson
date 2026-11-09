@@ -57,7 +57,7 @@
         "wk:page":"Oleszkowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"edf40be564c50880ffb86fa2b68a2d58",
+    "wof:geomhash":"0f4dde78158a0af938c391d30ad44303",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     23.18293,
     53.32208000000001
 ],
-  "geometry": {"coordinates":[23.18293,53.32208000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.18293,53.32208],"type":"Point"}
 }

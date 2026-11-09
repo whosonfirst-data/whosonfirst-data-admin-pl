@@ -63,7 +63,7 @@
         "wk:page":"K%C4%85ty_%C5%9Al%C4%85skie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2936988f9527b64e72bebd603ddbe5e1",
+    "wof:geomhash":"a82e8f875799f650e31775cf31593936",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     17.68962999999999,
     51.40838
 ],
-  "geometry": {"coordinates":[17.68962999999999,51.40838],"type":"Point"}
+  "geometry": {"coordinates":[17.68963,51.40838],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Tomasz%C3%B3w%2C_Lublin_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f05a0c353b320cc8de448fba65b1e139",
+    "wof:geomhash":"14298b683c98c8018b7e1ef154e6a42a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.88957000000001,
     51.38732
 ],
-  "geometry": {"coordinates":[21.88957000000001,51.38732],"type":"Point"}
+  "geometry": {"coordinates":[21.88957,51.38732],"type":"Point"}
 }

@@ -51,7 +51,7 @@
         "wk:page":"Bernacice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"be798207f85d1f7b1983d7c9c78bef32",
+    "wof:geomhash":"17c5e75cf07589514777dc3eaedf7e93",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.87521,
     50.17084000000001
 ],
-  "geometry": {"coordinates":[17.87521,50.17084000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.87521,50.17084],"type":"Point"}
 }

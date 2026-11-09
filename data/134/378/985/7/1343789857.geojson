@@ -54,7 +54,7 @@
         "wk:page":"Z%C5%82otki-Pu%C5%82apki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"245e765a27617375a1aaa26fcc4fac20",
+    "wof:geomhash":"09a2ed9853b70d1cd78a3668526a5680",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.43142000000001,
     52.75448000000001
 ],
-  "geometry": {"coordinates":[22.43142000000001,52.75448000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.43142,52.75448],"type":"Point"}
 }

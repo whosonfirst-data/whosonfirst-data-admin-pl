@@ -51,7 +51,7 @@
         "wk:page":"Czo%C5%82noch%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"99a02a656eafe2b43678bb90531d451c",
+    "wof:geomhash":"9af9334c34eab50cc84d094cb25fe9ec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.73082999999999,
     52.04584000000001
 ],
-  "geometry": {"coordinates":[17.73082999999999,52.04584000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.73083,52.04584],"type":"Point"}
 }

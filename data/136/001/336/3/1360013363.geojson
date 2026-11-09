@@ -54,7 +54,7 @@
         "wk:page":"Ulasek%2C_Wyszk%C3%B3w_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"68c1eb4724f5908a7e20b58610e83f05",
+    "wof:geomhash":"bd6fe59c32f6b88a13bec1db04b57e4d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.27793,
     52.58828000000001
 ],
-  "geometry": {"coordinates":[21.27793,52.58828000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.27793,52.58828],"type":"Point"}
 }

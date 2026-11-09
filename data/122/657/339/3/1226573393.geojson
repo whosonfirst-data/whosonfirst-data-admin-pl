@@ -60,7 +60,7 @@
         "wk:page":"Sinog%C3%B3ra"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2c0555f1d061ec992d6dec6f382d9781",
+    "wof:geomhash":"79e649f998c03b26a7ac3fcd6b7545e7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     19.77624,
     53.09311999999999
 ],
-  "geometry": {"coordinates":[19.77624,53.09311999999999],"type":"Point"}
+  "geometry": {"coordinates":[19.77624,53.09312],"type":"Point"}
 }

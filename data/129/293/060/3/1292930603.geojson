@@ -63,7 +63,7 @@
         "wk:page":"Czeputka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d691c3702c3c8221871ffb8d384dec45",
+    "wof:geomhash":"f415c00f0b35576286a62617949283bc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     23.37982,
     51.72369000000001
 ],
-  "geometry": {"coordinates":[23.37982,51.72369000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.37982,51.72369],"type":"Point"}
 }

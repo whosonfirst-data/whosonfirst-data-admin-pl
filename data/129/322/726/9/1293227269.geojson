@@ -54,7 +54,7 @@
         "wk:page":"Widoma"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a9c251ba100a551e0cf051c777f26138",
+    "wof:geomhash":"e5c9c13ecb0b69c41cbb7b49c397af0d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.01232000000001,
     50.20424000000001
 ],
-  "geometry": {"coordinates":[20.01232000000001,50.20424000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.01232,50.20424],"type":"Point"}
 }

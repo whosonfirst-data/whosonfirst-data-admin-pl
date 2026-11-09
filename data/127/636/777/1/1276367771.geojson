@@ -63,7 +63,7 @@
         "wk:page":"Cis%C3%B3wek%2C_Warmian-Masurian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8a3b6b5cbbb3ace6b71a0939fb575dfe",
+    "wof:geomhash":"62193de5d3f6a295a4b7a7e3d0c1ab46",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     22.56772,
     54.26306999999999
 ],
-  "geometry": {"coordinates":[22.56772,54.26306999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.56772,54.26307],"type":"Point"}
 }

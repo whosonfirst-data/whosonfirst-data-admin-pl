@@ -57,7 +57,7 @@
         "wk:page":"Baszk%C3%B3w%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9f6bdc97c59ac9148de996a140e34242",
+    "wof:geomhash":"8b790e372cdbc279263b81de33ac8505",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     17.29357000000001,
     51.68063
 ],
-  "geometry": {"coordinates":[17.29357000000001,51.68063],"type":"Point"}
+  "geometry": {"coordinates":[17.29357,51.68063],"type":"Point"}
 }

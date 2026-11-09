@@ -60,7 +60,7 @@
         "wk:page":"Sta%C5%84kowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b59ba485a777bdb24481110a6ad3a67c",
+    "wof:geomhash":"3df085557cde1c63bbf31a62ee16fc8f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     19.25646,
     53.74231999999999
 ],
-  "geometry": {"coordinates":[19.25646,53.74231999999999],"type":"Point"}
+  "geometry": {"coordinates":[19.25646,53.74232],"type":"Point"}
 }

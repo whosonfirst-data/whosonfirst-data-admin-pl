@@ -57,7 +57,7 @@
         "wk:page":"Dobino%2C_Wa%C5%82cz_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"162554162623b4489e7bb804c956ae34",
+    "wof:geomhash":"5b8966b6276b6a0ddecef8fbd5fdef48",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     16.53897000000001,
     53.23209
 ],
-  "geometry": {"coordinates":[16.53897000000001,53.23209],"type":"Point"}
+  "geometry": {"coordinates":[16.53897,53.23209],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"Turk%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3eab7f770ae9d7c7cbed37a5325af625",
+    "wof:geomhash":"98dc098fd0237f47670f842c52c56c02",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     17.86566000000001,
     50.01028
 ],
-  "geometry": {"coordinates":[17.86566000000001,50.01028],"type":"Point"}
+  "geometry": {"coordinates":[17.86566,50.01028],"type":"Point"}
 }

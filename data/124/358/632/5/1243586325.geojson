@@ -60,7 +60,7 @@
         "wk:page":"Wojtele"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d2429cbda2590ad9e5a155c233f07914",
+    "wof:geomhash":"c07fb783ceae2280c15570e9de2a7e9a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     22.29572000000001,
     53.63772
 ],
-  "geometry": {"coordinates":[22.29572000000001,53.63772],"type":"Point"}
+  "geometry": {"coordinates":[22.29572,53.63772],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"P%C5%82ocochowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8462b47bc60d94b0a28dd721dc46c363",
+    "wof:geomhash":"f24a365fad401ae6cd72ca713d1b0eaf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.02367000000001,
     52.67978000000001
 ],
-  "geometry": {"coordinates":[21.02367000000001,52.67978000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.02367,52.67978],"type":"Point"}
 }

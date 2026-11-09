@@ -66,7 +66,7 @@
         "wk:page":"Brzostki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"85d6bc9ac40db09d7514b188e9555cf2",
+    "wof:geomhash":"7a3e0a1f099a8a38160b7e1ebf6667f1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     20.04648,
     54.22058000000001
 ],
-  "geometry": {"coordinates":[20.04648,54.22058000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.04648,54.22058],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"Stary_Skazdub"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5ea07e48dbdc4336a822f10ea9ca99d4",
+    "wof:geomhash":"26c4eadd09964781b52de8220582ef73",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.67097,
     54.11496999999999
 ],
-  "geometry": {"coordinates":[22.67097,54.11496999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.67097,54.11497],"type":"Point"}
 }

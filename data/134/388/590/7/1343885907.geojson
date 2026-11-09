@@ -63,7 +63,7 @@
         "wk:page":"Godlewo-Pi%C4%99taki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e1958c93363f6742914398026277884f",
+    "wof:geomhash":"218cfe1da18dba2ac9d719d04e736b84",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     22.36078,
     52.80716999999999
 ],
-  "geometry": {"coordinates":[22.36078,52.80716999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.36078,52.80717],"type":"Point"}
 }

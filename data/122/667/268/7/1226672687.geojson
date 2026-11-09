@@ -54,7 +54,7 @@
         "wk:page":"Radoszkowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"aadf341bc3dc300a6dabdc515ff73b30",
+    "wof:geomhash":"f1fdfeef5129889bf9472b7edbbc2c54",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.25762000000001,
     52.03837
 ],
-  "geometry": {"coordinates":[17.25762000000001,52.03837],"type":"Point"}
+  "geometry": {"coordinates":[17.25762,52.03837],"type":"Point"}
 }

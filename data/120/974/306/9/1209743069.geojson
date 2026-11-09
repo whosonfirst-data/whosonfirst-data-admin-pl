@@ -63,7 +63,7 @@
         "wk:page":"Sobowidz"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4e2ff95e96c9e297067c8703eecafcb2",
+    "wof:geomhash":"e4f0cc18ac78b527254b7bfc45864d8c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     18.59905,
     54.14638000000001
 ],
-  "geometry": {"coordinates":[18.59905,54.14638000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.59905,54.14638],"type":"Point"}
 }

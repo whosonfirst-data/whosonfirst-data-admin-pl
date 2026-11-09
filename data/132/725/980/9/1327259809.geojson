@@ -66,7 +66,7 @@
         "wk:page":"Dobry_Las"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c7d532c299dbac06a34b3732d920f06a",
+    "wof:geomhash":"62842515f16e9fd282e564d599333aa5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     21.85078,
     53.28523000000001
 ],
-  "geometry": {"coordinates":[21.85078,53.28523000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.85078,53.28523],"type":"Point"}
 }

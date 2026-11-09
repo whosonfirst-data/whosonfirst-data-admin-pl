@@ -54,7 +54,7 @@
         "wk:page":"Micin"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6b680bdc3ed964d0fe4dc738ede9d409",
+    "wof:geomhash":"d28b4e3123884e72bc49b5a9fd35da98",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.46166,
     52.15969000000001
 ],
-  "geometry": {"coordinates":[19.46166,52.15969000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.46166,52.15969],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"Pasichy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"73fd351074bd61b3a98769df26ea43cc",
+    "wof:geomhash":"03eadda1df2911196574637c115e99f7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.23533,
     53.49928000000001
 ],
-  "geometry": {"coordinates":[22.23533,53.49928000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.23533,53.49928],"type":"Point"}
 }

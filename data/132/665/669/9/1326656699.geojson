@@ -51,7 +51,7 @@
         "wk:page":"Jelna%2C_Lesser_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9c6e573abbe6e31e28a8e8b0b95372cf",
+    "wof:geomhash":"6bc18ebc03abfa6fc73cfc0b26bc2f5a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     20.72207,
     49.70359000000001
 ],
-  "geometry": {"coordinates":[20.72207,49.70359000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.72207,49.70359],"type":"Point"}
 }

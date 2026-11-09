@@ -51,7 +51,7 @@
         "wk:page":"G%C5%82uszyna%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"431cea99f07c5ccc97d7054f8b2ac41c",
+    "wof:geomhash":"9bd8b22493ff6c6a421a2b54b6ae3bc7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.30204,
     51.53279000000001
 ],
-  "geometry": {"coordinates":[18.30204,51.53279000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.30204,51.53279],"type":"Point"}
 }

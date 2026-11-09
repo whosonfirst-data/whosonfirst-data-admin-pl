@@ -57,7 +57,7 @@
         "wk:page":"Gaj_Wielki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9458537532f6e8883a263c557af53600",
+    "wof:geomhash":"0acdeed86fec2a928ab866730afdc875",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     16.57767999999999,
     52.45925
 ],
-  "geometry": {"coordinates":[16.57767999999999,52.45925],"type":"Point"}
+  "geometry": {"coordinates":[16.57768,52.45925],"type":"Point"}
 }

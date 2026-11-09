@@ -54,7 +54,7 @@
         "wk:page":"%C5%BBurawniki%2C_Pi%C5%84cz%C3%B3w_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9a866a484c27674aa79af00f50c378b5",
+    "wof:geomhash":"8985ccbd105f68846a70c36693288bab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.62855,
     50.37974000000001
 ],
-  "geometry": {"coordinates":[20.62855,50.37974000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.62855,50.37974],"type":"Point"}
 }

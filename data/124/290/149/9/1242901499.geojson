@@ -54,7 +54,7 @@
         "wk:page":"Ostr%C3%B3w%2C_Sieradz_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ed9e047ee8ceb14377187fd8fa3397e9",
+    "wof:geomhash":"75cba5fce1a7d7a26000f0a1ca2e3be3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.57737,
     51.49234000000001
 ],
-  "geometry": {"coordinates":[18.57737,51.49234000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.57737,51.49234],"type":"Point"}
 }

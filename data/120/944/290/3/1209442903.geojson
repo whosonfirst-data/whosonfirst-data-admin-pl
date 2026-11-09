@@ -48,7 +48,7 @@
         "wk:page":"Pracz"
     },
     "wof:country":"PL",
-    "wof:geomhash":"de7a61332d330942883c6d6e6814230a",
+    "wof:geomhash":"ac279a71df7b372c92521edb145dd5b7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     17.31667,
     53.13333000000001
 ],
-  "geometry": {"coordinates":[17.31667,53.13333000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.31667,53.13333],"type":"Point"}
 }

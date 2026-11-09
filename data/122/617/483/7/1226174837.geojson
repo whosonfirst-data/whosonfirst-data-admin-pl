@@ -54,7 +54,7 @@
         "wk:page":"Zambrzyce-Kapusty"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3aa75a3f5f4a0d88244c6240bed9c80b",
+    "wof:geomhash":"261bb9696d08fc9d6c0945d28fcbb248",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.56234,
     53.09708000000001
 ],
-  "geometry": {"coordinates":[22.56234,53.09708000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.56234,53.09708],"type":"Point"}
 }

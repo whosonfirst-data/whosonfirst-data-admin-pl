@@ -54,7 +54,7 @@
         "wk:page":"Redecz_Kalny"
     },
     "wof:country":"PL",
-    "wof:geomhash":"16c35c269781b9a4e22d46cacc9cb931",
+    "wof:geomhash":"973fd360030a08e4f1ce6c27322512b3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.82482000000001,
     52.56145
 ],
-  "geometry": {"coordinates":[18.82482000000001,52.56145],"type":"Point"}
+  "geometry": {"coordinates":[18.82482,52.56145],"type":"Point"}
 }

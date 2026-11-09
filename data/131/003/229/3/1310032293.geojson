@@ -78,7 +78,7 @@
     "wof:geom_alt":[
         "pl-gugik"
     ],
-    "wof:geomhash":"098c2e4a1561cd0d7cc574ef116daf8c",
+    "wof:geomhash":"3a339c0c8895307daf6b152f17725e93",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -105,5 +105,5 @@
     23.17519,
     52.47708000000001
 ],
-  "geometry": {"coordinates":[23.17519,52.47708000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.17519,52.47708],"type":"Point"}
 }

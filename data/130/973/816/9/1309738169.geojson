@@ -54,7 +54,7 @@
         "wk:page":"Klon%C3%B3wka%2C_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ffd06ecaf232e3f987507be539ebcbcd",
+    "wof:geomhash":"677481f7caee63a145c43aea4ddaae90",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.64475,
     53.96778000000001
 ],
-  "geometry": {"coordinates":[18.64475,53.96778000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.64475,53.96778],"type":"Point"}
 }

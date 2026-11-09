@@ -54,7 +54,7 @@
         "wk:page":"Drogoszewo%2C_Podlaskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"08dc5ff302fbef75bbe1dcb30abe6c07",
+    "wof:geomhash":"e370c97398490c645d1e6fa1dad415e8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.75087000000001,
     53.14686999999999
 ],
-  "geometry": {"coordinates":[21.75087000000001,53.14686999999999],"type":"Point"}
+  "geometry": {"coordinates":[21.75087,53.14687],"type":"Point"}
 }

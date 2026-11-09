@@ -65,7 +65,7 @@
         "wk:page":"Kruszewo%2C_Warmian-Masurian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"41cc02f66fe3300d9266ea5a17b8176c",
+    "wof:geomhash":"73d85f543fbdf05476979c6c62caf8ed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     22.11418,
     53.63518000000001
 ],
-  "geometry": {"coordinates":[22.11418,53.63518000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.11418,53.63518],"type":"Point"}
 }

@@ -65,7 +65,7 @@
         "wk:page":"Brulino-Koski"
     },
     "wof:country":"PL",
-    "wof:geomhash":"aa7ebfa645d8af70b42f20cc672327a3",
+    "wof:geomhash":"a8a9521429bc22e162d52516de34d7ad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     22.31625,
     52.77314000000001
 ],
-  "geometry": {"coordinates":[22.31625,52.77314000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.31625,52.77314],"type":"Point"}
 }

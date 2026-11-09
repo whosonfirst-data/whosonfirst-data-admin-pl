@@ -63,7 +63,7 @@
         "wk:page":"Klice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b75bd5e9fa35dd15ee5c0f726792fbda",
+    "wof:geomhash":"1cc99c0df695bd461d28901173b65a5f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     20.51067,
     52.96066999999999
 ],
-  "geometry": {"coordinates":[20.51067,52.96066999999999],"type":"Point"}
+  "geometry": {"coordinates":[20.51067,52.96067],"type":"Point"}
 }

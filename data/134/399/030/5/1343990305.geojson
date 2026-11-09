@@ -54,7 +54,7 @@
         "wk:page":"Kr%C4%99pa%2C_Lublin_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"21b593cddd42b922c224bf4849bfcb10",
+    "wof:geomhash":"351045df49d231d4996132d5ee6e74a5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.30482,
     51.62654000000001
 ],
-  "geometry": {"coordinates":[22.30482,51.62654000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.30482,51.62654],"type":"Point"}
 }

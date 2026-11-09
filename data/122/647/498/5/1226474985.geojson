@@ -63,7 +63,7 @@
         "wk:page":"%C5%81ojewo%2C_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"72aa1cf1a13714fe3cfc9f0342752b9f",
+    "wof:geomhash":"6749b2d70dfcee9aa0753dba6db41dcd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     17.3469,
     54.54499000000001
 ],
-  "geometry": {"coordinates":[17.3469,54.54499000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.3469,54.54499],"type":"Point"}
 }

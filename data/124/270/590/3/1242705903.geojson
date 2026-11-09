@@ -54,7 +54,7 @@
         "wk:page":"Strady%C5%84"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f0bc0257248c55d8ecce31ab275ec033",
+    "wof:geomhash":"40d7d32bab7e6f484d8c0e0beb39f002",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     16.13197000000001,
     52.04332
 ],
-  "geometry": {"coordinates":[16.13197000000001,52.04332],"type":"Point"}
+  "geometry": {"coordinates":[16.13197,52.04332],"type":"Point"}
 }

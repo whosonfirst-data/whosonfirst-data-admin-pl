@@ -54,7 +54,7 @@
         "wk:page":"Bielawy%2C_Gniezno_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1f093f197bd90702a2ea583090f747b9",
+    "wof:geomhash":"fef40156d535abb5143f30ce2b75d293",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.44492,
     52.58918000000001
 ],
-  "geometry": {"coordinates":[17.44492,52.58918000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.44492,52.58918],"type":"Point"}
 }

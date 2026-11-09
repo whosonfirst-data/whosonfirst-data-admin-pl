@@ -69,7 +69,7 @@
         "wk:page":"Jagodnica"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a7c081300224fbdf5800939b18a9d7b5",
+    "wof:geomhash":"ea43e43c844f89b20cf27b9316b517f9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     23.06164,
     52.10104000000001
 ],
-  "geometry": {"coordinates":[23.06164,52.10104000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.06164,52.10104],"type":"Point"}
 }

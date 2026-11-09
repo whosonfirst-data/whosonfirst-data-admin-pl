@@ -63,7 +63,7 @@
         "wk:page":"Gorzyce_Ma%C5%82e"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c3e6c8613cdd676bfed629bcebbb9362",
+    "wof:geomhash":"06b4eadb0d56a79c168f0eaca14c16dd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     17.70838999999999,
     51.60785
 ],
-  "geometry": {"coordinates":[17.70838999999999,51.60785],"type":"Point"}
+  "geometry": {"coordinates":[17.70839,51.60785],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"W%C3%B3lka_Papli%C5%84ska"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5654c5abd422d58e18c3aaa1393ea758",
+    "wof:geomhash":"8ff964b7547d349f0ddd964afe295749",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.81429,
     52.48243000000001
 ],
-  "geometry": {"coordinates":[21.81429,52.48243000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.81429,52.48243],"type":"Point"}
 }

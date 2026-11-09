@@ -51,7 +51,7 @@
         "wk:page":"Budzisz%C3%B3w_Wielki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2cbb1a243987dbfffbd6e62076e946a8",
+    "wof:geomhash":"83da142aa98759a8127f8b138db41a7d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     16.43108,
     51.08994000000001
 ],
-  "geometry": {"coordinates":[16.43108,51.08994000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.43108,51.08994],"type":"Point"}
 }

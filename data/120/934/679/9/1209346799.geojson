@@ -54,7 +54,7 @@
         "wk:page":"Klewinowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4a4d256b1f75fdb208cc7eaf210a6ede",
+    "wof:geomhash":"68574a8bbfa13ce3563d05ecff7b937c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     23.18842,
     52.98011999999999
 ],
-  "geometry": {"coordinates":[23.18842,52.98011999999999],"type":"Point"}
+  "geometry": {"coordinates":[23.18842,52.98012],"type":"Point"}
 }

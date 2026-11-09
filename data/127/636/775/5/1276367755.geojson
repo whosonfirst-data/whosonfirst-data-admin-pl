@@ -75,7 +75,7 @@
         "wk:page":"Jan%C3%B3wka%2C_Podlaskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"31acbc66d657fc1dcc30cbb1c7cc3e7c",
+    "wof:geomhash":"7f15b42087a4d464c2024c4324c29615",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,5 +102,5 @@
     22.86024,
     53.90428000000001
 ],
-  "geometry": {"coordinates":[22.86024,53.90428000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.86024,53.90428],"type":"Point"}
 }

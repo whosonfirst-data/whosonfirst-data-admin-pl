@@ -54,7 +54,7 @@
         "wk:page":"%C5%81%C4%85komin"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c0c84b30a362b31ec2cdd0f5486e506a",
+    "wof:geomhash":"086604d45ad3799cab7129856e03afcd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     14.85712,
     52.76538000000001
 ],
-  "geometry": {"coordinates":[14.85712,52.76538000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.85712,52.76538],"type":"Point"}
 }

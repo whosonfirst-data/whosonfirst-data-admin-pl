@@ -60,7 +60,7 @@
         "wk:page":"Gil%C3%B3w%2C_Lower_Silesian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"189075bdb94b6c3b476e8542b5d2c37d",
+    "wof:geomhash":"fb92d976765e782dc580aaec3643b666",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     16.76136,
     50.72179000000001
 ],
-  "geometry": {"coordinates":[16.76136,50.72179000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.76136,50.72179],"type":"Point"}
 }

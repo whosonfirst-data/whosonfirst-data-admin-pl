@@ -57,7 +57,7 @@
         "wk:page":"Mie%C5%9Bcin"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1858019a7ea4879569693ad1cd38277b",
+    "wof:geomhash":"b3807962683e0b253269e5f78e171cea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     18.69981,
     54.12266999999999
 ],
-  "geometry": {"coordinates":[18.69981,54.12266999999999],"type":"Point"}
+  "geometry": {"coordinates":[18.69981,54.12267],"type":"Point"}
 }

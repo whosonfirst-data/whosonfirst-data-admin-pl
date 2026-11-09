@@ -51,7 +51,7 @@
         "wk:page":"Synoga%C4%87"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6f5cd4973652e9231b9cc0eef40151c2",
+    "wof:geomhash":"77229300e4ad74c5caeafda260ba85b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.54047000000001,
     52.41635
 ],
-  "geometry": {"coordinates":[18.54047000000001,52.41635],"type":"Point"}
+  "geometry": {"coordinates":[18.54047,52.41635],"type":"Point"}
 }

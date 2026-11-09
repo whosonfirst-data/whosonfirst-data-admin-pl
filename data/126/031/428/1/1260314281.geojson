@@ -54,7 +54,7 @@
         "wk:page":"Kczewo%2C_S%C5%82upsk_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8a0262372afb7c06e6f860270299c945",
+    "wof:geomhash":"fce6a57b149a980958ecc0cedba075dd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     16.86563,
     54.36924000000001
 ],
-  "geometry": {"coordinates":[16.86563,54.36924000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.86563,54.36924],"type":"Point"}
 }

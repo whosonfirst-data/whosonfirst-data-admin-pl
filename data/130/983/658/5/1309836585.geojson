@@ -54,7 +54,7 @@
         "wk:page":"J%C3%B3zefinka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5ecea7ee80fb554e447a1daf78b242db",
+    "wof:geomhash":"01da5ad485c5ac6fedc49a0b5590a7e7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.91201000000001,
     52.89078000000001
 ],
-  "geometry": {"coordinates":[17.91201000000001,52.89078000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.91201,52.89078],"type":"Point"}
 }

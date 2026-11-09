@@ -61,7 +61,7 @@
         "wk:page":"Klik%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ddc8914e8635dbb9f106a6b77f37af80",
+    "wof:geomhash":"3cbb2ab071eecfad490f8faa9696b801",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     15.19907,
     51.47219000000001
 ],
-  "geometry": {"coordinates":[15.19907,51.47219000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.19907,51.47219],"type":"Point"}
 }

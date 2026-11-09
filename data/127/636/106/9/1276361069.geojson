@@ -69,7 +69,7 @@
         "wk:page":"Cz%C5%82uchy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2c8c224f71220ad9db9b22310e4c0249",
+    "wof:geomhash":"81966e5078b032a8b146acc5044c8a42",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     17.19497999999999,
     54.66549000000001
 ],
-  "geometry": {"coordinates":[17.19497999999999,54.66549000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.19498,54.66549],"type":"Point"}
 }

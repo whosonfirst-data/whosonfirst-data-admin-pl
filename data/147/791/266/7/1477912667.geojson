@@ -52,7 +52,7 @@
         "wk:page":"Sadlno%2C_Lower_Silesian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"652691e6c02c60effde4ffaac3f4dd90",
+    "wof:geomhash":"85c72f821163c03610788d15fbead4b9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,5 +82,5 @@
     16.83457000000001,
     50.5755
 ],
-  "geometry": {"coordinates":[16.83457000000001,50.5755],"type":"Point"}
+  "geometry": {"coordinates":[16.83457,50.5755],"type":"Point"}
 }

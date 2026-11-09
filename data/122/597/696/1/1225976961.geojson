@@ -61,7 +61,7 @@
         "wk:page":"Tywonia"
     },
     "wof:country":"PL",
-    "wof:geomhash":"fc81ac1b50f1a8de76a19f9b9872c459",
+    "wof:geomhash":"324cdca64761181a19491ff7e4f0ba96",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     22.61896,
     50.01844000000001
 ],
-  "geometry": {"coordinates":[22.61896,50.01844000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.61896,50.01844],"type":"Point"}
 }

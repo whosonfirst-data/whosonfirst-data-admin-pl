@@ -54,7 +54,7 @@
         "wk:page":"Pijawne_Wielkie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4db34693234c04162e9c064053ef9b24",
+    "wof:geomhash":"32ed293c6135a32e39b756ffc80130d2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.91269,
     53.99498000000001
 ],
-  "geometry": {"coordinates":[22.91269,53.99498000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.91269,53.99498],"type":"Point"}
 }

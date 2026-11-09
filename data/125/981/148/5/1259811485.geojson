@@ -63,7 +63,7 @@
         "wk:page":"Stare_Guty%2C_Warmian-Masurian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4a2f5bd69fbde9d3e138c310541a4155",
+    "wof:geomhash":"193b93ee766276068c18a914c908b0ff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     21.91901,
     53.61154000000001
 ],
-  "geometry": {"coordinates":[21.91901,53.61154000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.91901,53.61154],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"Sarnowy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"319e2b34f97fe008935ff0b13c9339ea",
+    "wof:geomhash":"f502af14301aca7b3e17d59f89b546ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     18.01028999999999,
     54.07058000000001
 ],
-  "geometry": {"coordinates":[18.01028999999999,54.07058000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.01029,54.07058],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Wieczyn"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ed8dfb1fc09e6e9560fe42888e675ee7",
+    "wof:geomhash":"c3ca88900e3fe6987e417878d851d99c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.75322000000001,
     52.01056
 ],
-  "geometry": {"coordinates":[17.75322000000001,52.01056],"type":"Point"}
+  "geometry": {"coordinates":[17.75322,52.01056],"type":"Point"}
 }

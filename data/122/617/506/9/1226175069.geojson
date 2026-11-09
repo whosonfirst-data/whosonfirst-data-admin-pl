@@ -57,7 +57,7 @@
         "wk:page":"Lipie_G%C3%B3ry%2C_Lubusz_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"855af8699f9d309060d98accf04be395",
+    "wof:geomhash":"91599c866b4c133b8e8ff94773118e2a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     15.56206,
     52.92746999999999
 ],
-  "geometry": {"coordinates":[15.56206,52.92746999999999],"type":"Point"}
+  "geometry": {"coordinates":[15.56206,52.92747],"type":"Point"}
 }

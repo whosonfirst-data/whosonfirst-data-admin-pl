@@ -66,7 +66,7 @@
         "wk:page":"Dobrosu%C5%82%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"77af13b281f07832506029f69c59a7af",
+    "wof:geomhash":"0df1b85046e4b7df6a347ec5978432ca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     15.11959,
     52.19309000000001
 ],
-  "geometry": {"coordinates":[15.11959,52.19309000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.11959,52.19309],"type":"Point"}
 }

@@ -51,7 +51,7 @@
         "wk:page":"Braciejowa"
     },
     "wof:country":"PL",
-    "wof:geomhash":"11bc5c186b3ba6b5535c8abb23425457",
+    "wof:geomhash":"d6cfe2847a17f7c43e789f89c9509e28",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     21.43352,
     49.99019000000001
 ],
-  "geometry": {"coordinates":[21.43352,49.99019000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.43352,49.99019],"type":"Point"}
 }

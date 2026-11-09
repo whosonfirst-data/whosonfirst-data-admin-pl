@@ -51,7 +51,7 @@
         "wk:page":"Str%C4%85pie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7fa9a884283758c33438cd2b3e745bff",
+    "wof:geomhash":"622debbdc858693fe3071f3498ba8dcf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     15.11855,
     53.01824000000001
 ],
-  "geometry": {"coordinates":[15.11855,53.01824000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.11855,53.01824],"type":"Point"}
 }

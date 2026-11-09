@@ -54,7 +54,7 @@
         "wk:page":"Zielona_Chocina"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c5d16ce86dfaad3d996989783e5bb27f",
+    "wof:geomhash":"89ec97211c3b129048ba8361cd70b56b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.40458,
     53.89483000000001
 ],
-  "geometry": {"coordinates":[17.40458,53.89483000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.40458,53.89483],"type":"Point"}
 }

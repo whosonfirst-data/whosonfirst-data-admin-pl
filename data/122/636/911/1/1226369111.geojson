@@ -63,7 +63,7 @@
         "wk:page":"Dziecinin"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d6d99ae3f037f92ed3ebaa21afacd690",
+    "wof:geomhash":"560be134fdb4af7fae99117c6a3b2e20",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     23.00664,
     51.07364000000001
 ],
-  "geometry": {"coordinates":[23.00664,51.07364000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.00664,51.07364],"type":"Point"}
 }

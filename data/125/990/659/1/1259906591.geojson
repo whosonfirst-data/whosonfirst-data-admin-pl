@@ -51,7 +51,7 @@
         "wk:page":"Karszynek"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d7e0710f557f3e0498f0b3c8146f46a1",
+    "wof:geomhash":"065053e7f7029a31a7b308458023e08f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     15.95,
     52.0
 ],
-  "geometry": {"coordinates":[15.95,52.0],"type":"Point"}
+  "geometry": {"coordinates":[15.95,52],"type":"Point"}
 }

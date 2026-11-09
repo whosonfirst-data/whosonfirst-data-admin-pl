@@ -51,7 +51,7 @@
         "wk:page":"Wapienno"
     },
     "wof:country":"PL",
-    "wof:geomhash":"611d1e6143e2d775bcaac0c65587fec3",
+    "wof:geomhash":"78dd30d010db56ce69b2a304453e1c55",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.9708,
     52.83508000000001
 ],
-  "geometry": {"coordinates":[17.9708,52.83508000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.9708,52.83508],"type":"Point"}
 }

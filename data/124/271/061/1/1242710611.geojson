@@ -54,7 +54,7 @@
         "wk:page":"Zalesie-Wypychy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"29917533bd9e8ad5a7d3e2345ff2680c",
+    "wof:geomhash":"a8a41f1033ad757df533369bddb9dbb9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.95357000000001,
     53.05129
 ],
-  "geometry": {"coordinates":[21.95357000000001,53.05129],"type":"Point"}
+  "geometry": {"coordinates":[21.95357,53.05129],"type":"Point"}
 }

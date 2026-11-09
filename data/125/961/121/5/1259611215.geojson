@@ -57,7 +57,7 @@
         "wk:page":"Zabagnie%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"00665ac73a5ab3421752828b56444962",
+    "wof:geomhash":"78b9e1910f342f4ab1945fdd5b044ff9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.10147000000001,
     51.63555
 ],
-  "geometry": {"coordinates":[21.10147000000001,51.63555],"type":"Point"}
+  "geometry": {"coordinates":[21.10147,51.63555],"type":"Point"}
 }

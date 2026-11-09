@@ -63,7 +63,7 @@
         "wk:page":"Kalinowa%2C_Sieradz_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"589f03862c6a606208ccef0533bb3016",
+    "wof:geomhash":"79388534d00c6baeaa4bdc3bbab3cab4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     18.48678,
     51.69139000000001
 ],
-  "geometry": {"coordinates":[18.48678,51.69139000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.48678,51.69139],"type":"Point"}
 }

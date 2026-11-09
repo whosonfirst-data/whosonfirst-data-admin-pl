@@ -66,7 +66,7 @@
         "wk:page":"Bu%C5%BCyska"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a7344550a634145fca35eb958d16cb62",
+    "wof:geomhash":"b958f47ed7e3e581a413aa73e90ae490",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     22.64145,
     52.38744000000001
 ],
-  "geometry": {"coordinates":[22.64145,52.38744000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.64145,52.38744],"type":"Point"}
 }

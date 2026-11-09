@@ -51,7 +51,7 @@
         "wk:page":"Ma%C5%82ocin%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"fd210424bcdd6787fda8a5dfafebeee2",
+    "wof:geomhash":"5495446005a09272236a3341f685d164",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.5505,
     53.18366999999999
 ],
-  "geometry": {"coordinates":[17.5505,53.18366999999999],"type":"Point"}
+  "geometry": {"coordinates":[17.5505,53.18367],"type":"Point"}
 }

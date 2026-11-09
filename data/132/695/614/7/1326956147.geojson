@@ -51,7 +51,7 @@
         "wk:page":"Gorczenica"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2bafcbf7bbedfd349998f74a983f03f1",
+    "wof:geomhash":"52f7efd7767898dfe22b01d957c2476c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.37934,
     53.20421999999999
 ],
-  "geometry": {"coordinates":[19.37934,53.20421999999999],"type":"Point"}
+  "geometry": {"coordinates":[19.37934,53.20422],"type":"Point"}
 }

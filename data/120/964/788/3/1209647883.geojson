@@ -56,7 +56,7 @@
         "wk:page":"R%C3%B3klas"
     },
     "wof:country":"PL",
-    "wof:geomhash":"074b0cac63cd3d85f90c840d3c62c7b7",
+    "wof:geomhash":"a4f44bdb2eecfbc7719c2c54c137c12c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,5 +83,5 @@
     20.83042,
     53.42158000000001
 ],
-  "geometry": {"coordinates":[20.83042,53.42158000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.83042,53.42158],"type":"Point"}
 }

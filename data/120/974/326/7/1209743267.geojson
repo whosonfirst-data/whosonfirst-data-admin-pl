@@ -54,7 +54,7 @@
         "wk:page":"Podzamcze%2C_Lublin_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b3a292a469ca6656af74f207ad65ad30",
+    "wof:geomhash":"2ae51d30fdfc7bafd0778a2c78cb9574",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.5111,
     51.02549000000001
 ],
-  "geometry": {"coordinates":[22.5111,51.02549000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.5111,51.02549],"type":"Point"}
 }

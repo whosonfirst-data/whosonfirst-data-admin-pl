@@ -57,7 +57,7 @@
         "wk:page":"%C5%81abuchy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"25d5239889622f0ef42b96ee8df22640",
+    "wof:geomhash":"0af874bc735c539bbe2cfd0d95a4f89a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     20.94485,
     53.90593000000001
 ],
-  "geometry": {"coordinates":[20.94485,53.90593000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.94485,53.90593],"type":"Point"}
 }

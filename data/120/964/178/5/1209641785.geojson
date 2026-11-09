@@ -51,7 +51,7 @@
         "wk:page":"Brz%C4%99czkowice%2C_Mys%C5%82owice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7f6d88a876b7fae4dfae0de4baa130c2",
+    "wof:geomhash":"3fcd06558d9eaa5ce2bc27faf4f57c84",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.13904,
     50.21964000000001
 ],
-  "geometry": {"coordinates":[19.13904,50.21964000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.13904,50.21964],"type":"Point"}
 }

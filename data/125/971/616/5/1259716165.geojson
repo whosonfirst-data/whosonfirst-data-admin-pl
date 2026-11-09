@@ -55,7 +55,7 @@
         "wk:page":"%C5%81uka%2C_Warmian-Masurian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c0b4e0e240b910437435c8eb0f56d969",
+    "wof:geomhash":"656573b98eca3e4b8b4619a6b7a2cb76",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,5 +82,5 @@
     21.16516,
     53.42948000000001
 ],
-  "geometry": {"coordinates":[21.16516,53.42948000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.16516,53.42948],"type":"Point"}
 }

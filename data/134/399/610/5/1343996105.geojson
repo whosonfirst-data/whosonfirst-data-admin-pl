@@ -51,7 +51,7 @@
         "wk:page":"Lask%C3%B3w%2C_%C5%9Awi%C4%99tokrzyskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7735f39f18483de781b6611805f78b4e",
+    "wof:geomhash":"04cb353efe61b4db1a70f589e29e76e4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     20.28721,
     50.68474000000001
 ],
-  "geometry": {"coordinates":[20.28721,50.68474000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.28721,50.68474],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Prusinowo%2C_Gryfice_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6ce73e9e1cf0cc55b506f8b11476fd3b",
+    "wof:geomhash":"fd493e9ad0f85502bf7e8153c1f78def",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     15.19119,
     53.95388000000001
 ],
-  "geometry": {"coordinates":[15.19119,53.95388000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.19119,53.95388],"type":"Point"}
 }

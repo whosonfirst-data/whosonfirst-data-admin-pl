@@ -57,7 +57,7 @@
         "wk:page":"Dalwin%2C_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"0b086381336b03d5a9bced21b1ca5472",
+    "wof:geomhash":"5e09032902d589c52a4522a1d4fd8e90",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     18.64267000000001,
     54.11372
 ],
-  "geometry": {"coordinates":[18.64267000000001,54.11372],"type":"Point"}
+  "geometry": {"coordinates":[18.64267,54.11372],"type":"Point"}
 }

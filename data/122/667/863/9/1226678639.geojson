@@ -51,7 +51,7 @@
         "wk:page":"Plesewo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2784122237afbefaaf64bc4bd936fd81",
+    "wof:geomhash":"f07e7d3e0656dd8c641e856bc06850a4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.15775,
     53.52153000000001
 ],
-  "geometry": {"coordinates":[19.15775,53.52153000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.15775,53.52153],"type":"Point"}
 }

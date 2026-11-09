@@ -60,7 +60,7 @@
         "wk:page":"Brejdyny"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8a931338b5e905d8cee3e49609d57995",
+    "wof:geomhash":"d541f36bea782d5cb3e8dabccc817a61",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     21.31816,
     53.78073000000001
 ],
-  "geometry": {"coordinates":[21.31816,53.78073000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.31816,53.78073],"type":"Point"}
 }

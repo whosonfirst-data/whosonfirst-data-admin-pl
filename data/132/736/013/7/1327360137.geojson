@@ -57,7 +57,7 @@
         "wk:page":"Mil%C5%BCyn"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6a78c0df1660f14619392606ac95bc18",
+    "wof:geomhash":"b1147ff0e6efadee960abcd005228d9c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     18.80392,
     52.48804000000001
 ],
-  "geometry": {"coordinates":[18.80392,52.48804000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.80392,52.48804],"type":"Point"}
 }

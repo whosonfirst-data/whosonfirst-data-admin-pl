@@ -51,7 +51,7 @@
         "wk:page":"G%C3%B3rki%2C_K%C5%82obuck_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"0dca7d693aab57b0948f5032af024efe",
+    "wof:geomhash":"7c087f0538b5e4abd6505461c1df2270",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.64878,
     50.86069000000001
 ],
-  "geometry": {"coordinates":[18.64878,50.86069000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.64878,50.86069],"type":"Point"}
 }

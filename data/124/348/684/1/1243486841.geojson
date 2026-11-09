@@ -54,7 +54,7 @@
         "wk:page":"Kolczyn%2C_Lublin_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9d191828f9d4fc9fd6b676d8edcea1ec",
+    "wof:geomhash":"6cb175fed33bf0eece69a7343587cbc0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.83842000000001,
     51.0565
 ],
-  "geometry": {"coordinates":[21.83842000000001,51.0565],"type":"Point"}
+  "geometry": {"coordinates":[21.83842,51.0565],"type":"Point"}
 }

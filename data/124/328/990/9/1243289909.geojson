@@ -54,7 +54,7 @@
         "wk:page":"Lichenek"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b481e654d9a115aae1e781cd58b8c341",
+    "wof:geomhash":"3a7a74b94c8df1ce3f2fad97cd939f69",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.63655,
     52.31800000000001
 ],
-  "geometry": {"coordinates":[18.63655,52.31800000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.63655,52.318],"type":"Point"}
 }

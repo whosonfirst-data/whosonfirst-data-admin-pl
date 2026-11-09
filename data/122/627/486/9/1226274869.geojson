@@ -54,7 +54,7 @@
         "wk:page":"Zambrzyce-Plewki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6194b4ffc84b0ba87e0c905875deda87",
+    "wof:geomhash":"70ad5664147396aceb6026dd8d8bdcd1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.56444,
     53.08383000000001
 ],
-  "geometry": {"coordinates":[22.56444,53.08383000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.56444,53.08383],"type":"Point"}
 }

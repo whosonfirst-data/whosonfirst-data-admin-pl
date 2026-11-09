@@ -54,7 +54,7 @@
         "wk:page":"Bogucin%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a08c81f9574e766c85e5cee980154331",
+    "wof:geomhash":"200bbe29a3b0f495e9543f1a72c521ed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.10342,
     52.69911999999999
 ],
-  "geometry": {"coordinates":[19.10342,52.69911999999999],"type":"Point"}
+  "geometry": {"coordinates":[19.10342,52.69912],"type":"Point"}
 }

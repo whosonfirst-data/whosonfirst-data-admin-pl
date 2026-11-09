@@ -66,7 +66,7 @@
         "wk:page":"Jab%C5%82onka_Stara"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d8565eff10121bd1aeb5223b42c207c3",
+    "wof:geomhash":"7f76e94992711f70e563d3194909d15a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     15.87976,
     52.42039000000001
 ],
-  "geometry": {"coordinates":[15.87976,52.42039000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.87976,52.42039],"type":"Point"}
 }

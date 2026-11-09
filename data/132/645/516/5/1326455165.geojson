@@ -54,7 +54,7 @@
         "wk:page":"Ku%C5%BAniki%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c1094a0460b917bf9c2f728aee1f2a76",
+    "wof:geomhash":"c498a440a3ac04a0acbe095abade1b4f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.89738999999999,
     51.44493
 ],
-  "geometry": {"coordinates":[17.89738999999999,51.44493],"type":"Point"}
+  "geometry": {"coordinates":[17.89739,51.44493],"type":"Point"}
 }

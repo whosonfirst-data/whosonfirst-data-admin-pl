@@ -61,7 +61,7 @@
         "wk:page":"Krasno%C5%82%C4%85ka%2C_Bartoszyce_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ff4fba6b15765fd01bf5579d048b91ef",
+    "wof:geomhash":"6a40aac0e3019a7658f61dbd2cb8f9b3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     20.5216,
     54.32313000000001
 ],
-  "geometry": {"coordinates":[20.5216,54.32313000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.5216,54.32313],"type":"Point"}
 }

@@ -51,7 +51,7 @@
         "wk:page":"Gostynie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7d571f65861e2c582bd48bf7e0642db4",
+    "wof:geomhash":"4145e6c14adfc8ae4f9d943da0b2da5b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.2761,
     51.90172000000001
 ],
-  "geometry": {"coordinates":[18.2761,51.90172000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.2761,51.90172],"type":"Point"}
 }

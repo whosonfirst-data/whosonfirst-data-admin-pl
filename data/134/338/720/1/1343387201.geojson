@@ -57,7 +57,7 @@
         "wk:page":"Sady%2C_Opole_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a93199ecbca44eef4e07170f8f176022",
+    "wof:geomhash":"4b0f2c96c97e900fb8dad922afa3ec42",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     17.65186,
     50.62994000000001
 ],
-  "geometry": {"coordinates":[17.65186,50.62994000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.65186,50.62994],"type":"Point"}
 }

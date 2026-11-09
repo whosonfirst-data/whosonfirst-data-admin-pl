@@ -55,7 +55,7 @@
         "wk:page":"Nowiec%2C_Sztum_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9e0346f8361d95cfec0a5ad59b489c18",
+    "wof:geomhash":"11d07f5097d570caa9d8f6d309c85211",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,5 +82,5 @@
     19.36512,
     53.95033000000001
 ],
-  "geometry": {"coordinates":[19.36512,53.95033000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.36512,53.95033],"type":"Point"}
 }

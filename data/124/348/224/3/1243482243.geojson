@@ -57,7 +57,7 @@
         "wk:page":"Wilkowo_Wielkie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"74d54daad8439de44d090f12afdcd4ac",
+    "wof:geomhash":"4af23caf7c0ddeb7957390c0e0906412",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.24734,
     54.20764000000001
 ],
-  "geometry": {"coordinates":[21.24734,54.20764000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.24734,54.20764],"type":"Point"}
 }

@@ -51,7 +51,7 @@
         "wk:page":"Przyby%C5%82%C3%B3w%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b08dadf59ab0a79c2c2eafb9ac081b74",
+    "wof:geomhash":"a47d21dc96b3920a066e502e0c9d94bd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.72749,
     52.16784000000001
 ],
-  "geometry": {"coordinates":[18.72749,52.16784000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.72749,52.16784],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Strzy%C5%BCewo_Ko%C5%9Bcielne"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b644624e789998b57ad6133f03153dee",
+    "wof:geomhash":"c0f165473cfed20ebcbe4ea345d2429e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.67142,
     52.57514000000001
 ],
-  "geometry": {"coordinates":[17.67142,52.57514000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.67142,52.57514],"type":"Point"}
 }

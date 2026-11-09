@@ -54,7 +54,7 @@
         "wk:page":"Mniszek%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6ccdf563efb47e796850ea3417881d99",
+    "wof:geomhash":"18d5715efc5fd9a2006a26511f339c9d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.60893,
     53.47821999999999
 ],
-  "geometry": {"coordinates":[18.60893,53.47821999999999],"type":"Point"}
+  "geometry": {"coordinates":[18.60893,53.47822],"type":"Point"}
 }

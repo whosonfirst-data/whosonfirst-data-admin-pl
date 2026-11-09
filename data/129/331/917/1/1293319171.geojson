@@ -54,7 +54,7 @@
         "wk:page":"G%C4%99biny"
     },
     "wof:country":"PL",
-    "wof:geomhash":"62cd9a857afb8fc9b058364fa04d9bfa",
+    "wof:geomhash":"3cd5f5c25d5d63b45b46c96a84e046f3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.2955,
     53.66518000000001
 ],
-  "geometry": {"coordinates":[20.2955,53.66518000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.2955,53.66518],"type":"Point"}
 }

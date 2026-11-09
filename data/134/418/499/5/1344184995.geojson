@@ -51,7 +51,7 @@
         "wk:page":"Czo%C5%82owo%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6819a9bf1f2cd7996c37f42750a53998",
+    "wof:geomhash":"c8d7f50b0fc32a80061474097baa9881",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.4987,
     52.61918000000001
 ],
-  "geometry": {"coordinates":[18.4987,52.61918000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.4987,52.61918],"type":"Point"}
 }

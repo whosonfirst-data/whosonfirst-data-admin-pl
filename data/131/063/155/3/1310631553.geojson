@@ -58,7 +58,7 @@
         "wk:page":"Godk%C3%B3w%2C_West_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"05c9e679c2eba5cd0ab425315ee2fcde",
+    "wof:geomhash":"8cae130c06419ae8804346138cef4550",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,5 +85,5 @@
     14.4302,
     52.90983000000001
 ],
-  "geometry": {"coordinates":[14.4302,52.90983000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.4302,52.90983],"type":"Point"}
 }

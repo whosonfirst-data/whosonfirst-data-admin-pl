@@ -55,7 +55,7 @@
         "wk:page":"Gil_Ma%C5%82y"
     },
     "wof:country":"PL",
-    "wof:geomhash":"0e24ba74fe326d7cfa89cc8c07c6bf7f",
+    "wof:geomhash":"236d015713b78a3c46229eea536ec627",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,5 +82,5 @@
     19.7479,
     53.71423000000001
 ],
-  "geometry": {"coordinates":[19.7479,53.71423000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.7479,53.71423],"type":"Point"}
 }

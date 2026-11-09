@@ -66,7 +66,7 @@
         "wk:page":"Ratajewicze"
     },
     "wof:country":"PL",
-    "wof:geomhash":"cbccf15294390187f9b6fb0dbc49f0c3",
+    "wof:geomhash":"a03587201a1bbb980fa7fb79bf01ed69",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     23.30557,
     51.73139000000001
 ],
-  "geometry": {"coordinates":[23.30557,51.73139000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.30557,51.73139],"type":"Point"}
 }

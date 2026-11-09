@@ -57,7 +57,7 @@
         "wk:page":"Nieciki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"348ae8bc1a7d95cf8e55de0245bc80a0",
+    "wof:geomhash":"a712a36f5cde192afaee9bdfbf169a20",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.26139,
     53.45688000000001
 ],
-  "geometry": {"coordinates":[22.26139,53.45688000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.26139,53.45688],"type":"Point"}
 }

@@ -51,7 +51,7 @@
         "wk:page":"Praw%C4%99cice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f5f6d81ca0f3be106f90f0a4553ffaf7",
+    "wof:geomhash":"b847578b3744832c34e2a92b8ba7881f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.16163,
     51.85442000000001
 ],
-  "geometry": {"coordinates":[19.16163,51.85442000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.16163,51.85442],"type":"Point"}
 }

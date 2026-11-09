@@ -63,7 +63,7 @@
         "wk:page":"Grab%C3%B3w_Zale%C5%9Bny"
     },
     "wof:country":"PL",
-    "wof:geomhash":"cb0def0aec7fcb3346df6db151bd0d46",
+    "wof:geomhash":"47716d7118065ba523f85d2975490f08",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     21.22048,
     51.75767000000001
 ],
-  "geometry": {"coordinates":[21.22048,51.75767000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.22048,51.75767],"type":"Point"}
 }

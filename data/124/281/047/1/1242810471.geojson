@@ -57,7 +57,7 @@
         "wk:page":"Wy%C5%82udki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e0667de0c847b9e15a0a75258b5bf215",
+    "wof:geomhash":"f5078f7690ffddf392660e1272d8dde7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     23.16037,
     53.48119000000001
 ],
-  "geometry": {"coordinates":[23.16037,53.48119000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.16037,53.48119],"type":"Point"}
 }

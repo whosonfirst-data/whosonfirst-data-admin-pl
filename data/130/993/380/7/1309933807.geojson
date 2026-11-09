@@ -54,7 +54,7 @@
         "wk:page":"Dobrojewo%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a2b3745a2a63f5f0807b27ab8a90ac10",
+    "wof:geomhash":"86b75e11ba4713adf9ec59da8664789f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     16.41638,
     52.64514000000001
 ],
-  "geometry": {"coordinates":[16.41638,52.64514000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.41638,52.64514],"type":"Point"}
 }

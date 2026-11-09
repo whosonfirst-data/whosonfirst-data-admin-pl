@@ -60,7 +60,7 @@
         "wk:page":"Podg%C3%B3rki%2C_West_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f10bfed7692cef5d59c163affbf06695",
+    "wof:geomhash":"f5ead55448160c0d02b705939a58071d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     16.63492,
     54.27428000000001
 ],
-  "geometry": {"coordinates":[16.63492,54.27428000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.63492,54.27428],"type":"Point"}
 }

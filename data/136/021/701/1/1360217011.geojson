@@ -54,7 +54,7 @@
         "wk:page":"Chodor%C4%85%C5%BCek"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d3f9fe9728976e9c3530cbca13df56b2",
+    "wof:geomhash":"c74265d9a377c2ae8e2f84ccde6332e9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.26389,
     52.88713000000001
 ],
-  "geometry": {"coordinates":[19.26389,52.88713000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.26389,52.88713],"type":"Point"}
 }

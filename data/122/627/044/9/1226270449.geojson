@@ -51,7 +51,7 @@
         "wk:page":"Warzymowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6ab4a78ba9c1d3bcd6291684d580d8fd",
+    "wof:geomhash":"da868e0c1d97acac1c94f62751d021a1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.3706,
     52.44858000000001
 ],
-  "geometry": {"coordinates":[18.3706,52.44858000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.3706,52.44858],"type":"Point"}
 }

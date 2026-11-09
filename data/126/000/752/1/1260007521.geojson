@@ -51,7 +51,7 @@
         "wk:page":"Kowala%2C_Lesser_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"fec044c82bdc621bf29c75bbbc1fe5e3",
+    "wof:geomhash":"a5315d5554400e0ca10e7193b195b9a0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     20.34959,
     50.17599000000001
 ],
-  "geometry": {"coordinates":[20.34959,50.17599000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.34959,50.17599],"type":"Point"}
 }

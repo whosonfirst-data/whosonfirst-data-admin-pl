@@ -66,7 +66,7 @@
         "wk:page":"Zag%C3%B3rze%2C_Bia%C5%82ogard_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3100a765f4b6c9eaca24e8f304319ff6",
+    "wof:geomhash":"3df9ada95dad9d900fbb0c4eb113aa8f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     15.84113,
     53.96899000000001
 ],
-  "geometry": {"coordinates":[15.84113,53.96899000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.84113,53.96899],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Kokoszczyn%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7730b3f599ecf47f6a2d2321b4fc804b",
+    "wof:geomhash":"c477422f2b7454ecd7d4559e6b9d2107",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.52442000000001,
     52.82258
 ],
-  "geometry": {"coordinates":[19.52442000000001,52.82258],"type":"Point"}
+  "geometry": {"coordinates":[19.52442,52.82258],"type":"Point"}
 }

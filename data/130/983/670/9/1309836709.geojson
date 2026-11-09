@@ -58,7 +58,7 @@
         "wk:page":"Jank%C3%B3wko%2C_Warmian-Masurian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"020105dc62b4d14266eb9e67de6dd8f4",
+    "wof:geomhash":"f46ec7d6546902b7b3372aa1e272669b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,5 +85,5 @@
     19.87762,
     54.13229000000001
 ],
-  "geometry": {"coordinates":[19.87762,54.13229000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.87762,54.13229],"type":"Point"}
 }

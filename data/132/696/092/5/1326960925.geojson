@@ -57,7 +57,7 @@
         "wk:page":"P%C5%82owce"
     },
     "wof:country":"PL",
-    "wof:geomhash":"06dfb4c1828e8e16c7f125b02c573e74",
+    "wof:geomhash":"5b7eeade6f3b0d60000d72984300d931",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     18.61667000000001,
     52.63333000000001
 ],
-  "geometry": {"coordinates":[18.61667000000001,52.63333000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.61667,52.63333],"type":"Point"}
 }

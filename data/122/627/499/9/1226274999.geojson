@@ -57,7 +57,7 @@
         "wk:page":"Szopa%2C_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8b901fd5585382da2253b9e7aa68034c",
+    "wof:geomhash":"3ff8a6d5aaa47415f8fb50206bf337a6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     17.95,
     54.36666999999999
 ],
-  "geometry": {"coordinates":[17.95,54.36666999999999],"type":"Point"}
+  "geometry": {"coordinates":[17.95,54.36667],"type":"Point"}
 }

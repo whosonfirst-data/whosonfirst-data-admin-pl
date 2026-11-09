@@ -58,7 +58,7 @@
         "wk:page":"Iznota"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9ee7809e2d51676bf353ed020eb9e46a",
+    "wof:geomhash":"d5f6e16a5190b1d3290ef8e30b9f8a2c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,5 +85,5 @@
     21.54675,
     53.73846999999999
 ],
-  "geometry": {"coordinates":[21.54675,53.73846999999999],"type":"Point"}
+  "geometry": {"coordinates":[21.54675,53.73847],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Sp%C5%82awie%2C_Ko%C5%9Bcian_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4d9cf85e37642e62a0f7a565f5971c38",
+    "wof:geomhash":"7b90923ad07640302595584602871082",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     16.63295,
     51.99209000000001
 ],
-  "geometry": {"coordinates":[16.63295,51.99209000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.63295,51.99209],"type":"Point"}
 }

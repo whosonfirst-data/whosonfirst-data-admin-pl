@@ -54,7 +54,7 @@
         "wk:page":"Ciekocino"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ffa192980477ad862cd6c59ca0b0ce7d",
+    "wof:geomhash":"9acac1553cb8cacc7babd73a88d85889",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.79847999999999,
     54.74612
 ],
-  "geometry": {"coordinates":[17.79847999999999,54.74612],"type":"Point"}
+  "geometry": {"coordinates":[17.79848,54.74612],"type":"Point"}
 }

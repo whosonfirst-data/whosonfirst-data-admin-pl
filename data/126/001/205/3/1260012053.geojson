@@ -64,7 +64,7 @@
         "wk:page":"Zakrzewo%2C_West_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"80627448a05fecd86f8432886c512bbf",
+    "wof:geomhash":"7c7ca279c5526b2b35e2855f67f31b90",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,5 +91,5 @@
     16.46833,
     54.44898000000001
 ],
-  "geometry": {"coordinates":[16.46833,54.44898000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.46833,54.44898],"type":"Point"}
 }

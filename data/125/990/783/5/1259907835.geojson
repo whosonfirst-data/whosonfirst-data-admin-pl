@@ -63,7 +63,7 @@
         "wk:page":"Wyr%C4%85b"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8b2cead9723a861c215323cdde59ae11",
+    "wof:geomhash":"cfa938d67ce9b82c43e5b4926aac3bf8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     22.3,
     52.43333000000001
 ],
-  "geometry": {"coordinates":[22.3,52.43333000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.3,52.43333],"type":"Point"}
 }

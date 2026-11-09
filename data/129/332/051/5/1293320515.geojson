@@ -48,7 +48,7 @@
         "wk:page":"Sienica%2C_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"92644c48d45ca5abd70c5dea6072559f",
+    "wof:geomhash":"2beee28d3aa52f81e541be1df09ea63f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     17.87872,
     53.80951999999999
 ],
-  "geometry": {"coordinates":[17.87872,53.80951999999999],"type":"Point"}
+  "geometry": {"coordinates":[17.87872,53.80952],"type":"Point"}
 }

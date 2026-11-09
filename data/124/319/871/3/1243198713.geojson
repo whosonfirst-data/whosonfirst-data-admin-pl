@@ -58,7 +58,7 @@
         "wk:page":"Sochocino-Praga"
     },
     "wof:country":"PL",
-    "wof:geomhash":"fd656a39b9dfdd5a35e69949fa926cf8",
+    "wof:geomhash":"878202bd5cdd30b793ec21266c3b172c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,5 +85,5 @@
     19.97653,
     52.57559000000001
 ],
-  "geometry": {"coordinates":[19.97653,52.57559000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.97653,52.57559],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Paw%C5%82owice%2C_Lipsko_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"aaf0a66a67a6fce42f6cc94243747b37",
+    "wof:geomhash":"2d17c732a190e880179dcb0a53d2ea07",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.74641,
     51.07214000000001
 ],
-  "geometry": {"coordinates":[21.74641,51.07214000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.74641,51.07214],"type":"Point"}
 }

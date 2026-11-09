@@ -57,7 +57,7 @@
         "wk:page":"Szczuczyn%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6ab4c34bf79b061e0f6ea050a45220cb",
+    "wof:geomhash":"14d5b6d72c1548d561de0455989673e8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     16.57696,
     52.63809000000001
 ],
-  "geometry": {"coordinates":[16.57696,52.63809000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.57696,52.63809],"type":"Point"}
 }

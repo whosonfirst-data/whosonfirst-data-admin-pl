@@ -51,7 +51,7 @@
         "wk:page":"K%C4%85tki%2C_Lower_Silesian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"0f6528dd5c29df3d266cf163ea5de500",
+    "wof:geomhash":"4db63ddabcad9f82d01795466992116e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     16.59837000000001,
     50.85652
 ],
-  "geometry": {"coordinates":[16.59837000000001,50.85652],"type":"Point"}
+  "geometry": {"coordinates":[16.59837,50.85652],"type":"Point"}
 }

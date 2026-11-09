@@ -58,7 +58,7 @@
         "wk:page":"%C5%BBebry-Ostrowy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4e2a3ddac5562b11b11c54a87a91c543",
+    "wof:geomhash":"eee80f270bafd2f4efad9b65abc05107",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,5 +85,5 @@
     21.43419,
     53.06576999999999
 ],
-  "geometry": {"coordinates":[21.43419,53.06576999999999],"type":"Point"}
+  "geometry": {"coordinates":[21.43419,53.06577],"type":"Point"}
 }

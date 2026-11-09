@@ -60,7 +60,7 @@
         "wk:page":"J%C3%B3zef%C3%B3w%2C_Opole_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8bc507bbb71df90521239a008b3bc9af",
+    "wof:geomhash":"9484280ca735faddf073c1c5fdd4e14f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     17.67442999999999,
     50.35269
 ],
-  "geometry": {"coordinates":[17.67442999999999,50.35269],"type":"Point"}
+  "geometry": {"coordinates":[17.67443,50.35269],"type":"Point"}
 }

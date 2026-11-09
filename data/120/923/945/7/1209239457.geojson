@@ -60,7 +60,7 @@
         "wk:page":"Brzyno"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5e5f083284c757f9e5ff4e2dddf4da0b",
+    "wof:geomhash":"17935bdf41270e5240b1806947b14986",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     18.00882,
     54.77336999999999
 ],
-  "geometry": {"coordinates":[18.00882,54.77336999999999],"type":"Point"}
+  "geometry": {"coordinates":[18.00882,54.77337],"type":"Point"}
 }

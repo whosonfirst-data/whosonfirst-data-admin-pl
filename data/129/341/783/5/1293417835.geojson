@@ -66,7 +66,7 @@
         "wk:page":"Dzier%C5%BC%C4%85%C5%BCno_Ma%C5%82e"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2504dc5d4694e5dfceae2d08ac5f18b8",
+    "wof:geomhash":"1fd53c1938c1714bae30bdab4e86c1a1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     16.23204,
     53.02614000000001
 ],
-  "geometry": {"coordinates":[16.23204,53.02614000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.23204,53.02614],"type":"Point"}
 }

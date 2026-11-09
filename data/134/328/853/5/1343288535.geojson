@@ -63,7 +63,7 @@
         "wk:page":"Czeko%C5%82dy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"dcbe89405b12e57b8eae7b68d82bccb2",
+    "wof:geomhash":"04c83a18005c76d420a7fa9e5641f6ac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     22.77346,
     53.34963000000001
 ],
-  "geometry": {"coordinates":[22.77346,53.34963000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.77346,53.34963],"type":"Point"}
 }

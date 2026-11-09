@@ -54,7 +54,7 @@
         "wk:page":"%C5%81uszczacz"
     },
     "wof:country":"PL",
-    "wof:geomhash":"881199679c3fe70cd2a8d08a97df32cf",
+    "wof:geomhash":"0f3128e74753efa69b1ea8660ceb8acc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     23.2415,
     50.48354000000001
 ],
-  "geometry": {"coordinates":[23.2415,50.48354000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.2415,50.48354],"type":"Point"}
 }

@@ -61,7 +61,7 @@
         "wk:page":"Usza_Wielka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"eece340cf1d1a23a4d7ba6aef93ebbef",
+    "wof:geomhash":"bcecd61e969098679f6212902034e90e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     22.46584,
     52.72006999999999
 ],
-  "geometry": {"coordinates":[22.46584,52.72006999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.46584,52.72007],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Planta%2C_Suwa%C5%82ki_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"bccf715fa4677f608c282738be68c7f7",
+    "wof:geomhash":"d2ba4b21b7095603543d74b7a1f03c59",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.78187,
     53.96053000000001
 ],
-  "geometry": {"coordinates":[22.78187,53.96053000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.78187,53.96053],"type":"Point"}
 }

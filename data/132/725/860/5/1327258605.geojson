@@ -51,7 +51,7 @@
         "wk:page":"Lestkowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"464486bce28e5b0e97cd9edad951aee8",
+    "wof:geomhash":"4f1e081efa1df016fc313870f544bf59",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     15.14591,
     53.71803000000001
 ],
-  "geometry": {"coordinates":[15.14591,53.71803000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.14591,53.71803],"type":"Point"}
 }

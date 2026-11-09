@@ -54,7 +54,7 @@
         "wk:page":"Teofile"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c3da2818e007095a2267812c517cb113",
+    "wof:geomhash":"af3589273880967150395ddc2eaf0ae9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.53509,
     52.38800000000001
 ],
-  "geometry": {"coordinates":[20.53509,52.38800000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.53509,52.388],"type":"Point"}
 }

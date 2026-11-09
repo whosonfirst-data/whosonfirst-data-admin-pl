@@ -57,7 +57,7 @@
         "wk:page":"Niewierz%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3fd051045233bb24fde32916b435b61f",
+    "wof:geomhash":"c4a5328aa42cfef5e43207ed1abe583a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     16.34747999999999,
     52.45056999999999
 ],
-  "geometry": {"coordinates":[16.34747999999999,52.45056999999999],"type":"Point"}
+  "geometry": {"coordinates":[16.34748,52.45057],"type":"Point"}
 }

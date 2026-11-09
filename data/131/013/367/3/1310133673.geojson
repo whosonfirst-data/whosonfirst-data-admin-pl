@@ -54,7 +54,7 @@
         "wk:page":"Piotrkowo%2C_Nidzica_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"0477b6d10df17237d8b290e6739dfa14",
+    "wof:geomhash":"9f54b8a6e10975f39b53111bee65b846",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.53369,
     53.26038000000001
 ],
-  "geometry": {"coordinates":[20.53369,53.26038000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.53369,53.26038],"type":"Point"}
 }

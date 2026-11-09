@@ -49,7 +49,7 @@
         "wk:page":"Popowo_Borowe"
     },
     "wof:country":"PL",
-    "wof:geomhash":"260fe0eb4da734059a0b5f7aded92ffa",
+    "wof:geomhash":"cdee9c905031b7777386f8afbc24949a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,5 +76,5 @@
     20.89533,
     52.55141999999999
 ],
-  "geometry": {"coordinates":[20.89533,52.55141999999999],"type":"Point"}
+  "geometry": {"coordinates":[20.89533,52.55142],"type":"Point"}
 }

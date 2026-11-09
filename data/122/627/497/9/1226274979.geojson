@@ -72,7 +72,7 @@
         "wk:page":"Trutnowo%2C_Warmian-Masurian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"696888a957fe4b66d0d60ebbaade8a0e",
+    "wof:geomhash":"29b74bdfbaef65025d0db3207914e78e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,5 +99,5 @@
     20.8281,
     54.12448000000001
 ],
-  "geometry": {"coordinates":[20.8281,54.12448000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.8281,54.12448],"type":"Point"}
 }

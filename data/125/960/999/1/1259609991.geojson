@@ -57,7 +57,7 @@
         "wk:page":"Krzczon%C3%B3w%2C_%C5%81%C3%B3d%C5%BA_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"674e2cd779a753be2fab5b48a4523bd3",
+    "wof:geomhash":"a2ec7c97a9d9811c9b44f5d93ac74f16",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     20.42054,
     51.41549000000001
 ],
-  "geometry": {"coordinates":[20.42054,51.41549000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.42054,51.41549],"type":"Point"}
 }

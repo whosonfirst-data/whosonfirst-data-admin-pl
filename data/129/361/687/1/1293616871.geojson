@@ -51,7 +51,7 @@
         "wk:page":"Go%C5%9Bcieszyn%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"af872aa5c442e10e46ebc71caf82dca0",
+    "wof:geomhash":"c3f5fe876d4156f9875161cae007ede8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.72602999999999,
     52.65945
 ],
-  "geometry": {"coordinates":[17.72602999999999,52.65945],"type":"Point"}
+  "geometry": {"coordinates":[17.72603,52.65945],"type":"Point"}
 }

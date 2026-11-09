@@ -54,7 +54,7 @@
         "wk:page":"Kaliszany%2C_%C5%9Awi%C4%99tokrzyskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b437b525e67ee70d18c969a1b21705f7",
+    "wof:geomhash":"27c3d61bcfe3b30b222f01efa342df6b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.53752,
     50.83199000000001
 ],
-  "geometry": {"coordinates":[21.53752,50.83199000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.53752,50.83199],"type":"Point"}
 }

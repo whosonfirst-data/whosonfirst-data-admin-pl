@@ -54,7 +54,7 @@
         "wk:page":"Szparki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"cd5218700f98d420d35760290fa93066",
+    "wof:geomhash":"2b8bf0f2057789251e2223a3a29203fc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.83317000000001,
     53.59616
 ],
-  "geometry": {"coordinates":[21.83317000000001,53.59616],"type":"Point"}
+  "geometry": {"coordinates":[21.83317,53.59616],"type":"Point"}
 }

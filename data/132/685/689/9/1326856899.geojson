@@ -51,7 +51,7 @@
         "wk:page":"Bronowo_Ma%C5%82e"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9a80eece6b9b00f33b445777aea88191",
+    "wof:geomhash":"70cef0ad1bbfc217e6746ea06fd113aa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.29688,
     53.76368000000001
 ],
-  "geometry": {"coordinates":[19.29688,53.76368000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.29688,53.76368],"type":"Point"}
 }

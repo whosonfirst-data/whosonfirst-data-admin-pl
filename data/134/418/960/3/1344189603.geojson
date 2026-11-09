@@ -54,7 +54,7 @@
         "wk:page":"Borki%2C_%C5%81%C4%99czyca_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"aa74e4f678ffd172cc0c10bbb82e4977",
+    "wof:geomhash":"d78b13ffcef0e74bf7bb30052f601879",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.19234,
     52.03507000000001
 ],
-  "geometry": {"coordinates":[19.19234,52.03507000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.19234,52.03507],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Gorzewo%2C_W%C4%85growiec_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"29c708fa577f087c7730b009b4c5e7df",
+    "wof:geomhash":"b95e730976ce6829551daba5696e8a33",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.39153,
     52.73889000000001
 ],
-  "geometry": {"coordinates":[17.39153,52.73889000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.39153,52.73889],"type":"Point"}
 }

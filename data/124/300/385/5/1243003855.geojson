@@ -51,7 +51,7 @@
         "wk:page":"Linne%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ebc57494649eef1e487e0b54815780f6",
+    "wof:geomhash":"9cc99741df003412c8312964937175a8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.48097000000001,
     53.07628
 ],
-  "geometry": {"coordinates":[19.48097000000001,53.07628],"type":"Point"}
+  "geometry": {"coordinates":[19.48097,53.07628],"type":"Point"}
 }

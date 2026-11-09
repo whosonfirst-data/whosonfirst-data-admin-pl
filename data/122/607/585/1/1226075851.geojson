@@ -51,7 +51,7 @@
         "wk:page":"Drozdowo%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9fe62393eb2135f5ea58eb470541e7e7",
+    "wof:geomhash":"1be28e97d6470f9d3a704b60d38d378c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.32782000000001,
     53.40809
 ],
-  "geometry": {"coordinates":[18.32782000000001,53.40809],"type":"Point"}
+  "geometry": {"coordinates":[18.32782,53.40809],"type":"Point"}
 }

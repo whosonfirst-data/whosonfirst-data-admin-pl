@@ -54,7 +54,7 @@
         "wk:page":"Jesionka%2C_Gostynin_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"17ab4bbdbea0f65d4ad62850a9ae3911",
+    "wof:geomhash":"c72fa05af514b78a478cc617e771252b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.5785,
     52.39729000000001
 ],
-  "geometry": {"coordinates":[19.5785,52.39729000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.5785,52.39729],"type":"Point"}
 }

@@ -58,7 +58,7 @@
         "wk:page":"Helen%C3%B3w_Tr%C4%99bski"
     },
     "wof:country":"PL",
-    "wof:geomhash":"513719aaddc2547217c016df5583499d",
+    "wof:geomhash":"896177b651a243a08d18c401477ce9aa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,5 +85,5 @@
     19.61667000000001,
     52.38333
 ],
-  "geometry": {"coordinates":[19.61667000000001,52.38333],"type":"Point"}
+  "geometry": {"coordinates":[19.61667,52.38333],"type":"Point"}
 }

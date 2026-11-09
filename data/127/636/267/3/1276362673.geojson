@@ -60,7 +60,7 @@
         "wk:page":"Byszew"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ca919592d093ca5aa61295875672c70c",
+    "wof:geomhash":"627a5a602a30c3f165036bf29b4b4572",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     19.26927,
     52.18134000000001
 ],
-  "geometry": {"coordinates":[19.26927,52.18134000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.26927,52.18134],"type":"Point"}
 }

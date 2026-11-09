@@ -55,7 +55,7 @@
         "wk:page":"Waplewo_Wielkie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"0e0e20ec1e3c25f59fe00cebe6d6b411",
+    "wof:geomhash":"3c1b9f6aa48d00d5f6bfd36e1d51188f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,5 +82,5 @@
     19.23407000000001,
     53.92738000000001
 ],
-  "geometry": {"coordinates":[19.23407000000001,53.92738000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.23407,53.92738],"type":"Point"}
 }

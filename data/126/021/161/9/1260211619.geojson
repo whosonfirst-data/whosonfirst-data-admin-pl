@@ -66,7 +66,7 @@
         "wk:page":"Lin%C3%B3wko"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2bb83547cff04aa6a547d17073ebb809",
+    "wof:geomhash":"2a93a0dffd1d076986a9563f1f3a8e34",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     15.47278,
     53.42446999999999
 ],
-  "geometry": {"coordinates":[15.47278,53.42446999999999],"type":"Point"}
+  "geometry": {"coordinates":[15.47278,53.42447],"type":"Point"}
 }

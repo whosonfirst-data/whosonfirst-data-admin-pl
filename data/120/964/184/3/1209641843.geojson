@@ -54,7 +54,7 @@
         "wk:page":"Mi%C4%85czyn%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4ad8920d141af0f8d87e6ac219a1218c",
+    "wof:geomhash":"b75f5741bdae60268076e3a6d1e8b94c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.43644,
     52.41504000000001
 ],
-  "geometry": {"coordinates":[20.43644,52.41504000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.43644,52.41504],"type":"Point"}
 }

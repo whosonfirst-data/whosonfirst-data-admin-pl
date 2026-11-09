@@ -57,7 +57,7 @@
         "wk:page":"Kruszwin"
     },
     "wof:country":"PL",
-    "wof:geomhash":"30c8d0b076b9683430219957e80d2438",
+    "wof:geomhash":"677c1f11c298dd8cb78b720070bfc24e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     14.83958,
     52.94873000000001
 ],
-  "geometry": {"coordinates":[14.83958,52.94873000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.83958,52.94873],"type":"Point"}
 }

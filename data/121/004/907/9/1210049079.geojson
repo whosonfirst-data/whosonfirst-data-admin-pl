@@ -57,7 +57,7 @@
         "wk:page":"Poni%C4%99cice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"00aa215e0028e05a13fb5bf0e8cd47c5",
+    "wof:geomhash":"e1e255ee33786506d9ee046658471580",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     18.16272,
     50.17599000000001
 ],
-  "geometry": {"coordinates":[18.16272,50.17599000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.16272,50.17599],"type":"Point"}
 }

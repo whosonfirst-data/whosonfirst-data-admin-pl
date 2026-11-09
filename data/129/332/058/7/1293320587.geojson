@@ -67,7 +67,7 @@
         "wk:page":"Mierzyn,_Police_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e0ae63ca55a17fadf34912669dcc33ea",
+    "wof:geomhash":"c9ba7e5be57004b5a31b969af71cd2f5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,5 +94,5 @@
     14.4653,
     53.43004000000001
 ],
-  "geometry": {"coordinates":[14.4653,53.43004000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.4653,53.43004],"type":"Point"}
 }

@@ -51,7 +51,7 @@
         "wk:page":"Nowiny%2C_Lower_Silesian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"0fc53aefb39acd328d0400f5cefd9379",
+    "wof:geomhash":"c93729b4663802874d8cd5aa32daa832",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     16.90049,
     50.98804000000001
 ],
-  "geometry": {"coordinates":[16.90049,50.98804000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.90049,50.98804],"type":"Point"}
 }

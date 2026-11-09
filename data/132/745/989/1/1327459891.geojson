@@ -51,7 +51,7 @@
         "wk:page":"Batkowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3bf2585f53b6937083c681100c050f4f",
+    "wof:geomhash":"d0e1fccc544ef420569d223e6fd2334f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.21051,
     52.76858000000001
 ],
-  "geometry": {"coordinates":[18.21051,52.76858000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.21051,52.76858],"type":"Point"}
 }

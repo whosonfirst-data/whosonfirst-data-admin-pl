@@ -51,7 +51,7 @@
         "wk:page":"N%C4%99dzerzew%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6833cb8b2bc163724817fa7edbc51b08",
+    "wof:geomhash":"21e73bd723f04221ee26691bcb99cfc3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.13797000000001,
     51.76151
 ],
-  "geometry": {"coordinates":[18.13797000000001,51.76151],"type":"Point"}
+  "geometry": {"coordinates":[18.13797,51.76151],"type":"Point"}
 }

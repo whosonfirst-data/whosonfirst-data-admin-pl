@@ -57,7 +57,7 @@
         "wk:page":"Pru%C5%9Bce"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b11af506b497c38c9430ae993dd815ac",
+    "wof:geomhash":"10755b062f2d2b1644a6d13eb7927eb6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     17.08072,
     52.76833000000001
 ],
-  "geometry": {"coordinates":[17.08072,52.76833000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.08072,52.76833],"type":"Point"}
 }

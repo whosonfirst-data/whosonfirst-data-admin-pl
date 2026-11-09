@@ -54,7 +54,7 @@
         "wk:page":"Wygie%C5%82z%C3%B3w%2C_Be%C5%82chat%C3%B3w_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2cd9e48375b95eff2be2b743090de445",
+    "wof:geomhash":"8c81867979637a8e4f6e842497cfab00",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.10747000000001,
     51.45221
 ],
-  "geometry": {"coordinates":[19.10747000000001,51.45221],"type":"Point"}
+  "geometry": {"coordinates":[19.10747,51.45221],"type":"Point"}
 }

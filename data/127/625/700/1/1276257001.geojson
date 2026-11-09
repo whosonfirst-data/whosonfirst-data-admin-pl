@@ -54,7 +54,7 @@
         "wk:page":"Bry%C5%84sk_Szlachecki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"078961d02e3b33c1eff052705d20d740",
+    "wof:geomhash":"569c31828fb81d453e7b382b22fda4e5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.74655,
     53.18248000000001
 ],
-  "geometry": {"coordinates":[19.74655,53.18248000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.74655,53.18248],"type":"Point"}
 }

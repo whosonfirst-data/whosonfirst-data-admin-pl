@@ -48,7 +48,7 @@
         "wk:page":"Mzd%C3%B3wko"
     },
     "wof:country":"PL",
-    "wof:geomhash":"46c8cc5d7504ba734f05a21831297a57",
+    "wof:geomhash":"5ddfdbc338fe6f1a9e1d72a84a59ec5b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     16.77695,
     54.16464000000001
 ],
-  "geometry": {"coordinates":[16.77695,54.16464000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.77695,54.16464],"type":"Point"}
 }

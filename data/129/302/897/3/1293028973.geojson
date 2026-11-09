@@ -62,7 +62,7 @@
         "wk:page":"Stare_Cimochy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7a17fd22fd31df45b74bb548c9304b50",
+    "wof:geomhash":"72b650a646a660a342a421ad3dccfbbb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     22.74513,
     53.88158000000001
 ],
-  "geometry": {"coordinates":[22.74513,53.88158000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.74513,53.88158],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Simuny"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7e546ccd6a0eea746b387cc970a255f5",
+    "wof:geomhash":"e6912d5b6a719adc437a7ce6b3b62307",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     23.10362000000001,
     52.97169
 ],
-  "geometry": {"coordinates":[23.10362000000001,52.97169],"type":"Point"}
+  "geometry": {"coordinates":[23.10362,52.97169],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"Owad%C3%B3w%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2e3b68e13d84237431cb480111bbdf93",
+    "wof:geomhash":"7da86950450b9a92fa29c4e82bb3191f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.20382,
     51.48849000000001
 ],
-  "geometry": {"coordinates":[21.20382,51.48849000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.20382,51.48849],"type":"Point"}
 }

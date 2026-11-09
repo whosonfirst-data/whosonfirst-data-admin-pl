@@ -69,7 +69,7 @@
         "wk:page":"G%C4%85dk%C3%B3w_Wielki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b3b5139c644f767524f9f5d4159c759f",
+    "wof:geomhash":"ea10789f1baa9299475ac1ad0f3bb0c0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     14.96973,
     52.24084000000001
 ],
-  "geometry": {"coordinates":[14.96973,52.24084000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.96973,52.24084],"type":"Point"}
 }

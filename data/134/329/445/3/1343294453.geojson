@@ -54,7 +54,7 @@
         "wk:page":"Gr%C4%85bczyn"
     },
     "wof:country":"PL",
-    "wof:geomhash":"58c1ebb33c639549e67664f16e9a0c99",
+    "wof:geomhash":"6d2ac73d1b70729b20e7479e5361b819",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     16.64072,
     53.88059000000001
 ],
-  "geometry": {"coordinates":[16.64072,53.88059000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.64072,53.88059],"type":"Point"}
 }

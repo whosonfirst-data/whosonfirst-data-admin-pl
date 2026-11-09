@@ -57,7 +57,7 @@
         "wk:page":"Gromin"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3ece09a51e8b217c09994020a84d801f",
+    "wof:geomhash":"890d65590cbbece3acb3e5c7c3c08702",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.01045,
     52.72408000000001
 ],
-  "geometry": {"coordinates":[21.01045,52.72408000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.01045,52.72408],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Roszkowo%2C_W%C4%85growiec_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"103ca7bae50bce5b8c1a6c5be4ec501c",
+    "wof:geomhash":"1445e9a82a5b26cf1a8cbc6dbef2a1e5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.17929,
     52.70274000000001
 ],
-  "geometry": {"coordinates":[17.17929,52.70274000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.17929,52.70274],"type":"Point"}
 }

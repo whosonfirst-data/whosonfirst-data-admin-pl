@@ -66,7 +66,7 @@
         "wk:page":"K%C5%82oski-M%C5%82ynowi%C4%99ta"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f987efc6eb1098ac6cb3c48cc18af57c",
+    "wof:geomhash":"b7033c0b463b4bfdf80782e327a4c42e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     22.61667000000001,
     53.05
 ],
-  "geometry": {"coordinates":[22.61667000000001,53.05],"type":"Point"}
+  "geometry": {"coordinates":[22.61667,53.05],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"Wiel%C4%85dki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4f6ead8d2f79fd6b3ee9484f9f595540",
+    "wof:geomhash":"91aeede28f9763a971c5ff15e36b8f68",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.83445,
     52.39494000000001
 ],
-  "geometry": {"coordinates":[21.83445,52.39494000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.83445,52.39494],"type":"Point"}
 }

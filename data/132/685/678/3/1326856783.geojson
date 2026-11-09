@@ -57,7 +57,7 @@
         "wk:page":"Potaszniki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"114f2942254cd12700ca6216b4710b35",
+    "wof:geomhash":"33b431f4b0d787af10a54db5f32b40bb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.70526,
     51.81782000000001
 ],
-  "geometry": {"coordinates":[21.70526,51.81782000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.70526,51.81782],"type":"Point"}
 }

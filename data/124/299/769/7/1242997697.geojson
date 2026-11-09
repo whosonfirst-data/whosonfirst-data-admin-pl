@@ -54,7 +54,7 @@
         "wk:page":"%C5%BBelazna%2C_Opole_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ae2453b8323f05bbf6e8ffbb793751f2",
+    "wof:geomhash":"5d1016d00f37d5ef889b93c48fc176a3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.84952000000001,
     50.72983
 ],
-  "geometry": {"coordinates":[17.84952000000001,50.72983],"type":"Point"}
+  "geometry": {"coordinates":[17.84952,50.72983],"type":"Point"}
 }

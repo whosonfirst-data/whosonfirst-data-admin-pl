@@ -70,7 +70,7 @@
         "wk:page":"Su%C5%82kowice%2C_Wadowice_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d91558db5a32e63203a49036f7f2827c",
+    "wof:geomhash":"7153c9f6889efa30b0c8d4b57b5ef316",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,5 +99,5 @@
     19.35988,
     49.81932000000001
 ],
-  "geometry": {"coordinates":[19.35988,49.81932000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.35988,49.81932],"type":"Point"}
 }

@@ -62,7 +62,7 @@
         "wk:page":"Kamionki%2C_Go%C5%82dap_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2d45ca10c594d3ee15d423dd19cd27b4",
+    "wof:geomhash":"1fcbf8cc6978893c1c579efc89f53c0b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     22.33806,
     54.20868000000001
 ],
-  "geometry": {"coordinates":[22.33806,54.20868000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.33806,54.20868],"type":"Point"}
 }

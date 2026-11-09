@@ -57,7 +57,7 @@
         "wk:page":"Strze%C5%BCenice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c9ea1208f4bc8b6ec8f300ea6d5a45be",
+    "wof:geomhash":"a79bffd953fba2c55f41729337f37e88",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     16.05301,
     54.23461999999999
 ],
-  "geometry": {"coordinates":[16.05301,54.23461999999999],"type":"Point"}
+  "geometry": {"coordinates":[16.05301,54.23462],"type":"Point"}
 }

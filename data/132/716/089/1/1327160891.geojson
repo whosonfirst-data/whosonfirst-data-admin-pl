@@ -51,7 +51,7 @@
         "wk:page":"Zielonowo%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d694f5d4b41273a0afbf0cfdf16b4e63",
+    "wof:geomhash":"2d0fa0fed5df923131216bb3a4a76072",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.79397999999999,
     52.96295
 ],
-  "geometry": {"coordinates":[17.79397999999999,52.96295],"type":"Point"}
+  "geometry": {"coordinates":[17.79398,52.96295],"type":"Point"}
 }

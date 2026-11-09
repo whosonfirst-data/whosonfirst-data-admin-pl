@@ -54,7 +54,7 @@
         "wk:page":"Ninino"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a2295f98495c14094ec625e883249f57",
+    "wof:geomhash":"bc2d22fc7c093f1ab912ee3bc120ee75",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     16.87178,
     52.79703000000001
 ],
-  "geometry": {"coordinates":[16.87178,52.79703000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.87178,52.79703],"type":"Point"}
 }

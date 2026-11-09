@@ -69,7 +69,7 @@
         "wk:page":"Szkotowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7c623270dd3830090701432a563403f0",
+    "wof:geomhash":"93e42ed637860e255af58037d34d9be2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     20.28041,
     53.40414000000001
 ],
-  "geometry": {"coordinates":[20.28041,53.40414000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.28041,53.40414],"type":"Point"}
 }

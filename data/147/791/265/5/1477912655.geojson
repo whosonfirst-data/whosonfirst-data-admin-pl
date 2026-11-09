@@ -243,7 +243,7 @@
         "pl-gugik:jpt_kod_je":"326301_1"
     },
     "wof:country":"PL",
-    "wof:geomhash":"81734b5bf814686ae6a545f55bdb9fe7",
+    "wof:geomhash":"ac7b38a3fdf7e489c0e2f8c239b138f9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -273,5 +273,5 @@
     14.3256594206865,
     53.8458512973035
 ],
-  "geometry": {"coordinates":[14.3256594206865,53.8458512973035],"type":"Point"}
+  "geometry": {"coordinates":[14.325659,53.845851],"type":"Point"}
 }

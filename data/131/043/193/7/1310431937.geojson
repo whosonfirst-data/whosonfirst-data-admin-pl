@@ -51,7 +51,7 @@
         "wk:page":"Szklana_G%C3%B3ra"
     },
     "wof:country":"PL",
-    "wof:geomhash":"476b8ed1a0198fa44de76a6f028e4c1c",
+    "wof:geomhash":"03a61ac656a54eb8f74cb8985a942d87",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.38877,
     54.21066999999999
 ],
-  "geometry": {"coordinates":[18.38877,54.21066999999999],"type":"Point"}
+  "geometry": {"coordinates":[18.38877,54.21067],"type":"Point"}
 }

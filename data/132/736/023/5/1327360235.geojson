@@ -54,7 +54,7 @@
         "wk:page":"Osieki_L%C4%99borskie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e7349998037c46a67fe0a489c84b8633",
+    "wof:geomhash":"43a8c0c523d089677644c5bc91dc22de",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.89501,
     54.77178000000001
 ],
-  "geometry": {"coordinates":[17.89501,54.77178000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.89501,54.77178],"type":"Point"}
 }

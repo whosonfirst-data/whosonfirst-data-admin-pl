@@ -54,7 +54,7 @@
         "wk:page":"Lin%C3%B3wek%2C_Podlaskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"147219bd052a2ab01cc176a94a3b8c42",
+    "wof:geomhash":"d23caf3671e2b0da73e5fd29a4d79c44",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     23.12048,
     54.16934000000001
 ],
-  "geometry": {"coordinates":[23.12048,54.16934000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.12048,54.16934],"type":"Point"}
 }

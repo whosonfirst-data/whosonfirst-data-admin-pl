@@ -56,7 +56,7 @@
         "wk:page":"Le%C5%BAnica_Wielka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5f4a5c82fa0079a4c25328da92038937",
+    "wof:geomhash":"ef5e152c8ebfefcd457b0bcca5d1700a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,5 +83,5 @@
     19.15252000000001,
     51.99325
 ],
-  "geometry": {"coordinates":[19.15252000000001,51.99325],"type":"Point"}
+  "geometry": {"coordinates":[19.15252,51.99325],"type":"Point"}
 }

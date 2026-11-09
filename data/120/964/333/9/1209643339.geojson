@@ -54,7 +54,7 @@
         "wk:page":"Otoczna"
     },
     "wof:country":"PL",
-    "wof:geomhash":"233732f776b1fe0058ed3943ea88bcf5",
+    "wof:geomhash":"a445bef4f66c2bd5ee81d34995f8137f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.69955,
     52.33244000000001
 ],
-  "geometry": {"coordinates":[17.69955,52.33244000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.69955,52.33244],"type":"Point"}
 }

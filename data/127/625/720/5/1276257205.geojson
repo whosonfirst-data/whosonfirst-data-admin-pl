@@ -51,7 +51,7 @@
         "wk:page":"D%C4%85b_Ma%C5%82y"
     },
     "wof:country":"PL",
-    "wof:geomhash":"0ac8417e2e34a9e6aaf64b69f094ba6b",
+    "wof:geomhash":"59015d49416db1b7feb922f830d0708a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.36357000000001,
     52.60451
 ],
-  "geometry": {"coordinates":[19.36357000000001,52.60451],"type":"Point"}
+  "geometry": {"coordinates":[19.36357,52.60451],"type":"Point"}
 }

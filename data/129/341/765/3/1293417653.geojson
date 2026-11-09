@@ -70,7 +70,7 @@
         "wk:page":"Trzyg%C5%82%C3%B3w%2C_West_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"16e59943cc44d8e9e059b565fce283de",
+    "wof:geomhash":"0ddf001d11af280cfbb4c54341fd0437",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,5 +97,5 @@
     15.16388,
     53.86123000000001
 ],
-  "geometry": {"coordinates":[15.16388,53.86123000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.16388,53.86123],"type":"Point"}
 }

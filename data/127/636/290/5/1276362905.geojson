@@ -59,7 +59,7 @@
         "wk:page":"Wojny-Szuby_W%C5%82o%C5%9Bcia%C5%84skie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1fc80d553ab12504fbc0a4ee79c6e969",
+    "wof:geomhash":"a6ba30dbc4e64b88864a7a4a6d1c6023",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,5 +86,5 @@
     22.55661,
     52.80563000000001
 ],
-  "geometry": {"coordinates":[22.55661,52.80563000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.55661,52.80563],"type":"Point"}
 }

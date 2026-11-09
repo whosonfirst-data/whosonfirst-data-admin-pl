@@ -60,7 +60,7 @@
         "wk:page":"Brzoza%2C_Toru%C5%84_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f3dff388207d86b3857054d9a73c5fc6",
+    "wof:geomhash":"dda8c096d8f99e038fb4925f25c1b204",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     18.68941,
     52.95829000000001
 ],
-  "geometry": {"coordinates":[18.68941,52.95829000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.68941,52.95829],"type":"Point"}
 }

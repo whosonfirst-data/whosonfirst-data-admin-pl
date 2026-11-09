@@ -48,7 +48,7 @@
         "wk:page":"Talarkowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1647c46e53aebb15ec0ed4c5c5dd750a",
+    "wof:geomhash":"a42ff08208da7d4fe52438d12a0c17c5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     18.43068,
     52.47796999999999
 ],
-  "geometry": {"coordinates":[18.43068,52.47796999999999],"type":"Point"}
+  "geometry": {"coordinates":[18.43068,52.47797],"type":"Point"}
 }

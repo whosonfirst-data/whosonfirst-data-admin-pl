@@ -48,7 +48,7 @@
         "wk:page":"Czekaj_Pniowski"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1d44eac8741c9a8b7f09c581dee533f0",
+    "wof:geomhash":"67a2bd2c715ead3b8760beb5913e01bd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     21.86667000000001,
     50.71667
 ],
-  "geometry": {"coordinates":[21.86667000000001,50.71667],"type":"Point"}
+  "geometry": {"coordinates":[21.86667,50.71667],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"Koci%C4%99cin-Tworki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"83684157b18997086cfb09f791b948ef",
+    "wof:geomhash":"405cbb29a2f757d83556831378fa89a4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     20.2339,
     52.86338000000001
 ],
-  "geometry": {"coordinates":[20.2339,52.86338000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.2339,52.86338],"type":"Point"}
 }

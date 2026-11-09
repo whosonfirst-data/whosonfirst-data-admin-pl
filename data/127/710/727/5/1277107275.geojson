@@ -57,7 +57,7 @@
         "wk:page":"Kamosowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"468dd3830c32f81d07d7c4618bab8591",
+    "wof:geomhash":"ab65617a100b97331d87669dc4cf4797",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     15.89869,
     53.98298000000001
 ],
-  "geometry": {"coordinates":[15.89869,53.98298000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.89869,53.98298],"type":"Point"}
 }

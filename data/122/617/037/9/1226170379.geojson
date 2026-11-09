@@ -57,7 +57,7 @@
         "wk:page":"Mie%C5%9Bciska"
     },
     "wof:country":"PL",
-    "wof:geomhash":"cf3b8a4d237ff40d0c45dfc8e492abd8",
+    "wof:geomhash":"dbd0e57fc8dc7384774c3fcfa90ff949",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     16.48876,
     52.44951999999999
 ],
-  "geometry": {"coordinates":[16.48876,52.44951999999999],"type":"Point"}
+  "geometry": {"coordinates":[16.48876,52.44952],"type":"Point"}
 }

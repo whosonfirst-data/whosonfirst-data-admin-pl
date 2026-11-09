@@ -57,7 +57,7 @@
         "wk:page":"Rokita%2C_West_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"004297d7d981f88ce33852d681f45f9b",
+    "wof:geomhash":"236df6184ced716e8f4a7e90e75af1ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     14.83891,
     53.76533000000001
 ],
-  "geometry": {"coordinates":[14.83891,53.76533000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.83891,53.76533],"type":"Point"}
 }

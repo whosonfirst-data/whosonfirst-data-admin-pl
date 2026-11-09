@@ -54,7 +54,7 @@
         "wk:page":"Jele%C5%84%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"43cae00415aca4f2fd6b5e1fdb925967",
+    "wof:geomhash":"59419adf7d8515ddb7a0e3d3a86e0958",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.37655,
     53.38583000000001
 ],
-  "geometry": {"coordinates":[17.37655,53.38583000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.37655,53.38583],"type":"Point"}
 }

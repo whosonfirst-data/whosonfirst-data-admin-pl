@@ -57,7 +57,7 @@
         "wk:page":"Talczyn"
     },
     "wof:country":"PL",
-    "wof:geomhash":"053ea7d1a3a4912a53d26fb771e10f64",
+    "wof:geomhash":"a5619029eb097d1245b62a53a86217c0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.41237000000001,
     51.68578
 ],
-  "geometry": {"coordinates":[22.41237000000001,51.68578],"type":"Point"}
+  "geometry": {"coordinates":[22.41237,51.68578],"type":"Point"}
 }

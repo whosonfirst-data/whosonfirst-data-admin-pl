@@ -54,7 +54,7 @@
         "wk:page":"Ignac%C3%B3w_Szlachecki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8f382a6a2c97f44893bbea4ba11b2815",
+    "wof:geomhash":"0c50a1370f5355faed3d3b386b22ffc2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.79507000000001,
     51.18765
 ],
-  "geometry": {"coordinates":[19.79507000000001,51.18765],"type":"Point"}
+  "geometry": {"coordinates":[19.79507,51.18765],"type":"Point"}
 }

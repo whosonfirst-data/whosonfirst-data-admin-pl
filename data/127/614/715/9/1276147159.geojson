@@ -63,7 +63,7 @@
         "wk:page":"Sicko%2C_Poland"
     },
     "wof:country":"PL",
-    "wof:geomhash":"dd33495d30ec7bbed945c81d14ee41f2",
+    "wof:geomhash":"7bea22c933c5a4cf8faee9fd0c34a21d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     15.49213,
     53.26139000000001
 ],
-  "geometry": {"coordinates":[15.49213,53.26139000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.49213,53.26139],"type":"Point"}
 }

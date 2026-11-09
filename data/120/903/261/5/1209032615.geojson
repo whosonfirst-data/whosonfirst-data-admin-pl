@@ -54,7 +54,7 @@
         "wk:page":"Moracz"
     },
     "wof:country":"PL",
-    "wof:geomhash":"763ca75c91e7030d6583fe9599920795",
+    "wof:geomhash":"7b7166de887c83fb7938f2a19f180e91",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     14.87472,
     53.77373000000001
 ],
-  "geometry": {"coordinates":[14.87472,53.77373000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.87472,53.77373],"type":"Point"}
 }

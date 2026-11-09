@@ -66,7 +66,7 @@
         "wk:page":"Go%C5%82asze_Mo%C5%9Bcickie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e7c8976268f31ab6cd5c54bcfa4b443b",
+    "wof:geomhash":"2eabf10d9e2e0c88114e57a51a4a0b01",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     22.45882000000001,
     52.98967
 ],
-  "geometry": {"coordinates":[22.45882000000001,52.98967],"type":"Point"}
+  "geometry": {"coordinates":[22.45882,52.98967],"type":"Point"}
 }

@@ -66,7 +66,7 @@
         "wk:page":"Krupy%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"15dedb8f01d6218948efcf2f03091cf6",
+    "wof:geomhash":"391791fd0dd9bc915cc552d82bb6e208",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     22.12589,
     52.62971999999999
 ],
-  "geometry": {"coordinates":[22.12589,52.62971999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.12589,52.62972],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Worp%C5%82awki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"92b8d0ebae63d062708f8f2f81ae18a6",
+    "wof:geomhash":"8bbb04465598ac2b1883f6f433e840e9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.17123,
     54.08508000000001
 ],
-  "geometry": {"coordinates":[21.17123,54.08508000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.17123,54.08508],"type":"Point"}
 }

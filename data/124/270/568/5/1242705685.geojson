@@ -51,7 +51,7 @@
         "wk:page":"Pniewy%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ed484c7d4637c85a35208963427f6480",
+    "wof:geomhash":"282c1b961641b980eeaf33d0a86ffcbc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.82417000000001,
     52.80465
 ],
-  "geometry": {"coordinates":[17.82417000000001,52.80465],"type":"Point"}
+  "geometry": {"coordinates":[17.82417,52.80465],"type":"Point"}
 }

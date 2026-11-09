@@ -63,7 +63,7 @@
         "wk:page":"Chech%C5%82owo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"0b40805a2c6f86690ffc7df6f1370ff1",
+    "wof:geomhash":"1d26a77c1c5364e594a30bb44a6ab11a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     22.57622000000001,
     52.50755
 ],
-  "geometry": {"coordinates":[22.57622000000001,52.50755],"type":"Point"}
+  "geometry": {"coordinates":[22.57622,52.50755],"type":"Point"}
 }

@@ -48,7 +48,7 @@
         "wk:page":"Pe%C5%82czyce%2C_O%C5%82awa_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"68b090aae3017da44a9069b5e919612e",
+    "wof:geomhash":"a8980522f83284d37e4163f8f0df8553",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     17.21952000000001,
     50.9078
 ],
-  "geometry": {"coordinates":[17.21952000000001,50.9078],"type":"Point"}
+  "geometry": {"coordinates":[17.21952,50.9078],"type":"Point"}
 }

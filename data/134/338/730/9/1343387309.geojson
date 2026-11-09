@@ -54,7 +54,7 @@
         "wk:page":"Stanis%C5%82awowo%2C_%C5%81om%C5%BCa_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ce0211f6f66ac2235933c6b4ee4ccef9",
+    "wof:geomhash":"5e289fa9120ce11bf6632fff3f843808",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.69405,
     53.18989000000001
 ],
-  "geometry": {"coordinates":[21.69405,53.18989000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.69405,53.18989],"type":"Point"}
 }

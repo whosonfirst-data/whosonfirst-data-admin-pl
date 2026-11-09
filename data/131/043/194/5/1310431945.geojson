@@ -51,7 +51,7 @@
         "wk:page":"Mietlica%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e8ed3b918d82ee7a6fff6bbf82891546",
+    "wof:geomhash":"3935638bc7f87be1463620de946d1333",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.38236,
     52.54369000000001
 ],
-  "geometry": {"coordinates":[18.38236,52.54369000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.38236,52.54369],"type":"Point"}
 }

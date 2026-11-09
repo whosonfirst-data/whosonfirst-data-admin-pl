@@ -57,7 +57,7 @@
         "wk:page":"Taczalin"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4c7074199a1e3a627eb30ece6c26d3b9",
+    "wof:geomhash":"04c5e9cbdc4f6a4c4b920ae272e550bd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     16.30577000000001,
     51.15459
 ],
-  "geometry": {"coordinates":[16.30577000000001,51.15459],"type":"Point"}
+  "geometry": {"coordinates":[16.30577,51.15459],"type":"Point"}
 }

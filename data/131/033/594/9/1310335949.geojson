@@ -57,7 +57,7 @@
         "wk:page":"Kot%C5%82owo%2C_West_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"45b3218912db2053a85997ac776f7807",
+    "wof:geomhash":"17261d2568acc367616f85bd24f5062e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     16.06556,
     54.14073000000001
 ],
-  "geometry": {"coordinates":[16.06556,54.14073000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.06556,54.14073],"type":"Point"}
 }

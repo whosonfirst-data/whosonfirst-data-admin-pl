@@ -61,7 +61,7 @@
         "wk:page":"Mi%C5%82usze"
     },
     "wof:country":"PL",
-    "wof:geomhash":"71ca284839a590ae1603621a7f94ac8f",
+    "wof:geomhash":"70dd2a04df5ab669a9466a4a0b486823",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     22.36667000000001,
     53.71666999999999
 ],
-  "geometry": {"coordinates":[22.36667000000001,53.71666999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.36667,53.71667],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"Ci%C4%99%C5%BCkowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4426e686ee63c4a91958986dbbc9d4e8",
+    "wof:geomhash":"b58469501338175c7e44ff6c0f06ffe9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     17.64532999999999,
     52.94273000000001
 ],
-  "geometry": {"coordinates":[17.64532999999999,52.94273000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.64533,52.94273],"type":"Point"}
 }

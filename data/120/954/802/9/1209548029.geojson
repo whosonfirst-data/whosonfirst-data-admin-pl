@@ -60,7 +60,7 @@
         "wk:page":"Korzeniste"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e480128e8e25899ba67665cf0229d841",
+    "wof:geomhash":"6c37eb3a8c519502780776707bd472d3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     22.01372000000001,
     53.34496
 ],
-  "geometry": {"coordinates":[22.01372000000001,53.34496],"type":"Point"}
+  "geometry": {"coordinates":[22.01372,53.34496],"type":"Point"}
 }

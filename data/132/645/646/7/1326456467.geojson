@@ -57,7 +57,7 @@
         "wk:page":"Emilian%C3%B3w%2C_%C5%BByrard%C3%B3w_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9d6c1d61f629fa98266cb89b3c6a2a21",
+    "wof:geomhash":"552636105943fd34b12219c345f17b65",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     20.32436,
     51.92384000000001
 ],
-  "geometry": {"coordinates":[20.32436,51.92384000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.32436,51.92384],"type":"Point"}
 }

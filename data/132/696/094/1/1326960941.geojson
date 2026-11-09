@@ -54,7 +54,7 @@
         "wk:page":"Mys%C5%82akowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"bafd9d611bd5e23c61dcc58f47a97605",
+    "wof:geomhash":"bc7b76ca67aace43f5a52ce61e7985e1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.45413,
     52.79378000000001
 ],
-  "geometry": {"coordinates":[19.45413,52.79378000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.45413,52.79378],"type":"Point"}
 }

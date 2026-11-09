@@ -63,7 +63,7 @@
         "wk:page":"Chwal%C4%99cin%2C_Warmian-Masurian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c74f3e9634b0d9a0191b73626a91fda6",
+    "wof:geomhash":"ba053fc5038dd7789a25e865b8524412",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     20.02067000000001,
     54.16161999999999
 ],
-  "geometry": {"coordinates":[20.02067000000001,54.16161999999999],"type":"Point"}
+  "geometry": {"coordinates":[20.02067,54.16162],"type":"Point"}
 }

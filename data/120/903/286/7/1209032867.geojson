@@ -63,7 +63,7 @@
         "wk:page":"Podjenin"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3eaf41b2e553024f3e75157887ee93a6",
+    "wof:geomhash":"8f7af45733ee89d8b56d5d26c7e99fbb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     15.05442,
     52.65669000000001
 ],
-  "geometry": {"coordinates":[15.05442,52.65669000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.05442,52.65669],"type":"Point"}
 }

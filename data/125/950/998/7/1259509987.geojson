@@ -54,7 +54,7 @@
         "wk:page":"Patoki%2C_%C5%81owicz_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1e7151fb245ff97e1d86b4face256dfc",
+    "wof:geomhash":"92e71f911cda4295e00b20518c6aa310",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.10017,
     52.14044000000001
 ],
-  "geometry": {"coordinates":[20.10017,52.14044000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.10017,52.14044],"type":"Point"}
 }

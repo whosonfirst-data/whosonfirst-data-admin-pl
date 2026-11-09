@@ -54,7 +54,7 @@
         "wk:page":"Gr%C4%85bczewo%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e98ed8977dbf46fa4979fbc3fc9ef0bd",
+    "wof:geomhash":"a44d42adae34d9881c85d7357ed49d78",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.3359,
     52.51929000000001
 ],
-  "geometry": {"coordinates":[20.3359,52.51929000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.3359,52.51929],"type":"Point"}
 }

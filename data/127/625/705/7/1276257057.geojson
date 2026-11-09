@@ -51,7 +51,7 @@
         "wk:page":"Lachawa"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6455f45201838d4aeae8d22e3098efbb",
+    "wof:geomhash":"a417cbcb2dd7872b3f004b1fbe260bdc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     22.36667000000001,
     49.65
 ],
-  "geometry": {"coordinates":[22.36667000000001,49.65],"type":"Point"}
+  "geometry": {"coordinates":[22.36667,49.65],"type":"Point"}
 }

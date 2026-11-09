@@ -57,7 +57,7 @@
         "wk:page":"P%C5%82aszewko"
     },
     "wof:country":"PL",
-    "wof:geomhash":"223b5af8ba2cb276a2294def7f3ebb45",
+    "wof:geomhash":"faa9534bfa023e6da7c708cd6e11f7b4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     17.07281,
     54.42738000000001
 ],
-  "geometry": {"coordinates":[17.07281,54.42738000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.07281,54.42738],"type":"Point"}
 }

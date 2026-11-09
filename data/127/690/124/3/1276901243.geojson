@@ -57,7 +57,7 @@
         "wk:page":"Dziaduszyce"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ee9e4aeeb99af29e10a7fc3d9f6eb5c7",
+    "wof:geomhash":"45fd7432506695424108f1f5b1e5a78c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     20.27132000000001,
     50.38193
 ],
-  "geometry": {"coordinates":[20.27132000000001,50.38193],"type":"Point"}
+  "geometry": {"coordinates":[20.27132,50.38193],"type":"Point"}
 }

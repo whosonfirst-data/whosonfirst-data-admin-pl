@@ -54,7 +54,7 @@
         "wk:page":"Zakrzewo%2C_Lipno_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7e049ff51f51c9e0325c9192037ff5a8",
+    "wof:geomhash":"3fa5d8b23a29cffd93888ba2944549c5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.31972,
     52.71378000000001
 ],
-  "geometry": {"coordinates":[19.31972,52.71378000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.31972,52.71378],"type":"Point"}
 }

@@ -52,7 +52,7 @@
         "wk:page":"Budziw%C3%B3j"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9ecab0c3bbfdaadf2c4361ee9d3c2614",
+    "wof:geomhash":"33ee4a0a690ffe3c4267b2e95fcd618a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,5 +82,5 @@
     21.98257000000001,
     49.96647
 ],
-  "geometry": {"coordinates":[21.98257000000001,49.96647],"type":"Point"}
+  "geometry": {"coordinates":[21.98257,49.96647],"type":"Point"}
 }

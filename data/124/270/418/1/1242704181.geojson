@@ -63,7 +63,7 @@
         "wk:page":"Turowo%2C_Przasnysz_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"66f3899ab1e2b3005fedd08cf266de11",
+    "wof:geomhash":"c2fc270fd2bb22bb66e5e29dc4d8b146",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     20.816,
     52.97728000000001
 ],
-  "geometry": {"coordinates":[20.816,52.97728000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.816,52.97728],"type":"Point"}
 }

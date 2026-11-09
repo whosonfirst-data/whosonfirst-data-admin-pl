@@ -51,7 +51,7 @@
         "wk:page":"Lipka%2C_Lower_Silesian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7915060a0ec8859f3b9e4e86c31523e3",
+    "wof:geomhash":"1ff8e32695647c68414e7341b2eeeb87",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.61941000000001,
     51.20618
 ],
-  "geometry": {"coordinates":[17.61941000000001,51.20618],"type":"Point"}
+  "geometry": {"coordinates":[17.61941,51.20618],"type":"Point"}
 }

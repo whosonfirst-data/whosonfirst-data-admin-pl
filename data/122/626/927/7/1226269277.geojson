@@ -51,7 +51,7 @@
         "wk:page":"W%C5%82ostowo%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d3003412f59d979e64ba621992690509",
+    "wof:geomhash":"206721c9c21a150e429d6cdc05b91712",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.3093,
     52.58221999999999
 ],
-  "geometry": {"coordinates":[18.3093,52.58221999999999],"type":"Point"}
+  "geometry": {"coordinates":[18.3093,52.58222],"type":"Point"}
 }

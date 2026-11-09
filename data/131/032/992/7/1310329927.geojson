@@ -57,7 +57,7 @@
         "wk:page":"Wielowie%C5%9B%2C_Mi%C4%99dzych%C3%B3d_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"056000b1b25a71e334e53e8205084ff8",
+    "wof:geomhash":"793eba5f1e10c3a6db18aa728b5832d6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     15.8973,
     52.58443000000001
 ],
-  "geometry": {"coordinates":[15.8973,52.58443000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.8973,52.58443],"type":"Point"}
 }

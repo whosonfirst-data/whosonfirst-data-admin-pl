@@ -63,7 +63,7 @@
         "wk:page":"Biebrowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5d4e81dce684e2a1f5d24c18b9c36c60",
+    "wof:geomhash":"980e9ece2dd2963d8ebedc4349d2f641",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     17.80867000000001,
     54.77802
 ],
-  "geometry": {"coordinates":[17.80867000000001,54.77802],"type":"Point"}
+  "geometry": {"coordinates":[17.80867,54.77802],"type":"Point"}
 }

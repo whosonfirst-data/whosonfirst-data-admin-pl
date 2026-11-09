@@ -51,7 +51,7 @@
         "wk:page":"Okunino"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a5f594af3ff292dddba76cc0805a9b2c",
+    "wof:geomhash":"419b45ca55dceb5ab3789a5ca3856c83",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     16.94972000000001,
     54.0662
 ],
-  "geometry": {"coordinates":[16.94972000000001,54.0662],"type":"Point"}
+  "geometry": {"coordinates":[16.94972,54.0662],"type":"Point"}
 }

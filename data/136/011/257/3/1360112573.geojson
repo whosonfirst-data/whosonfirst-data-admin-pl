@@ -75,7 +75,7 @@
         "wk:page":"Bia%C5%82ogarda"
     },
     "wof:country":"PL",
-    "wof:geomhash":"568e95ba4d1953ed4102e4dcb511b15f",
+    "wof:geomhash":"24b4b6d5dc14b701a458e3f7034fe7c2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,5 +102,5 @@
     17.65338999999999,
     54.65255
 ],
-  "geometry": {"coordinates":[17.65338999999999,54.65255],"type":"Point"}
+  "geometry": {"coordinates":[17.65339,54.65255],"type":"Point"}
 }

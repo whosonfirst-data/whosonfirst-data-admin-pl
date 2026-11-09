@@ -54,7 +54,7 @@
         "wk:page":"Igliczyzna"
     },
     "wof:country":"PL",
-    "wof:geomhash":"653159b71490fd82675843f9bd470194",
+    "wof:geomhash":"27d7c22fa903f49a26d7448275852765",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.48059,
     53.21073000000001
 ],
-  "geometry": {"coordinates":[19.48059,53.21073000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.48059,53.21073],"type":"Point"}
 }

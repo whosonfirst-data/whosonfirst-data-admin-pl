@@ -51,7 +51,7 @@
         "wk:page":"Szon%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"0468263e3ca79b4ee23ae1af4b399a76",
+    "wof:geomhash":"5fd2619c387029993a02e2b4c18d1b91",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.83732999999999,
     50.30513
 ],
-  "geometry": {"coordinates":[17.83732999999999,50.30513],"type":"Point"}
+  "geometry": {"coordinates":[17.83733,50.30513],"type":"Point"}
 }

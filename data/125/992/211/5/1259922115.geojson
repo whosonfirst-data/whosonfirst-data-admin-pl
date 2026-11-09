@@ -51,7 +51,7 @@
         "wk:page":"Opatkowice_Poja%C5%82owskie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ecb8feb6c836cb5e36d36df4634e2d2f",
+    "wof:geomhash":"22855d75fca7ca873f53300ed3300a47",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     20.36667000000001,
     50.55
 ],
-  "geometry": {"coordinates":[20.36667000000001,50.55],"type":"Point"}
+  "geometry": {"coordinates":[20.36667,50.55],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"%C5%BBochowo%2C_Ostr%C3%B3w_Mazowiecka_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"41539c866dbf1049da72c9bf7671f293",
+    "wof:geomhash":"ebdf72a4018e36643f1af9b5555c697c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.9924,
     52.87918000000001
 ],
-  "geometry": {"coordinates":[21.9924,52.87918000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.9924,52.87918],"type":"Point"}
 }

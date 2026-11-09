@@ -62,7 +62,7 @@
         "wk:page":"Wojnowice%2C_Nowy_Tomy%C5%9Bl_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"296269d89d4b3c01a474084ae5c8c19d",
+    "wof:geomhash":"2f92f8eb7ccdb50739ec4eac518b9d2d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,5 +101,5 @@
     16.46486,
     52.33114000000001
 ],
-  "geometry": {"coordinates":[16.46486,52.33114000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.46486,52.33114],"type":"Point"}
 }

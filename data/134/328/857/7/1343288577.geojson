@@ -57,7 +57,7 @@
         "wk:page":"Go%C5%BAdzik%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3b3df9e5642e177dd6ca28e51120a50f",
+    "wof:geomhash":"b18c2ea777e276cfc8240f7b284e1582",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.73252,
     51.90864000000001
 ],
-  "geometry": {"coordinates":[21.73252,51.90864000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.73252,51.90864],"type":"Point"}
 }

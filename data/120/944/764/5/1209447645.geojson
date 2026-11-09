@@ -54,7 +54,7 @@
         "wk:page":"Brze%C5%BAnica%2C_Gmina_Srokowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"efb960cd8b0b3e94356461bf24764367",
+    "wof:geomhash":"3be6f757660b8161251dee5f1730a239",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.49183,
     54.32013000000001
 ],
-  "geometry": {"coordinates":[21.49183,54.32013000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.49183,54.32013],"type":"Point"}
 }

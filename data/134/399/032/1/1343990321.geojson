@@ -54,7 +54,7 @@
         "wk:page":"Brzemiona"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9a6535f585e8fa7bb3b98f8952072679",
+    "wof:geomhash":"3b3a73d4ec80a83d33bd221ecfec4714",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.25577,
     53.57709000000001
 ],
-  "geometry": {"coordinates":[18.25577,53.57709000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.25577,53.57709],"type":"Point"}
 }

@@ -51,7 +51,7 @@
         "wk:page":"Wilczewo%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"719da3d9c254ea5809822c72ef618bcc",
+    "wof:geomhash":"ac2869ff716d7318f53a1954244554ee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.15102000000001,
     53.07465
 ],
-  "geometry": {"coordinates":[19.15102000000001,53.07465],"type":"Point"}
+  "geometry": {"coordinates":[19.15102,53.07465],"type":"Point"}
 }

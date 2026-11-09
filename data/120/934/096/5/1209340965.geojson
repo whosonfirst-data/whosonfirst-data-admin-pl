@@ -63,7 +63,7 @@
         "wk:page":"Boczk%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8b726396b7a26eef148ab2f90f731930",
+    "wof:geomhash":"2f7a7eb243b3e54b12dc8e90dfacacb3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     17.99047000000001,
     51.73098
 ],
-  "geometry": {"coordinates":[17.99047000000001,51.73098],"type":"Point"}
+  "geometry": {"coordinates":[17.99047,51.73098],"type":"Point"}
 }

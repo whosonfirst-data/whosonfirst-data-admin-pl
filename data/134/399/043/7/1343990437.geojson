@@ -58,7 +58,7 @@
         "wk:page":"Podmyszad%C5%82a"
     },
     "wof:country":"PL",
-    "wof:geomhash":"06579f9f13732daac2ecaa3cdff59391",
+    "wof:geomhash":"50e784f08949a8fbffb6faf46631b67d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,5 +85,5 @@
     21.68333,
     52.46666999999999
 ],
-  "geometry": {"coordinates":[21.68333,52.46666999999999],"type":"Point"}
+  "geometry": {"coordinates":[21.68333,52.46667],"type":"Point"}
 }

@@ -63,7 +63,7 @@
         "wk:page":"Kwiedzina"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a437507f4ddff759f6d37f98f4771dc2",
+    "wof:geomhash":"84f74c635776a311325cd2d2980c1713",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     21.4628,
     54.05031999999999
 ],
-  "geometry": {"coordinates":[21.4628,54.05031999999999],"type":"Point"}
+  "geometry": {"coordinates":[21.4628,54.05032],"type":"Point"}
 }

@@ -51,7 +51,7 @@
         "wk:page":"Cierplewo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b0b11e05a8d85ba983f7562e87a4e317",
+    "wof:geomhash":"3e35613760eb2efa264e9afc8f85e894",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.98486,
     53.40278000000001
 ],
-  "geometry": {"coordinates":[17.98486,53.40278000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.98486,53.40278],"type":"Point"}
 }

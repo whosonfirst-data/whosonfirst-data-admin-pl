@@ -51,7 +51,7 @@
         "wk:page":"Zborowiec"
     },
     "wof:country":"PL",
-    "wof:geomhash":"25fd3cfa96676977d32ec79bce3d90e9",
+    "wof:geomhash":"ae6dcdf6382463dc0fefe5e8c1310485",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.52912,
     52.53386999999999
 ],
-  "geometry": {"coordinates":[18.52912,52.53386999999999],"type":"Point"}
+  "geometry": {"coordinates":[18.52912,52.53387],"type":"Point"}
 }

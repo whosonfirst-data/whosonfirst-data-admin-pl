@@ -54,7 +54,7 @@
         "wk:page":"Borzys%C5%82awiec"
     },
     "wof:country":"PL",
-    "wof:geomhash":"690ba357a6f1901cac37ca24087e2097",
+    "wof:geomhash":"28af93644715452ad3af8c5d61f4016f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     14.71817,
     53.51858000000001
 ],
-  "geometry": {"coordinates":[14.71817,53.51858000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.71817,53.51858],"type":"Point"}
 }

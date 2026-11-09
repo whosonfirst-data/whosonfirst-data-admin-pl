@@ -51,7 +51,7 @@
         "wk:page":"Nowa_Tuchola"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f286c51c005186ad2e77d24255c85e3b",
+    "wof:geomhash":"7328d6e49497bbded29089048ccd7d9b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.83854,
     53.58114000000001
 ],
-  "geometry": {"coordinates":[17.83854,53.58114000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.83854,53.58114],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"Malenin%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a5cc7aec4800f5ce07496e1c9af4d2d1",
+    "wof:geomhash":"c77c8c7bacda026aeb846a196e550f2e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     17.73278999999999,
     52.42239
 ],
-  "geometry": {"coordinates":[17.73278999999999,52.42239],"type":"Point"}
+  "geometry": {"coordinates":[17.73279,52.42239],"type":"Point"}
 }

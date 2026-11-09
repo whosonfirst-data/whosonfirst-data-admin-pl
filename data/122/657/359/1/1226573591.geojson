@@ -54,7 +54,7 @@
         "wk:page":"Cie%C4%87mierz"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d146d867c962a047dc14cb8d7eaaa79c",
+    "wof:geomhash":"74aa26883709b3d77fa772bd4b0e0200",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     15.03342,
     53.99183000000001
 ],
-  "geometry": {"coordinates":[15.03342,53.99183000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.03342,53.99183],"type":"Point"}
 }

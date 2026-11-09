@@ -54,7 +54,7 @@
         "wk:page":"Linowiec%2C_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"eae47bd42ace6410d6d27583950f65e4",
+    "wof:geomhash":"4fae0127ac0bc7fa2be02f6aadbe4cc8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.49852000000001,
     54.01891
 ],
-  "geometry": {"coordinates":[18.49852000000001,54.01891],"type":"Point"}
+  "geometry": {"coordinates":[18.49852,54.01891],"type":"Point"}
 }

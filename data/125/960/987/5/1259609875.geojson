@@ -57,7 +57,7 @@
         "wk:page":"Wabcz"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a4631b19c45140686b6970c32b7f8ccb",
+    "wof:geomhash":"033e86984ddcc97c97b8c0b946720a1b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     18.56908,
     53.34701999999999
 ],
-  "geometry": {"coordinates":[18.56908,53.34701999999999],"type":"Point"}
+  "geometry": {"coordinates":[18.56908,53.34702],"type":"Point"}
 }

@@ -70,7 +70,7 @@
         "wk:page":"Zanie%2C_Warmian-Masurian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"eb07509d82c3fece17f0faa1b648b3bd",
+    "wof:geomhash":"3d3fc2a179212195327f8ba3e22bf7d4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,5 +97,5 @@
     22.71492000000001,
     53.92749
 ],
-  "geometry": {"coordinates":[22.71492000000001,53.92749],"type":"Point"}
+  "geometry": {"coordinates":[22.71492,53.92749],"type":"Point"}
 }

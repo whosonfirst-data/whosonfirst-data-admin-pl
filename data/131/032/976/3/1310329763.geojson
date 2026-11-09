@@ -48,7 +48,7 @@
         "wk:page":"Czarmu%C5%84"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2cbf233f2cbd2d97135808c2f97eb3c6",
+    "wof:geomhash":"2f915db3a4675a2bf45069574178b230",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     17.44676,
     53.30048000000001
 ],
-  "geometry": {"coordinates":[17.44676,53.30048000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.44676,53.30048],"type":"Point"}
 }

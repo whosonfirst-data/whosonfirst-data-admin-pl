@@ -62,7 +62,7 @@
         "wk:page":"Kozaki%2C_Poland"
     },
     "wof:country":"PL",
-    "wof:geomhash":"81926d910364e684644234c7cf119042",
+    "wof:geomhash":"ad75f2ab562e95ea01700adb3285303a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     22.34535,
     54.26363000000001
 ],
-  "geometry": {"coordinates":[22.34535,54.26363000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.34535,54.26363],"type":"Point"}
 }

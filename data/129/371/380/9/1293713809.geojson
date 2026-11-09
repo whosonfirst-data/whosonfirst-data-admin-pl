@@ -54,7 +54,7 @@
         "wk:page":"G%C5%82uchowo%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"27ee69a1b0d40871cb24739eb7e73733",
+    "wof:geomhash":"e222d6f9269f45cb77a66659aed985e3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.60442,
     52.73504000000001
 ],
-  "geometry": {"coordinates":[19.60442,52.73504000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.60442,52.73504],"type":"Point"}
 }

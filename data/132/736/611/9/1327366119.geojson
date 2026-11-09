@@ -54,7 +54,7 @@
         "wk:page":"Lubcz%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"10e1cbf4d53f37a0979e95e1cf172840",
+    "wof:geomhash":"dec0d26bf4af591c1c919508719b0155",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.68332999999999,
     52.68878
 ],
-  "geometry": {"coordinates":[17.68332999999999,52.68878],"type":"Point"}
+  "geometry": {"coordinates":[17.68333,52.68878],"type":"Point"}
 }

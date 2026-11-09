@@ -60,7 +60,7 @@
         "wk:page":"Lewkowiec"
     },
     "wof:country":"PL",
-    "wof:geomhash":"fcfe9047fd8a6f6775e32831e07c32e8",
+    "wof:geomhash":"510bbe61fcce054afc07ade328d17fbf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     17.79567999999999,
     51.69356
 ],
-  "geometry": {"coordinates":[17.79567999999999,51.69356],"type":"Point"}
+  "geometry": {"coordinates":[17.79568,51.69356],"type":"Point"}
 }

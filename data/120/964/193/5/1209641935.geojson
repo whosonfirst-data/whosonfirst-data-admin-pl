@@ -51,7 +51,7 @@
         "wk:page":"Cie%C5%82uchowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"56e3a28c1c4724cc72479d2a46ab71e8",
+    "wof:geomhash":"9afae7e948a82d23af7b4e516aa88d93",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.16358,
     52.93168000000001
 ],
-  "geometry": {"coordinates":[19.16358,52.93168000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.16358,52.93168],"type":"Point"}
 }

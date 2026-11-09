@@ -57,7 +57,7 @@
         "wk:page":"Wr%C3%B3blik_Kr%C3%B3lewski"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ec80a5275fbbb4c5eaf8a49a6be71a38",
+    "wof:geomhash":"55972186e3d791aac16d454e4fbad7f0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.86142000000001,
     49.61683
 ],
-  "geometry": {"coordinates":[21.86142000000001,49.61683],"type":"Point"}
+  "geometry": {"coordinates":[21.86142,49.61683],"type":"Point"}
 }

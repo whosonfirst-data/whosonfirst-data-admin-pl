@@ -51,7 +51,7 @@
         "wk:page":"Lubska"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ea5e2923d509ee5035aa1aaab376792f",
+    "wof:geomhash":"c7d1ff044fa820647d662ce8935ce0cd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.61761,
     51.08649000000001
 ],
-  "geometry": {"coordinates":[17.61761,51.08649000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.61761,51.08649],"type":"Point"}
 }

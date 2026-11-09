@@ -54,7 +54,7 @@
         "wk:page":"Kluczewo%2C_Szamotu%C5%82y_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4ec0b1fb9a84b9d92c7482be175b2933",
+    "wof:geomhash":"d66212f5104e8bba40c7748b7d000c2c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     16.46812000000001,
     52.64408
 ],
-  "geometry": {"coordinates":[16.46812000000001,52.64408],"type":"Point"}
+  "geometry": {"coordinates":[16.46812,52.64408],"type":"Point"}
 }

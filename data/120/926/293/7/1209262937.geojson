@@ -54,7 +54,7 @@
         "wk:page":"Ruda_Ko%C5%9Bcielna"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f78c0217f0b78a8e31e28ab6b4e41c40",
+    "wof:geomhash":"3f4d0009092194813163dab28296122d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.54933,
     50.94714000000001
 ],
-  "geometry": {"coordinates":[21.54933,50.94714000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.54933,50.94714],"type":"Point"}
 }

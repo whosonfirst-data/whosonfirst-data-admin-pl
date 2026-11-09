@@ -48,7 +48,7 @@
         "wk:page":"Grabiny%2C_Brodnica_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b29621429649d82ad888eeb6c3c7040c",
+    "wof:geomhash":"d9ddc44d34343383de12fe371baa1eee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     19.35877,
     53.40728000000001
 ],
-  "geometry": {"coordinates":[19.35877,53.40728000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.35877,53.40728],"type":"Point"}
 }

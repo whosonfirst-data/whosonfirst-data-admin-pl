@@ -54,7 +54,7 @@
         "wk:page":"Rywociny"
     },
     "wof:country":"PL",
-    "wof:geomhash":"74e7b66ab3ef54607c6dd63f02cc43e4",
+    "wof:geomhash":"e288ffbdeb0cf6f67e09f5df2005db26",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.15665,
     53.16643000000001
 ],
-  "geometry": {"coordinates":[20.15665,53.16643000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.15665,53.16643],"type":"Point"}
 }

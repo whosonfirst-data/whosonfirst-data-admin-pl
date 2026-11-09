@@ -62,7 +62,7 @@
         "wk:page":"Zyzdrojowy_Piecek"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a4e25b919ebc78171700edbd232398f1",
+    "wof:geomhash":"b1d15fdc6c6f2f67195bd22d620a69c3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     21.26672,
     53.65711999999999
 ],
-  "geometry": {"coordinates":[21.26672,53.65711999999999],"type":"Point"}
+  "geometry": {"coordinates":[21.26672,53.65712],"type":"Point"}
 }

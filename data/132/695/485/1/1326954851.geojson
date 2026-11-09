@@ -54,7 +54,7 @@
         "wk:page":"Radolina"
     },
     "wof:country":"PL",
-    "wof:geomhash":"02a69c8cdc452aa33aecd66abcf6a615",
+    "wof:geomhash":"0e70acc05186fd9eab2200e4f51aa371",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.05067,
     52.21572000000001
 ],
-  "geometry": {"coordinates":[18.05067,52.21572000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.05067,52.21572],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Wierciszewo%2C_Podlaskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2578b9ea5e555fcc76c35caf65da973c",
+    "wof:geomhash":"acc0cfa8b39a21bcfe734e394894f27a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.43339,
     53.22796999999999
 ],
-  "geometry": {"coordinates":[22.43339,53.22796999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.43339,53.22797],"type":"Point"}
 }

@@ -60,7 +60,7 @@
         "wk:page":"Wola_Mrokowska"
     },
     "wof:country":"PL",
-    "wof:geomhash":"48fa19f844fdb5176c12e94fe09df1aa",
+    "wof:geomhash":"cb73f558e9c050ba2de02459b6f28cc9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     20.85521,
     52.02914000000001
 ],
-  "geometry": {"coordinates":[20.85521,52.02914000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.85521,52.02914],"type":"Point"}
 }

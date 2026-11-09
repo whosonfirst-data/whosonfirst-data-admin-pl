@@ -57,7 +57,7 @@
         "wk:page":"Zielonowo%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"aea6a21e927a39c520b4c3f9876ad67a",
+    "wof:geomhash":"8550aab822b7810d4328b141f992cde7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     16.31949,
     52.91741999999999
 ],
-  "geometry": {"coordinates":[16.31949,52.91741999999999],"type":"Point"}
+  "geometry": {"coordinates":[16.31949,52.91742],"type":"Point"}
 }

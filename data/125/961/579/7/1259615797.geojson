@@ -57,7 +57,7 @@
         "wk:page":"Opaleniec"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ffa0049e697543e90695a93dcfb41b40",
+    "wof:geomhash":"c068022bf9226904a87efeb36c21eead",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     20.90939,
     53.28718000000001
 ],
-  "geometry": {"coordinates":[20.90939,53.28718000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.90939,53.28718],"type":"Point"}
 }

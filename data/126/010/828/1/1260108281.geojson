@@ -63,7 +63,7 @@
         "wk:page":"Chorz%C4%99powo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f1ca6eb4583fc29e1b8d70e63d5d240f",
+    "wof:geomhash":"a411ad4e1eee6ee1f73a58cce827f1fd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     15.99551,
     52.63894000000001
 ],
-  "geometry": {"coordinates":[15.99551,52.63894000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.99551,52.63894],"type":"Point"}
 }

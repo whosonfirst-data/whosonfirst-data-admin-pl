@@ -54,7 +54,7 @@
         "wk:page":"Skarchowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1952eef23bcd0c49e07aab659ee9c5a9",
+    "wof:geomhash":"e593cea9011aadab3709975de56d3c8b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     14.75927,
     53.92223000000001
 ],
-  "geometry": {"coordinates":[14.75927,53.92223000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.75927,53.92223],"type":"Point"}
 }

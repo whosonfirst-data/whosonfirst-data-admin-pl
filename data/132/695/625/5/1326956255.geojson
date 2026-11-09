@@ -61,7 +61,7 @@
         "wk:page":"Przykopka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"eea6f7de14bf210cf3e952e340c4ae8f",
+    "wof:geomhash":"c6e3d073007292636506120beff40593",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     22.43273,
     53.86216999999999
 ],
-  "geometry": {"coordinates":[22.43273,53.86216999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.43273,53.86217],"type":"Point"}
 }

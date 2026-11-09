@@ -60,7 +60,7 @@
         "wk:page":"Porost"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4fa7fce5678d94ba6e0ac95559cb0ee1",
+    "wof:geomhash":"253162cb4f0d3a943540ee834f0bb9a1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     16.65552000000001,
     53.92946
 ],
-  "geometry": {"coordinates":[16.65552000000001,53.92946],"type":"Point"}
+  "geometry": {"coordinates":[16.65552,53.92946],"type":"Point"}
 }

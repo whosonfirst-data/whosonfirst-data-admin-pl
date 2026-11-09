@@ -61,7 +61,7 @@
         "wk:page":"D%C4%85br%C3%B3wka_Pniowska"
     },
     "wof:country":"PL",
-    "wof:geomhash":"060df166cf3997a948ea9142eebd6307",
+    "wof:geomhash":"58ad6a7adb7f58be11a4cc10a550e88d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     21.87052000000001,
     50.73602
 ],
-  "geometry": {"coordinates":[21.87052000000001,50.73602],"type":"Point"}
+  "geometry": {"coordinates":[21.87052,50.73602],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"Lubocze%C5%9Bnica"
     },
     "wof:country":"PL",
-    "wof:geomhash":"203103d51d8ed99e23d4918c4a6df1c2",
+    "wof:geomhash":"8ca2afc226b16389c6e2f5848cb3215e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     16.23929,
     52.52988000000001
 ],
-  "geometry": {"coordinates":[16.23929,52.52988000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.23929,52.52988],"type":"Point"}
 }

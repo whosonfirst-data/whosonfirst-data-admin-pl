@@ -54,7 +54,7 @@
         "wk:page":"Twarda_G%C3%B3ra"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3f82c0b0842bfbcddb5a2887a790081a",
+    "wof:geomhash":"c760b02d56f64f203d68400a53b43a69",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.66835,
     53.67993000000001
 ],
-  "geometry": {"coordinates":[18.66835,53.67993000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.66835,53.67993],"type":"Point"}
 }

@@ -63,7 +63,7 @@
         "wk:page":"Szczepanki%2C_Warmian-Masurian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6ffc59a69dbb5665f428f9b4edf4dc94",
+    "wof:geomhash":"baf81c910986880e1c6d6bf8036dd618",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     21.94947,
     53.96876999999999
 ],
-  "geometry": {"coordinates":[21.94947,53.96876999999999],"type":"Point"}
+  "geometry": {"coordinates":[21.94947,53.96877],"type":"Point"}
 }

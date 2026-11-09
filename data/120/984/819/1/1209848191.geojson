@@ -52,7 +52,7 @@
         "wk:page":"Komorniki%2C_%C5%9Aroda_%C5%9Al%C4%85ska_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"81ecc3dd68f0b3fe20153774fc60dac0",
+    "wof:geomhash":"386c7f9e7fefbef90f2908e93301c583",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     16.63691,
     51.16654000000001
 ],
-  "geometry": {"coordinates":[16.63691,51.16654000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.63691,51.16654],"type":"Point"}
 }

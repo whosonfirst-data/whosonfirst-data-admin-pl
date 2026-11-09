@@ -61,7 +61,7 @@
         "wk:page":"Popiel%C3%B3w%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"91bbfa5e0948c87b95dfa2f7fe9f8eec",
+    "wof:geomhash":"4cab579a3d253472555bfa10e8cd6aa5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     21.9463,
     52.41334000000001
 ],
-  "geometry": {"coordinates":[21.9463,52.41334000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.9463,52.41334],"type":"Point"}
 }

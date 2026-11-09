@@ -57,7 +57,7 @@
         "wk:page":"Gaj%2C_Wyszk%C3%B3w_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"93eec05e353afa2906d84597cb29d3cb",
+    "wof:geomhash":"8e3314d8ee852d1502d60280834c1687",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.41742,
     52.51958000000001
 ],
-  "geometry": {"coordinates":[21.41742,52.51958000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.41742,52.51958],"type":"Point"}
 }

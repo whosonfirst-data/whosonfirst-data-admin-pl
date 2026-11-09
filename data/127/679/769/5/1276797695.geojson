@@ -48,7 +48,7 @@
         "wk:page":"Kosarzyn%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"23d7175546d78e212b2838effef85151",
+    "wof:geomhash":"2e9ee41861f7c983f3775f8e56e8b402",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     17.08898,
     53.03928000000001
 ],
-  "geometry": {"coordinates":[17.08898,53.03928000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.08898,53.03928],"type":"Point"}
 }

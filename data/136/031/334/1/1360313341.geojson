@@ -55,7 +55,7 @@
         "wk:page":"Biskupice_Melszty%C5%84skie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a5fa008a3f0a4cee7c63590ad62b23e2",
+    "wof:geomhash":"7fdf6cf9ebba5c50108b2d73370f662a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,5 +82,5 @@
     20.71352000000001,
     49.86006
 ],
-  "geometry": {"coordinates":[20.71352000000001,49.86006],"type":"Point"}
+  "geometry": {"coordinates":[20.71352,49.86006],"type":"Point"}
 }

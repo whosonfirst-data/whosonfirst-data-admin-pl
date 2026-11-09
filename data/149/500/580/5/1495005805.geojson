@@ -64,7 +64,7 @@
         "wk:page":"Drobnin"
     },
     "wof:country":"PL",
-    "wof:geomhash":"53470a6745dd0eecbdf4ca4755109602",
+    "wof:geomhash":"2ba5cfe5374f50b1c8e8359904e9d40d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,5 +94,5 @@
     16.81707999999999,
     51.85858
 ],
-  "geometry": {"coordinates":[16.81707999999999,51.85858],"type":"Point"}
+  "geometry": {"coordinates":[16.81708,51.85858],"type":"Point"}
 }

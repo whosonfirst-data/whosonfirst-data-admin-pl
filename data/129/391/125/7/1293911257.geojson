@@ -54,7 +54,7 @@
         "wk:page":"Smardzewo%2C_P%C5%82ock_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"172b9ed5db3acf99fd0c637dd2a279ea",
+    "wof:geomhash":"058d99b38ebc2e1234cd9d27a0654112",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.91667,
     52.61666999999999
 ],
-  "geometry": {"coordinates":[19.91667,52.61666999999999],"type":"Point"}
+  "geometry": {"coordinates":[19.91667,52.61667],"type":"Point"}
 }

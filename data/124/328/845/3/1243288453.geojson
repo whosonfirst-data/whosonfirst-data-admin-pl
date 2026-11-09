@@ -51,7 +51,7 @@
         "wk:page":"Kar%C5%82owice_Ma%C5%82e"
     },
     "wof:country":"PL",
-    "wof:geomhash":"31e5d325abb1ec3af4bab8b597856ace",
+    "wof:geomhash":"0c798b84cdd272db730a0ccd6a0ca14b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.19412,
     50.54049000000001
 ],
-  "geometry": {"coordinates":[17.19412,50.54049000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.19412,50.54049],"type":"Point"}
 }

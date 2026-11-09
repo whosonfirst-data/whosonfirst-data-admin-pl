@@ -54,7 +54,7 @@
         "wk:page":"Piaski_Wielkie%2C_West_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"736bb19b486f9d8dad7d56983a56bae2",
+    "wof:geomhash":"bd931ff51bb7f638dd38d9ecf689e8c0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     14.70217,
     53.85293000000001
 ],
-  "geometry": {"coordinates":[14.70217,53.85293000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.70217,53.85293],"type":"Point"}
 }

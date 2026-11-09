@@ -57,7 +57,7 @@
         "wk:page":"Tropy_Sztumskie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"bb2700b38cdf6c95d78c2cbd3444aa4e",
+    "wof:geomhash":"75ff63e43f4509d86a49460499dc850e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     19.1916,
     53.95164000000001
 ],
-  "geometry": {"coordinates":[19.1916,53.95164000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.1916,53.95164],"type":"Point"}
 }

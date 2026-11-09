@@ -51,7 +51,7 @@
         "wk:page":"Fa%C5%9Bciszowa"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4d7a936b37ce667f3453c1b06e17c33f",
+    "wof:geomhash":"9408cff8de26ac39d798f622eb0599a7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     20.84709,
     49.85169000000001
 ],
-  "geometry": {"coordinates":[20.84709,49.85169000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.84709,49.85169],"type":"Point"}
 }

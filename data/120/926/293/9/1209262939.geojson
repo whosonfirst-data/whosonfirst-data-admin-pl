@@ -54,7 +54,7 @@
         "wk:page":"Buszkowice%2C_%C5%9Awi%C4%99tokrzyskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e4bf24bcef721cf0f895cd40cc954d3a",
+    "wof:geomhash":"99c2b6e63371c5755398749b35a1841a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.53277000000001,
     50.85676
 ],
-  "geometry": {"coordinates":[21.53277000000001,50.85676],"type":"Point"}
+  "geometry": {"coordinates":[21.53277,50.85676],"type":"Point"}
 }

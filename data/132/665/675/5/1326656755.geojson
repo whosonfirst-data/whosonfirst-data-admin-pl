@@ -54,7 +54,7 @@
         "wk:page":"Uniech%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1064f1950c219a2fa5b7dbe567bed0d2",
+    "wof:geomhash":"fc45da0cd7afb5067adf89f5d0dba39c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.13395,
     53.59829000000001
 ],
-  "geometry": {"coordinates":[17.13395,53.59829000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.13395,53.59829],"type":"Point"}
 }

@@ -61,7 +61,7 @@
         "wk:page":"Gorazdowo%2C_Warmian-Masurian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"571c5ed5d956f6cef4f753841a409021",
+    "wof:geomhash":"04964aff48dca30566d6a6fb412ef7ee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     21.70675,
     53.97326999999999
 ],
-  "geometry": {"coordinates":[21.70675,53.97326999999999],"type":"Point"}
+  "geometry": {"coordinates":[21.70675,53.97327],"type":"Point"}
 }

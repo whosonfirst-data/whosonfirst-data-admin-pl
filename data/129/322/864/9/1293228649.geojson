@@ -51,7 +51,7 @@
         "wk:page":"Graj%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4f9be27baa4cb3acdcac33a00434f3d8",
+    "wof:geomhash":"41136d0275c346eda10f7a6d74bb5898",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     20.10464,
     49.93597000000001
 ],
-  "geometry": {"coordinates":[20.10464,49.93597000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.10464,49.93597],"type":"Point"}
 }

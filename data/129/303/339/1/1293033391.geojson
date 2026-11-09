@@ -51,7 +51,7 @@
         "wk:page":"Wiercie%C5%84%2C_Lower_Silesian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c3c99458fa6fa28e6d74cd73fe864006",
+    "wof:geomhash":"85befaf29341103c90b30348f2f5df54",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     16.10859,
     51.30099000000001
 ],
-  "geometry": {"coordinates":[16.10859,51.30099000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.10859,51.30099],"type":"Point"}
 }

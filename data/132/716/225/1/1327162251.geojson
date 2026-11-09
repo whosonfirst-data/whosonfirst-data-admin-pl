@@ -60,7 +60,7 @@
         "wk:page":"D%C4%85br%C3%B3wka%2C_Bia%C5%82obrzegi_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"98a5ef1ff12b7a229683114dae1c6895",
+    "wof:geomhash":"29b19306e8e1cd882739d55b401c7e95",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     20.93428,
     51.60442000000001
 ],
-  "geometry": {"coordinates":[20.93428,51.60442000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.93428,51.60442],"type":"Point"}
 }

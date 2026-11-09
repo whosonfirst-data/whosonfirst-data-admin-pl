@@ -61,7 +61,7 @@
         "wk:page":"Pogorza%C5%82a_Wie%C5%9B"
     },
     "wof:country":"PL",
-    "wof:geomhash":"60bcd509e4d98a4b7043e764304cbb96",
+    "wof:geomhash":"d28dbb50a91ac837ea27717277412a52",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     18.92561,
     53.97208000000001
 ],
-  "geometry": {"coordinates":[18.92561,53.97208000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.92561,53.97208],"type":"Point"}
 }

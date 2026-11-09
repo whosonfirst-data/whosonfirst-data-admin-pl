@@ -54,7 +54,7 @@
         "wk:page":"Uniemino"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a6d9e679fc730b0f893e12e446068fb3",
+    "wof:geomhash":"10d53c10e2e4fbb706435db679cad36d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     16.44206,
     53.64321999999999
 ],
-  "geometry": {"coordinates":[16.44206,53.64321999999999],"type":"Point"}
+  "geometry": {"coordinates":[16.44206,53.64322],"type":"Point"}
 }

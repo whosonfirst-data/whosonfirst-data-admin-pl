@@ -51,7 +51,7 @@
         "wk:page":"Jeziorki%2C_W%C4%85growiec_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"776b74f08fbe5c546246857043cb6e81",
+    "wof:geomhash":"adee97f3e78b9fbf8233564db9ea9b62",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.26047,
     52.98674000000001
 ],
-  "geometry": {"coordinates":[17.26047,52.98674000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.26047,52.98674],"type":"Point"}
 }

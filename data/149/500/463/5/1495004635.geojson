@@ -100,7 +100,7 @@
         "wk:page":"Oliwa"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b0a6edfd215eccff647b647bdfb36ba1",
+    "wof:geomhash":"0e93d34c8abfae064793c4cb6c3080ab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -130,5 +130,5 @@
     18.55363,
     54.40723000000001
 ],
-  "geometry": {"coordinates":[18.55363,54.40723000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.55363,54.40723],"type":"Point"}
 }

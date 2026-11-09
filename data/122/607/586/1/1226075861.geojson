@@ -51,7 +51,7 @@
         "wk:page":"Nieznanowice%2C_Lesser_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3e37c59c101a1a2903a038f797cb83d4",
+    "wof:geomhash":"e4e063a6adbeb58dbcef33f2f270e331",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     20.26522000000001,
     49.93582
 ],
-  "geometry": {"coordinates":[20.26522000000001,49.93582],"type":"Point"}
+  "geometry": {"coordinates":[20.26522,49.93582],"type":"Point"}
 }

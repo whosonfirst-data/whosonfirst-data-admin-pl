@@ -66,7 +66,7 @@
         "wk:page":"Kar%C5%BCniczka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3d7e3c65a07bfa521938a30d6daf786f",
+    "wof:geomhash":"00a6ff1f349d735d526109052adf3256",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     17.23549,
     54.48889000000001
 ],
-  "geometry": {"coordinates":[17.23549,54.48889000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.23549,54.48889],"type":"Point"}
 }

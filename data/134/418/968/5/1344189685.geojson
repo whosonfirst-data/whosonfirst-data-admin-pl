@@ -60,7 +60,7 @@
         "wk:page":"Schodno"
     },
     "wof:country":"PL",
-    "wof:geomhash":"76be43ba44cbfc50802bed9667a400b0",
+    "wof:geomhash":"a95404d0f4f6dbc3fa7f1590cb885a78",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     17.85707,
     54.04848000000001
 ],
-  "geometry": {"coordinates":[17.85707,54.04848000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.85707,54.04848],"type":"Point"}
 }

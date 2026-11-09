@@ -71,7 +71,7 @@
         "wk:page":"Jankowa_%C5%BBaga%C5%84ska"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b4552b8c0f74a9aff028a3452c228e94",
+    "wof:geomhash":"7d5ed6b026e818b9c6b557a1205be5ca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,5 +98,5 @@
     15.17229,
     51.57899000000001
 ],
-  "geometry": {"coordinates":[15.17229,51.57899000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.17229,51.57899],"type":"Point"}
 }

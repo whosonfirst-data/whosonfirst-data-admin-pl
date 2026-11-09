@@ -58,7 +58,7 @@
         "wk:page":"Nierostowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d780f822f2226fc07f6600d4161074dd",
+    "wof:geomhash":"232c3058a4757f55d7acd903813d00e3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,5 +85,5 @@
     17.36595,
     53.90788000000001
 ],
-  "geometry": {"coordinates":[17.36595,53.90788000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.36595,53.90788],"type":"Point"}
 }

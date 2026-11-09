@@ -57,7 +57,7 @@
         "wk:page":"Ko%C5%9Bcierzyn_Ma%C5%82y"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d0c60309019dd912a96f006c473bbf1f",
+    "wof:geomhash":"28f36f6161b99a4f81b2d554fbe9e8e0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     17.26679,
     53.23583000000001
 ],
-  "geometry": {"coordinates":[17.26679,53.23583000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.26679,53.23583],"type":"Point"}
 }

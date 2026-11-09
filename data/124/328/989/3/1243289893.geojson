@@ -48,7 +48,7 @@
         "wk:page":"Ameryka%2C_Opole_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ad593e1142fd0ccdf84b9bf98449db0a",
+    "wof:geomhash":"7d11a6631e8fce408cb074104907c3b9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     17.84097000000001,
     50.77869000000001
 ],
-  "geometry": {"coordinates":[17.84097000000001,50.77869000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.84097,50.77869],"type":"Point"}
 }

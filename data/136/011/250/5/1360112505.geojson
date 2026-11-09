@@ -57,7 +57,7 @@
         "wk:page":"Brzoza%2C_Piotrk%C3%B3w_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9935dd84641db33bb0b8753ed9fe3151",
+    "wof:geomhash":"aaf6b88a7d48b0a06275150a618a0aae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     19.64184,
     51.46984000000001
 ],
-  "geometry": {"coordinates":[19.64184,51.46984000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.64184,51.46984],"type":"Point"}
 }

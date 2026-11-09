@@ -63,7 +63,7 @@
         "wk:page":"Gugo%C5%82y"
     },
     "wof:country":"PL",
-    "wof:geomhash":"53d2cfe1a30c1ec3ad26153f121646e1",
+    "wof:geomhash":"7471ec3aaee931993489389a26a15e19",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     19.65804,
     52.93998000000001
 ],
-  "geometry": {"coordinates":[19.65804,52.93998000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.65804,52.93998],"type":"Point"}
 }

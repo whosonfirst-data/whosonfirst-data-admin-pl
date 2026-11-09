@@ -69,7 +69,7 @@
         "wk:page":"Sucha_Huta"
     },
     "wof:country":"PL",
-    "wof:geomhash":"88975eb96134d617e375cc853e815cee",
+    "wof:geomhash":"91e066a4d3eb9447026442255d7a3b43",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     18.34638,
     54.14666999999999
 ],
-  "geometry": {"coordinates":[18.34638,54.14666999999999],"type":"Point"}
+  "geometry": {"coordinates":[18.34638,54.14667],"type":"Point"}
 }

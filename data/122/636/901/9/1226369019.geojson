@@ -51,7 +51,7 @@
         "wk:page":"Hamer_M%C5%82yn"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b4f59870298f3f5b6ee99c3fae97374a",
+    "wof:geomhash":"79cf8f7c48cfcc8eb967e8eeea629570",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.50823,
     54.03393000000001
 ],
-  "geometry": {"coordinates":[17.50823,54.03393000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.50823,54.03393],"type":"Point"}
 }

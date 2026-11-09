@@ -54,7 +54,7 @@
         "wk:page":"%C5%81agiewniki%2C_Kielce_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4b11f87f5f6495cc55ebb102fcf65414",
+    "wof:geomhash":"e52b34b30a1e65eeed3ba2c9f4842763",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.79987,
     50.62300000000001
 ],
-  "geometry": {"coordinates":[20.79987,50.62300000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.79987,50.623],"type":"Point"}
 }

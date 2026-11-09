@@ -54,7 +54,7 @@
         "wk:page":"Zgni%C5%82ka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5a7bfe0a114b2e6fd76c6943c21ad300",
+    "wof:geomhash":"0bda82c5c5b38c3da513c8b592743a5b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.39488,
     53.32964000000001
 ],
-  "geometry": {"coordinates":[17.39488,53.32964000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.39488,53.32964],"type":"Point"}
 }

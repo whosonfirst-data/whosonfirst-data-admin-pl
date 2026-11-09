@@ -63,7 +63,7 @@
         "wk:page":"Koce-Basie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1dd66762dde10e1af1980b591a47abc8",
+    "wof:geomhash":"d7111920c0a9a6a4140d35f89334e47b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     22.61531,
     52.70108000000001
 ],
-  "geometry": {"coordinates":[22.61531,52.70108000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.61531,52.70108],"type":"Point"}
 }

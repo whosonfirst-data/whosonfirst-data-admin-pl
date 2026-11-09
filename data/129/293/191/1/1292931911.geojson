@@ -57,7 +57,7 @@
         "wk:page":"Tarnawka_Pierwsza"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ddc5f96458a1ff0178b9d6d44ead2da6",
+    "wof:geomhash":"6a623c76fce6fe7e2be273cfe8972289",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.60522000000001,
     50.91013
 ],
-  "geometry": {"coordinates":[22.60522000000001,50.91013],"type":"Point"}
+  "geometry": {"coordinates":[22.60522,50.91013],"type":"Point"}
 }

@@ -61,7 +61,7 @@
         "wk:page":"Kalniszki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d2979f9e7be8ca87d9fc480ec4bbf63d",
+    "wof:geomhash":"3e523912be5be8dc551f43a7f6dd0fd7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     22.14374,
     54.19951999999999
 ],
-  "geometry": {"coordinates":[22.14374,54.19951999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.14374,54.19952],"type":"Point"}
 }

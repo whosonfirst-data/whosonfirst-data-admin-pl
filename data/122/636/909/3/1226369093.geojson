@@ -54,7 +54,7 @@
         "wk:page":"Mikowice%2C_Lower_Silesian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d32f13f96889f652e979fc42cffebcfe",
+    "wof:geomhash":"c3cc912a3ac668870a56a9b208a91cf7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     16.60582999999999,
     50.44319
 ],
-  "geometry": {"coordinates":[16.60582999999999,50.44319],"type":"Point"}
+  "geometry": {"coordinates":[16.60583,50.44319],"type":"Point"}
 }

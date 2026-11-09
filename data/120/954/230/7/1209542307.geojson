@@ -60,7 +60,7 @@
         "wk:page":"Szeroki_B%C3%B3r"
     },
     "wof:country":"PL",
-    "wof:geomhash":"dbd82d571e2cea45d9d0e9d576d041ca",
+    "wof:geomhash":"22a14f4a6f79a3654f4c268533dda24e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     21.64407000000001,
     53.61756
 ],
-  "geometry": {"coordinates":[21.64407000000001,53.61756],"type":"Point"}
+  "geometry": {"coordinates":[21.64407,53.61756],"type":"Point"}
 }

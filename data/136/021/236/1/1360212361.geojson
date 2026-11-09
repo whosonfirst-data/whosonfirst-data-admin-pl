@@ -54,7 +54,7 @@
         "wk:page":"Zby%C5%82owice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9d521ff5e86fffba4fa3ce448009056c",
+    "wof:geomhash":"d2c462dad44ddb70bd437c73a0d431cc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.86904,
     51.15857000000001
 ],
-  "geometry": {"coordinates":[19.86904,51.15857000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.86904,51.15857],"type":"Point"}
 }

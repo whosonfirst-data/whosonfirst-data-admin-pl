@@ -63,7 +63,7 @@
         "wk:page":"Koszelewska_%C5%81%C4%85ka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"439b112c2c438c0c38ccd95b1ef746e5",
+    "wof:geomhash":"b36b0efec6677e9c1be8035f5349d70d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     17.78617000000001,
     52.11761
 ],
-  "geometry": {"coordinates":[17.78617000000001,52.11761],"type":"Point"}
+  "geometry": {"coordinates":[17.78617,52.11761],"type":"Point"}
 }

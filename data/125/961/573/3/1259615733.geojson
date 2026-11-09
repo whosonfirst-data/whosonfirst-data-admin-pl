@@ -51,7 +51,7 @@
         "wk:page":"Sarn%C3%B3wka%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e68fdc6d5a21d1080b0e678997a6b69b",
+    "wof:geomhash":"c6f65a5ddeb6f76b17f6c23fc1cfb0e7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.86044,
     52.70968000000001
 ],
-  "geometry": {"coordinates":[18.86044,52.70968000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.86044,52.70968],"type":"Point"}
 }

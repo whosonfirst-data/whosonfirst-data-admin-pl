@@ -57,7 +57,7 @@
         "wk:page":"Szembruczek"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8152c7a8d4710791e14137500bc53689",
+    "wof:geomhash":"214d8667b8331edffaa3aba19e48a2cb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     18.9711,
     53.56489000000001
 ],
-  "geometry": {"coordinates":[18.9711,53.56489000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.9711,53.56489],"type":"Point"}
 }

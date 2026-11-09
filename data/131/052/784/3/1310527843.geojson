@@ -54,7 +54,7 @@
         "wk:page":"Kosny"
     },
     "wof:country":"PL",
-    "wof:geomhash":"027222edd5c10af85b81f00306eaa620",
+    "wof:geomhash":"64bf8e6c7345c807f70fd41a6488c1b9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.22084,
     51.60619000000001
 ],
-  "geometry": {"coordinates":[21.22084,51.60619000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.22084,51.60619],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Czochry%C5%84"
     },
     "wof:country":"PL",
-    "wof:geomhash":"facb67ef5d8e8805bca189513ad09ccb",
+    "wof:geomhash":"1054abb83d186f7a2b1d68fe63c57a14",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     16.4681,
     53.53478000000001
 ],
-  "geometry": {"coordinates":[16.4681,53.53478000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.4681,53.53478],"type":"Point"}
 }

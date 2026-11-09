@@ -57,7 +57,7 @@
         "wk:page":"Sid%C5%82owo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6d9945d0a26eee17efe4455700603360",
+    "wof:geomhash":"ecb874c017b5160827d23b6529ebe6c0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     15.76505,
     53.90813000000001
 ],
-  "geometry": {"coordinates":[15.76505,53.90813000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.76505,53.90813],"type":"Point"}
 }

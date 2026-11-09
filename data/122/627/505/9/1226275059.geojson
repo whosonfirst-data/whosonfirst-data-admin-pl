@@ -51,7 +51,7 @@
         "wk:page":"Sulikowo%2C_Szczecinek_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c666a694d8cec991d18f9b3297ae1f5b",
+    "wof:geomhash":"618271d796db6015d785b528940cc6c9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     16.3316,
     53.80139000000001
 ],
-  "geometry": {"coordinates":[16.3316,53.80139000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.3316,53.80139],"type":"Point"}
 }

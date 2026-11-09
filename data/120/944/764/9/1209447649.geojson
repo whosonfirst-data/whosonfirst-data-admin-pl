@@ -54,7 +54,7 @@
         "wk:page":"Nowa_Kiszewa"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8a4022c70e3e3273ea2568b5705bab1a",
+    "wof:geomhash":"9248f17c4520c3fceda06062139bf48c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.0402,
     54.03648000000001
 ],
-  "geometry": {"coordinates":[18.0402,54.03648000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.0402,54.03648],"type":"Point"}
 }

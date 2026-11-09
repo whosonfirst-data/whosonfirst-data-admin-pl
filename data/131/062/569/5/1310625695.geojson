@@ -51,7 +51,7 @@
         "wk:page":"Bagniewo%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"22b0d0000cd1e5658911d5b27dfc8ce0",
+    "wof:geomhash":"58292aa715680f35c96ba44fe2577eeb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.23621,
     53.35653000000001
 ],
-  "geometry": {"coordinates":[18.23621,53.35653000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.23621,53.35653],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"Nied%C5%BAwied%C5%BA%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f7c6da48fb7bff57f551913500448f1a",
+    "wof:geomhash":"a9b70f3de8bcd64762c8245bbd31ee4c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     17.87943,
     51.48419000000001
 ],
-  "geometry": {"coordinates":[17.87943,51.48419000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.87943,51.48419],"type":"Point"}
 }

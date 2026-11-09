@@ -57,7 +57,7 @@
         "wk:page":"%C5%81uknajno%2C_Warmian-Masurian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1026b6677ce9ac68b819d16ceb140525",
+    "wof:geomhash":"138f9a428457b5e1665e5e22e78a7910",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.63929,
     53.79839000000001
 ],
-  "geometry": {"coordinates":[21.63929,53.79839000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.63929,53.79839],"type":"Point"}
 }

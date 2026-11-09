@@ -58,7 +58,7 @@
         "wk:page":"Wi%C5%9Blina"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7bed2be0c1ba3686ef847e3c0bbc737f",
+    "wof:geomhash":"e0e8f9fef5229760b7a2405cb5f6c256",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,5 +85,5 @@
     18.72585,
     54.29108000000001
 ],
-  "geometry": {"coordinates":[18.72585,54.29108000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.72585,54.29108],"type":"Point"}
 }

@@ -51,7 +51,7 @@
         "wk:page":"Borszewice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"df30e5e152ecde16dee4e900b0e186d5",
+    "wof:geomhash":"803387be575c399df5f38192f9d9373f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.03237,
     51.63379000000001
 ],
-  "geometry": {"coordinates":[19.03237,51.63379000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.03237,51.63379],"type":"Point"}
 }

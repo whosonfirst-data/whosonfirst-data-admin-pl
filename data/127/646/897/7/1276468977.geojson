@@ -51,7 +51,7 @@
         "wk:page":"Zakurzewo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8f0415c94c8701aeb463c8285ea5e5ea",
+    "wof:geomhash":"7e45a8525f33ac457454089809bdf3bc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.77521,
     53.55433000000001
 ],
-  "geometry": {"coordinates":[18.77521,53.55433000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.77521,53.55433],"type":"Point"}
 }

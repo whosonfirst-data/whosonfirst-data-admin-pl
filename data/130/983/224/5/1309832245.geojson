@@ -57,7 +57,7 @@
         "wk:page":"Studzieniec%2C_Sierpc_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e3cc102856c18b243e787ef7d9ddbb7b",
+    "wof:geomhash":"1ec7ab4c0f35d6b72a9147681c56e3f2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     19.64089,
     52.87631999999999
 ],
-  "geometry": {"coordinates":[19.64089,52.87631999999999],"type":"Point"}
+  "geometry": {"coordinates":[19.64089,52.87632],"type":"Point"}
 }

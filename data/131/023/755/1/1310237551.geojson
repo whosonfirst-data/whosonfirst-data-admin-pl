@@ -51,7 +51,7 @@
         "wk:page":"Gr%C4%99banin"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e47c27b9e96d715d1daf51b9f3022fbd",
+    "wof:geomhash":"1476f4e064d8548db6a55b20c53f85ec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.97217999999999,
     51.245
 ],
-  "geometry": {"coordinates":[17.97217999999999,51.245],"type":"Point"}
+  "geometry": {"coordinates":[17.97218,51.245],"type":"Point"}
 }

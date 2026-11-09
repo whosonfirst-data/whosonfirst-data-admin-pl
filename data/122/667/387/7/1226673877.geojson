@@ -54,7 +54,7 @@
         "wk:page":"Ogrodzim"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f05985206b37ac40f2a8e1553ccc9f88",
+    "wof:geomhash":"3d65a4bf6b8a261ab2540ebe30bc87cf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.98414,
     51.67919000000001
 ],
-  "geometry": {"coordinates":[18.98414,51.67919000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.98414,51.67919],"type":"Point"}
 }

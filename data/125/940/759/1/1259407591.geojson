@@ -55,7 +55,7 @@
         "wk:page":"Kokoszki%2C_Warmian-Masurian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c9843e6a6672a6eedf8fb3ddad7ddb04",
+    "wof:geomhash":"0b20c19cbfde81764adc31ec217e5905",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,5 +82,5 @@
     21.377,
     53.51629000000001
 ],
-  "geometry": {"coordinates":[21.377,53.51629000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.377,53.51629],"type":"Point"}
 }

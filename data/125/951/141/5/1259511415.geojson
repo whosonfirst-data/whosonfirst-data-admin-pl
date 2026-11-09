@@ -51,7 +51,7 @@
         "wk:page":"Szpitalka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e40a43a0d530af84c309348ad63718f5",
+    "wof:geomhash":"8e5ae6c21047b559e75bf8f645cc1469",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.89773,
     52.80583000000001
 ],
-  "geometry": {"coordinates":[18.89773,52.80583000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.89773,52.80583],"type":"Point"}
 }

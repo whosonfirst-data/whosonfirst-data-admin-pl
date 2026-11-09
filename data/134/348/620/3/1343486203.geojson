@@ -54,7 +54,7 @@
         "wk:page":"%C5%81uszczanowice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7e81993d81b900940108b10ffed0da19",
+    "wof:geomhash":"b15e140c0694cc45873636ec1614da1d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.30645,
     51.20229000000001
 ],
-  "geometry": {"coordinates":[19.30645,51.20229000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.30645,51.20229],"type":"Point"}
 }

@@ -60,7 +60,7 @@
         "wk:page":"Koniewo%2C_Warmian-Masurian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"cdea5820b5e3470b00cde2674f01fb1c",
+    "wof:geomhash":"652b975fd431e8c4f02a16ce94bf7f96",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     20.59915,
     54.16858000000001
 ],
-  "geometry": {"coordinates":[20.59915,54.16858000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.59915,54.16858],"type":"Point"}
 }

@@ -58,7 +58,7 @@
         "wk:page":"R%C3%B3%C5%BCyny"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9cbb3a4196de0e17acd2fb78565cc36e",
+    "wof:geomhash":"1527711329e319641f4ea8dfc3e00b3b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,5 +85,5 @@
     18.65702000000001,
     54.20784
 ],
-  "geometry": {"coordinates":[18.65702000000001,54.20784],"type":"Point"}
+  "geometry": {"coordinates":[18.65702,54.20784],"type":"Point"}
 }

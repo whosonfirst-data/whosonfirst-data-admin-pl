@@ -51,7 +51,7 @@
         "wk:page":"Szynwa%C5%82d%2C_S%C4%99p%C3%B3lno_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"78ad94992545cc9c4405206d5bb06ca2",
+    "wof:geomhash":"8d5a283f6e539fffd91fbcb64904973d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.61495,
     53.40343000000001
 ],
-  "geometry": {"coordinates":[17.61495,53.40343000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.61495,53.40343],"type":"Point"}
 }

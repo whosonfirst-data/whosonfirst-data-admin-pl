@@ -51,7 +51,7 @@
         "wk:page":"Bara%C5%84ce%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"61b9337b9e8e87cabf8c1d7ac9fe363e",
+    "wof:geomhash":"8b34f0c4f9c53998878f84746db5b4ab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     20.79697,
     52.95368000000001
 ],
-  "geometry": {"coordinates":[20.79697,52.95368000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.79697,52.95368],"type":"Point"}
 }

@@ -69,7 +69,7 @@
         "wk:page":"Jagodniki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"166a554ffaf97563d4f32b85bdad3295",
+    "wof:geomhash":"8f7f7dbedaaeb3054b4be16115b288cf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     23.49096,
     52.69598000000001
 ],
-  "geometry": {"coordinates":[23.49096,52.69598000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.49096,52.69598],"type":"Point"}
 }

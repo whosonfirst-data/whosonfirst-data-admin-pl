@@ -57,7 +57,7 @@
         "wk:page":"P%C3%B3%C5%82czno"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b9d4ca196a102c3d4e1f1da5c7a6be58",
+    "wof:geomhash":"207b4d017c5f57b8d4e51661ff5133d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     17.63987999999999,
     54.15036
 ],
-  "geometry": {"coordinates":[17.63987999999999,54.15036],"type":"Point"}
+  "geometry": {"coordinates":[17.63988,54.15036],"type":"Point"}
 }

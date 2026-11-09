@@ -57,7 +57,7 @@
         "wk:page":"D%C4%85br%C3%B3wka_S%C5%82upska"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c49172f4fa61e209b3921b3f6581ecce",
+    "wof:geomhash":"03342a25933a6d9409dd8be91da1f066",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     17.68299,
     52.94498000000001
 ],
-  "geometry": {"coordinates":[17.68299,52.94498000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.68299,52.94498],"type":"Point"}
 }

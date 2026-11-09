@@ -51,7 +51,7 @@
         "wk:page":"Wojnarowice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ea960f66d2e44813c9843e3cfcd39610",
+    "wof:geomhash":"2475355bd0fcaa84d3b921839c408454",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     16.73407000000001,
     50.94523
 ],
-  "geometry": {"coordinates":[16.73407000000001,50.94523],"type":"Point"}
+  "geometry": {"coordinates":[16.73407,50.94523],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"%C5%81%C4%99towo%2C_West_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ea4077f33c7cfe9c72372eb41bc48f19",
+    "wof:geomhash":"a5e04ed7caa8bca990fe62f439de594d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     16.81484,
     54.28194000000001
 ],
-  "geometry": {"coordinates":[16.81484,54.28194000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.81484,54.28194],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Rachelany"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2e91ea4c7d07c6e10d044608ef740386",
+    "wof:geomhash":"74d55b87deefd0c641996c7ad5ba91b3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     23.48773,
     54.13433000000001
 ],
-  "geometry": {"coordinates":[23.48773,54.13433000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.48773,54.13433],"type":"Point"}
 }

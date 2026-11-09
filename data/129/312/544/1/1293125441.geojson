@@ -63,7 +63,7 @@
         "wk:page":"Dani%C5%82owce"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d3cf9f0855a371b38afb0d16d865ae21",
+    "wof:geomhash":"b9d488e3f4ee79964a6cfca811c9470f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     23.29801,
     54.07438000000001
 ],
-  "geometry": {"coordinates":[23.29801,54.07438000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.29801,54.07438],"type":"Point"}
 }

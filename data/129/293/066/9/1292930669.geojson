@@ -57,7 +57,7 @@
         "wk:page":"Biern%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"0a95292ee58cd9b6575cc27bfacb316c",
+    "wof:geomhash":"2b64872207c40f7bf43aff7423f791b4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     16.05117000000001,
     53.84177
 ],
-  "geometry": {"coordinates":[16.05117000000001,53.84177],"type":"Point"}
+  "geometry": {"coordinates":[16.05117,53.84177],"type":"Point"}
 }

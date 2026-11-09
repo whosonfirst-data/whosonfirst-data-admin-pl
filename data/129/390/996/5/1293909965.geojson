@@ -57,7 +57,7 @@
         "wk:page":"Rakownia"
     },
     "wof:country":"PL",
-    "wof:geomhash":"535f1de795ab2125545640497e281e46",
+    "wof:geomhash":"32d9766db73173c9511b221a92ce032d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     17.03476,
     52.55798000000001
 ],
-  "geometry": {"coordinates":[17.03476,52.55798000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.03476,52.55798],"type":"Point"}
 }

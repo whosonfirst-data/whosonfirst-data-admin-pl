@@ -57,7 +57,7 @@
         "wk:page":"G%C3%B3ry%2C_West_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"14a4b82cdeea6abdaad0818184d27f04",
+    "wof:geomhash":"32cb93ab4b9a1a85fc6299e34680f90c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     16.04155,
     53.90264000000001
 ],
-  "geometry": {"coordinates":[16.04155,53.90264000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.04155,53.90264],"type":"Point"}
 }

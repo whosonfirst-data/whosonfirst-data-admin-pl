@@ -54,7 +54,7 @@
         "wk:page":"Gertrud%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"bd296f092a61d661cb6c5e1d4c4c9954",
+    "wof:geomhash":"597ffd6ab63ed02b491ba44eb9f932c3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.54642,
     51.18474000000001
 ],
-  "geometry": {"coordinates":[19.54642,51.18474000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.54642,51.18474],"type":"Point"}
 }

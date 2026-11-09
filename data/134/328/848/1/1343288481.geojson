@@ -51,7 +51,7 @@
         "wk:page":"Dobra_Nadzieja"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d1d62b1ea6aee24ec6d870c0a87aa407",
+    "wof:geomhash":"b7398c6d4d633ff621395ea4799679a9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.80633,
     51.86519000000001
 ],
-  "geometry": {"coordinates":[17.80633,51.86519000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.80633,51.86519],"type":"Point"}
 }

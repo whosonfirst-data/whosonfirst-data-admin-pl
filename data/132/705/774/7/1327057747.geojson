@@ -62,7 +62,7 @@
         "wk:page":"Nowy_Modlin"
     },
     "wof:country":"PL",
-    "wof:geomhash":"56a81364cd0c2e8dbb6ba622a0430c92",
+    "wof:geomhash":"ed8136fd0b2b6a59115f5de35380a8a8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     20.70322,
     52.46103000000001
 ],
-  "geometry": {"coordinates":[20.70322,52.46103000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.70322,52.46103],"type":"Point"}
 }

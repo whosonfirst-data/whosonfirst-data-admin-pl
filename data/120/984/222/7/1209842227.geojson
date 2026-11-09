@@ -57,7 +57,7 @@
         "wk:page":"%C5%BBerniki%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9c4f82116f52a94c7c8c32cea4a3eb25",
+    "wof:geomhash":"c74f177d2f3309d0de463328bf2e947b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     19.52062,
     52.63288000000001
 ],
-  "geometry": {"coordinates":[19.52062,52.63288000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.52062,52.63288],"type":"Point"}
 }

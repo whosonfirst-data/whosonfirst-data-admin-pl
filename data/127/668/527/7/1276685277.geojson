@@ -51,7 +51,7 @@
         "wk:page":"%C5%BBeroniczki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"05197b7ffca0257fda434947ad9af80e",
+    "wof:geomhash":"9409a79e52395b689941a9e6727c87ac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.61977000000001,
     51.9539
 ],
-  "geometry": {"coordinates":[18.61977000000001,51.9539],"type":"Point"}
+  "geometry": {"coordinates":[18.61977,51.9539],"type":"Point"}
 }

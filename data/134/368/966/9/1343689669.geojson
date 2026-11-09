@@ -51,7 +51,7 @@
         "wk:page":"Zielona_Wie%C5%9B%2C_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d90bc10b55da0483fadda33ba4fc6bee",
+    "wof:geomhash":"c8ff6b882aee5d663107872e593ab653",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.17825,
     54.12694000000001
 ],
-  "geometry": {"coordinates":[18.17825,54.12694000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.17825,54.12694],"type":"Point"}
 }

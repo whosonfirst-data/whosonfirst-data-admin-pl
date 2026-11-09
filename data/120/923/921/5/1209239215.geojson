@@ -48,7 +48,7 @@
         "wk:page":"Nowe_S%C5%82one"
     },
     "wof:country":"PL",
-    "wof:geomhash":"45b4386204163bee1a42cb8e21bcd52a",
+    "wof:geomhash":"3f0567e98deeebb2d578ea1fa549ee95",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     17.76938999999999,
     54.03643
 ],
-  "geometry": {"coordinates":[17.76938999999999,54.03643],"type":"Point"}
+  "geometry": {"coordinates":[17.76939,54.03643],"type":"Point"}
 }

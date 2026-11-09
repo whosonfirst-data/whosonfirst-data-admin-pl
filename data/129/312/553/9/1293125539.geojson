@@ -57,7 +57,7 @@
         "wk:page":"Wyszog%C3%B3ra"
     },
     "wof:country":"PL",
-    "wof:geomhash":"0f45e102c80def3217cd573fe909ac13",
+    "wof:geomhash":"a4c1859fe78815b34a395d199680a3de",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     15.22569,
     53.74831999999999
 ],
-  "geometry": {"coordinates":[15.22569,53.74831999999999],"type":"Point"}
+  "geometry": {"coordinates":[15.22569,53.74832],"type":"Point"}
 }

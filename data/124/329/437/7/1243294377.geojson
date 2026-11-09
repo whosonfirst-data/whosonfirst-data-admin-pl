@@ -48,7 +48,7 @@
         "wk:page":"Much%C3%B3wek"
     },
     "wof:country":"PL",
-    "wof:geomhash":"44fee2c7b2975e7694a000c8ca2b6d21",
+    "wof:geomhash":"27b128e21b03611a3abe9666158ff782",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     16.0,
     50.98333
 ],
-  "geometry": {"coordinates":[16.0,50.98333],"type":"Point"}
+  "geometry": {"coordinates":[16,50.98333],"type":"Point"}
 }

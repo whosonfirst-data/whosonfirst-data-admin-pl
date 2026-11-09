@@ -57,7 +57,7 @@
         "wk:page":"Brzyna"
     },
     "wof:country":"PL",
-    "wof:geomhash":"18ffff574f8752b2960711534fbc8d02",
+    "wof:geomhash":"4b74ae3e1e40b38cbcb49e0a366518ab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     20.48177,
     49.52529000000001
 ],
-  "geometry": {"coordinates":[20.48177,49.52529000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.48177,49.52529],"type":"Point"}
 }

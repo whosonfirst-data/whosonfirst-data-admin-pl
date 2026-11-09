@@ -63,7 +63,7 @@
         "wk:page":"Klejn%C3%B3wko"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4a615266129786a91187b671b3609a32",
+    "wof:geomhash":"0a11bf7b0e6ea7aee74ea5dc6c1bf3b2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     19.7711,
     54.41453000000001
 ],
-  "geometry": {"coordinates":[19.7711,54.41453000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.7711,54.41453],"type":"Point"}
 }

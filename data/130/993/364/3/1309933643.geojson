@@ -60,7 +60,7 @@
         "wk:page":"Boczkowice%2C_Lesser_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"489ccf538e943eae4db6830847681066",
+    "wof:geomhash":"7c0eb013d5460c22be51906654e8153f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     20.20657000000001,
     50.42743
 ],
-  "geometry": {"coordinates":[20.20657000000001,50.42743],"type":"Point"}
+  "geometry": {"coordinates":[20.20657,50.42743],"type":"Point"}
 }

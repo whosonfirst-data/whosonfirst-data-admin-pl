@@ -54,7 +54,7 @@
         "wk:page":"Koszele%2C_Podlaskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4b76e367255a3da316c316efa242e92e",
+    "wof:geomhash":"2e4ea005300f3d282d198626e8f04834",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     23.32217,
     52.70036999999999
 ],
-  "geometry": {"coordinates":[23.32217,52.70036999999999],"type":"Point"}
+  "geometry": {"coordinates":[23.32217,52.70037],"type":"Point"}
 }

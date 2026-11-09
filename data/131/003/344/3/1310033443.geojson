@@ -67,7 +67,7 @@
         "wk:page":"Leitnie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1a5ecfe9edc3d25b2ad1761ea3d09a93",
+    "wof:geomhash":"b4a699c9e8cac6882bde5d9d5a96fa10",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,5 +94,5 @@
     22.99327000000001,
     51.61002
 ],
-  "geometry": {"coordinates":[22.99327000000001,51.61002],"type":"Point"}
+  "geometry": {"coordinates":[22.99327,51.61002],"type":"Point"}
 }

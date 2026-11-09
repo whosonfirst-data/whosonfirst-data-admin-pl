@@ -64,7 +64,7 @@
         "wk:page":"Laseczno"
     },
     "wof:country":"PL",
-    "wof:geomhash":"81114e505eac6793df9306389a4e1c42",
+    "wof:geomhash":"a1eb5931e8193212214a0f64628d3f09",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,5 +91,5 @@
     19.43612000000001,
     53.59936
 ],
-  "geometry": {"coordinates":[19.43612000000001,53.59936],"type":"Point"}
+  "geometry": {"coordinates":[19.43612,53.59936],"type":"Point"}
 }

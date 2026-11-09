@@ -57,7 +57,7 @@
         "wk:page":"W%C3%B3lka_Babska"
     },
     "wof:country":"PL",
-    "wof:geomhash":"075a27c6dd4185e068f18621f177e2c2",
+    "wof:geomhash":"d8a5032367081f75b6702db0beb89b95",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     20.36217000000001,
     51.83113
 ],
-  "geometry": {"coordinates":[20.36217000000001,51.83113],"type":"Point"}
+  "geometry": {"coordinates":[20.36217,51.83113],"type":"Point"}
 }

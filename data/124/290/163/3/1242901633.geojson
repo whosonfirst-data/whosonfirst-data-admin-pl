@@ -57,7 +57,7 @@
         "wk:page":"Borek%2C_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"58739d0e0b766513a80a85c90f03802b",
+    "wof:geomhash":"a9bc3bb355e8cb51bde4cbd641efd331",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     17.80102999999999,
     54.28239
 ],
-  "geometry": {"coordinates":[17.80102999999999,54.28239],"type":"Point"}
+  "geometry": {"coordinates":[17.80103,54.28239],"type":"Point"}
 }

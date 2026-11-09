@@ -69,7 +69,7 @@
         "wk:page":"Chotyniec"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a6850d2104123f4116bb1a2f97afc798",
+    "wof:geomhash":"1b9ec3429d2c45a50569cd294e7d0125",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     23.00087000000001,
     49.95495
 ],
-  "geometry": {"coordinates":[23.00087000000001,49.95495],"type":"Point"}
+  "geometry": {"coordinates":[23.00087,49.95495],"type":"Point"}
 }

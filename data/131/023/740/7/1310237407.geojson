@@ -57,7 +57,7 @@
         "wk:page":"Malin%C3%B3wka%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4f1302ad760e85d0fca90028a55106a3",
+    "wof:geomhash":"0c0aab68e4ec236f1e982df7f74d6570",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.39132,
     51.88079000000001
 ],
-  "geometry": {"coordinates":[21.39132,51.88079000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.39132,51.88079],"type":"Point"}
 }

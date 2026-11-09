@@ -66,7 +66,7 @@
         "wk:page":"Knych%C3%B3wek"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d107e13fac47e63cf72a746111b03c07",
+    "wof:geomhash":"987a5905e362579ec484b73efae143e1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     22.57622000000001,
     52.33702
 ],
-  "geometry": {"coordinates":[22.57622000000001,52.33702],"type":"Point"}
+  "geometry": {"coordinates":[22.57622,52.33702],"type":"Point"}
 }

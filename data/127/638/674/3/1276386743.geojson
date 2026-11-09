@@ -54,7 +54,7 @@
         "wk:page":"Zbroj%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"82a48fc4ecea3acfbe144f3d5c55b371",
+    "wof:geomhash":"17c383b227acadefddbf863445426673",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.70582000000001,
     51.10591
 ],
-  "geometry": {"coordinates":[20.70582000000001,51.10591],"type":"Point"}
+  "geometry": {"coordinates":[20.70582,51.10591],"type":"Point"}
 }

@@ -55,7 +55,7 @@
         "wk:page":"Klecie%2C_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"af0f308f2fe1f8906b3f2b0cc17ac80d",
+    "wof:geomhash":"eb20ff20b4867fce6013aa9eef9e0105",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,5 +82,5 @@
     19.17258,
     54.02849000000001
 ],
-  "geometry": {"coordinates":[19.17258,54.02849000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.17258,54.02849],"type":"Point"}
 }

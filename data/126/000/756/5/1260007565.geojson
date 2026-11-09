@@ -54,7 +54,7 @@
         "wk:page":"Rybaki%2C_Hajn%C3%B3wka_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8fcd469c05c8bf7089ef3b5ee09bc675",
+    "wof:geomhash":"11998a3983f784ae30e77bbcfb09e56d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     23.60362000000001,
     52.92561
 ],
-  "geometry": {"coordinates":[23.60362000000001,52.92561],"type":"Point"}
+  "geometry": {"coordinates":[23.60362,52.92561],"type":"Point"}
 }

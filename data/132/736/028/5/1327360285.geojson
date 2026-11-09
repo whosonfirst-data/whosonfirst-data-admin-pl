@@ -66,7 +66,7 @@
         "wk:page":"Bukowice%2C_Lublin_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"49be08ab9d2095490b3fdec667e9d723",
+    "wof:geomhash":"1e417a414cbee34db1d25205e4b4fa53",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     23.0,
     52.15
 ],
-  "geometry": {"coordinates":[23.0,52.15],"type":"Point"}
+  "geometry": {"coordinates":[23,52.15],"type":"Point"}
 }

@@ -51,7 +51,7 @@
         "wk:page":"Szczytno%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"065b3d061734b420ecac3a0d4d416180",
+    "wof:geomhash":"35c03b9323facd5baf2a7ad326d0369d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     16.92866,
     52.68743000000001
 ],
-  "geometry": {"coordinates":[16.92866,52.68743000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.92866,52.68743],"type":"Point"}
 }

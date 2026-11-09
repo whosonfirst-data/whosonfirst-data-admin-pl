@@ -58,7 +58,7 @@
         "wk:page":"Kaborno"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6c9f01ae51f2bebc3ad38ec8be61426a",
+    "wof:geomhash":"37d0fbeb54523df8fac47c7f71c4203c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,5 +85,5 @@
     20.60825,
     53.70438000000001
 ],
-  "geometry": {"coordinates":[20.60825,53.70438000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.60825,53.70438],"type":"Point"}
 }

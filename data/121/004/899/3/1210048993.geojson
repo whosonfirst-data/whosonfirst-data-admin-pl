@@ -57,7 +57,7 @@
         "wk:page":"Nowe_Raczki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"bcb8c8bedcab1f5413b5aad34691d176",
+    "wof:geomhash":"aa744c9d339e33368f321c7d90cf56a6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.57424,
     54.04578000000001
 ],
-  "geometry": {"coordinates":[22.57424,54.04578000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.57424,54.04578],"type":"Point"}
 }

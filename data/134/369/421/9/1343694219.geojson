@@ -57,7 +57,7 @@
         "wk:page":"Szemborowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4a35d4850cc212ca19029929c23bf6f2",
+    "wof:geomhash":"6a0b40eb357de62c18862a5b20c97d1c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     17.72517000000001,
     52.35872
 ],
-  "geometry": {"coordinates":[17.72517000000001,52.35872],"type":"Point"}
+  "geometry": {"coordinates":[17.72517,52.35872],"type":"Point"}
 }

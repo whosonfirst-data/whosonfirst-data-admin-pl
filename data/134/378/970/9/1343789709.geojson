@@ -51,7 +51,7 @@
         "wk:page":"Kozin%2C_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8500f96182f11c88e3b71b009d37d9a2",
+    "wof:geomhash":"59b586a3a4be3da3080697d4b0a1a2c8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.62702999999999,
     54.37857
 ],
-  "geometry": {"coordinates":[17.62702999999999,54.37857],"type":"Point"}
+  "geometry": {"coordinates":[17.62703,54.37857],"type":"Point"}
 }

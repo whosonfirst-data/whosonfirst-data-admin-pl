@@ -54,7 +54,7 @@
         "wk:page":"R%C3%B3%C5%BCa_Podg%C3%B3rna"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2457daa387486e43c95665ec8af0ef5d",
+    "wof:geomhash":"92dabd6d79663fff3b8f5920e8c035b8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.10998,
     51.98934000000001
 ],
-  "geometry": {"coordinates":[22.10998,51.98934000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.10998,51.98934],"type":"Point"}
 }

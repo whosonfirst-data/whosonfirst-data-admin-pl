@@ -51,7 +51,7 @@
         "wk:page":"Czarnolas%2C_Opole_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5b5dfa6959bf91f46a1a5e85ab0919a1",
+    "wof:geomhash":"c9aa9d9b2033338c9ebe2243ed9e5cbd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.31411,
     50.59294000000001
 ],
-  "geometry": {"coordinates":[17.31411,50.59294000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.31411,50.59294],"type":"Point"}
 }

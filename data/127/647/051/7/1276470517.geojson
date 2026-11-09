@@ -63,7 +63,7 @@
         "wk:page":"Duszna_G%C3%B3rka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"dda266ce52e22ac9e58f39f70d589d4d",
+    "wof:geomhash":"f5e2ae92eb0ed07e081928ac9c5cb067",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     17.57855,
     51.71129000000001
 ],
-  "geometry": {"coordinates":[17.57855,51.71129000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.57855,51.71129],"type":"Point"}
 }

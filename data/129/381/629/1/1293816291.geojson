@@ -54,7 +54,7 @@
         "wk:page":"Nowy_Dw%C3%B3r%2C_Pi%C5%82a_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"0e27f1598d45c09dd43924f7e5756a44",
+    "wof:geomhash":"826510b4b169012f0c4264132e348fcf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     16.52,
     53.16956999999999
 ],
-  "geometry": {"coordinates":[16.52,53.16956999999999],"type":"Point"}
+  "geometry": {"coordinates":[16.52,53.16957],"type":"Point"}
 }

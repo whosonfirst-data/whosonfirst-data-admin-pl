@@ -57,7 +57,7 @@
         "wk:page":"Piwonin"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e81493dec220c072593724a543db75d2",
+    "wof:geomhash":"6e80abdcb0bc664b11359592be0eae0d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.28063,
     51.92449000000001
 ],
-  "geometry": {"coordinates":[21.28063,51.92449000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.28063,51.92449],"type":"Point"}
 }

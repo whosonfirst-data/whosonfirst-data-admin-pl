@@ -57,7 +57,7 @@
         "wk:page":"Upad%C5%82y"
     },
     "wof:country":"PL",
-    "wof:geomhash":"bba8848fe21acf79642e5a9f0ba5e66f",
+    "wof:geomhash":"e45434049135c8160ee2ccdd191a8a0c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     15.0155,
     53.85888000000001
 ],
-  "geometry": {"coordinates":[15.0155,53.85888000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.0155,53.85888],"type":"Point"}
 }

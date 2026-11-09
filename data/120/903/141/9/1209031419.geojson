@@ -60,7 +60,7 @@
         "wk:page":"Trzeboszowice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"35a36b8820b134f667a9b3a5f6e5fa26",
+    "wof:geomhash":"5b3daae768a407f759425136d34c59ed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     17.08992000000001,
     50.4328
 ],
-  "geometry": {"coordinates":[17.08992000000001,50.4328],"type":"Point"}
+  "geometry": {"coordinates":[17.08992,50.4328],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"Radomy%C5%9Bl%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1104844e0c02330f482389269b137ea8",
+    "wof:geomhash":"1fac7cd27fc8a5e1cff2cc31ee37c536",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.35973,
     52.03319000000001
 ],
-  "geometry": {"coordinates":[22.35973,52.03319000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.35973,52.03319],"type":"Point"}
 }

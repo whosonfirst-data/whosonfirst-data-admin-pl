@@ -57,7 +57,7 @@
         "wk:page":"Rozniszew"
     },
     "wof:country":"PL",
-    "wof:geomhash":"42ffd296e3124725dd703fea318f5d63",
+    "wof:geomhash":"20d858197c07691fb9f9fb08ac8fa0cd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.29278,
     51.80589000000001
 ],
-  "geometry": {"coordinates":[21.29278,51.80589000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.29278,51.80589],"type":"Point"}
 }

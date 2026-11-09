@@ -57,7 +57,7 @@
         "wk:page":"P%C4%99glity"
     },
     "wof:country":"PL",
-    "wof:geomhash":"07bd138509d7b54a616dce5219d51123",
+    "wof:geomhash":"39ecd1f812158e1e71c13ea3571bda38",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     20.25969,
     53.71783000000001
 ],
-  "geometry": {"coordinates":[20.25969,53.71783000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.25969,53.71783],"type":"Point"}
 }

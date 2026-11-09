@@ -70,7 +70,7 @@
         "wk:page":"Ginie%2C_Warmian-Masurian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"26a66896aad4b5e8378a195d6b98c2d1",
+    "wof:geomhash":"cf6c0a6996494c531ff2704353dcd3e4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,5 +97,5 @@
     22.77122,
     53.87793000000001
 ],
-  "geometry": {"coordinates":[22.77122,53.87793000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.77122,53.87793],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Bartniki%2C_Podlaskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"014ae4c262e01dd0c0e5b56f8e7f8910",
+    "wof:geomhash":"d9757e4c2a19035cb31b819c3d20ffa3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     23.52352,
     53.78044000000001
 ],
-  "geometry": {"coordinates":[23.52352,53.78044000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.52352,53.78044],"type":"Point"}
 }

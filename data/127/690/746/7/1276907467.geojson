@@ -54,7 +54,7 @@
         "wk:page":"Binduga%2C_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"66b39581ceac149733d2c4d26dba1578",
+    "wof:geomhash":"0ceae9df8bd560d938f3ef5c17d3d014",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.33316,
     53.89888000000001
 ],
-  "geometry": {"coordinates":[17.33316,53.89888000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.33316,53.89888],"type":"Point"}
 }

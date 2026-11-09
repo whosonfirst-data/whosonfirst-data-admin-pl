@@ -57,7 +57,7 @@
         "wk:page":"Adamowo%2C_Dzia%C5%82dowo_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3a7d3e9316742a1ed36d88141d6d75c3",
+    "wof:geomhash":"a815237825b5bbd70d0ce53ac315ec61",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     19.92096,
     53.18053000000001
 ],
-  "geometry": {"coordinates":[19.92096,53.18053000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.92096,53.18053],"type":"Point"}
 }

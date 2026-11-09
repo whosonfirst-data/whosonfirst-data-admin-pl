@@ -54,7 +54,7 @@
         "wk:page":"Rogier%C3%B3wko"
     },
     "wof:country":"PL",
-    "wof:geomhash":"52e5257d41ded2388330fe7c8be7cba5",
+    "wof:geomhash":"405f2f01b4c105bcc6f098093219d01c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     16.75278,
     52.47808000000001
 ],
-  "geometry": {"coordinates":[16.75278,52.47808000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.75278,52.47808],"type":"Point"}
 }

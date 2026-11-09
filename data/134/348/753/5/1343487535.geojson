@@ -51,7 +51,7 @@
         "wk:page":"Machnacz%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"698c3dd82ba951a70a606e034772bffd",
+    "wof:geomhash":"d83e25d897e31d5e79472480e4cd24a7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.95291,
     52.64893000000001
 ],
-  "geometry": {"coordinates":[18.95291,52.64893000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.95291,52.64893],"type":"Point"}
 }

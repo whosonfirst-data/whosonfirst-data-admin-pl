@@ -54,7 +54,7 @@
         "wk:page":"Czernice%2C_Podlaskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8b7ae86e55e2b4c24113dbe9eb33ca7e",
+    "wof:geomhash":"3df7576c7032367c0e7c012f1e801565",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.99183,
     53.41399000000001
 ],
-  "geometry": {"coordinates":[21.99183,53.41399000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.99183,53.41399],"type":"Point"}
 }

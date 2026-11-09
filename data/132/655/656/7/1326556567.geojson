@@ -54,7 +54,7 @@
         "wk:page":"Zofiowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"37c961624ae7b796c79cac17181c3637",
+    "wof:geomhash":"48c8c8c21818499ab7f589e575bbd886",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     16.50825,
     52.91161999999999
 ],
-  "geometry": {"coordinates":[16.50825,52.91161999999999],"type":"Point"}
+  "geometry": {"coordinates":[16.50825,52.91162],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"Taciewo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4ab2c667fd4a61a895d55fddbab78c86",
+    "wof:geomhash":"7946df0bd99cf02d5cc04804b66ed59a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.79722000000001,
     54.15382
 ],
-  "geometry": {"coordinates":[22.79722000000001,54.15382],"type":"Point"}
+  "geometry": {"coordinates":[22.79722,54.15382],"type":"Point"}
 }

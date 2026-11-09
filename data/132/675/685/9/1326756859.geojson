@@ -69,7 +69,7 @@
         "wk:page":"Janowo%2C_%C5%81om%C5%BCa_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2093acf93e7e099b08c3dd6060f861a5",
+    "wof:geomhash":"e6e419a8f6d5a82144a3df4b0b0544e1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     21.99738,
     53.16628000000001
 ],
-  "geometry": {"coordinates":[21.99738,53.16628000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.99738,53.16628],"type":"Point"}
 }

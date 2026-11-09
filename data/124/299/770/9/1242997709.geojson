@@ -63,7 +63,7 @@
         "wk:page":"Niedamir%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"415e647955320fd10972b323ddf7d28b",
+    "wof:geomhash":"591a87908099b547a6e951ec0c97da5f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     15.87576,
     50.69094000000001
 ],
-  "geometry": {"coordinates":[15.87576,50.69094000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.87576,50.69094],"type":"Point"}
 }

@@ -60,7 +60,7 @@
         "wk:page":"We%C5%82nica%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"24db4cca89afdcf4c0c258bfeb5a6059",
+    "wof:geomhash":"530da92dd504fa9f62a43f843ccc0352",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     17.65132000000001,
     52.5587
 ],
-  "geometry": {"coordinates":[17.65132000000001,52.5587],"type":"Point"}
+  "geometry": {"coordinates":[17.65132,52.5587],"type":"Point"}
 }

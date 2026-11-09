@@ -60,7 +60,7 @@
         "wk:page":"Worliny"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d3e1d1be09c446b851de669f3a2e4d62",
+    "wof:geomhash":"da78fa25375b3e6230e0537e5966ed91",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     20.12963,
     53.78223000000001
 ],
-  "geometry": {"coordinates":[20.12963,53.78223000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.12963,53.78223],"type":"Point"}
 }

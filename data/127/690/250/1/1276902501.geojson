@@ -51,7 +51,7 @@
         "wk:page":"Topolno_Wielkie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d3a00d4fa908177084b5254288be7396",
+    "wof:geomhash":"47dc661f393d61d0a75fa0d79a4481ad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.52477,
     54.01433000000001
 ],
-  "geometry": {"coordinates":[19.52477,54.01433000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.52477,54.01433],"type":"Point"}
 }

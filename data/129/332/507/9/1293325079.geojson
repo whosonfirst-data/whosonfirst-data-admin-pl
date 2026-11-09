@@ -54,7 +54,7 @@
         "wk:page":"Bojany"
     },
     "wof:country":"PL",
-    "wof:geomhash":"628f91e99abe2529ff879ac1c9d5368e",
+    "wof:geomhash":"7eef60c61fc2f3e610480967f6c6fac2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.77899,
     52.67798000000001
 ],
-  "geometry": {"coordinates":[21.77899,52.67798000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.77899,52.67798],"type":"Point"}
 }

@@ -71,7 +71,7 @@
         "wk:page":"Jamio%C5%82ki-Godzieby"
     },
     "wof:country":"PL",
-    "wof:geomhash":"259afb2fc52f7da4abf2a148fe394123",
+    "wof:geomhash":"ded9fab58d96cfbd44b5fd9d402ca967",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,5 +98,5 @@
     22.66667,
     53.03333000000001
 ],
-  "geometry": {"coordinates":[22.66667,53.03333000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.66667,53.03333],"type":"Point"}
 }

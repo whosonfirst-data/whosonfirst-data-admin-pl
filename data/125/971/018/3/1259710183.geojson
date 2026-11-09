@@ -57,7 +57,7 @@
         "wk:page":"W%C3%B3lka_Piotrowska"
     },
     "wof:country":"PL",
-    "wof:geomhash":"100aaf24918695bd06b4af4746971dfe",
+    "wof:geomhash":"2e0cca7bc7ff842ae881e27231ab5650",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.54995,
     53.68669000000001
 ],
-  "geometry": {"coordinates":[22.54995,53.68669000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.54995,53.68669],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Czarne%2C_West_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"0d68b8667f8af9446f3b8dc4ae1f0b14",
+    "wof:geomhash":"cacd638b975c53fae292a25d04128b99",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     15.31865,
     53.77484000000001
 ],
-  "geometry": {"coordinates":[15.31865,53.77484000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.31865,53.77484],"type":"Point"}
 }

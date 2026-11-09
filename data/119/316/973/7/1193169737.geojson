@@ -57,7 +57,7 @@
         "wk:page":"Gol%C4%99czewo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"227bb70413cbf2adb9e24e77b08737c0",
+    "wof:geomhash":"217dbc8c989d2c2d66533dc3d8e01225",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     16.82007,
     52.53514000000001
 ],
-  "geometry": {"coordinates":[16.82007,52.53514000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.82007,52.53514],"type":"Point"}
 }

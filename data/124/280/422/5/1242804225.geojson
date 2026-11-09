@@ -60,7 +60,7 @@
         "wk:page":"K%C4%85tno%2C_Warmian-Masurian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ac41cb86e757eac3f19eea4e01dea3f8",
+    "wof:geomhash":"c167658e4b803251f50de7452490dad6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     20.07547000000001,
     53.70703
 ],
-  "geometry": {"coordinates":[20.07547000000001,53.70703],"type":"Point"}
+  "geometry": {"coordinates":[20.07547,53.70703],"type":"Point"}
 }

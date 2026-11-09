@@ -63,7 +63,7 @@
         "wk:page":"Chwarstnica"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7cb7ba6f3ddf02756d9e39d78ae9379a",
+    "wof:geomhash":"f72531921020069573f65fdd28350182",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     14.61003,
     53.22043000000001
 ],
-  "geometry": {"coordinates":[14.61003,53.22043000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.61003,53.22043],"type":"Point"}
 }

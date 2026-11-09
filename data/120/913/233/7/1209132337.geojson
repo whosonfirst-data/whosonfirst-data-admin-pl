@@ -63,7 +63,7 @@
         "wk:page":"Stru%C5%BCyna%2C_Warmian-Masurian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4a6b26c17f4989cdb31ed08ceede194b",
+    "wof:geomhash":"d22deab24ea2c9e7484a7364e3c1a52f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     19.94207,
     54.00443000000001
 ],
-  "geometry": {"coordinates":[19.94207,54.00443000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.94207,54.00443],"type":"Point"}
 }

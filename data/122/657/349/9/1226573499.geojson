@@ -54,7 +54,7 @@
         "wk:page":"Obrz%C4%99bin"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b74e615e5b004a880ee9d1100368afa5",
+    "wof:geomhash":"3984ddbd1c360c1b062ebb148bd54083",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.47086,
     52.02764000000001
 ],
-  "geometry": {"coordinates":[18.47086,52.02764000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.47086,52.02764],"type":"Point"}
 }

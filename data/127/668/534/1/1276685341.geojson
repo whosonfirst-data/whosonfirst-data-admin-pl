@@ -48,7 +48,7 @@
         "wk:page":"Niebo%2C_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"efc568c09877a6fa85c3805f50c05d5f",
+    "wof:geomhash":"dd4e16332c730954b92d18947af3428d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     18.11667000000001,
     54.25
 ],
-  "geometry": {"coordinates":[18.11667000000001,54.25],"type":"Point"}
+  "geometry": {"coordinates":[18.11667,54.25],"type":"Point"}
 }

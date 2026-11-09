@@ -65,7 +65,7 @@
         "wk:page":"Cibory%2C_Pisz_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d0b7520b5e3bfa0dc942d01d897f73d4",
+    "wof:geomhash":"50d0896c8b8394c18145cb1b12210b7f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     22.14209,
     53.56529000000001
 ],
-  "geometry": {"coordinates":[22.14209,53.56529000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.14209,53.56529],"type":"Point"}
 }

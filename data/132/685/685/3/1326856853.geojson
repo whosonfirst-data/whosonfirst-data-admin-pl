@@ -60,7 +60,7 @@
         "wk:page":"Dobrz%C4%99cino"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d748cf1f911579201cc960669de81b34",
+    "wof:geomhash":"7260ef7e52eb415655b9474696609161",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     16.8903,
     54.39364000000001
 ],
-  "geometry": {"coordinates":[16.8903,54.39364000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.8903,54.39364],"type":"Point"}
 }

@@ -60,7 +60,7 @@
         "wk:page":"Barszcz%C3%B3wka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"680ae7298c21cd2a89ea720ab66aea36",
+    "wof:geomhash":"e773c5059403080b046b434e0cf002e3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     23.00622000000001,
     53.05351999999999
 ],
-  "geometry": {"coordinates":[23.00622000000001,53.05351999999999],"type":"Point"}
+  "geometry": {"coordinates":[23.00622,53.05352],"type":"Point"}
 }

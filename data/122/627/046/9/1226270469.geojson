@@ -60,7 +60,7 @@
         "wk:page":"Zajezierce"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7d8274266c8bdbcaeca97768f61259ec",
+    "wof:geomhash":"43f8720f4ed020a2666cf56b20183a1f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     23.35059,
     53.08391999999999
 ],
-  "geometry": {"coordinates":[23.35059,53.08391999999999],"type":"Point"}
+  "geometry": {"coordinates":[23.35059,53.08392],"type":"Point"}
 }

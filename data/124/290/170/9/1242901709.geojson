@@ -63,7 +63,7 @@
         "wk:page":"%C5%9Alubowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d72f4ec7365cbfcb81c1fb7cd224ef3d",
+    "wof:geomhash":"ae3946fe7bdf525d706d85ae7f421e69",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     20.75489,
     52.72148000000001
 ],
-  "geometry": {"coordinates":[20.75489,52.72148000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.75489,52.72148],"type":"Point"}
 }

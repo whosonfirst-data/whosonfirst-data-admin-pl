@@ -57,7 +57,7 @@
         "wk:page":"Liche%C5%84%2C_Lubusz_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b13b85dd5914113054fec9ebf5108581",
+    "wof:geomhash":"1e4daef6c0b659542d1a65a5bcc17ec3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     15.59506,
     52.90051999999999
 ],
-  "geometry": {"coordinates":[15.59506,52.90051999999999],"type":"Point"}
+  "geometry": {"coordinates":[15.59506,52.90052],"type":"Point"}
 }

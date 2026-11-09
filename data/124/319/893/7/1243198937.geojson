@@ -63,7 +63,7 @@
         "wk:page":"Knorozy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9fd9c8e48d3895c8afada6e8f88d20f3",
+    "wof:geomhash":"276b7c1bc21c23c2c61050004028cc58",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     23.2503,
     52.85583000000001
 ],
-  "geometry": {"coordinates":[23.2503,52.85583000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.2503,52.85583],"type":"Point"}
 }

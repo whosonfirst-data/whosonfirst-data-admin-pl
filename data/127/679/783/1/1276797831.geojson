@@ -60,7 +60,7 @@
         "wk:page":"Chwaliszew"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e91694eb37ba58ab3c306797063c5d74",
+    "wof:geomhash":"df00cc1626ca12256337495a928c573e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     17.53131,
     51.64429000000001
 ],
-  "geometry": {"coordinates":[17.53131,51.64429000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.53131,51.64429],"type":"Point"}
 }

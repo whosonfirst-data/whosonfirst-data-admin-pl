@@ -54,7 +54,7 @@
         "wk:page":"Rochnia"
     },
     "wof:country":"PL",
-    "wof:geomhash":"882299479f527696625bb122e3efcf53",
+    "wof:geomhash":"ac5e94c7dc4ad104c8cb5fe4a938ad67",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.19859,
     53.00203000000001
 ],
-  "geometry": {"coordinates":[20.19859,53.00203000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.19859,53.00203],"type":"Point"}
 }

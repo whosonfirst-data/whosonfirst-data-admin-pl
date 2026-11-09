@@ -57,7 +57,7 @@
         "wk:page":"Lubiesz%C3%B3w%2C_Nowa_S%C3%B3l_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"db49440cb111a0b742ec5b6a04f5e245",
+    "wof:geomhash":"5b04445e8de24dfa07e193987fc0c942",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     15.65861,
     51.79577000000001
 ],
-  "geometry": {"coordinates":[15.65861,51.79577000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.65861,51.79577],"type":"Point"}
 }

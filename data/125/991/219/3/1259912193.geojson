@@ -54,7 +54,7 @@
         "wk:page":"Nowy_Widzim"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e4269e5cce5881a690062e88aabdec94",
+    "wof:geomhash":"5adcff10425f6a521360118b4db10648",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     16.15005,
     52.08387000000001
 ],
-  "geometry": {"coordinates":[16.15005,52.08387000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.15005,52.08387],"type":"Point"}
 }

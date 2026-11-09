@@ -57,7 +57,7 @@
         "wk:page":"Paterek"
     },
     "wof:country":"PL",
-    "wof:geomhash":"db1dcb119308c3011a026d1a9d23cb85",
+    "wof:geomhash":"45629b2c9e519873dbe22e05fdee992f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     17.59824,
     53.11678000000001
 ],
-  "geometry": {"coordinates":[17.59824,53.11678000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.59824,53.11678],"type":"Point"}
 }

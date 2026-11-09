@@ -54,7 +54,7 @@
         "wk:page":"Miniewicze"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a0b9e0f30b174e75e8a15cfd2cecc3cc",
+    "wof:geomhash":"9bd1ec2b72908350b7b2af5c8d4beaa6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     23.30616,
     52.95823000000001
 ],
-  "geometry": {"coordinates":[23.30616,52.95823000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.30616,52.95823],"type":"Point"}
 }

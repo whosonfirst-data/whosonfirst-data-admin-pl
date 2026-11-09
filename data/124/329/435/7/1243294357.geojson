@@ -54,7 +54,7 @@
         "wk:page":"Puszczykowo%2C_Grodzisk_Wielkopolski_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"363b3c2042f329f17dedbe0f65b1c58c",
+    "wof:geomhash":"ed8a785461876cea53f0791e503fe9dc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     16.4521,
     52.12244000000001
 ],
-  "geometry": {"coordinates":[16.4521,52.12244000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.4521,52.12244],"type":"Point"}
 }

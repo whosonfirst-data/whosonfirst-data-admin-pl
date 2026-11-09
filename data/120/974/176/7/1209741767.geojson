@@ -51,7 +51,7 @@
         "wk:page":"Rolantowice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d0cdc2d011df2dbe3a155701cf22e888",
+    "wof:geomhash":"2591485b5a52a7eceb792e6d2db506a5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     16.89937999999999,
     50.92371
 ],
-  "geometry": {"coordinates":[16.89937999999999,50.92371],"type":"Point"}
+  "geometry": {"coordinates":[16.89938,50.92371],"type":"Point"}
 }

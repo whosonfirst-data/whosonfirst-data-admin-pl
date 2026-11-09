@@ -54,7 +54,7 @@
         "wk:page":"Oskowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ab8a73c765dcab520668ec487430db31",
+    "wof:geomhash":"003644ce9e0a7d08f1596d4d4435453d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.69806,
     54.39556999999999
 ],
-  "geometry": {"coordinates":[17.69806,54.39556999999999],"type":"Point"}
+  "geometry": {"coordinates":[17.69806,54.39557],"type":"Point"}
 }

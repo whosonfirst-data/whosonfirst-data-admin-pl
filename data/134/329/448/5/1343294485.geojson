@@ -58,7 +58,7 @@
         "wk:page":"Mojkowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3324e4dec9516109bd9e70331ff3bf02",
+    "wof:geomhash":"0ecac2710c888dad3d32956809fe96b7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,5 +85,5 @@
     19.30246,
     54.10299000000001
 ],
-  "geometry": {"coordinates":[19.30246,54.10299000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.30246,54.10299],"type":"Point"}
 }

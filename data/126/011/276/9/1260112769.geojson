@@ -63,7 +63,7 @@
         "wk:page":"Falni%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"32b98bc235143f898bdb1e1c9e6afb9f",
+    "wof:geomhash":"16153194201d4865fd010afe425676a1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     19.96417000000001,
     50.36391
 ],
-  "geometry": {"coordinates":[19.96417000000001,50.36391],"type":"Point"}
+  "geometry": {"coordinates":[19.96417,50.36391],"type":"Point"}
 }

@@ -66,7 +66,7 @@
         "wk:page":"Jaglice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f14034616113febeb6b149eb229fd264",
+    "wof:geomhash":"827b415531bc8cfb038bd069d109ae8c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     16.20681,
     53.07423000000001
 ],
-  "geometry": {"coordinates":[16.20681,53.07423000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.20681,53.07423],"type":"Point"}
 }

@@ -60,7 +60,7 @@
         "wk:page":"Dobrzyca%2C_Koszalin_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"122c87ec914584f7c48bd45f028339a9",
+    "wof:geomhash":"0235c5617dbcdb40dbc8b9b98d7aa368",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     15.91693,
     54.18776999999999
 ],
-  "geometry": {"coordinates":[15.91693,54.18776999999999],"type":"Point"}
+  "geometry": {"coordinates":[15.91693,54.18777],"type":"Point"}
 }

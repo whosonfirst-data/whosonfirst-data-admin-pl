@@ -58,7 +58,7 @@
         "wk:page":"Dzierwany"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1dc8b2e5d701ea999b5f0c9041d14dd5",
+    "wof:geomhash":"768cfe219e1f675a0b56452944bc2ccc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,5 +85,5 @@
     22.8368,
     54.28556999999999
 ],
-  "geometry": {"coordinates":[22.8368,54.28556999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.8368,54.28557],"type":"Point"}
 }

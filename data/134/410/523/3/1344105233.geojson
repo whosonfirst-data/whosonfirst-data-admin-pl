@@ -48,7 +48,7 @@
         "wk:page":"Borek%2C_%C5%9Awi%C4%99tokrzyskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e38e4dc18fd20ddddd76bf7e3c749c1b",
+    "wof:geomhash":"a434312f6dd6f48ec6e472428f6e27e9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     20.95523,
     50.40799000000001
 ],
-  "geometry": {"coordinates":[20.95523,50.40799000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.95523,50.40799],"type":"Point"}
 }

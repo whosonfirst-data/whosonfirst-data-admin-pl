@@ -62,7 +62,7 @@
         "wk:page":"Rusinowo%2C_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"efca96d4a6be2df13cc5c997450b98dc",
+    "wof:geomhash":"7dc2fdf2906dc2b277d24a1d3bfd4789",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     18.77014,
     53.61038000000001
 ],
-  "geometry": {"coordinates":[18.77014,53.61038000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.77014,53.61038],"type":"Point"}
 }

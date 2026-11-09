@@ -54,7 +54,7 @@
         "wk:page":"Mostowice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f6f7e7aa78742b61483d4ce972a02d11",
+    "wof:geomhash":"d3e43eebf80e9af2ae17dd40e6194df8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     16.48112,
     50.27437000000001
 ],
-  "geometry": {"coordinates":[16.48112,50.27437000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.48112,50.27437],"type":"Point"}
 }

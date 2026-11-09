@@ -54,7 +54,7 @@
         "wk:page":"Pe%C5%82natycze"
     },
     "wof:country":"PL",
-    "wof:geomhash":"03c03ba6ae5416e3762f49b57818a078",
+    "wof:geomhash":"f377b42fc2da81bb2c26cecc7a960f29",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.55407,
     49.96944000000001
 ],
-  "geometry": {"coordinates":[22.55407,49.96944000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.55407,49.96944],"type":"Point"}
 }

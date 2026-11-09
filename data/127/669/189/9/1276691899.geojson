@@ -54,7 +54,7 @@
         "wk:page":"So%C5%82ki%2C_Podlaskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4487c97b6d9654e35901248c634d8628",
+    "wof:geomhash":"8d7c2b6f36a1cf646595bb52e3f89365",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.61044,
     53.61998000000001
 ],
-  "geometry": {"coordinates":[22.61044,53.61998000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.61044,53.61998],"type":"Point"}
 }

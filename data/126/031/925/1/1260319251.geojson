@@ -48,7 +48,7 @@
         "wk:page":"Dobrogost%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b65d2729c824c1d95a6347c39985b79b",
+    "wof:geomhash":"80befe9d2232ab1e47cf46b00a0738a1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     17.74188999999999,
     50.25445
 ],
-  "geometry": {"coordinates":[17.74188999999999,50.25445],"type":"Point"}
+  "geometry": {"coordinates":[17.74189,50.25445],"type":"Point"}
 }

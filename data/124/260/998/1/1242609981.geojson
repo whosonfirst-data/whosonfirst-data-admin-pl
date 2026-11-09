@@ -60,7 +60,7 @@
         "wk:page":"Zastru%C5%BCne"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a971bf1f87d9279216c21a3e3cac67df",
+    "wof:geomhash":"6652daab08d0116a9de9393be9f07531",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     21.79219,
     53.85228000000001
 ],
-  "geometry": {"coordinates":[21.79219,53.85228000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.79219,53.85228],"type":"Point"}
 }

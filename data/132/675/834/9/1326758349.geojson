@@ -51,7 +51,7 @@
         "wk:page":"Kalina%2C_Konin_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9b95c49681521bb380ad83f0b496de09",
+    "wof:geomhash":"a47c3ea366a9ad56f776a5032a1e9dc6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.38682,
     52.44168000000001
 ],
-  "geometry": {"coordinates":[18.38682,52.44168000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.38682,52.44168],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"D%C4%99bogard"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f1d20d3f3718bb357712304b6f2266d8",
+    "wof:geomhash":"b6a8d142ad0431bfbd6b4c5bfce1577d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     15.6708,
     54.11516999999999
 ],
-  "geometry": {"coordinates":[15.6708,54.11516999999999],"type":"Point"}
+  "geometry": {"coordinates":[15.6708,54.11517],"type":"Point"}
 }

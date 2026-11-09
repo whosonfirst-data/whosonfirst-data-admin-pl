@@ -51,7 +51,7 @@
         "wk:page":"%C5%81%C4%85czki%2C_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c5d91a4f46c29e7609db99cc568ddaee",
+    "wof:geomhash":"793087da84ffce9493fac0f695e01d94",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.96667,
     54.36666999999999
 ],
-  "geometry": {"coordinates":[17.96667,54.36666999999999],"type":"Point"}
+  "geometry": {"coordinates":[17.96667,54.36667],"type":"Point"}
 }

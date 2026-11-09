@@ -51,7 +51,7 @@
         "wk:page":"Wola_Droszewska"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b5a66a5ea39d9fabbc32014e4450eff3",
+    "wof:geomhash":"4bde483549eb2a7702d9e5e19ca953b2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.10731,
     51.63039000000001
 ],
-  "geometry": {"coordinates":[18.10731,51.63039000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.10731,51.63039],"type":"Point"}
 }

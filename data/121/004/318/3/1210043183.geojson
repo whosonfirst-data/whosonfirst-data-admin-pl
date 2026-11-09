@@ -51,7 +51,7 @@
         "wk:page":"Westrza"
     },
     "wof:country":"PL",
-    "wof:geomhash":"08dfb111fecdd727afc57613bc548676",
+    "wof:geomhash":"da2418344b78237a2034a6f7266641c1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.94252000000001,
     51.62262
 ],
-  "geometry": {"coordinates":[17.94252000000001,51.62262],"type":"Point"}
+  "geometry": {"coordinates":[17.94252,51.62262],"type":"Point"}
 }

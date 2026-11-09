@@ -54,7 +54,7 @@
         "wk:page":"Tworki%2C_Podlaskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b30d4e24e5259b25d5ea9070b2238ee1",
+    "wof:geomhash":"e51d35ebf4a8dc000d0d03a42eda19c7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     23.00589,
     52.82109000000001
 ],
-  "geometry": {"coordinates":[23.00589,52.82109000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.00589,52.82109],"type":"Point"}
 }

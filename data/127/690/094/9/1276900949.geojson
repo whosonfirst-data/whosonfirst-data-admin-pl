@@ -54,7 +54,7 @@
         "wk:page":"Zakrzewko%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"135578949cedf69d7c87d4e7790bc86a",
+    "wof:geomhash":"eb3186f98bbf8997353f1aa660427e23",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.60961,
     52.70288000000001
 ],
-  "geometry": {"coordinates":[19.60961,52.70288000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.60961,52.70288],"type":"Point"}
 }

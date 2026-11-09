@@ -57,7 +57,7 @@
         "wk:page":"Wanacja"
     },
     "wof:country":"PL",
-    "wof:geomhash":"654fb1ed5d458c2726866196f749f0b1",
+    "wof:geomhash":"58846eaf47a38ca6fc4d35d1b0fdd4c1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.64719,
     53.41148000000001
 ],
-  "geometry": {"coordinates":[21.64719,53.41148000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.64719,53.41148],"type":"Point"}
 }

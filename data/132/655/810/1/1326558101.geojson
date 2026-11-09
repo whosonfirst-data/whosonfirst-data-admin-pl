@@ -59,7 +59,7 @@
         "wk:page":"Sulkowo_Rzeczne"
     },
     "wof:country":"PL",
-    "wof:geomhash":"59304b690288d1255e59e85873f4b633",
+    "wof:geomhash":"aa345153c77c193898005ba3ebe94aee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,5 +86,5 @@
     19.50674,
     52.75604000000001
 ],
-  "geometry": {"coordinates":[19.50674,52.75604000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.50674,52.75604],"type":"Point"}
 }

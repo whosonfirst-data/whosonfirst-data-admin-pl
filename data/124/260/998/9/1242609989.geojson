@@ -57,7 +57,7 @@
         "wk:page":"Annob%C3%B3r"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c3e5411ddf261c55ea295a9ba9be80cf",
+    "wof:geomhash":"23c3bcb6086e0726695bf1d8fadd8659",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.58968,
     51.42912000000001
 ],
-  "geometry": {"coordinates":[22.58968,51.42912000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.58968,51.42912],"type":"Point"}
 }

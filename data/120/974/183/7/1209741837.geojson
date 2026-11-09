@@ -51,7 +51,7 @@
         "wk:page":"Wszo%C5%82%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5ae260cc1bac4767cb656634b1c63b5b",
+    "wof:geomhash":"8f0cb62be7e8659fb5953f316c186acf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.87422999999999,
     51.84643
 ],
-  "geometry": {"coordinates":[17.87422999999999,51.84643],"type":"Point"}
+  "geometry": {"coordinates":[17.87423,51.84643],"type":"Point"}
 }

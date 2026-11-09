@@ -51,7 +51,7 @@
         "wk:page":"Zb%C3%B3jenko"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e9218e9e48e143758acc7afa6657a082",
+    "wof:geomhash":"6ff5a0ba8b22ab031ed5a6cadc7edc37",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.13947000000001,
     53.01406
 ],
-  "geometry": {"coordinates":[19.13947000000001,53.01406],"type":"Point"}
+  "geometry": {"coordinates":[19.13947,53.01406],"type":"Point"}
 }

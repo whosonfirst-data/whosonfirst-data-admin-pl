@@ -63,7 +63,7 @@
         "wk:page":"Budy_Prywatne"
     },
     "wof:country":"PL",
-    "wof:geomhash":"66e67be1b6e287c11cc833cdf99c00e9",
+    "wof:geomhash":"7776a70e4ae06c8e9bdca15eea292a78",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     21.17703,
     53.11723000000001
 ],
-  "geometry": {"coordinates":[21.17703,53.11723000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.17703,53.11723],"type":"Point"}
 }

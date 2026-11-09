@@ -54,7 +54,7 @@
         "wk:page":"Zbeniny"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e3da6ef979a6f92ee3e0199d0b3f84fa",
+    "wof:geomhash":"603b9c44d28eaa09ac72ad46f42678cf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.62172,
     53.74988000000001
 ],
-  "geometry": {"coordinates":[17.62172,53.74988000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.62172,53.74988],"type":"Point"}
 }

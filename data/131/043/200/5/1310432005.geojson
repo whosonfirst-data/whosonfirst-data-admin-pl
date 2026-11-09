@@ -59,7 +59,7 @@
         "wk:page":"Podlasek%2C_Warmian-Masurian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"92207c40444ef5715e012b8b01acbb3e",
+    "wof:geomhash":"5e4944d7d3dd3ddda4c074aa66585ac6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,5 +86,5 @@
     19.26247,
     53.50836999999999
 ],
-  "geometry": {"coordinates":[19.26247,53.50836999999999],"type":"Point"}
+  "geometry": {"coordinates":[19.26247,53.50837],"type":"Point"}
 }

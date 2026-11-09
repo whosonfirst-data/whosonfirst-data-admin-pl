@@ -54,7 +54,7 @@
         "wk:page":"Os%C3%B3wiec_Szlachecki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"961e54918aae8b82900dfcb144901793",
+    "wof:geomhash":"c2632443e29bcaa3f1cd31ea9e1e3d2b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.9467,
     53.09388000000001
 ],
-  "geometry": {"coordinates":[20.9467,53.09388000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.9467,53.09388],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"Mystki%2C_Lubusz_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c76254ab8f4490660235b0e674bcdefd",
+    "wof:geomhash":"5a9e20b116476e93d451830e5a2b1b7d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     14.86828,
     52.82516999999999
 ],
-  "geometry": {"coordinates":[14.86828,52.82516999999999],"type":"Point"}
+  "geometry": {"coordinates":[14.86828,52.82517],"type":"Point"}
 }

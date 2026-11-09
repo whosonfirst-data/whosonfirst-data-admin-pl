@@ -54,7 +54,7 @@
         "wk:page":"Las_Zawadzki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b3018c898486b49fe2f95d52b755f97b",
+    "wof:geomhash":"f7446f05931c71181b23f30d3d3f565d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.96814,
     51.38079000000001
 ],
-  "geometry": {"coordinates":[18.96814,51.38079000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.96814,51.38079],"type":"Point"}
 }

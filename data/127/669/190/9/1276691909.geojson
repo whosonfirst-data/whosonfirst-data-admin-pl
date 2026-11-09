@@ -54,7 +54,7 @@
         "wk:page":"Szczepki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8273b8f90dfa6c2686d3e842dbd2c3fb",
+    "wof:geomhash":"7ba23b1e18bee11b48cff06bcd967971",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.9662,
     53.95653000000001
 ],
-  "geometry": {"coordinates":[22.9662,53.95653000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.9662,53.95653],"type":"Point"}
 }

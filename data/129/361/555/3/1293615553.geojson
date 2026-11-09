@@ -54,7 +54,7 @@
         "wk:page":"Kuka%C5%84"
     },
     "wof:country":"PL",
-    "wof:geomhash":"168df91e34c1f213fc95a84f65ebee3d",
+    "wof:geomhash":"db33858f723f7ef745bfe58f73dee165",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     15.09111,
     53.89559000000001
 ],
-  "geometry": {"coordinates":[15.09111,53.89559000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.09111,53.89559],"type":"Point"}
 }

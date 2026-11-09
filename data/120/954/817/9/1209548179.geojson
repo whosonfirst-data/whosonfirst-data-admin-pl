@@ -51,7 +51,7 @@
         "wk:page":"Szpiegowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"830656a90942427d69571e9e5678c021",
+    "wof:geomhash":"87beea4ea9ab1b74b9efb5198423cd02",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.23446,
     52.69188000000001
 ],
-  "geometry": {"coordinates":[19.23446,52.69188000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.23446,52.69188],"type":"Point"}
 }

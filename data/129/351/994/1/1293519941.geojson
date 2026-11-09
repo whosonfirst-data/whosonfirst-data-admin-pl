@@ -54,7 +54,7 @@
         "wk:page":"Stare_Bosewo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"42c3ba54ca0c66dbd55e76ede993c42f",
+    "wof:geomhash":"9fe7cb7ca6ee0f24a082753b040be4e7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.55213,
     52.77093000000001
 ],
-  "geometry": {"coordinates":[21.55213,52.77093000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.55213,52.77093],"type":"Point"}
 }

@@ -60,7 +60,7 @@
         "wk:page":"Bzury%2C_Podlaskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7d56568e06468394f78cd09d7cbe4fb4",
+    "wof:geomhash":"ceff6fa58481141e8506557c2f5f39a6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     22.34779,
     53.57409000000001
 ],
-  "geometry": {"coordinates":[22.34779,53.57409000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.34779,53.57409],"type":"Point"}
 }

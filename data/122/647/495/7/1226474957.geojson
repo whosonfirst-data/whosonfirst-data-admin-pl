@@ -54,7 +54,7 @@
         "wk:page":"Su%C5%82k%C3%B3w%2C_Opole_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"be8c2e987d5dabcec549e530607945c4",
+    "wof:geomhash":"4597360c95bb34e3deb6826d12737d86",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.95286,
     50.16392000000001
 ],
-  "geometry": {"coordinates":[17.95286,50.16392000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.95286,50.16392],"type":"Point"}
 }

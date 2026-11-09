@@ -54,7 +54,7 @@
         "wk:page":"Przysowy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"85972adc9d71bce39aa2d589afa802c8",
+    "wof:geomhash":"653759c497e0f38ecab07740dfb4ace4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.94867,
     53.22391999999999
 ],
-  "geometry": {"coordinates":[20.94867,53.22391999999999],"type":"Point"}
+  "geometry": {"coordinates":[20.94867,53.22392],"type":"Point"}
 }

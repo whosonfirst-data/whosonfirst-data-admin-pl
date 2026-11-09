@@ -57,7 +57,7 @@
         "wk:page":"%C5%81atanice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ab2004342d800d5f4e10a24e69eb2f45",
+    "wof:geomhash":"1e91d3b8875f2cc6495692baf03a4c13",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     20.70107,
     50.41549000000001
 ],
-  "geometry": {"coordinates":[20.70107,50.41549000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.70107,50.41549],"type":"Point"}
 }

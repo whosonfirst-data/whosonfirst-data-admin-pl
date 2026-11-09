@@ -60,7 +60,7 @@
         "wk:page":"Chrcynno"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a5f343578df6a7c61f76b373a5e1ac7b",
+    "wof:geomhash":"48e47599bd6a70bb48c98d1334371a1d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     20.86132000000001,
     52.57296
 ],
-  "geometry": {"coordinates":[20.86132000000001,52.57296],"type":"Point"}
+  "geometry": {"coordinates":[20.86132,52.57296],"type":"Point"}
 }

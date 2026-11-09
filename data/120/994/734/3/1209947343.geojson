@@ -54,7 +54,7 @@
         "wk:page":"Karpowicze"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5d19f57d2c0cea0d0f28fe5f0d5e0cc7",
+    "wof:geomhash":"e3d8bdd1a482a26078b5836a9488da82",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     23.03705,
     53.58071999999999
 ],
-  "geometry": {"coordinates":[23.03705,53.58071999999999],"type":"Point"}
+  "geometry": {"coordinates":[23.03705,53.58072],"type":"Point"}
 }

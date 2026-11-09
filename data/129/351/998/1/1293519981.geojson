@@ -57,7 +57,7 @@
         "wk:page":"Grodziec%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9f6aaa07e5e9a184a9e973ec16e91049",
+    "wof:geomhash":"362a9c7aecb4a1847458104a29c6b784",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     20.3973,
     52.47103000000001
 ],
-  "geometry": {"coordinates":[20.3973,52.47103000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.3973,52.47103],"type":"Point"}
 }

@@ -69,7 +69,7 @@
         "wk:page":"Nowosady%2C_Hajn%C3%B3wka_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"0d70b5c4a076e0be8ec68778cc86e9d2",
+    "wof:geomhash":"4db4ff16145674a8505b70feb28e24a1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     23.61305,
     52.79839000000001
 ],
-  "geometry": {"coordinates":[23.61305,52.79839000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.61305,52.79839],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Lubiank%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5f84a8339155e9ba85a6d92fe58b5005",
+    "wof:geomhash":"b765d5a9e3eb1a0b2ecda3d161bcace8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.78629,
     51.95887000000001
 ],
-  "geometry": {"coordinates":[19.78629,51.95887000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.78629,51.95887],"type":"Point"}
 }

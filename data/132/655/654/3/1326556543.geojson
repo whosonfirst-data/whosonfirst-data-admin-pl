@@ -57,7 +57,7 @@
         "wk:page":"Kierzkowo%2C_Wejherowo_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a884300f902d9b2466774c9de09a14a0",
+    "wof:geomhash":"e7f0e44335b447e8563b3df88a920966",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     17.87167,
     54.76723000000001
 ],
-  "geometry": {"coordinates":[17.87167,54.76723000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.87167,54.76723],"type":"Point"}
 }

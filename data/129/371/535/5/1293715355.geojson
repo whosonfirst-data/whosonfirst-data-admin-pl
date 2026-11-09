@@ -51,7 +51,7 @@
         "wk:page":"Ku%C5%BAnia%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e0a449ef26246a7950acb3ce3403cb51",
+    "wof:geomhash":"c9ffd7e7d68e59e8cfcae9cadb4a9250",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.91157999999999,
     51.94524000000001
 ],
-  "geometry": {"coordinates":[17.91157999999999,51.94524000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.91158,51.94524],"type":"Point"}
 }

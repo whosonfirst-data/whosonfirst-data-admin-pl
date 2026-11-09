@@ -51,7 +51,7 @@
         "wk:page":"%C5%9Aciborzyce_Ma%C5%82e"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a0b792c9933f3f41961ec0e5f62f84e6",
+    "wof:geomhash":"10ab1a9727a1d8b6689d878d42d145e6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.77698999999999,
     50.2691
 ],
-  "geometry": {"coordinates":[17.77698999999999,50.2691],"type":"Point"}
+  "geometry": {"coordinates":[17.77699,50.2691],"type":"Point"}
 }

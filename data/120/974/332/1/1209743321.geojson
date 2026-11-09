@@ -57,7 +57,7 @@
         "wk:page":"Wilam%C3%B3wka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"915de03757f36204af9bdad358ed462a",
+    "wof:geomhash":"2962dc5e837ace78bef2f00032e2daf1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.61645,
     53.40983000000001
 ],
-  "geometry": {"coordinates":[22.61645,53.40983000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.61645,53.40983],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"Potu%C5%82y%2C_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e19d0fc36bb2252b479fcec6666c653f",
+    "wof:geomhash":"f08cdb0f4645d205b2fc80d0c8cca33c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     18.08763,
     54.22134000000001
 ],
-  "geometry": {"coordinates":[18.08763,54.22134000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.08763,54.22134],"type":"Point"}
 }

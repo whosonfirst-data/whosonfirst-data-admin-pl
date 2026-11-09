@@ -57,7 +57,7 @@
         "wk:page":"Radzymin%2C_P%C5%82o%C5%84sk_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3eb19b326520d511fc20100d186f5bc2",
+    "wof:geomhash":"13a96a8e7f8b4a9fa53b7d13187be0b2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     20.36841,
     52.56359000000001
 ],
-  "geometry": {"coordinates":[20.36841,52.56359000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.36841,52.56359],"type":"Point"}
 }

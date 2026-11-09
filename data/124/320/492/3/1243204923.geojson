@@ -48,7 +48,7 @@
         "wk:page":"Klimont%C3%B3w%2C_Lower_Silesian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"bbbb25b9223251e8269116c35caf9a15",
+    "wof:geomhash":"e10e65e9b1b7e266f1c7c3aee1e6c4f7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     16.33472,
     51.69694000000001
 ],
-  "geometry": {"coordinates":[16.33472,51.69694000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.33472,51.69694],"type":"Point"}
 }

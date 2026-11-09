@@ -63,7 +63,7 @@
         "wk:page":"P%C5%82aszewo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7644b197847b6dc6b5ce4ae2db22a8b1",
+    "wof:geomhash":"636ef2c3e4e12ade7a289ae6d56a8c5e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     17.00521,
     54.32324000000001
 ],
-  "geometry": {"coordinates":[17.00521,54.32324000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.00521,54.32324],"type":"Point"}
 }

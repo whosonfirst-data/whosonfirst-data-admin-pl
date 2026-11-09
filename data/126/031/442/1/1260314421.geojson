@@ -60,7 +60,7 @@
         "wk:page":"Stachlew"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3b7ed93d05751925c5a78970943abf19",
+    "wof:geomhash":"dcfff2d4dfd8cfbd24da9e8376287f21",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     20.04198,
     51.99704000000001
 ],
-  "geometry": {"coordinates":[20.04198,51.99704000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.04198,51.99704],"type":"Point"}
 }

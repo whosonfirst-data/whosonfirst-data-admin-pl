@@ -57,7 +57,7 @@
         "wk:page":"Sokolniki_Gwiazdowskie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a14ac0e96f3f39ee5005a2e409d9d4d0",
+    "wof:geomhash":"a5971b0d8d84f9aeee5177f9a0b22beb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     17.17142999999999,
     52.41417
 ],
-  "geometry": {"coordinates":[17.17142999999999,52.41417],"type":"Point"}
+  "geometry": {"coordinates":[17.17143,52.41417],"type":"Point"}
 }

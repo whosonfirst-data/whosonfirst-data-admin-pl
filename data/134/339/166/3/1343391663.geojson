@@ -55,7 +55,7 @@
         "wk:page":"Chojty"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1cb97a40fd1c4fb7953427686032184b",
+    "wof:geomhash":"96ecb808014834d7d8de1a15d152fa8b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,5 +82,5 @@
     19.26072000000001,
     53.96474
 ],
-  "geometry": {"coordinates":[19.26072000000001,53.96474],"type":"Point"}
+  "geometry": {"coordinates":[19.26072,53.96474],"type":"Point"}
 }

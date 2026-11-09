@@ -48,7 +48,7 @@
         "wk:page":"Opalino"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c48f27f896f7260c4d4683c2a90d4c2d",
+    "wof:geomhash":"53a106ed08153a1563d07bdacc2b64a3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     18.09794,
     54.71073000000001
 ],
-  "geometry": {"coordinates":[18.09794,54.71073000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.09794,54.71073],"type":"Point"}
 }

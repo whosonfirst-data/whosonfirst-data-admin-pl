@@ -54,7 +54,7 @@
         "wk:page":"%C5%9Amidzi%C4%99cino"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a54fe0c777cabdf0f43019023f223378",
+    "wof:geomhash":"47e17886ab4e61f2e182eae6a98d74a6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     16.14102999999999,
     53.67283000000001
 ],
-  "geometry": {"coordinates":[16.14102999999999,53.67283000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.14103,53.67283],"type":"Point"}
 }

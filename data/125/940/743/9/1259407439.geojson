@@ -70,7 +70,7 @@
         "wk:page":"Kruglany"
     },
     "wof:country":"PL",
-    "wof:geomhash":"03bb8524d2230046c73af5062309071d",
+    "wof:geomhash":"1d13d093dd16bd676a3dbabec8f372dc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,5 +97,5 @@
     23.63091,
     53.48733000000001
 ],
-  "geometry": {"coordinates":[23.63091,53.48733000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.63091,53.48733],"type":"Point"}
 }

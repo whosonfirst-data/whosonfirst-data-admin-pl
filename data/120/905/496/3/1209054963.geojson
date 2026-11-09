@@ -57,7 +57,7 @@
         "wk:page":"Cierchy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1ae120be396fa796a5430085b9557b78",
+    "wof:geomhash":"0254cb1d15c23d78f0f604548a4e46bd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     20.47875,
     50.97864000000001
 ],
-  "geometry": {"coordinates":[20.47875,50.97864000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.47875,50.97864],"type":"Point"}
 }

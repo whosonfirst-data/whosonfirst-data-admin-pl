@@ -54,7 +54,7 @@
         "wk:page":"Przejma_Wielka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6f9c2572ebab37d345a1bb6a665fd834",
+    "wof:geomhash":"a180ac34dad8d81f53d951fae8eceec8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     23.0,
     54.23333
 ],
-  "geometry": {"coordinates":[23.0,54.23333],"type":"Point"}
+  "geometry": {"coordinates":[23,54.23333],"type":"Point"}
 }

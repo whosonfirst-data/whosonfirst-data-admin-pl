@@ -54,7 +54,7 @@
         "wk:page":"Z%C4%99b%C3%B3wiec"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1d8f81ca97e4fee25fc9b267c794916a",
+    "wof:geomhash":"e4a5e431b8e146ebcad45b1183384fec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.90712000000001,
     52.96637
 ],
-  "geometry": {"coordinates":[18.90712000000001,52.96637],"type":"Point"}
+  "geometry": {"coordinates":[18.90712,52.96637],"type":"Point"}
 }

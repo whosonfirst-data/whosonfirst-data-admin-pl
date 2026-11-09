@@ -51,7 +51,7 @@
         "wk:page":"%C5%9Awierczyn%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"aec20035dd1ba4c9422e0f0b21809540",
+    "wof:geomhash":"8aaa4b91d2ca091d8f7f2c58dd9758ac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.72761,
     52.51329000000001
 ],
-  "geometry": {"coordinates":[18.72761,52.51329000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.72761,52.51329],"type":"Point"}
 }

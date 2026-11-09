@@ -57,7 +57,7 @@
         "wk:page":"Kleczewo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"0468f1f09fffd82ecf48fdb200e827a0",
+    "wof:geomhash":"a5288cba82f0a11a584aad4aa6a8d40b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     19.16462000000001,
     53.73267
 ],
-  "geometry": {"coordinates":[19.16462000000001,53.73267],"type":"Point"}
+  "geometry": {"coordinates":[19.16462,53.73267],"type":"Point"}
 }

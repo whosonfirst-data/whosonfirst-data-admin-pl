@@ -51,7 +51,7 @@
         "wk:page":"Pyszkowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4059af7d4b3c86b05e8466280359ad35",
+    "wof:geomhash":"503bce58ae3e3f09e5efd0036d3f4808",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.9489,
     52.43913000000001
 ],
-  "geometry": {"coordinates":[18.9489,52.43913000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.9489,52.43913],"type":"Point"}
 }

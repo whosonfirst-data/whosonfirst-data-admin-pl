@@ -54,7 +54,7 @@
         "wk:page":"Dod%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b154d24dc709ac599686a835f227869b",
+    "wof:geomhash":"657b525b9f2aacd724499b43f5f0bf85",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.20653,
     50.27464000000001
 ],
-  "geometry": {"coordinates":[20.20653,50.27464000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.20653,50.27464],"type":"Point"}
 }

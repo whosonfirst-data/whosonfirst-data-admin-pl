@@ -54,7 +54,7 @@
         "wk:page":"Strubiny%2C_P%C5%82o%C5%84sk_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d1e06309b40ba27e4f9e3789b141e62e",
+    "wof:geomhash":"95080d88bfa8afb44aa72fb28ae92c4d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.46667,
     52.61666999999999
 ],
-  "geometry": {"coordinates":[20.46667,52.61666999999999],"type":"Point"}
+  "geometry": {"coordinates":[20.46667,52.61667],"type":"Point"}
 }

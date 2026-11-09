@@ -52,7 +52,7 @@
         "wk:page":"Niwki_Ksi%C4%85%C5%BC%C4%99ce"
     },
     "wof:country":"PL",
-    "wof:geomhash":"378b67e4fd39e286f0994f1432deda12",
+    "wof:geomhash":"873c33540ad428bf6b012a18dcee1128",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,5 +79,5 @@
     17.72286,
     51.41504000000001
 ],
-  "geometry": {"coordinates":[17.72286,51.41504000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.72286,51.41504],"type":"Point"}
 }

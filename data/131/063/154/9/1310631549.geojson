@@ -54,7 +54,7 @@
         "wk:page":"Wysychy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f96e9e5861d78ef3f75fa73254b0e4dc",
+    "wof:geomhash":"862d90147d9be37a091b2df409ed328c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.39567000000001,
     52.48922
 ],
-  "geometry": {"coordinates":[21.39567000000001,52.48922],"type":"Point"}
+  "geometry": {"coordinates":[21.39567,52.48922],"type":"Point"}
 }

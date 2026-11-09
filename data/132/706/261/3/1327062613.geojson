@@ -54,7 +54,7 @@
         "wk:page":"Mierkinie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6c91b9991e765edf0545cfea3792e078",
+    "wof:geomhash":"0a15f9ebb355c557d44762d5616bc954",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.80642000000001,
     54.27705
 ],
-  "geometry": {"coordinates":[22.80642000000001,54.27705],"type":"Point"}
+  "geometry": {"coordinates":[22.80642,54.27705],"type":"Point"}
 }

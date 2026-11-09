@@ -54,7 +54,7 @@
         "wk:page":"Wycinki%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1dc3f67b20f7ec57ef05ca3910cd4f8b",
+    "wof:geomhash":"094a06d24044c3a6dfc36af2558a7c03",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.04572000000001,
     52.08267
 ],
-  "geometry": {"coordinates":[18.04572000000001,52.08267],"type":"Point"}
+  "geometry": {"coordinates":[18.04572,52.08267],"type":"Point"}
 }

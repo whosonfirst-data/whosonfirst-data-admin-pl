@@ -63,7 +63,7 @@
         "wk:page":"Ksi%C4%99ginice_Wielkie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ad29d6836044dd54e1ba5ac9d5cbe2b3",
+    "wof:geomhash":"12106395ca57635e8184a5a4a8b951ea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     16.90245,
     50.75944000000001
 ],
-  "geometry": {"coordinates":[16.90245,50.75944000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.90245,50.75944],"type":"Point"}
 }

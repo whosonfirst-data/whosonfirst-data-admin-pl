@@ -66,7 +66,7 @@
         "wk:page":"Kobysewo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"0aa8bba523696a1c0b559172e809aef8",
+    "wof:geomhash":"3c633be92e23dcadf9f1e8358dff6fb3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     18.26745,
     54.35811999999999
 ],
-  "geometry": {"coordinates":[18.26745,54.35811999999999],"type":"Point"}
+  "geometry": {"coordinates":[18.26745,54.35812],"type":"Point"}
 }

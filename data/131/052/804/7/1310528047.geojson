@@ -54,7 +54,7 @@
         "wk:page":"Radziki_Ma%C5%82e"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3828b8381a7a5fc8746355fa7dc8c8bc",
+    "wof:geomhash":"1408f77ed410c40d26c1f800a08a1923",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.30314,
     53.16871999999999
 ],
-  "geometry": {"coordinates":[19.30314,53.16871999999999],"type":"Point"}
+  "geometry": {"coordinates":[19.30314,53.16872],"type":"Point"}
 }

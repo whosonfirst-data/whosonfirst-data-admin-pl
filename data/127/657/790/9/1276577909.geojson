@@ -54,7 +54,7 @@
         "wk:page":"Karp%2C_Podlaskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1ffea0350ac5a3e11d03c5b6bf2c21a0",
+    "wof:geomhash":"ab2fa682022b7d94bf6d73268a5fdcf7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.70613,
     52.74981999999999
 ],
-  "geometry": {"coordinates":[22.70613,52.74981999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.70613,52.74982],"type":"Point"}
 }

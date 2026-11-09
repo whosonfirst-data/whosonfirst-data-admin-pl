@@ -63,7 +63,7 @@
         "wk:page":"Budziszki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f89b3117392b88ae1f5d75c96f10d96d",
+    "wof:geomhash":"a583b0057a15d4878da777d6d112512c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     21.90557,
     52.94354000000001
 ],
-  "geometry": {"coordinates":[21.90557,52.94354000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.90557,52.94354],"type":"Point"}
 }

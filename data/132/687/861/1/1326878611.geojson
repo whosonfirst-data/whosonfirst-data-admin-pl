@@ -51,7 +51,7 @@
         "wk:page":"Kowal%C3%B3w_Dolny"
     },
     "wof:country":"PL",
-    "wof:geomhash":"35505b5d2ff32b2b9e495cc2c0784758",
+    "wof:geomhash":"2779ffe19ac38ef6f2a2973fd85d4195",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     20.10832000000001,
     50.5063
 ],
-  "geometry": {"coordinates":[20.10832000000001,50.5063],"type":"Point"}
+  "geometry": {"coordinates":[20.10832,50.5063],"type":"Point"}
 }

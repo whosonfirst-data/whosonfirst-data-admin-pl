@@ -60,7 +60,7 @@
         "wk:page":"Sartowice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4c4fb01d588cd08a7633054b5b9c7755",
+    "wof:geomhash":"ab74df103228b7fb29cf259ece4973f0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     18.55667,
     53.43183000000001
 ],
-  "geometry": {"coordinates":[18.55667,53.43183000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.55667,53.43183],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Jaworze_Dolne"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3f78156310bb288bd986b138b6423be7",
+    "wof:geomhash":"cb80685f4f2e8e42eb3bfd801b048b40",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.35172,
     49.95144000000001
 ],
-  "geometry": {"coordinates":[21.35172,49.95144000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.35172,49.95144],"type":"Point"}
 }

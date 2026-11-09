@@ -57,7 +57,7 @@
         "wk:page":"Nasuty"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6d837412edc492294bf6acd7e728ef3f",
+    "wof:geomhash":"2b2240ebf9644a1c897bd459f6f705d4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.301,
     54.20979000000001
 ],
-  "geometry": {"coordinates":[22.301,54.20979000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.301,54.20979],"type":"Point"}
 }

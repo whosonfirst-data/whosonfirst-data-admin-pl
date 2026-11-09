@@ -51,7 +51,7 @@
         "wk:page":"Ignackowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"adb723d55da2aeb123db94b9c74f6a36",
+    "wof:geomhash":"156602a66608b38b815d31dc5ac7b63e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.11667000000001,
     52.81667
 ],
-  "geometry": {"coordinates":[19.11667000000001,52.81667],"type":"Point"}
+  "geometry": {"coordinates":[19.11667,52.81667],"type":"Point"}
 }

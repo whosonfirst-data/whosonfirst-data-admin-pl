@@ -60,7 +60,7 @@
         "wk:page":"Nowe_Kwiejce"
     },
     "wof:country":"PL",
-    "wof:geomhash":"edd3b4e3057919f649391d30149e0582",
+    "wof:geomhash":"d542ecc57bdbe4e14308ba667240452e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     16.00089,
     52.75078000000001
 ],
-  "geometry": {"coordinates":[16.00089,52.75078000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.00089,52.75078],"type":"Point"}
 }

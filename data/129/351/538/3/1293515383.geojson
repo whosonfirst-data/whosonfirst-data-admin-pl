@@ -51,7 +51,7 @@
         "wk:page":"Gronowo%2C_Dzia%C5%82dowo_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3a41976ba83b3f6381c9ddf0acac8b34",
+    "wof:geomhash":"91c756325656f568ff5b205fb4572c4e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.87009,
     53.37258000000001
 ],
-  "geometry": {"coordinates":[19.87009,53.37258000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.87009,53.37258],"type":"Point"}
 }

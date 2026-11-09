@@ -54,7 +54,7 @@
         "wk:page":"Raszewy%2C_Krotoszyn_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1f3c7ea7fb09e8c3ee547f1a6fedaf2c",
+    "wof:geomhash":"5473666b9d52ff6b98babd46c6688698",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.14753,
     51.70914000000001
 ],
-  "geometry": {"coordinates":[17.14753,51.70914000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.14753,51.70914],"type":"Point"}
 }

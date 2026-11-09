@@ -54,7 +54,7 @@
         "wk:page":"S%C5%82up%2C_Garwolin_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3b8781be1c4c4270d83c59b15c6976d6",
+    "wof:geomhash":"1605fa6e7cdefd0abc44d996cb37c1d2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.69662000000001,
     51.95379000000001
 ],
-  "geometry": {"coordinates":[21.69662000000001,51.95379000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.69662,51.95379],"type":"Point"}
 }

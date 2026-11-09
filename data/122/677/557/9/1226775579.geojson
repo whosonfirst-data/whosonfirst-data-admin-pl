@@ -54,7 +54,7 @@
         "wk:page":"Suchy_R%C3%B3g"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2b84605e74e7cbdb66b0f80a804423d8",
+    "wof:geomhash":"b24919a35348b8ae2e0d7722dac7c4a5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.76495,
     53.78993000000001
 ],
-  "geometry": {"coordinates":[21.76495,53.78993000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.76495,53.78993],"type":"Point"}
 }

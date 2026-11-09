@@ -40,7 +40,7 @@
         "wk:page":"%C5%9Awierzowa_Ruska"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5e0716436e9e5a6775bc1bc17eb85d19",
+    "wof:geomhash":"47a4384cf6449f163b664518a629ff19",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,5 +66,5 @@
     21.4012,
     49.55027000000001
 ],
-  "geometry": {"coordinates":[21.4012,49.55027000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.4012,49.55027],"type":"Point"}
 }

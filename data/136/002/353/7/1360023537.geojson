@@ -63,7 +63,7 @@
         "wk:page":"Kornacice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1ddabcd902f156dedba257cdad568a7b",
+    "wof:geomhash":"1c536065b22bc04a0b4bb5d7b7b37577",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     21.43295,
     50.83009000000001
 ],
-  "geometry": {"coordinates":[21.43295,50.83009000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.43295,50.83009],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"G%C5%82a%C5%BCewo%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6a05ff17fa87295632a849a3688b2797",
+    "wof:geomhash":"fea3166a7221c42de435d3e05659703c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     15.91667,
     52.53333000000001
 ],
-  "geometry": {"coordinates":[15.91667,52.53333000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.91667,52.53333],"type":"Point"}
 }

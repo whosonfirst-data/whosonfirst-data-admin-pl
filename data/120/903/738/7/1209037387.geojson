@@ -54,7 +54,7 @@
         "wk:page":"D%C5%82ugok%C4%85ty%2C_M%C5%82awa_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6b26c460660aa70eec0053aed1fdea41",
+    "wof:geomhash":"f0adde4dc1c35a4b7a4fe57ed994a6fd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.55267000000001,
     53.18391999999999
 ],
-  "geometry": {"coordinates":[20.55267000000001,53.18391999999999],"type":"Point"}
+  "geometry": {"coordinates":[20.55267,53.18392],"type":"Point"}
 }

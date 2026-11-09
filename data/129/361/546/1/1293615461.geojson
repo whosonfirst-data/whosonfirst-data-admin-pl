@@ -54,7 +54,7 @@
         "wk:page":"Bibianna%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"0de3c7d4cc67a148419bbe38a2dcd9da",
+    "wof:geomhash":"2d2d50e17b60a5dfb6c1fff766dfd1f6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.30962,
     52.00429000000001
 ],
-  "geometry": {"coordinates":[18.30962,52.00429000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.30962,52.00429],"type":"Point"}
 }

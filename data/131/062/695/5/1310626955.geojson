@@ -54,7 +54,7 @@
         "wk:page":"Gogolin%2C_Bydgoszcz_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"fbecf375c63575099c84e317d8500d7a",
+    "wof:geomhash":"d6449aca5f2d421ddd51f5bee71d6623",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.82737999999999,
     53.28266
 ],
-  "geometry": {"coordinates":[17.82737999999999,53.28266],"type":"Point"}
+  "geometry": {"coordinates":[17.82738,53.28266],"type":"Point"}
 }

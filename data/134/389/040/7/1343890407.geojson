@@ -61,7 +61,7 @@
         "wk:page":"Wszerzecz"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9f76ee0aab919dcbbea814b0c85485c6",
+    "wof:geomhash":"4af056cd9dbf2db6d5868e8eca4bda66",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     21.93077000000001,
     53.11216
 ],
-  "geometry": {"coordinates":[21.93077000000001,53.11216],"type":"Point"}
+  "geometry": {"coordinates":[21.93077,53.11216],"type":"Point"}
 }

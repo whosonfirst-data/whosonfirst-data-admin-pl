@@ -61,7 +61,7 @@
         "wk:page":"Gosie_Du%C5%BCe"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1b99c7f2be6e7d80b8430c85acd4e260",
+    "wof:geomhash":"d3e55ae0f2a2c3d3236358b7992f1fc3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     22.33506,
     53.05713000000001
 ],
-  "geometry": {"coordinates":[22.33506,53.05713000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.33506,53.05713],"type":"Point"}
 }

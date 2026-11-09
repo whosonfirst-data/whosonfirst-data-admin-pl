@@ -54,7 +54,7 @@
         "wk:page":"Wola_Kie%C5%82pi%C5%84ska"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b7c1b3d44b3d785f0def920f4c4b9f2c",
+    "wof:geomhash":"52697f2fcdbe80244b5601b091db2512",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.99145,
     52.49738000000001
 ],
-  "geometry": {"coordinates":[20.99145,52.49738000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.99145,52.49738],"type":"Point"}
 }

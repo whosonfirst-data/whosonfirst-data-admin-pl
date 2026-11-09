@@ -63,7 +63,7 @@
         "wk:page":"Stary_Kornin"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1ddbf9303ad3170cf13b19131803817b",
+    "wof:geomhash":"d691aa3bacf0853cb803514d1ff9d1f9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     23.44933,
     52.70563000000001
 ],
-  "geometry": {"coordinates":[23.44933,52.70563000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.44933,52.70563],"type":"Point"}
 }

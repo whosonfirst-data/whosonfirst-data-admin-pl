@@ -54,7 +54,7 @@
         "wk:page":"%C5%81oniewo%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ea484635e7a9b6b8ff80880b24a932b9",
+    "wof:geomhash":"5c0efb3021c32afb162d6aee184e5457",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     16.69587000000001,
     51.88515
 ],
-  "geometry": {"coordinates":[16.69587000000001,51.88515],"type":"Point"}
+  "geometry": {"coordinates":[16.69587,51.88515],"type":"Point"}
 }

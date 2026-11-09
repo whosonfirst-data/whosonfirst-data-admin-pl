@@ -51,7 +51,7 @@
         "wk:page":"Dzierzkowa"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9ef662a6c240bb41306ad03f4a56da19",
+    "wof:geomhash":"41fee09f845ce7d969f682e58c29da57",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.13232,
     50.67449000000001
 ],
-  "geometry": {"coordinates":[17.13232,50.67449000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.13232,50.67449],"type":"Point"}
 }

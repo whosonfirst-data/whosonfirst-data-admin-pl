@@ -54,7 +54,7 @@
         "wk:page":"Brodna"
     },
     "wof:country":"PL",
-    "wof:geomhash":"bf0199f724be7b6d204c2a18bb8706b6",
+    "wof:geomhash":"faeb964f978ca4ea484ba3f319ce3e6c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     16.92454,
     53.16804000000001
 ],
-  "geometry": {"coordinates":[16.92454,53.16804000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.92454,53.16804],"type":"Point"}
 }

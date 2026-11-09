@@ -51,7 +51,7 @@
         "wk:page":"Przyjma%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a90f22748d65b9ebd052bbf046f24ca0",
+    "wof:geomhash":"31fc7d4a4a169b03fefd0ad927183165",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.84163,
     52.63659000000001
 ],
-  "geometry": {"coordinates":[17.84163,52.63659000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.84163,52.63659],"type":"Point"}
 }

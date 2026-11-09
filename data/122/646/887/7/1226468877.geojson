@@ -57,7 +57,7 @@
         "wk:page":"Gledzian%C3%B3wek"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5f424c46a30a7d099ecf9574117c4c6f",
+    "wof:geomhash":"3af3b703a5d22cd3eff6fc7b1a6885d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     19.34387000000001,
     52.13041
 ],
-  "geometry": {"coordinates":[19.34387000000001,52.13041],"type":"Point"}
+  "geometry": {"coordinates":[19.34387,52.13041],"type":"Point"}
 }

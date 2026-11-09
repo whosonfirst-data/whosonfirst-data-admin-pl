@@ -54,7 +54,7 @@
         "wk:page":"Kijewice%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"814534ed1adcd1b8777fceb18e82e716",
+    "wof:geomhash":"441991601ef59478882653d989558376",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.84046,
     53.05798000000001
 ],
-  "geometry": {"coordinates":[20.84046,53.05798000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.84046,53.05798],"type":"Point"}
 }

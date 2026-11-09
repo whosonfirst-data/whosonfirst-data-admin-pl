@@ -60,7 +60,7 @@
         "wk:page":"Stromiecka_Wola"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7ff82855a68ae8a9f8a2e4460cbb3365",
+    "wof:geomhash":"e9250156c20a48b04811243fa471eb07",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     21.05332000000001,
     51.64018
 ],
-  "geometry": {"coordinates":[21.05332000000001,51.64018],"type":"Point"}
+  "geometry": {"coordinates":[21.05332,51.64018],"type":"Point"}
 }

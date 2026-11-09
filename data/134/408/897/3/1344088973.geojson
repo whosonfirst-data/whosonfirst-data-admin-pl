@@ -66,7 +66,7 @@
         "wk:page":"Turze%2C_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"486e482ff49b25fbdf340cce15976ff7",
+    "wof:geomhash":"053ff81eefc9683ba61ddc6df5331ebd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     18.62896,
     54.09571999999999
 ],
-  "geometry": {"coordinates":[18.62896,54.09571999999999],"type":"Point"}
+  "geometry": {"coordinates":[18.62896,54.09572],"type":"Point"}
 }

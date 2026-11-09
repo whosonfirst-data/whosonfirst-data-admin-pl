@@ -37,7 +37,7 @@
     "wof:concordances":{},
     "wof:country":"PL",
     "wof:created":1491365475,
-    "wof:geomhash":"6f191c5d4edfc26e385e8de74d26c1c5",
+    "wof:geomhash":"7a97df3aed9d318ab2a6c29fd4617ce6",
     "wof:hierarchy":[
         {
             "borough_id":1477921693,
@@ -66,5 +66,5 @@
     19.60970068390582,
     51.72284591491255
 ],
-  "geometry": {"coordinates":[19.60970068390582,51.72284591491255],"type":"Point"}
+  "geometry": {"coordinates":[19.609701,51.722846],"type":"Point"}
 }

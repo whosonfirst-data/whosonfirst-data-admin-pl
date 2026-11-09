@@ -60,7 +60,7 @@
         "wk:page":"Jaroszyn%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d1b4fc2ade950658ac91f546fd15ae9b",
+    "wof:geomhash":"a3aa06bdf500ca7508cdde12164a3629",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     17.88976,
     52.23654000000001
 ],
-  "geometry": {"coordinates":[17.88976,52.23654000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.88976,52.23654],"type":"Point"}
 }

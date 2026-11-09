@@ -54,7 +54,7 @@
         "wk:page":"%C5%9Aliwiczki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9acf95cc5eef1ef3716c9d4064ed8adb",
+    "wof:geomhash":"98ee52888b6cc3e9cdd62319f02aa190",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.19543,
     53.68803000000001
 ],
-  "geometry": {"coordinates":[18.19543,53.68803000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.19543,53.68803],"type":"Point"}
 }

@@ -51,7 +51,7 @@
         "wk:page":"Stawiska%2C_Rypin_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d69b1cf67e5a262e1e6201844f9465c2",
+    "wof:geomhash":"60203440a88ab78f46680bbb35a486eb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.48119,
     53.09948000000001
 ],
-  "geometry": {"coordinates":[19.48119,53.09948000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.48119,53.09948],"type":"Point"}
 }

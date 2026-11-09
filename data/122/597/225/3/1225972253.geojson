@@ -63,7 +63,7 @@
         "wk:page":"Zgrzebichy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"87b9997f745bc11be187a70a03f3aa93",
+    "wof:geomhash":"2f25281ef2968bb3d1b9518b9d8b0f81",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     21.86442000000001,
     52.52136
 ],
-  "geometry": {"coordinates":[21.86442000000001,52.52136],"type":"Point"}
+  "geometry": {"coordinates":[21.86442,52.52136],"type":"Point"}
 }

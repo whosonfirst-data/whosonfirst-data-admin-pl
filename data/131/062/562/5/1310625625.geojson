@@ -63,7 +63,7 @@
         "wk:page":"Bia%C5%82a_Woda%2C_Podlaskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"553c317e36f2be477846f74312414ca4",
+    "wof:geomhash":"d0f57ec1ce1f4599031415cf9163d4f9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     22.89432,
     54.15278000000001
 ],
-  "geometry": {"coordinates":[22.89432,54.15278000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.89432,54.15278],"type":"Point"}
 }

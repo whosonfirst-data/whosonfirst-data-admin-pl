@@ -54,7 +54,7 @@
         "wk:page":"Tybory-Kamianka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d2eff8ace97306c225a75a56af45bc4a",
+    "wof:geomhash":"80e39fd5205408b40a90115bacfd8660",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.40619,
     52.96308000000001
 ],
-  "geometry": {"coordinates":[22.40619,52.96308000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.40619,52.96308],"type":"Point"}
 }

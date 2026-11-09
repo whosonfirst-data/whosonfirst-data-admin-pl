@@ -55,7 +55,7 @@
         "wk:page":"Part%C4%99czyny"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f4a7ab760fc8e5ad46acc09880144dae",
+    "wof:geomhash":"b3288e4f7d9fe5463dade0c8c0171563",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,5 +82,5 @@
     19.20599,
     53.48948000000001
 ],
-  "geometry": {"coordinates":[19.20599,53.48948000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.20599,53.48948],"type":"Point"}
 }

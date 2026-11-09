@@ -54,7 +54,7 @@
         "wk:page":"Borki_Dru%C5%BCbi%C5%84skie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5910758b340570e69a28fc8da15722ff",
+    "wof:geomhash":"1e0c8613510e028c08c14efadfdd86c9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.80421,
     51.84764000000001
 ],
-  "geometry": {"coordinates":[18.80421,51.84764000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.80421,51.84764],"type":"Point"}
 }

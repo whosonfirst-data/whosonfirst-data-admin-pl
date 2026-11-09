@@ -57,7 +57,7 @@
         "wk:page":"U%C5%9Bnik"
     },
     "wof:country":"PL",
-    "wof:geomhash":"655dc1a7751ea8c4ea01858322063217",
+    "wof:geomhash":"fb263e00d00aa86a78d4b26d88ea6723",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.91433,
     53.08756999999999
 ],
-  "geometry": {"coordinates":[21.91433,53.08756999999999],"type":"Point"}
+  "geometry": {"coordinates":[21.91433,53.08757],"type":"Point"}
 }

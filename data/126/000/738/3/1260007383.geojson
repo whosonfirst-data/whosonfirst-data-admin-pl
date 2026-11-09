@@ -66,7 +66,7 @@
         "wk:page":"Klusy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"98ab25408754fcc775649c6a4b264913",
+    "wof:geomhash":"d463e46cddb1adb90fbed3d1fac3ed08",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     22.12052000000001,
     53.79422
 ],
-  "geometry": {"coordinates":[22.12052000000001,53.79422],"type":"Point"}
+  "geometry": {"coordinates":[22.12052,53.79422],"type":"Point"}
 }

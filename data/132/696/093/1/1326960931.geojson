@@ -58,7 +58,7 @@
         "wk:page":"Groszkowo%2C_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"98653400988f00286c75bf8ad9888251",
+    "wof:geomhash":"fef5ed7902e3224bc0b42be0575fab0d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,5 +85,5 @@
     19.19655,
     54.29108000000001
 ],
-  "geometry": {"coordinates":[19.19655,54.29108000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.19655,54.29108],"type":"Point"}
 }

@@ -72,7 +72,7 @@
         "wk:page":"Boczki-%C5%9Awidrowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"dcd4c16c52553f9aabd89f9c4658bfc6",
+    "wof:geomhash":"9afbe0149c275aa2ed1591b06d974afa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,5 +99,5 @@
     22.37891,
     53.59668000000001
 ],
-  "geometry": {"coordinates":[22.37891,53.59668000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.37891,53.59668],"type":"Point"}
 }

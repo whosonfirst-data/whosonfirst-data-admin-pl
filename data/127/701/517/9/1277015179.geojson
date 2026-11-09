@@ -54,7 +54,7 @@
         "wk:page":"Marianki%2C_Rypin_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6c7196cc0dd90a712fd93da17ccc0d36",
+    "wof:geomhash":"67f192081b67c5d608ea2a059d99f437",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.40527,
     53.09829000000001
 ],
-  "geometry": {"coordinates":[19.40527,53.09829000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.40527,53.09829],"type":"Point"}
 }

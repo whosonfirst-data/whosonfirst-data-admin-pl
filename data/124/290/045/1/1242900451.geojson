@@ -63,7 +63,7 @@
         "wk:page":"%C5%9Amiechowice%2C_Opole_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"12e4ac785ba2431d7357ff50d894be9e",
+    "wof:geomhash":"0d42fe2468b04d355d0fe9d96d507e9d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     17.58461,
     50.89599000000001
 ],
-  "geometry": {"coordinates":[17.58461,50.89599000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.58461,50.89599],"type":"Point"}
 }

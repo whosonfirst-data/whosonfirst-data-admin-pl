@@ -54,7 +54,7 @@
         "wk:page":"Tarnowo%2C_%C5%81obez_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"25992d7356a3d9ff73d07659de746335",
+    "wof:geomhash":"bed4515b6788dc865fc5da8a59aa079e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     15.73771,
     53.67641999999999
 ],
-  "geometry": {"coordinates":[15.73771,53.67641999999999],"type":"Point"}
+  "geometry": {"coordinates":[15.73771,53.67642],"type":"Point"}
 }

@@ -66,7 +66,7 @@
         "wk:page":"Dro%C5%BCyska_Wielkie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"083848ff5ffbc1c32f01f5103e7eec48",
+    "wof:geomhash":"c8909c8bc9f5a8a7ac1a676f7cb847cb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     17.14794,
     53.39601999999999
 ],
-  "geometry": {"coordinates":[17.14794,53.39601999999999],"type":"Point"}
+  "geometry": {"coordinates":[17.14794,53.39602],"type":"Point"}
 }

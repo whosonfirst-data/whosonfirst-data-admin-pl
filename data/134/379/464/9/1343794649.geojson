@@ -51,7 +51,7 @@
         "wk:page":"Biadaszki%2C_K%C4%99pno_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"306b86d897a56b5d2bbb46541ada6be2",
+    "wof:geomhash":"dbc478266a28261428c76d37327342fd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.11045,
     51.25579000000001
 ],
-  "geometry": {"coordinates":[18.11045,51.25579000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.11045,51.25579],"type":"Point"}
 }

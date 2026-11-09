@@ -51,7 +51,7 @@
         "wk:page":"%C5%BBakowice%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f8965121691a0c966d974d4e926c5e7e",
+    "wof:geomhash":"6c79ff7acab42c7389f7d179dd305abf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.76793,
     52.63023000000001
 ],
-  "geometry": {"coordinates":[18.76793,52.63023000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.76793,52.63023],"type":"Point"}
 }

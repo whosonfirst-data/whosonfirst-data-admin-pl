@@ -57,7 +57,7 @@
         "wk:page":"Marcewo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e58b0c1f51d41f36a71498d18a2db0cf",
+    "wof:geomhash":"93d2e6ad955d2fea0c7a728fbd215e1c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     17.94608999999999,
     52.3384
 ],
-  "geometry": {"coordinates":[17.94608999999999,52.3384],"type":"Point"}
+  "geometry": {"coordinates":[17.94609,52.3384],"type":"Point"}
 }

@@ -69,7 +69,7 @@
         "wk:page":"Ancuty"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8f7f4a35a796caf36dc1879dbd1dee3c",
+    "wof:geomhash":"2235c99662c42e7411af9fd7d7259b7f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     23.49007000000001,
     52.92308000000001
 ],
-  "geometry": {"coordinates":[23.49007000000001,52.92308000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.49007,52.92308],"type":"Point"}
 }

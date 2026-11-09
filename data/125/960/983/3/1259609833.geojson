@@ -48,7 +48,7 @@
         "wk:page":"Szklarnia_Szymonkowska"
     },
     "wof:country":"PL",
-    "wof:geomhash":"90be1e7cfbf1c8ffc653281f51a53cfa",
+    "wof:geomhash":"cb54da31b5d569ae1ca37ec92e6a5aa3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     17.99732000000001,
     51.10401
 ],
-  "geometry": {"coordinates":[17.99732000000001,51.10401],"type":"Point"}
+  "geometry": {"coordinates":[17.99732,51.10401],"type":"Point"}
 }

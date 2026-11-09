@@ -63,7 +63,7 @@
         "wk:page":"Kwiatkowice%2C_Lubusz_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"64e82af595da8e9cb315ac3bcaf0a022",
+    "wof:geomhash":"22f853096b930b33c1cfe14565bc7e95",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     15.0888,
     52.66838000000001
 ],
-  "geometry": {"coordinates":[15.0888,52.66838000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.0888,52.66838],"type":"Point"}
 }

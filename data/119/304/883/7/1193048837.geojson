@@ -66,7 +66,7 @@
         "wk:page":"Lady%2C_Podlaskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4cb3a3cf104906de82df338d5d823e0a",
+    "wof:geomhash":"6bd3e875e59ccbbb52a0a8efcfee8e66",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     23.44799,
     52.81238000000001
 ],
-  "geometry": {"coordinates":[23.44799,52.81238000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.44799,52.81238],"type":"Point"}
 }

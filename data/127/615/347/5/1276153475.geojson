@@ -54,7 +54,7 @@
         "wk:page":"O%C5%82tarze_Go%C5%82acze"
     },
     "wof:country":"PL",
-    "wof:geomhash":"06c5b22c17db632badc41dfdbde33f33",
+    "wof:geomhash":"25986112c71c093260b09fd226ff6899",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.26432,
     52.68058000000001
 ],
-  "geometry": {"coordinates":[22.26432,52.68058000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.26432,52.68058],"type":"Point"}
 }

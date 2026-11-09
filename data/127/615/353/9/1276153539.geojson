@@ -51,7 +51,7 @@
         "wk:page":"Wiszczelice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8feba93b82354b4fe7855d5044264897",
+    "wof:geomhash":"8a2a4a60001f16e138e188f9c7b0d461",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.88337000000001,
     52.37134
 ],
-  "geometry": {"coordinates":[18.88337000000001,52.37134],"type":"Point"}
+  "geometry": {"coordinates":[18.88337,52.37134],"type":"Point"}
 }

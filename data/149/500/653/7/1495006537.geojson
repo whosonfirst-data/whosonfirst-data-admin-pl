@@ -59,7 +59,7 @@
         "wk:page":"Postoliska"
     },
     "wof:country":"PL",
-    "wof:geomhash":"244ccf80947045f386f4d84a1ea90f5b",
+    "wof:geomhash":"8472f11aa0f6df83731fa40186f071b5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,5 +98,5 @@
     21.46477,
     52.44838000000001
 ],
-  "geometry": {"coordinates":[21.46477,52.44838000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.46477,52.44838],"type":"Point"}
 }

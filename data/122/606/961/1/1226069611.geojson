@@ -48,7 +48,7 @@
         "wk:page":"Klawek"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e2af239a9d7e8ebae56893299581db67",
+    "wof:geomhash":"cf1d127f6be4e5c7a1a8f1ae3fb9886d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     17.26597000000001,
     53.17601
 ],
-  "geometry": {"coordinates":[17.26597000000001,53.17601],"type":"Point"}
+  "geometry": {"coordinates":[17.26597,53.17601],"type":"Point"}
 }

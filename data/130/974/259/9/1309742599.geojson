@@ -48,7 +48,7 @@
         "wk:page":"Pr%C4%85dy%2C_Silesian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b018225d9c9b2cad0a51a96363163909",
+    "wof:geomhash":"0276c3d62cbd91b7f16553ab531f803d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     18.87803,
     50.62589000000001
 ],
-  "geometry": {"coordinates":[18.87803,50.62589000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.87803,50.62589],"type":"Point"}
 }

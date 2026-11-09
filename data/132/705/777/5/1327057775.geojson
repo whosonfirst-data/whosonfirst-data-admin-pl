@@ -57,7 +57,7 @@
         "wk:page":"Rudno%2C_Warmian-Masurian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"fc010919acf4de9a3dfa4d0bf6c74e42",
+    "wof:geomhash":"9c230a892e0abc8074447df125930049",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     19.93495,
     53.61083000000001
 ],
-  "geometry": {"coordinates":[19.93495,53.61083000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.93495,53.61083],"type":"Point"}
 }

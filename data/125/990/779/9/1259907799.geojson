@@ -51,7 +51,7 @@
         "wk:page":"Derylaki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"51981beedea7b609899c168ad20a2dd0",
+    "wof:geomhash":"283de013650e2d0d1c5a957a75ad5bf7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     22.46824,
     50.48569000000001
 ],
-  "geometry": {"coordinates":[22.46824,50.48569000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.46824,50.48569],"type":"Point"}
 }

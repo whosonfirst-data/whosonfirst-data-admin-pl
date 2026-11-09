@@ -54,7 +54,7 @@
         "wk:page":"Walentyn%C3%B3w%2C_Lublin_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f660877715d43e433087aa61c54801c4",
+    "wof:geomhash":"ebd61d64c0c1d3d6088cbbc23d6adab7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.77658,
     51.01067000000001
 ],
-  "geometry": {"coordinates":[22.77658,51.01067000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.77658,51.01067],"type":"Point"}
 }

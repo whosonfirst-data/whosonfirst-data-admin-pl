@@ -54,7 +54,7 @@
         "wk:page":"Bylice%2C_West_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5912af9cb49ef3c7d98432d4df49e251",
+    "wof:geomhash":"e98175b658116fcd8cae733019ce298c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     15.01196,
     53.08598000000001
 ],
-  "geometry": {"coordinates":[15.01196,53.08598000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.01196,53.08598],"type":"Point"}
 }

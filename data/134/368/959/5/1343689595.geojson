@@ -69,7 +69,7 @@
         "wk:page":"Lulkowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d1c5597d3c17561aadaa05b207b71177",
+    "wof:geomhash":"4d20af91c65ec0b53d8627f707012eef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     18.58757,
     53.09251999999999
 ],
-  "geometry": {"coordinates":[18.58757,53.09251999999999],"type":"Point"}
+  "geometry": {"coordinates":[18.58757,53.09252],"type":"Point"}
 }

@@ -40,7 +40,7 @@
         "wk:page":"Rosolin"
     },
     "wof:country":"PL",
-    "wof:geomhash":"34f2d6791176908a9ef94c1af5f32e7d",
+    "wof:geomhash":"d2b4f64aefa59a208a88ee639aa166e7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,5 +66,5 @@
     22.58669,
     49.31404000000001
 ],
-  "geometry": {"coordinates":[22.58669,49.31404000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.58669,49.31404],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Modrzewina%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a486f963d1a7e3a434620cc679f133fc",
+    "wof:geomhash":"dc83482a527872d1ca7a39b3327562a3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.80107000000001,
     51.73414
 ],
-  "geometry": {"coordinates":[20.80107000000001,51.73414],"type":"Point"}
+  "geometry": {"coordinates":[20.80107,51.73414],"type":"Point"}
 }

@@ -51,7 +51,7 @@
         "wk:page":"Izbiczno"
     },
     "wof:country":"PL",
-    "wof:geomhash":"22f4195ff2bf9579289cd1cca7908497",
+    "wof:geomhash":"ea9dcfa661cb685e3021e610e93c5c2d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.61228999999999,
     51.84257
 ],
-  "geometry": {"coordinates":[17.61228999999999,51.84257],"type":"Point"}
+  "geometry": {"coordinates":[17.61229,51.84257],"type":"Point"}
 }

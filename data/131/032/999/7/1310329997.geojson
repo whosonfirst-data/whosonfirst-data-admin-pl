@@ -57,7 +57,7 @@
         "wk:page":"Pi%C4%99kne_%C5%81%C4%85ki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c1c8997adee5a0c8d2f0dcd362b20723",
+    "wof:geomhash":"6008bc9d0d82042a9fc4455f7c71cda6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.26826,
     54.31973000000001
 ],
-  "geometry": {"coordinates":[22.26826,54.31973000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.26826,54.31973],"type":"Point"}
 }

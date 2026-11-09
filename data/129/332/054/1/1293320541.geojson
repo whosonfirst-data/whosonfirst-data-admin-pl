@@ -54,7 +54,7 @@
         "wk:page":"Ruda%2C_Kozienice_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a1a5c59cd5b6f730a6b0b1bdfac4d163",
+    "wof:geomhash":"4186be527f61e44a0f5d9b22adf1db57",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.59002000000001,
     51.54431
 ],
-  "geometry": {"coordinates":[21.59002000000001,51.54431],"type":"Point"}
+  "geometry": {"coordinates":[21.59002,51.54431],"type":"Point"}
 }

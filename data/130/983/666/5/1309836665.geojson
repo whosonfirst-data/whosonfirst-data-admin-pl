@@ -51,7 +51,7 @@
         "wk:page":"Podlipce"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e438c02b3554c5d868ce881a65166b58",
+    "wof:geomhash":"605a3f2f4b3e70f89704f3010a8c6ee5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     15.54102,
     53.50346999999999
 ],
-  "geometry": {"coordinates":[15.54102,53.50346999999999],"type":"Point"}
+  "geometry": {"coordinates":[15.54102,53.50347],"type":"Point"}
 }

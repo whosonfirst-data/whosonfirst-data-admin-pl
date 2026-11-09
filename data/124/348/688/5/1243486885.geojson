@@ -55,7 +55,7 @@
         "wk:page":"W%C3%B3lka_Szlachecka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"02515bbdcc38186970c22f17aa6db6ab",
+    "wof:geomhash":"bf5547896c208c9e4cc42b319f3d20f1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,5 +82,5 @@
     20.74962,
     54.05648000000001
 ],
-  "geometry": {"coordinates":[20.74962,54.05648000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.74962,54.05648],"type":"Point"}
 }

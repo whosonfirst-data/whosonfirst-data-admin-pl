@@ -48,7 +48,7 @@
         "wk:page":"Graniczna%2C_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"78c91638be2210ec51208ebd5abf8340",
+    "wof:geomhash":"3a11a5e383d79105642aeb83528581f1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     19.22994,
     54.28888000000001
 ],
-  "geometry": {"coordinates":[19.22994,54.28888000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.22994,54.28888],"type":"Point"}
 }

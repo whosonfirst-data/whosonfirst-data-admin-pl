@@ -54,7 +54,7 @@
         "wk:page":"Perzanowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"111d9833e567af99456467c8fb687c69",
+    "wof:geomhash":"7a94f3a1e951c638f98cec4ed505757d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.26541,
     52.88036999999999
 ],
-  "geometry": {"coordinates":[21.26541,52.88036999999999],"type":"Point"}
+  "geometry": {"coordinates":[21.26541,52.88037],"type":"Point"}
 }

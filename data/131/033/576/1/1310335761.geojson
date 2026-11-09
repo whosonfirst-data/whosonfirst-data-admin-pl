@@ -57,7 +57,7 @@
         "wk:page":"M%C5%82udzyn"
     },
     "wof:country":"PL",
-    "wof:geomhash":"df1265752737904db27d90d7574835dc",
+    "wof:geomhash":"5e0adc2375e660049c926312fbe3addb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     19.89267000000001,
     53.00899999999999
 ],
-  "geometry": {"coordinates":[19.89267000000001,53.00899999999999],"type":"Point"}
+  "geometry": {"coordinates":[19.89267,53.009],"type":"Point"}
 }

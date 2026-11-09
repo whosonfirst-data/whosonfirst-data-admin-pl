@@ -54,7 +54,7 @@
         "wk:page":"Przysietnica%2C_Lesser_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"aa42aef0d41ce460ed7c5348e4e1d803",
+    "wof:geomhash":"72265e9f7171c81c3f6cdeead2fa1122",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.05257000000001,
     49.73019
 ],
-  "geometry": {"coordinates":[22.05257000000001,49.73019],"type":"Point"}
+  "geometry": {"coordinates":[22.05257,49.73019],"type":"Point"}
 }

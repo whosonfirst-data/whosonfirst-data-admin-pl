@@ -57,7 +57,7 @@
         "wk:page":"Windorp"
     },
     "wof:country":"PL",
-    "wof:geomhash":"658ab984296f845c37ced8425d3ee3ee",
+    "wof:geomhash":"1a0db0f28ed77810ce8f6b145c1da32d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     17.64043,
     53.98968000000001
 ],
-  "geometry": {"coordinates":[17.64043,53.98968000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.64043,53.98968],"type":"Point"}
 }

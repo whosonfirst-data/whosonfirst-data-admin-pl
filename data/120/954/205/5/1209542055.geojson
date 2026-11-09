@@ -57,7 +57,7 @@
         "wk:page":"Rabalina"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f4a8feac4fc362e0a61305d49d8b1ff3",
+    "wof:geomhash":"04b685e18baf6c366e3b7b4db24e0a96",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.73804,
     54.03854000000001
 ],
-  "geometry": {"coordinates":[22.73804,54.03854000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.73804,54.03854],"type":"Point"}
 }

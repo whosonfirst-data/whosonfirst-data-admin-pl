@@ -69,7 +69,7 @@
         "wk:page":"Brz%C3%B3zka%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5dc6cecb3c525b5234157b8de0b466a8",
+    "wof:geomhash":"ab7a669507f98942994d2f974fea139b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     21.92136,
     52.58708000000001
 ],
-  "geometry": {"coordinates":[21.92136,52.58708000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.92136,52.58708],"type":"Point"}
 }

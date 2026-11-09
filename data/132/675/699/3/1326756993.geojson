@@ -54,7 +54,7 @@
         "wk:page":"Zalesice%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"cd4066fdb67b787332fbed8dff842fc6",
+    "wof:geomhash":"4d7d3b18259544901ced6876107aff20",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.1342,
     51.26067000000001
 ],
-  "geometry": {"coordinates":[21.1342,51.26067000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.1342,51.26067],"type":"Point"}
 }

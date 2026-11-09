@@ -63,7 +63,7 @@
         "wk:page":"Margole"
     },
     "wof:country":"PL",
-    "wof:geomhash":"63ce5e004f1d52585475919724873935",
+    "wof:geomhash":"6dbe94163de14a7b050b18115d7cba60",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     22.86667000000001,
     50.48333
 ],
-  "geometry": {"coordinates":[22.86667000000001,50.48333],"type":"Point"}
+  "geometry": {"coordinates":[22.86667,50.48333],"type":"Point"}
 }

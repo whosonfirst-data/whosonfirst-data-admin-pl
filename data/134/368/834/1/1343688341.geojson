@@ -54,7 +54,7 @@
         "wk:page":"Chrzczony%2C_Mak%C3%B3w_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"401b5f626ab2e61c672782440d781ac9",
+    "wof:geomhash":"832cc3bc086dbc997f24588652ff9d1d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.32575,
     52.83631999999999
 ],
-  "geometry": {"coordinates":[21.32575,52.83631999999999],"type":"Point"}
+  "geometry": {"coordinates":[21.32575,52.83632],"type":"Point"}
 }

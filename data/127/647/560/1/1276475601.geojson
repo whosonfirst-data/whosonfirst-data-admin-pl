@@ -54,7 +54,7 @@
         "wk:page":"Cie%C5%9Ble_Wielkie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"51f7dee25255d5937833f07ee5d2c0d9",
+    "wof:geomhash":"0cd7cd378eaa32b5ec4265a18590bc92",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.63076000000001,
     52.1739
 ],
-  "geometry": {"coordinates":[17.63076000000001,52.1739],"type":"Point"}
+  "geometry": {"coordinates":[17.63076,52.1739],"type":"Point"}
 }

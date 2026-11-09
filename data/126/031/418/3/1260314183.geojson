@@ -63,7 +63,7 @@
         "wk:page":"Ko%C5%9Bcieniewicze"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6037b6d31fef0f08fa2330b9fa790a72",
+    "wof:geomhash":"a9dd37dc9f9e764d55a487b7ba306e60",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     23.32084,
     51.95764000000001
 ],
-  "geometry": {"coordinates":[23.32084,51.95764000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.32084,51.95764],"type":"Point"}
 }

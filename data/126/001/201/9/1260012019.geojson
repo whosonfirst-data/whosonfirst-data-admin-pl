@@ -58,7 +58,7 @@
         "wk:page":"Sad%C5%82%C3%B3g"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a7153651d0f42a803e770432544cbd7a",
+    "wof:geomhash":"df925470aa044f4b01533170df3d6f2b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,5 +85,5 @@
     18.69877,
     52.55838000000001
 ],
-  "geometry": {"coordinates":[18.69877,52.55838000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.69877,52.55838],"type":"Point"}
 }

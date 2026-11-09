@@ -60,7 +60,7 @@
         "wk:page":"Miko%C5%82ajowice%2C_Lower_Silesian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"aa021081746813f77d937cf47353184e",
+    "wof:geomhash":"b4af37d9e0ac5d7329bcb34bbd97b7cf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     16.28277000000001,
     51.12788
 ],
-  "geometry": {"coordinates":[16.28277000000001,51.12788],"type":"Point"}
+  "geometry": {"coordinates":[16.28277,51.12788],"type":"Point"}
 }

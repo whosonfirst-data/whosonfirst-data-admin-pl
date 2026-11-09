@@ -54,7 +54,7 @@
         "wk:page":"Jeleni%C3%B3w%2C_%C5%9Awi%C4%99tokrzyskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"284a5d958637c073bac1fab94396edbf",
+    "wof:geomhash":"2c652492f7c5e2f83e7bad4b9b8b6a1e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.11667000000001,
     50.85
 ],
-  "geometry": {"coordinates":[21.11667000000001,50.85],"type":"Point"}
+  "geometry": {"coordinates":[21.11667,50.85],"type":"Point"}
 }

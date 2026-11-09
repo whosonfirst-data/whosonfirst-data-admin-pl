@@ -60,7 +60,7 @@
         "wk:page":"Skrzetuszewo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ecf45c5c244094cb64ddcba9934bedab",
+    "wof:geomhash":"fe96920d6d775888ca1565d2787ce3dd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     17.34887,
     52.55804000000001
 ],
-  "geometry": {"coordinates":[17.34887,52.55804000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.34887,52.55804],"type":"Point"}
 }

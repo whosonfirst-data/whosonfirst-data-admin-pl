@@ -63,7 +63,7 @@
         "wk:page":"Flesze"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a2ab76b69ccd2ef40e8a929b436e1f2e",
+    "wof:geomhash":"7e6f161cdd305c1775cc5de60dd0df57",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     22.38516,
     53.64443000000001
 ],
-  "geometry": {"coordinates":[22.38516,53.64443000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.38516,53.64443],"type":"Point"}
 }

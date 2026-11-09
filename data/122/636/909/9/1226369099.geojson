@@ -51,7 +51,7 @@
         "wk:page":"Siemkowo%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a920052a74a54db7f5e15185727daa68",
+    "wof:geomhash":"54c9c27747a4ecd1ec9682d8f54553b3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.22462,
     53.48218000000001
 ],
-  "geometry": {"coordinates":[18.22462,53.48218000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.22462,53.48218],"type":"Point"}
 }

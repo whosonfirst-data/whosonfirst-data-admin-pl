@@ -67,7 +67,7 @@
         "wk:page":"Degucie%2C_Warmian-Masurian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a3654de142d7592837de170f9693edbe",
+    "wof:geomhash":"25b53cab136361134dfb7810de6c1dd4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,5 +94,5 @@
     22.7096,
     54.32503000000001
 ],
-  "geometry": {"coordinates":[22.7096,54.32503000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.7096,54.32503],"type":"Point"}
 }

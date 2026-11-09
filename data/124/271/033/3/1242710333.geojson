@@ -60,7 +60,7 @@
         "wk:page":"Barch%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"0c8b8fa00af867111062ba59b00bcb97",
+    "wof:geomhash":"e578873f572b4ef6822096584964173a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     21.65397,
     52.51643000000001
 ],
-  "geometry": {"coordinates":[21.65397,52.51643000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.65397,52.51643],"type":"Point"}
 }

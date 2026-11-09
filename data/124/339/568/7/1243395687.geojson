@@ -57,7 +57,7 @@
         "wk:page":"Wolskie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e5a3c41e061f516ad05568ef1ca6fd23",
+    "wof:geomhash":"188e47686b2fcc0671db087b8b9384b8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     20.71773,
     52.22049000000001
 ],
-  "geometry": {"coordinates":[20.71773,52.22049000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.71773,52.22049],"type":"Point"}
 }

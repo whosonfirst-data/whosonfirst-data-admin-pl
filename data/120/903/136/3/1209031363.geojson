@@ -57,7 +57,7 @@
         "wk:page":"Wilkowyja%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b3ab612f3a7f21d421f7f10d93d769c2",
+    "wof:geomhash":"656bf6e75157fcd469ba3c32b744be79",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.52377000000001,
     51.85936
 ],
-  "geometry": {"coordinates":[21.52377000000001,51.85936],"type":"Point"}
+  "geometry": {"coordinates":[21.52377,51.85936],"type":"Point"}
 }

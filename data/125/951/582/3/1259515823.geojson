@@ -54,7 +54,7 @@
         "wk:page":"Huta_Podg%C3%B3rna%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ce2305da0816049110b617679b3043db",
+    "wof:geomhash":"8fe3cf3aab94bf7f1755861b757d76bd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.16982,
     52.55289000000001
 ],
-  "geometry": {"coordinates":[21.16982,52.55289000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.16982,52.55289],"type":"Point"}
 }

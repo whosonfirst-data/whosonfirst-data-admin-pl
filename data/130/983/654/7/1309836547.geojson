@@ -54,7 +54,7 @@
         "wk:page":"Nowosi%C3%B3%C5%82ki_Przednie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a8b4eabc5c3ba0948961a789de5d8bb7",
+    "wof:geomhash":"bdcb615b07ccb3089e345ec0be52d564",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     23.67607000000001,
     50.38594000000001
 ],
-  "geometry": {"coordinates":[23.67607000000001,50.38594000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.67607,50.38594],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Zalesie%2C_Mo%C5%84ki_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9936cca89cf067859f2c6b507ff64ec8",
+    "wof:geomhash":"5e1d87b0a61c15e179fcc9f6933474fd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.76144,
     53.34184000000001
 ],
-  "geometry": {"coordinates":[22.76144,53.34184000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.76144,53.34184],"type":"Point"}
 }

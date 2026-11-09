@@ -54,7 +54,7 @@
         "wk:page":"Malewo%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9fd7ebf108d274c4704122d508c3b6a3",
+    "wof:geomhash":"1317a36a13c77974d6888f2ad00ba782",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.98395,
     52.79363000000001
 ],
-  "geometry": {"coordinates":[19.98395,52.79363000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.98395,52.79363],"type":"Point"}
 }

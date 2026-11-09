@@ -57,7 +57,7 @@
         "wk:page":"Tropisz%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"70213d80c5ae6b9732bb476b9648d94a",
+    "wof:geomhash":"23ee9394ed95651f5ba6c216b3446565",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     20.21502000000001,
     50.10456
 ],
-  "geometry": {"coordinates":[20.21502000000001,50.10456],"type":"Point"}
+  "geometry": {"coordinates":[20.21502,50.10456],"type":"Point"}
 }

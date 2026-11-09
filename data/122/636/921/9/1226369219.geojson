@@ -51,7 +51,7 @@
         "wk:page":"Piaskowice%2C_%C5%81%C3%B3d%C5%BA_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9f3f5d44719ec1fc5217ccfbf52553bb",
+    "wof:geomhash":"2dba57856e31500a38103295bb02cd98",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.22281,
     51.94609000000001
 ],
-  "geometry": {"coordinates":[19.22281,51.94609000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.22281,51.94609],"type":"Point"}
 }

@@ -70,7 +70,7 @@
         "wk:page":"Go%C5%9Bciszewo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7d168bdeddb41b3594712bee17f2ea2d",
+    "wof:geomhash":"23c3a849dab7e365d05415487a1ec19e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,5 +97,5 @@
     19.0007,
     53.98696999999999
 ],
-  "geometry": {"coordinates":[19.0007,53.98696999999999],"type":"Point"}
+  "geometry": {"coordinates":[19.0007,53.98697],"type":"Point"}
 }

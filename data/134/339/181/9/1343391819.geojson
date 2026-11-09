@@ -57,7 +57,7 @@
         "wk:page":"Rostki%2C_Kolno_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3aeb15d12be710375620b7a9266da83c",
+    "wof:geomhash":"45b1048e8df2cc8de1d3a9d091cd19d2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.19822000000001,
     53.35383
 ],
-  "geometry": {"coordinates":[22.19822000000001,53.35383],"type":"Point"}
+  "geometry": {"coordinates":[22.19822,53.35383],"type":"Point"}
 }

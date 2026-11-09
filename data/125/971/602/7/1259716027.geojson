@@ -69,7 +69,7 @@
         "wk:page":"Niestkowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"204e878747356f26b15a42cffc1498ac",
+    "wof:geomhash":"ffa00228c9cd65fdb0a6fa96fef38c8a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     16.9344,
     54.54063000000001
 ],
-  "geometry": {"coordinates":[16.9344,54.54063000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.9344,54.54063],"type":"Point"}
 }

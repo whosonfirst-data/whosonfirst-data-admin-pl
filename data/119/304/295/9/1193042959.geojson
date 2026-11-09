@@ -60,7 +60,7 @@
         "wk:page":"%C5%BBu%C5%82awka_Sztumska"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2b55d5af4b501d89b5509f62a2877857",
+    "wof:geomhash":"fcc91b9158578d86738a6af83718b48f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     19.25182,
     54.01513000000001
 ],
-  "geometry": {"coordinates":[19.25182,54.01513000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.25182,54.01513],"type":"Point"}
 }

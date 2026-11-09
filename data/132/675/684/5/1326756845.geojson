@@ -54,7 +54,7 @@
         "wk:page":"Zamszany"
     },
     "wof:country":"PL",
-    "wof:geomhash":"079fc0d3a1601f027177639b16bb6337",
+    "wof:geomhash":"122a92ef4541810570499a6037e28a99",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     23.0973,
     50.84634000000001
 ],
-  "geometry": {"coordinates":[23.0973,50.84634000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.0973,50.84634],"type":"Point"}
 }

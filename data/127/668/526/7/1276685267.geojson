@@ -57,7 +57,7 @@
         "wk:page":"Gli%C5%84sko"
     },
     "wof:country":"PL",
-    "wof:geomhash":"06271401372b3620ffff8604798698c4",
+    "wof:geomhash":"c0bd4999118f11f899f5c5c04f675606",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     16.53252,
     52.03129000000001
 ],
-  "geometry": {"coordinates":[16.53252,52.03129000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.53252,52.03129],"type":"Point"}
 }

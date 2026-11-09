@@ -54,7 +54,7 @@
         "wk:page":"%C5%BBarnowo%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ed771f361cc52bd74d2d527f01fde174",
+    "wof:geomhash":"902e9312ca5bf7b5aac7d3c39ee47fd3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.61311,
     53.09056999999999
 ],
-  "geometry": {"coordinates":[20.61311,53.09056999999999],"type":"Point"}
+  "geometry": {"coordinates":[20.61311,53.09057],"type":"Point"}
 }

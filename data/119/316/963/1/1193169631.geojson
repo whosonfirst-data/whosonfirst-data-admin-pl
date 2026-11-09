@@ -57,7 +57,7 @@
         "wk:page":"Pie%C5%84ki-Sob%C3%B3tki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f97648c0bfa6ddf4cc9acda82996ee23",
+    "wof:geomhash":"1271f226be4f9b75cfb246306b0e4660",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.21749,
     52.81198000000001
 ],
-  "geometry": {"coordinates":[22.21749,52.81198000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.21749,52.81198],"type":"Point"}
 }

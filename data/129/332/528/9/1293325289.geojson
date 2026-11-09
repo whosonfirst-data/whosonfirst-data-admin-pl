@@ -54,7 +54,7 @@
         "wk:page":"Wiewierz"
     },
     "wof:country":"PL",
-    "wof:geomhash":"547752dfe28ac9b25418dbe37ec8bd0e",
+    "wof:geomhash":"a0acb0aff4e5bfdd8ca5150d16edf244",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     16.71797999999999,
     51.62666
 ],
-  "geometry": {"coordinates":[16.71797999999999,51.62666],"type":"Point"}
+  "geometry": {"coordinates":[16.71798,51.62666],"type":"Point"}
 }

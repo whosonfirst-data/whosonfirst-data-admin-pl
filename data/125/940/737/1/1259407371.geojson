@@ -63,7 +63,7 @@
         "wk:page":"Jab%C5%82onowo-Dyby"
     },
     "wof:country":"PL",
-    "wof:geomhash":"29e09f9b0e93d9197bc2f85e9dc44e8a",
+    "wof:geomhash":"4a75a255b229203ea3f39298ed24bdaf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     20.4954,
     53.25429000000001
 ],
-  "geometry": {"coordinates":[20.4954,53.25429000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.4954,53.25429],"type":"Point"}
 }

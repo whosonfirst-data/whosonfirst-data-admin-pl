@@ -54,7 +54,7 @@
         "wk:page":"Ko%C5%9Bciuszki%2C_%C5%81%C3%B3d%C5%BA_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1b4bc1d18aa8350380ef6da009c89a4d",
+    "wof:geomhash":"981781236949a8d9c5f1bbd660be5d17",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.09012,
     51.33544000000001
 ],
-  "geometry": {"coordinates":[19.09012,51.33544000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.09012,51.33544],"type":"Point"}
 }

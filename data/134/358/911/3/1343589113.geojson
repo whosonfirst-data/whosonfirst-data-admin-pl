@@ -57,7 +57,7 @@
         "wk:page":"Bie%C5%BAdziad%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6593d5f7c5f04a1520afed6f98fb8944",
+    "wof:geomhash":"03c1c453ca202156fea8ee713b5e0c52",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     17.52677000000001,
     52.08762
 ],
-  "geometry": {"coordinates":[17.52677000000001,52.08762],"type":"Point"}
+  "geometry": {"coordinates":[17.52677,52.08762],"type":"Point"}
 }

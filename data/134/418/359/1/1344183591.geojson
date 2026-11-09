@@ -54,7 +54,7 @@
         "wk:page":"Nowolipsk"
     },
     "wof:country":"PL",
-    "wof:geomhash":"068bdc2262b69ebc5c951e8a7267fe9d",
+    "wof:geomhash":"1f0dfd3ee617bc9bbc2f1139d61afe66",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.94502,
     51.95652000000001
 ],
-  "geometry": {"coordinates":[17.94502,51.95652000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.94502,51.95652],"type":"Point"}
 }

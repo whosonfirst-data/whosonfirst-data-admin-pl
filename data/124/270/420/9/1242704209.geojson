@@ -64,7 +64,7 @@
         "wk:page":"Witk%C3%B3w%2C_Wa%C5%82brzych_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"775ff6f6ecc1d5f91b8570fc1cfce43c",
+    "wof:geomhash":"0e7de1196fd5f6ac460c3ff811c140ca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,5 +91,5 @@
     16.13332999999999,
     50.8
 ],
-  "geometry": {"coordinates":[16.13332999999999,50.8],"type":"Point"}
+  "geometry": {"coordinates":[16.13333,50.8],"type":"Point"}
 }

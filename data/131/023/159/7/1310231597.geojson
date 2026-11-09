@@ -69,7 +69,7 @@
         "wk:page":"Dargoleza"
     },
     "wof:country":"PL",
-    "wof:geomhash":"05f55c9522300ad5911c359245ed99b6",
+    "wof:geomhash":"c42ab6b08883b8dbdf3b1cfea9294186",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     17.50447999999999,
     54.60242
 ],
-  "geometry": {"coordinates":[17.50447999999999,54.60242],"type":"Point"}
+  "geometry": {"coordinates":[17.50448,54.60242],"type":"Point"}
 }

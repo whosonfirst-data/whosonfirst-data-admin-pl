@@ -66,7 +66,7 @@
         "wk:page":"Strzelino"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d2c17afb7fb78fa3d2c44dbd3c9e6993",
+    "wof:geomhash":"ba0e0801477a3a81ede6e7dd861c251f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     16.96804,
     54.50398000000001
 ],
-  "geometry": {"coordinates":[16.96804,54.50398000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.96804,54.50398],"type":"Point"}
 }

@@ -49,7 +49,7 @@
         "wk:page":"Osowa_G%C3%B3ra%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"75995cf676b494cc6e2817276ddc1572",
+    "wof:geomhash":"7aa77dda3a3483fec2029fc3ce81a3b8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,5 +79,5 @@
     17.91219,
     53.15533000000001
 ],
-  "geometry": {"coordinates":[17.91219,53.15533000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.91219,53.15533],"type":"Point"}
 }

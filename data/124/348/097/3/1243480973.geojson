@@ -51,7 +51,7 @@
         "wk:page":"Twarda"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3b2153c6afeecd4fef486960cffb3f73",
+    "wof:geomhash":"0c4b9a5043d3c6c02389622e8f47cee3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     20.02817000000001,
     51.45505
 ],
-  "geometry": {"coordinates":[20.02817000000001,51.45505],"type":"Point"}
+  "geometry": {"coordinates":[20.02817,51.45505],"type":"Point"}
 }

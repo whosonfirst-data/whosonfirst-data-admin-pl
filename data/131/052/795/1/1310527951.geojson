@@ -51,7 +51,7 @@
         "wk:page":"Niszczewice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"43f2c7a174003035d66d108bc64c78b1",
+    "wof:geomhash":"5c9a67cb4291b1a9fbfefc06ee91ff9c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.19062000000001,
     52.89381
 ],
-  "geometry": {"coordinates":[18.19062000000001,52.89381],"type":"Point"}
+  "geometry": {"coordinates":[18.19062,52.89381],"type":"Point"}
 }

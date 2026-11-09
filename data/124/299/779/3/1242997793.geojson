@@ -54,7 +54,7 @@
         "wk:page":"Bobin%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"45b953e29b14ca4e36ce3c464d533411",
+    "wof:geomhash":"d80d9dd40086fe6fe49c7bf25bfc1588",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.63203,
     52.96138000000001
 ],
-  "geometry": {"coordinates":[21.63203,52.96138000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.63203,52.96138],"type":"Point"}
 }

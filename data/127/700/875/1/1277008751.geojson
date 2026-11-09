@@ -48,7 +48,7 @@
         "wk:page":"Wildek"
     },
     "wof:country":"PL",
-    "wof:geomhash":"170b39773c7704a2d70bc691014b84cc",
+    "wof:geomhash":"3b7ae8816426a9693ca58b53f573991b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     16.62592,
     53.21508000000001
 ],
-  "geometry": {"coordinates":[16.62592,53.21508000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.62592,53.21508],"type":"Point"}
 }

@@ -63,7 +63,7 @@
         "wk:page":"Janostr%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6f0c4880dd18d6cea478acfce8126de1",
+    "wof:geomhash":"89abc5a80a0c4b9244fbcb6eb128f65e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     23.85372000000001,
     51.01888
 ],
-  "geometry": {"coordinates":[23.85372000000001,51.01888],"type":"Point"}
+  "geometry": {"coordinates":[23.85372,51.01888],"type":"Point"}
 }

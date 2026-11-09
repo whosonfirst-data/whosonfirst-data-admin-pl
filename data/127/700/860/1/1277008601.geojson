@@ -60,7 +60,7 @@
         "wk:page":"Bartel_Wielki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7f536b87886819af653865e519d5dad8",
+    "wof:geomhash":"0a40d7e1ad3bc74874bbdf5ec496e525",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     18.14191,
     53.91336999999999
 ],
-  "geometry": {"coordinates":[18.14191,53.91336999999999],"type":"Point"}
+  "geometry": {"coordinates":[18.14191,53.91337],"type":"Point"}
 }

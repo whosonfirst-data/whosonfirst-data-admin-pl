@@ -54,7 +54,7 @@
         "wk:page":"Bronis%C5%82aw%C3%B3w%2C_%C5%9Awi%C4%99tokrzyskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"acea8f500f1c4db7fd7a3aa7b57f0891",
+    "wof:geomhash":"49d4f8cf40340aab1fb658af892a39a5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.69648,
     50.93904000000001
 ],
-  "geometry": {"coordinates":[21.69648,50.93904000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.69648,50.93904],"type":"Point"}
 }

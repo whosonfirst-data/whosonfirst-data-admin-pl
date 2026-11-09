@@ -51,7 +51,7 @@
         "wk:page":"%C5%81agiewniki%2C_W%C5%82oc%C5%82awek_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f45b2ac82ff5f6cc3f79ac209e6c7242",
+    "wof:geomhash":"6efe5dd0070e2fda42e7d8d9eff93a8c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.05218,
     52.56059000000001
 ],
-  "geometry": {"coordinates":[19.05218,52.56059000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.05218,52.56059],"type":"Point"}
 }

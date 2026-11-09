@@ -56,7 +56,7 @@
         "wk:page":"Nowojowiec"
     },
     "wof:country":"PL",
-    "wof:geomhash":"48b1e2e802bc070ec5ffa25abab63e7e",
+    "wof:geomhash":"b2b08cafdc68b637e91504b7f62ed49d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,5 +83,5 @@
     21.0224,
     53.43324000000001
 ],
-  "geometry": {"coordinates":[21.0224,53.43324000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.0224,53.43324],"type":"Point"}
 }

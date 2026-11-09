@@ -57,7 +57,7 @@
         "wk:page":"Boles%C5%82aw%C3%B3w%2C_Gostynin_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"058ad2255dc9295e25a6ed141b23dcab",
+    "wof:geomhash":"5a387f19eb8adac1743627f782fff082",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     19.54245,
     52.44638000000001
 ],
-  "geometry": {"coordinates":[19.54245,52.44638000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.54245,52.44638],"type":"Point"}
 }

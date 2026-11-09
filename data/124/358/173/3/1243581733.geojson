@@ -57,7 +57,7 @@
         "wk:page":"Filipki_Du%C5%BCe"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f28c72ae9939b23d9e150729a4af7ded",
+    "wof:geomhash":"0a3eecceea74c6e821dd16ea48ef43c9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.97807,
     53.50748000000001
 ],
-  "geometry": {"coordinates":[21.97807,53.50748000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.97807,53.50748],"type":"Point"}
 }

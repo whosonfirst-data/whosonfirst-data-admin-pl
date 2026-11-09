@@ -51,7 +51,7 @@
         "wk:page":"Piotrkowice%2C_W%C4%85growiec_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9a202c3eb72d730eee8dd2ad980c39d0",
+    "wof:geomhash":"65fe4635e52e279895a72a3e2603878b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.51391,
     52.87323000000001
 ],
-  "geometry": {"coordinates":[17.51391,52.87323000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.51391,52.87323],"type":"Point"}
 }

@@ -52,7 +52,7 @@
         "wk:page":"Osiedle_Bacieczki%2C_Bia%C5%82ystok"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d39667ab38704ddd0ec76d00f074e122",
+    "wof:geomhash":"0a9a2f8843b79a7b2cc998f883959aa4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,5 +82,5 @@
     23.09361,
     53.15199000000001
 ],
-  "geometry": {"coordinates":[23.09361,53.15199000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.09361,53.15199],"type":"Point"}
 }

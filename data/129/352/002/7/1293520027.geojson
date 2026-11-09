@@ -57,7 +57,7 @@
         "wk:page":"Oporzyn"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b393c26aa05609b1e49b95e5ca547118",
+    "wof:geomhash":"ab7cdc370ecd034db0c77da382d10a9f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     17.16754,
     52.92378000000001
 ],
-  "geometry": {"coordinates":[17.16754,52.92378000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.16754,52.92378],"type":"Point"}
 }

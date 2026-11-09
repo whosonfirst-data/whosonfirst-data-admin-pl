@@ -57,7 +57,7 @@
         "wk:page":"Chomino"
     },
     "wof:country":"PL",
-    "wof:geomhash":"dde866d88387d686372dc72a42d6f52b",
+    "wof:geomhash":"8c68f54eac5e068f458ac75e643e8b31",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     14.92481,
     53.92763000000001
 ],
-  "geometry": {"coordinates":[14.92481,53.92763000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.92481,53.92763],"type":"Point"}
 }

@@ -52,7 +52,7 @@
         "wk:page":"Giza%C5%82ki-Las"
     },
     "wof:country":"PL",
-    "wof:geomhash":"37566213432a2532e6588c7c00a79f9e",
+    "wof:geomhash":"4d594d62eabdaa3cec7c100b5f3844e4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,5 +79,5 @@
     17.81751000000001,
     52.04937
 ],
-  "geometry": {"coordinates":[17.81751000000001,52.04937],"type":"Point"}
+  "geometry": {"coordinates":[17.81751,52.04937],"type":"Point"}
 }

@@ -51,7 +51,7 @@
         "wk:page":"Zapolice%2C_West_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b88889d0a0e4852afbafeeae7e6c4290",
+    "wof:geomhash":"ca61a32ff9ffb6cc20538acc5f524917",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     15.17315,
     54.07893000000001
 ],
-  "geometry": {"coordinates":[15.17315,54.07893000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.17315,54.07893],"type":"Point"}
 }

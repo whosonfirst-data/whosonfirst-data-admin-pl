@@ -51,7 +51,7 @@
         "wk:page":"Bukowiec%2C_Lesser_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"110f893e9e8904a5b6cacce49c102972",
+    "wof:geomhash":"06a2732f5b35098fc5674e32a9894261",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     20.85372000000001,
     49.74148
 ],
-  "geometry": {"coordinates":[20.85372000000001,49.74148],"type":"Point"}
+  "geometry": {"coordinates":[20.85372,49.74148],"type":"Point"}
 }

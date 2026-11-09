@@ -51,7 +51,7 @@
         "wk:page":"Ma%C5%82oszyce%2C_Silesian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d971754b1ceee8dd017f7ce9c48868a7",
+    "wof:geomhash":"62c7777eca704c9a81fb2871083c7a78",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.82397000000001,
     50.54049000000001
 ],
-  "geometry": {"coordinates":[19.82397000000001,50.54049000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.82397,50.54049],"type":"Point"}
 }

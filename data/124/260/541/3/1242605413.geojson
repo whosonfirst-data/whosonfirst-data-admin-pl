@@ -51,7 +51,7 @@
         "wk:page":"%C5%9Amielin"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c9f04be6fa4e67db065a3f1d0b69949c",
+    "wof:geomhash":"7951d12272e3fccd7d173ff6a96c1e24",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.48749,
     53.14873000000001
 ],
-  "geometry": {"coordinates":[17.48749,53.14873000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.48749,53.14873],"type":"Point"}
 }

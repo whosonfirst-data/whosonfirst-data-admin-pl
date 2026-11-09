@@ -54,7 +54,7 @@
         "wk:page":"Chyczewo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a2fdd774c4e39deaf4aca1fb77045183",
+    "wof:geomhash":"aa8311517a091a710f019454d3708fa7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.08692000000001,
     52.73706
 ],
-  "geometry": {"coordinates":[20.08692000000001,52.73706],"type":"Point"}
+  "geometry": {"coordinates":[20.08692,52.73706],"type":"Point"}
 }

@@ -66,7 +66,7 @@
         "wk:page":"D%C4%85browa-Kity"
     },
     "wof:country":"PL",
-    "wof:geomhash":"177e54b7c2457a37f7ce31d6347ae0ba",
+    "wof:geomhash":"8cbdcc604fb7c32815cadd6a0e1940be",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     22.41841,
     52.82893000000001
 ],
-  "geometry": {"coordinates":[22.41841,52.82893000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.41841,52.82893],"type":"Point"}
 }

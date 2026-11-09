@@ -54,7 +54,7 @@
         "wk:page":"Michowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2112827c1a3b756ae9719414eb91a3c8",
+    "wof:geomhash":"e27af4e935f0d45ef90b676442feafa2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.41109,
     52.63333000000001
 ],
-  "geometry": {"coordinates":[20.41109,52.63333000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.41109,52.63333],"type":"Point"}
 }

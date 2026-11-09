@@ -57,7 +57,7 @@
         "wk:page":"Rycice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a9ec3be6612dd39745e00113abad7815",
+    "wof:geomhash":"c90302f6fe6f6971f8632526984adac1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     20.88325,
     53.21066999999999
 ],
-  "geometry": {"coordinates":[20.88325,53.21066999999999],"type":"Point"}
+  "geometry": {"coordinates":[20.88325,53.21067],"type":"Point"}
 }

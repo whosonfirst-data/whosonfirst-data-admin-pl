@@ -51,7 +51,7 @@
         "wk:page":"Latkowo%2C_Radziej%C3%B3w_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"612997ffc4ddbe102180c10bde7f1e1d",
+    "wof:geomhash":"f991414f7b39212b9116e88a90ee6e32",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.65611,
     52.63563000000001
 ],
-  "geometry": {"coordinates":[18.65611,52.63563000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.65611,52.63563],"type":"Point"}
 }

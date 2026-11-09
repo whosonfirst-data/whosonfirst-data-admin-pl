@@ -63,7 +63,7 @@
         "wk:page":"Konopki-Monety"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7bdcb78bcec403684d58d52b0cd9694d",
+    "wof:geomhash":"d564313dcef299c8268ca6ac1657b9d4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     22.15101,
     53.42896999999999
 ],
-  "geometry": {"coordinates":[22.15101,53.42896999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.15101,53.42897],"type":"Point"}
 }

@@ -61,7 +61,7 @@
         "wk:page":"Nowy_Zyzdr%C3%B3j"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c29071d8f5ee992cf9643c506aebeec5",
+    "wof:geomhash":"463deb0571f0a65365193cdf26dd85c3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     21.29612,
     53.65793000000001
 ],
-  "geometry": {"coordinates":[21.29612,53.65793000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.29612,53.65793],"type":"Point"}
 }

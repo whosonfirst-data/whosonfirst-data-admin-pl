@@ -54,7 +54,7 @@
         "wk:page":"Czeszewo%2C_W%C4%85growiec_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"28007f791272ccedf00b3027351f7644",
+    "wof:geomhash":"8b4e5b23b93a7bd3502560b506b125ea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.37962000000001,
     52.90858000000001
 ],
-  "geometry": {"coordinates":[17.37962000000001,52.90858000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.37962,52.90858],"type":"Point"}
 }

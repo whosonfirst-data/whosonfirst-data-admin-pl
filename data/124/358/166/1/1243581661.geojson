@@ -54,7 +54,7 @@
         "wk:page":"Nied%C5%BAwiady%2C_Nak%C5%82o_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f18769dd8d0fbbe6a3f4db97e298e903",
+    "wof:geomhash":"ddf7d2033e47ae0c2ac8c222a5b459a3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.66826,
     53.06843000000001
 ],
-  "geometry": {"coordinates":[17.66826,53.06843000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.66826,53.06843],"type":"Point"}
 }

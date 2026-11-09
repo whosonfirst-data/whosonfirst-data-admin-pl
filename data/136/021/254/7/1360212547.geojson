@@ -54,7 +54,7 @@
         "wk:page":"Osiniec%2C_Gniezno_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ffb007c1797237627477e618632505ed",
+    "wof:geomhash":"d5774ebfb17d5861b4c7929819f0fb14",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.6406,
     52.50924000000001
 ],
-  "geometry": {"coordinates":[17.6406,52.50924000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.6406,52.50924],"type":"Point"}
 }

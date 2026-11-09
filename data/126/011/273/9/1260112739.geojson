@@ -54,7 +54,7 @@
         "wk:page":"Targowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2549bb922bbcf35b1268008faf83cdf7",
+    "wof:geomhash":"573666281fc902673ce9b2e0283830c5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.03747000000001,
     53.69471
 ],
-  "geometry": {"coordinates":[21.03747000000001,53.69471],"type":"Point"}
+  "geometry": {"coordinates":[21.03747,53.69471],"type":"Point"}
 }

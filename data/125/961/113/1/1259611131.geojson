@@ -51,7 +51,7 @@
         "wk:page":"Nowy_Dw%C3%B3r%2C_Grudzi%C4%85dz_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8918ea343561f268fbc0e238432495eb",
+    "wof:geomhash":"e86736a7c5d16cdffc2ad154542b4b3b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.91777,
     53.40564000000001
 ],
-  "geometry": {"coordinates":[18.91777,53.40564000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.91777,53.40564],"type":"Point"}
 }

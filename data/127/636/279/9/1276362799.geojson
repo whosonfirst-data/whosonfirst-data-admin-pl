@@ -54,7 +54,7 @@
         "wk:page":"Mieszk%C3%B3w%2C_Lubusz_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c7755e4c755ac82833a3c616f4f200db",
+    "wof:geomhash":"fdb94387561341aecc348ee227bd5633",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     14.89128,
     51.59829000000001
 ],
-  "geometry": {"coordinates":[14.89128,51.59829000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.89128,51.59829],"type":"Point"}
 }

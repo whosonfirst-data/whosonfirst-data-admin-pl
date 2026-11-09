@@ -57,7 +57,7 @@
         "wk:page":"%C5%9Aniaty%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"21a3e9e79625c59c5a1d665a2bb2e55b",
+    "wof:geomhash":"d7fc32f431d35bc80039c3225cec098f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     16.39552999999999,
     52.06487
 ],
-  "geometry": {"coordinates":[16.39552999999999,52.06487],"type":"Point"}
+  "geometry": {"coordinates":[16.39553,52.06487],"type":"Point"}
 }

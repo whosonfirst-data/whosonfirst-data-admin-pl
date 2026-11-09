@@ -51,7 +51,7 @@
         "wk:page":"So%C5%82tyski"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b01c32e79288259629651c298a70edba",
+    "wof:geomhash":"95460d2205146bb5e5c657cb94f73429",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.92303,
     53.88661999999999
 ],
-  "geometry": {"coordinates":[18.92303,53.88661999999999],"type":"Point"}
+  "geometry": {"coordinates":[18.92303,53.88662],"type":"Point"}
 }

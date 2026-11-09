@@ -61,7 +61,7 @@
         "wk:page":"Kamierowskie_Piece"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8629b6605281d80f319b7986c717ce5b",
+    "wof:geomhash":"d0dd0b7be2bc88eebfa0bdc176355822",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     18.46667,
     54.11666999999999
 ],
-  "geometry": {"coordinates":[18.46667,54.11666999999999],"type":"Point"}
+  "geometry": {"coordinates":[18.46667,54.11667],"type":"Point"}
 }

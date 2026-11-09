@@ -60,7 +60,7 @@
         "wk:page":"Sobowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"383048064f7ae906a2d0eb24f85b9b7a",
+    "wof:geomhash":"f993de5edd77eb416eafe0ec6e4b891f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     19.42451,
     52.65711999999999
 ],
-  "geometry": {"coordinates":[19.42451,52.65711999999999],"type":"Point"}
+  "geometry": {"coordinates":[19.42451,52.65712],"type":"Point"}
 }

@@ -118,7 +118,7 @@
         "wk:page":"Dobra%2C_Boles%C5%82awiec_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"833d7d16765e1570ca9aee0bb3b1a47f",
+    "wof:geomhash":"b2f2c9ac8482c21d8875402957db8249",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,5 +147,5 @@
     15.5151,
     51.27464000000001
 ],
-  "geometry": {"coordinates":[15.5151,51.27464000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.5151,51.27464],"type":"Point"}
 }

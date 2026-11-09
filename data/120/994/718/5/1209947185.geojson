@@ -57,7 +57,7 @@
         "wk:page":"P%C4%99pocin"
     },
     "wof:country":"PL",
-    "wof:geomhash":"98319e03d40a2af070cb77c5f6385e91",
+    "wof:geomhash":"5ff40907f4c15827414a1fe1fbfb817e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     17.99103999999999,
     52.29157
 ],
-  "geometry": {"coordinates":[17.99103999999999,52.29157],"type":"Point"}
+  "geometry": {"coordinates":[17.99104,52.29157],"type":"Point"}
 }

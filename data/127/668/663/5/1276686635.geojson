@@ -57,7 +57,7 @@
         "wk:page":"Nowa_Wie%C5%9B_ko%C5%82o_Duczymina"
     },
     "wof:country":"PL",
-    "wof:geomhash":"20f5c036b82112aea73b80db8f5d9985",
+    "wof:geomhash":"c18e710884fb143e75ecaca7c54c64f3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     20.80436,
     53.28418000000001
 ],
-  "geometry": {"coordinates":[20.80436,53.28418000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.80436,53.28418],"type":"Point"}
 }

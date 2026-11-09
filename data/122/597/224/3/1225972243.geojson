@@ -48,7 +48,7 @@
         "wk:page":"D%C4%99bowiec%2C_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"964860d62190360adf08453a530068be",
+    "wof:geomhash":"ceb0098524c79392810c4e51fccc6f50",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     17.94401000000001,
     53.87629
 ],
-  "geometry": {"coordinates":[17.94401000000001,53.87629],"type":"Point"}
+  "geometry": {"coordinates":[17.94401,53.87629],"type":"Point"}
 }

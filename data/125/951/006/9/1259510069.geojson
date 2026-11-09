@@ -67,7 +67,7 @@
         "wk:page":"Bobrowniki%2C_Bia%C5%82ystok_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8daee70d46c5efc96dc6786292e021c9",
+    "wof:geomhash":"49a4db3e644f79ba85fa826668ac5d2b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     23.88934,
     53.12416999999999
 ],
-  "geometry": {"coordinates":[23.88934,53.12416999999999],"type":"Point"}
+  "geometry": {"coordinates":[23.88934,53.12417],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"Kiszewko"
     },
     "wof:country":"PL",
-    "wof:geomhash":"938ce039f1911d7f5e3d67b62b360d01",
+    "wof:geomhash":"069118f5978e69cdf84561299d05403d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     16.634,
     52.69600000000001
 ],
-  "geometry": {"coordinates":[16.634,52.69600000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.634,52.696],"type":"Point"}
 }

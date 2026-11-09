@@ -54,7 +54,7 @@
         "wk:page":"W%C3%B3lka_Seroczy%C5%84ska"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b61d988d20d0343fc666bc8755ec4944",
+    "wof:geomhash":"f37d72b887c4258bb1dbe96f2df2e509",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.86047,
     52.91433000000001
 ],
-  "geometry": {"coordinates":[21.86047,52.91433000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.86047,52.91433],"type":"Point"}
 }

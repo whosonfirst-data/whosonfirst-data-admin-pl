@@ -51,7 +51,7 @@
         "wk:page":"Wiatrowo%2C_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"53ef4cce079fb2859cfe086e9f2420c3",
+    "wof:geomhash":"dc474377ca0d77de27d1101c09be6f74",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.30192000000001,
     54.55285
 ],
-  "geometry": {"coordinates":[17.30192000000001,54.55285],"type":"Point"}
+  "geometry": {"coordinates":[17.30192,54.55285],"type":"Point"}
 }

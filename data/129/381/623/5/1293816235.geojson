@@ -54,7 +54,7 @@
         "wk:page":"Ku%C5%BAniczka%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"afbf8103d6c2d2c9f79a0dba722e3046",
+    "wof:geomhash":"00279b69c3dbb6cfa867bef78f751a80",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     16.23007999999999,
     52.95126
 ],
-  "geometry": {"coordinates":[16.23007999999999,52.95126],"type":"Point"}
+  "geometry": {"coordinates":[16.23008,52.95126],"type":"Point"}
 }

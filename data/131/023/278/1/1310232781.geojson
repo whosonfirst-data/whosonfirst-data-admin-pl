@@ -51,7 +51,7 @@
         "wk:page":"M%C4%85koszyn%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2ca9236cdcd605cfef808a4e92fe4c21",
+    "wof:geomhash":"6afed699a350f0efbd6011a76400fe62",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.63607,
     52.43378000000001
 ],
-  "geometry": {"coordinates":[18.63607,52.43378000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.63607,52.43378],"type":"Point"}
 }

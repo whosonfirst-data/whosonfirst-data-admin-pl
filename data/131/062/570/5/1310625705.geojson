@@ -57,7 +57,7 @@
         "wk:page":"Szark%C3%B3wka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"64b2720c4d8340ba345157557680a236",
+    "wof:geomhash":"828513a3f336af3b1474e070e6f9ac8b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     19.92757000000001,
     50.39205
 ],
-  "geometry": {"coordinates":[19.92757000000001,50.39205],"type":"Point"}
+  "geometry": {"coordinates":[19.92757,50.39205],"type":"Point"}
 }

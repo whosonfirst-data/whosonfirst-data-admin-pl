@@ -57,7 +57,7 @@
         "wk:page":"Bolech%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"512e5aeab719a20d0e1df51097b97422",
+    "wof:geomhash":"954c260b96e8a915c6cf7deef09a8a70",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     17.22862000000001,
     50.89513
 ],
-  "geometry": {"coordinates":[17.22862000000001,50.89513],"type":"Point"}
+  "geometry": {"coordinates":[17.22862,50.89513],"type":"Point"}
 }

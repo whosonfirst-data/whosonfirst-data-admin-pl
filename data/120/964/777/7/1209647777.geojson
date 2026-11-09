@@ -60,7 +60,7 @@
         "wk:page":"Tymce"
     },
     "wof:country":"PL",
-    "wof:geomhash":"dbebe7ad7ec5d71af6eaa59b25cd587e",
+    "wof:geomhash":"b73480814fd4033b0e14d1ac758db75b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     23.23782000000001,
     50.20194
 ],
-  "geometry": {"coordinates":[23.23782000000001,50.20194],"type":"Point"}
+  "geometry": {"coordinates":[23.23782,50.20194],"type":"Point"}
 }

@@ -58,7 +58,7 @@
         "wk:page":"Szczecinowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"33cba7c70ec69946ada1912de45106af",
+    "wof:geomhash":"a5534336a5bf656c7d07ae5aa89c6f5e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,5 +85,5 @@
     22.1642,
     53.97363000000001
 ],
-  "geometry": {"coordinates":[22.1642,53.97363000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.1642,53.97363],"type":"Point"}
 }

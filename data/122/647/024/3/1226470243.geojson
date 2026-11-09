@@ -54,7 +54,7 @@
         "wk:page":"Ob%C3%B3rka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5a2f86d7aaf1e247c0072af3fe0c88db",
+    "wof:geomhash":"7e9d2e277246c3bf206e73e77baa26f4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.53962000000001,
     52.57981
 ],
-  "geometry": {"coordinates":[17.53962000000001,52.57981],"type":"Point"}
+  "geometry": {"coordinates":[17.53962,52.57981],"type":"Point"}
 }

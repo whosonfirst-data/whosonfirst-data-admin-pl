@@ -57,7 +57,7 @@
         "wk:page":"Klepacze%2C_Siemiatycze_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5467c849378276796df7e55ccdbe1151",
+    "wof:geomhash":"4ff237a6caacca1f7c3345cc8ea4b1ae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.69217,
     52.50573000000001
 ],
-  "geometry": {"coordinates":[22.69217,52.50573000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.69217,52.50573],"type":"Point"}
 }

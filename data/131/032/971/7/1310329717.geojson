@@ -54,7 +54,7 @@
         "wk:page":"Smolechy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b27aa0bc0f69b2c3174a57870cec247b",
+    "wof:geomhash":"f8dbf2b309325f4fb631db9c97e6b17d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.01873,
     52.79463000000001
 ],
-  "geometry": {"coordinates":[22.01873,52.79463000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.01873,52.79463],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"Barcice%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f801336d74166302dfa1380b4e10a478",
+    "wof:geomhash":"8d5889d8bb11c53aeebdafb206b20999",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.26288,
     52.53621999999999
 ],
-  "geometry": {"coordinates":[21.26288,52.53621999999999],"type":"Point"}
+  "geometry": {"coordinates":[21.26288,52.53622],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Mijanowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"0ae47f195cb44ad9db79245c5b406f65",
+    "wof:geomhash":"33d24c0db7a1509520b35c777bbef99d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.89868,
     52.56981999999999
 ],
-  "geometry": {"coordinates":[17.89868,52.56981999999999],"type":"Point"}
+  "geometry": {"coordinates":[17.89868,52.56982],"type":"Point"}
 }

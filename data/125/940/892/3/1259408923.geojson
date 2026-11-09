@@ -51,7 +51,7 @@
         "wk:page":"Szewce%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"87138c4dc24d0c2735f3eb2a502429aa",
+    "wof:geomhash":"e4a5358abb7e72d0d10bfd7ffeaa4a5c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.48055,
     52.52014000000001
 ],
-  "geometry": {"coordinates":[18.48055,52.52014000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.48055,52.52014],"type":"Point"}
 }

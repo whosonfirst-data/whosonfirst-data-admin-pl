@@ -51,7 +51,7 @@
         "wk:page":"Gr%C3%B3dk%C3%B3wko"
     },
     "wof:country":"PL",
-    "wof:geomhash":"cb9889dabcde84d42deda04317b902f2",
+    "wof:geomhash":"558e0259c9b101b900c5eb7be5f08288",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     20.13333,
     52.43333000000001
 ],
-  "geometry": {"coordinates":[20.13333,52.43333000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.13333,52.43333],"type":"Point"}
 }

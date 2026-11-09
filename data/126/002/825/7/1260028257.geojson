@@ -57,7 +57,7 @@
         "wk:page":"Leszczk%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6b34763b5897c3f6fdebe005494563e9",
+    "wof:geomhash":"eca5b387f1a067fc9bd90663cc4aa655",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.48525,
     50.74039000000001
 ],
-  "geometry": {"coordinates":[21.48525,50.74039000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.48525,50.74039],"type":"Point"}
 }

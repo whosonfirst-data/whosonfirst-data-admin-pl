@@ -54,7 +54,7 @@
         "wk:page":"Szostaki%2C_Sok%C3%B3%C5%82ka_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"de13c758c43445a901f81e38a7c5a473",
+    "wof:geomhash":"c2a505ccdfb8c09a43590e489385e6c8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     23.44699,
     53.58734000000001
 ],
-  "geometry": {"coordinates":[23.44699,53.58734000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.44699,53.58734],"type":"Point"}
 }

@@ -58,7 +58,7 @@
         "wk:page":"Miodusy-Stok"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ad1d7001c7f4b994589233751bb0e4f6",
+    "wof:geomhash":"4761869582f96a73408dcacdd87a5560",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,5 +85,5 @@
     22.35524,
     52.91543000000001
 ],
-  "geometry": {"coordinates":[22.35524,52.91543000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.35524,52.91543],"type":"Point"}
 }

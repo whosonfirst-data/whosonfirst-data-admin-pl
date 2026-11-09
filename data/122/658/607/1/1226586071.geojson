@@ -55,7 +55,7 @@
         "wk:page":"Krzy%C5%BCanowice_Dolne"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5cd29e71879c883af3fdba3091406f28",
+    "wof:geomhash":"e61272420d877234231c4fbcef66c55e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,5 +82,5 @@
     20.54422000000001,
     50.46032
 ],
-  "geometry": {"coordinates":[20.54422000000001,50.46032],"type":"Point"}
+  "geometry": {"coordinates":[20.54422,50.46032],"type":"Point"}
 }

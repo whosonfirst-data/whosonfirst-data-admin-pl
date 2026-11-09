@@ -51,7 +51,7 @@
         "wk:page":"Racisz%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5e7d854393b3b3e8219beac36a675d4c",
+    "wof:geomhash":"71f3e548ed3f4d19c5f80c34e2e244ea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.64277000000001,
     50.97798
 ],
-  "geometry": {"coordinates":[17.64277000000001,50.97798],"type":"Point"}
+  "geometry": {"coordinates":[17.64277,50.97798],"type":"Point"}
 }

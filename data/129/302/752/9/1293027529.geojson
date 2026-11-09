@@ -51,7 +51,7 @@
         "wk:page":"Skoki_Du%C5%BCe"
     },
     "wof:country":"PL",
-    "wof:geomhash":"74462b337c0e7746da5b60cc879a5471",
+    "wof:geomhash":"209ecf9fb361d0388ec05d18aa05190a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.39344,
     52.61253000000001
 ],
-  "geometry": {"coordinates":[19.39344,52.61253000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.39344,52.61253],"type":"Point"}
 }

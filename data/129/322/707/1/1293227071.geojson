@@ -57,7 +57,7 @@
         "wk:page":"Wieszczyczyn"
     },
     "wof:country":"PL",
-    "wof:geomhash":"bab10027916227972744397c1c136c48",
+    "wof:geomhash":"363e6a529af2abb7049137b916d8232e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     17.09519,
     52.03449000000001
 ],
-  "geometry": {"coordinates":[17.09519,52.03449000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.09519,52.03449],"type":"Point"}
 }

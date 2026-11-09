@@ -75,7 +75,7 @@
         "wk:page":"Klukowicze"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ec595a8f3a058723a76ade3e1f02754b",
+    "wof:geomhash":"f3d282adeaf28398e2647593bf811b1b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,5 +102,5 @@
     23.27314,
     52.40600000000001
 ],
-  "geometry": {"coordinates":[23.27314,52.40600000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.27314,52.406],"type":"Point"}
 }

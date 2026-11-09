@@ -57,7 +57,7 @@
         "wk:page":"Szklana_Huta%2C_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7ccd5e1f5445bda16791f5c7b524f653",
+    "wof:geomhash":"8e89954689cac383e9e8348ed16deb75",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     17.76352,
     54.06896999999999
 ],
-  "geometry": {"coordinates":[17.76352,54.06896999999999],"type":"Point"}
+  "geometry": {"coordinates":[17.76352,54.06897],"type":"Point"}
 }

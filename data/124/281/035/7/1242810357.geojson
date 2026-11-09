@@ -66,7 +66,7 @@
         "wk:page":"Gorzechowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"16bff4a4a9b8c535e32d398a75d4115d",
+    "wof:geomhash":"747961cdad4361fee07c1d4441290284",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     19.4861,
     52.63988000000001
 ],
-  "geometry": {"coordinates":[19.4861,52.63988000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.4861,52.63988],"type":"Point"}
 }

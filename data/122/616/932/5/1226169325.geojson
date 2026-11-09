@@ -57,7 +57,7 @@
         "wk:page":"Lemany%2C_Warmian-Masurian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"991ca8569aa4cac4d17ee7a6c0110c22",
+    "wof:geomhash":"2c83c43badfef7f6569750c6168a6c61",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.02484,
     53.58153000000001
 ],
-  "geometry": {"coordinates":[21.02484,53.58153000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.02484,53.58153],"type":"Point"}
 }

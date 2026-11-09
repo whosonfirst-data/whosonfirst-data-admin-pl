@@ -69,7 +69,7 @@
         "wk:page":"Bral%C4%99cin"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d51ca5e728377e98428f70589343544d",
+    "wof:geomhash":"8c2c985e5ae2686f1f15a949cb873857",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     15.23196,
     53.23784000000001
 ],
-  "geometry": {"coordinates":[15.23196,53.23784000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.23196,53.23784],"type":"Point"}
 }

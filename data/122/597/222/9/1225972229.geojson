@@ -54,7 +54,7 @@
         "wk:page":"Kasyld%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"303325d528e17917fbf653ddfcb027d8",
+    "wof:geomhash":"fe87280c6433ce0695babccbf570c70e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.06815,
     51.83479000000001
 ],
-  "geometry": {"coordinates":[22.06815,51.83479000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.06815,51.83479],"type":"Point"}
 }

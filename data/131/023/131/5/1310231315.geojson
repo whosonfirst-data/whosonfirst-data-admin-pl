@@ -63,7 +63,7 @@
         "wk:page":"Las%C3%B3wka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d094ed27f892ce4ab4f12d102dd29d6b",
+    "wof:geomhash":"ca85b2ecbac2515e818768781645ffc2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     16.45185,
     50.30562000000001
 ],
-  "geometry": {"coordinates":[16.45185,50.30562000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.45185,50.30562],"type":"Point"}
 }

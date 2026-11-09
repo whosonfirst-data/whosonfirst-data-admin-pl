@@ -54,7 +54,7 @@
         "wk:page":"Nowa_Wie%C5%9B_G%C5%82ubczycka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"bd32da41d546a05125ee0e14c5b26588",
+    "wof:geomhash":"baf7b039632dfa5cb04164a7e2c1de37",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.85787999999999,
     50.15575
 ],
-  "geometry": {"coordinates":[17.85787999999999,50.15575],"type":"Point"}
+  "geometry": {"coordinates":[17.85788,50.15575],"type":"Point"}
 }

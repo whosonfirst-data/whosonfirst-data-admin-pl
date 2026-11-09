@@ -57,7 +57,7 @@
         "wk:page":"Popowo_Wonieskie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4cb6bcc6c691dda9fcf565521371a61e",
+    "wof:geomhash":"c9c82759b79f894c599e085c0d8e0616",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     16.66724,
     51.95652000000001
 ],
-  "geometry": {"coordinates":[16.66724,51.95652000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.66724,51.95652],"type":"Point"}
 }

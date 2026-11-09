@@ -60,7 +60,7 @@
         "wk:page":"Nawcz"
     },
     "wof:country":"PL",
-    "wof:geomhash":"50d1f4d5b30e9c3e4ce2ed9281365c15",
+    "wof:geomhash":"12a1b76dc84c7f40b77ef00a4e8e6307",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     17.94222000000001,
     54.50533000000001
 ],
-  "geometry": {"coordinates":[17.94222000000001,54.50533000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.94222,54.50533],"type":"Point"}
 }

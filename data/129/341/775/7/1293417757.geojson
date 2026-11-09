@@ -66,7 +66,7 @@
         "wk:page":"Boles%C5%82awice%2C_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1bfb8fe7bf9a224554fcece1ff4c1f91",
+    "wof:geomhash":"35c4dccd93d7e4d726e0b3db813848e0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     16.95314,
     54.44788000000001
 ],
-  "geometry": {"coordinates":[16.95314,54.44788000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.95314,54.44788],"type":"Point"}
 }

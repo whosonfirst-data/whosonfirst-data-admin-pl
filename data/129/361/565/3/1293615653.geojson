@@ -51,7 +51,7 @@
         "wk:page":"Zambrzyca"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7bc9e6d29e8022d527793513236223cf",
+    "wof:geomhash":"453be48bd2cb05ff13aa6e740ce4a0e7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.63308,
     52.97841999999999
 ],
-  "geometry": {"coordinates":[19.63308,52.97841999999999],"type":"Point"}
+  "geometry": {"coordinates":[19.63308,52.97842],"type":"Point"}
 }

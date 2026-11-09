@@ -70,7 +70,7 @@
         "wk:page":"Bo%C5%BCe%2C_Warmian-Masurian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3dc97d8f52fe19903959101d11c9ad18",
+    "wof:geomhash":"6f35a64652ff25c59f3ca294272e83f3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,5 +97,5 @@
     21.37315,
     53.95381999999999
 ],
-  "geometry": {"coordinates":[21.37315,53.95381999999999],"type":"Point"}
+  "geometry": {"coordinates":[21.37315,53.95382],"type":"Point"}
 }

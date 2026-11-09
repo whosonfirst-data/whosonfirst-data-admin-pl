@@ -51,7 +51,7 @@
         "wk:page":"Bratuszewo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c341ac09e9d8024c4905ec2382c8f14b",
+    "wof:geomhash":"f4ce8af725a7c3c2e02a36b0dc17c66e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.60836,
     53.35608000000001
 ],
-  "geometry": {"coordinates":[19.60836,53.35608000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.60836,53.35608],"type":"Point"}
 }

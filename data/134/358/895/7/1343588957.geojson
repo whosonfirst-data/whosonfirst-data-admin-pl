@@ -54,7 +54,7 @@
         "wk:page":"Borkowo_Ko%C5%9Bcielne"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3ad5948e1c5e7b987d4da90e9190a733",
+    "wof:geomhash":"016dac90f697c4fe2b2cc63cbc09d046",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.71393,
     52.83943000000001
 ],
-  "geometry": {"coordinates":[19.71393,52.83943000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.71393,52.83943],"type":"Point"}
 }

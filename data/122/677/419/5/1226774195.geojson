@@ -51,7 +51,7 @@
         "wk:page":"Jastrz%C4%99bie%2C_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f77489098e10beb1a69b6998c71863c2",
+    "wof:geomhash":"eaf2018656249ba54538901f223503f1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.1323,
     53.82429000000001
 ],
-  "geometry": {"coordinates":[18.1323,53.82429000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.1323,53.82429],"type":"Point"}
 }

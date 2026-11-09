@@ -51,7 +51,7 @@
         "wk:page":"Czerlin%2C_Warmian-Masurian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4c203fcc2e740594ddf2d8d067f4844c",
+    "wof:geomhash":"575969c2277a31f166fe4c68d2786e26",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.88555,
     53.49404000000001
 ],
-  "geometry": {"coordinates":[19.88555,53.49404000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.88555,53.49404],"type":"Point"}
 }

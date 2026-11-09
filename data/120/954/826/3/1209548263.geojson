@@ -57,7 +57,7 @@
         "wk:page":"Kotowo%2C_Warmian-Masurian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1cda84c023943f6a994862164da8ffcb",
+    "wof:geomhash":"a90bc283d5c8c3b3935f1b5e6456de16",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     20.67391,
     54.19266999999999
 ],
-  "geometry": {"coordinates":[20.67391,54.19266999999999],"type":"Point"}
+  "geometry": {"coordinates":[20.67391,54.19267],"type":"Point"}
 }

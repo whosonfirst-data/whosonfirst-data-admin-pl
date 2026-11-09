@@ -54,7 +54,7 @@
         "wk:page":"Jodeliszki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8b7997d1bdc432e856e57aa055bd7b5a",
+    "wof:geomhash":"b75ac18e0f6576e35eacca29fee0bfd4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     23.36612,
     54.18924000000001
 ],
-  "geometry": {"coordinates":[23.36612,54.18924000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.36612,54.18924],"type":"Point"}
 }

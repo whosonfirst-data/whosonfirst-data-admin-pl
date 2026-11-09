@@ -51,7 +51,7 @@
         "wk:page":"Parlinek"
     },
     "wof:country":"PL",
-    "wof:geomhash":"81ab29f86f3054e09b6b1e786ecda32c",
+    "wof:geomhash":"7d98de8d15291c51bc80bef0966e3644",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.88716,
     52.72173000000001
 ],
-  "geometry": {"coordinates":[17.88716,52.72173000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.88716,52.72173],"type":"Point"}
 }

@@ -48,7 +48,7 @@
         "wk:page":"Prakwice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"529f1fefb37dd1fb134a1af5ad39a4f0",
+    "wof:geomhash":"bbfb682b75382f49034aa71df605e71c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     19.38486,
     53.91303000000001
 ],
-  "geometry": {"coordinates":[19.38486,53.91303000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.38486,53.91303],"type":"Point"}
 }

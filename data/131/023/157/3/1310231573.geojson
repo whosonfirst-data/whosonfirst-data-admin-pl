@@ -57,7 +57,7 @@
         "wk:page":"Guzew%2C_Mi%C5%84sk_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5afb8437180b9ca1110488384b36857d",
+    "wof:geomhash":"c2d0d5dab45758aba0f0a16e3bc7c26e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.84657,
     52.14100000000001
 ],
-  "geometry": {"coordinates":[21.84657,52.14100000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.84657,52.141],"type":"Point"}
 }

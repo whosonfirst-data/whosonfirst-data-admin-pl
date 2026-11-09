@@ -54,7 +54,7 @@
         "wk:page":"Liszno-Kolonia"
     },
     "wof:country":"PL",
-    "wof:geomhash":"549e531029ca505ac29f07fea5c517e0",
+    "wof:geomhash":"ac87a57df91e502005c81e115962ba59",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     23.08382000000001,
     51.11236
 ],
-  "geometry": {"coordinates":[23.08382000000001,51.11236],"type":"Point"}
+  "geometry": {"coordinates":[23.08382,51.11236],"type":"Point"}
 }

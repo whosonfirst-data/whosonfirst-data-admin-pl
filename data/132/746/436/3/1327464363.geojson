@@ -57,7 +57,7 @@
         "wk:page":"Kalinowo%2C_Wyszk%C3%B3w_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"94f5262a1627fd1d8c2422923ed97fe4",
+    "wof:geomhash":"175a23485833e13d7e46012a73c6f4f5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.5777,
     52.72029000000001
 ],
-  "geometry": {"coordinates":[21.5777,52.72029000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.5777,52.72029],"type":"Point"}
 }

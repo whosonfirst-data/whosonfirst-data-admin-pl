@@ -54,7 +54,7 @@
         "wk:page":"Koniuszki%2C_Podlaskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c0431d46ef910c2ffc0c5b10b26f49b4",
+    "wof:geomhash":"a9853d1413f7552abecd8e14c6e5caa8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     23.48726,
     53.69218000000001
 ],
-  "geometry": {"coordinates":[23.48726,53.69218000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.48726,53.69218],"type":"Point"}
 }

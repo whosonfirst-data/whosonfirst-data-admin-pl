@@ -51,7 +51,7 @@
         "wk:page":"Wielka_%C5%81%C4%85ka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"457ad30c295aafdc27a02a4482cd461e",
+    "wof:geomhash":"be71233e900a741afd89afd22c45aa68",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.83333,
     53.11666999999999
 ],
-  "geometry": {"coordinates":[18.83333,53.11666999999999],"type":"Point"}
+  "geometry": {"coordinates":[18.83333,53.11667],"type":"Point"}
 }

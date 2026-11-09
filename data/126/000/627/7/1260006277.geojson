@@ -54,7 +54,7 @@
         "wk:page":"Cerekwica%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"21db4b5714af5e9f0651b25da8ae7138",
+    "wof:geomhash":"00ac341b6853631affd24f0a4a5bddf0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.63687999999999,
     52.83036
 ],
-  "geometry": {"coordinates":[17.63687999999999,52.83036],"type":"Point"}
+  "geometry": {"coordinates":[17.63688,52.83036],"type":"Point"}
 }

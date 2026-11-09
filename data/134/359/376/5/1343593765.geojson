@@ -57,7 +57,7 @@
         "wk:page":"Ogrodniki%2C_Warmian-Masurian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"fa11a7e5de5145de612744b37e8654c3",
+    "wof:geomhash":"084209c038a38cc137469eecd1d534b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     19.5381,
     54.23543000000001
 ],
-  "geometry": {"coordinates":[19.5381,54.23543000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.5381,54.23543],"type":"Point"}
 }

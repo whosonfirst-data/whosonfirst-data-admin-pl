@@ -54,7 +54,7 @@
         "wk:page":"Plewica"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f3e9344cf86af81c2bb284e1410d9c89",
+    "wof:geomhash":"2cad6d0a07238c49fd4ddb58e4b8a96c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.33943,
     52.76974000000001
 ],
-  "geometry": {"coordinates":[21.33943,52.76974000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.33943,52.76974],"type":"Point"}
 }

@@ -51,7 +51,7 @@
         "wk:page":"Wichowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f2d5cbbb02c16ee5068ae219e8812d26",
+    "wof:geomhash":"b0bfc09ea26a7fc212a34737093efebf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.13697,
     52.75288000000001
 ],
-  "geometry": {"coordinates":[19.13697,52.75288000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.13697,52.75288],"type":"Point"}
 }

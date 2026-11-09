@@ -54,7 +54,7 @@
         "wk:page":"Teklimy%C5%9Bl"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b3ddf373657c138e926068242b5e9cf7",
+    "wof:geomhash":"d14dfc024b59d3be423c209a02ca363e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     16.82432,
     51.93859000000001
 ],
-  "geometry": {"coordinates":[16.82432,51.93859000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.82432,51.93859],"type":"Point"}
 }

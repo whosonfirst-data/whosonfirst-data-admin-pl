@@ -73,7 +73,7 @@
         "wk:page":"Dobrzy%C5%84%2C_Warmian-Masurian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"244f1441fbe5e693a929f08a99a829a6",
+    "wof:geomhash":"2f6f5a531a9f902861ab9958dcb6b450",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -100,5 +100,5 @@
     20.3847,
     53.43601999999999
 ],
-  "geometry": {"coordinates":[20.3847,53.43601999999999],"type":"Point"}
+  "geometry": {"coordinates":[20.3847,53.43602],"type":"Point"}
 }

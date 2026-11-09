@@ -54,7 +54,7 @@
         "wk:page":"Zakrucze"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a9e1abe482aea2a3e7714f3bf444de20",
+    "wof:geomhash":"ef060d37a082cf6f986013e537e630dd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.28956,
     50.82852000000001
 ],
-  "geometry": {"coordinates":[20.28956,50.82852000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.28956,50.82852],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Porczyny"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f39b1dfa90e49bbceb59afbf646d5f3a",
+    "wof:geomhash":"99a37f8cea17658b3d7e3553f682a4fb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.86087,
     51.86989000000001
 ],
-  "geometry": {"coordinates":[18.86087,51.86989000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.86087,51.86989],"type":"Point"}
 }

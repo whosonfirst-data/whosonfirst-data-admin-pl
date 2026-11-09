@@ -54,7 +54,7 @@
         "wk:page":"Besiekierz_Rudny"
     },
     "wof:country":"PL",
-    "wof:geomhash":"01f3abe8be9c9f41b75f40354a37cdb0",
+    "wof:geomhash":"8522c808a31b782ff2c4d6a3871f29b3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.47988,
     51.95164000000001
 ],
-  "geometry": {"coordinates":[19.47988,51.95164000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.47988,51.95164],"type":"Point"}
 }

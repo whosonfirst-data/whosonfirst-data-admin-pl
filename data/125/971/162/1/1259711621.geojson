@@ -67,7 +67,7 @@
         "wk:page":"Kozdroje"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f04f31201f89b190c80d0cc2e33dfb56",
+    "wof:geomhash":"2e44b5388d81a2337c2f78d4cdee0f43",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,5 +94,5 @@
     20.61027,
     52.95464000000001
 ],
-  "geometry": {"coordinates":[20.61027,52.95464000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.61027,52.95464],"type":"Point"}
 }

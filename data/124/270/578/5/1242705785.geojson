@@ -61,7 +61,7 @@
         "wk:page":"Kukowo%2C_Warmian-Masurian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e4a6b972b9320262d37341f754a90e7a",
+    "wof:geomhash":"b6fbc1d2fee59787e10d5a72eb1eac68",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     22.47702,
     54.00053000000001
 ],
-  "geometry": {"coordinates":[22.47702,54.00053000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.47702,54.00053],"type":"Point"}
 }

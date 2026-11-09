@@ -54,7 +54,7 @@
         "wk:page":"Ogon%C3%B3w%2C_Lublin_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9e667fe56875ace1419f8d67d52f5cf2",
+    "wof:geomhash":"36261f4946fb8e2b101365f0abecd7f8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.98475,
     51.63039000000001
 ],
-  "geometry": {"coordinates":[21.98475,51.63039000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.98475,51.63039],"type":"Point"}
 }

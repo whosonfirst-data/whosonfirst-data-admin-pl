@@ -54,7 +54,7 @@
         "wk:page":"Wilcze%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"0505509df384f5097c408d6a434e98d1",
+    "wof:geomhash":"1e9ca845c03654e5d1cf42b6bcb19ccd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.79647000000001,
     53.36731999999999
 ],
-  "geometry": {"coordinates":[17.79647000000001,53.36731999999999],"type":"Point"}
+  "geometry": {"coordinates":[17.79647,53.36732],"type":"Point"}
 }

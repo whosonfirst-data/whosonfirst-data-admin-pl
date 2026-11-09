@@ -63,7 +63,7 @@
         "wk:page":"Lipowy_Most"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e388789025aeb8ba38993bed7abcca67",
+    "wof:geomhash":"beafcb9b5dfad97e53125dfff5295a52",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     23.52881,
     53.20993000000001
 ],
-  "geometry": {"coordinates":[23.52881,53.20993000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.52881,53.20993],"type":"Point"}
 }

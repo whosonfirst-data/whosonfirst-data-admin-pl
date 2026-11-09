@@ -57,7 +57,7 @@
         "wk:page":"Dzi%C4%99cio%C5%82owo%2C_Podlaskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f4e0c97b29697213ab8b7b15e58f8d9e",
+    "wof:geomhash":"78f26ac53162c597890833c6988a157e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.99196,
     53.54346999999999
 ],
-  "geometry": {"coordinates":[22.99196,53.54346999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.99196,53.54347],"type":"Point"}
 }

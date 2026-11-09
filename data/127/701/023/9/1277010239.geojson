@@ -72,7 +72,7 @@
         "wk:page":"Jab%C5%82onowo%2C_Wa%C5%82cz_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1c6346711eb6203ad22ae25bef8e8f52",
+    "wof:geomhash":"e1ad51e9012620c7cc290a0f2c00a0ee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,5 +99,5 @@
     16.29667,
     53.33128000000001
 ],
-  "geometry": {"coordinates":[16.29667,53.33128000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.29667,53.33128],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"Kotusz%C3%B3w%2C_%C5%81%C3%B3d%C5%BA_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f58261d785353cc070881bfa8904a71c",
+    "wof:geomhash":"942cce634149998d435fd6d48a8cbbc1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     19.99225,
     51.32664000000001
 ],
-  "geometry": {"coordinates":[19.99225,51.32664000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.99225,51.32664],"type":"Point"}
 }

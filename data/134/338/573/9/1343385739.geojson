@@ -51,7 +51,7 @@
         "wk:page":"Wierzchy%2C_West_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b56ec6fa7b1457ad90be87fb0ecdc174",
+    "wof:geomhash":"c084b2d246daffefda6801d9e64fc36e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     15.11581,
     53.76414000000001
 ],
-  "geometry": {"coordinates":[15.11581,53.76414000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.11581,53.76414],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Nogawki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"cf922c14d2807ca23a27d10e1b2fb609",
+    "wof:geomhash":"225da8d5a761950c56651ed4aeb67110",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.60841,
     52.94824000000001
 ],
-  "geometry": {"coordinates":[21.60841,52.94824000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.60841,52.94824],"type":"Point"}
 }

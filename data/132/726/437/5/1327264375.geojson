@@ -57,7 +57,7 @@
         "wk:page":"Goski-Pe%C5%82ki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"cfe52846c35e59bb1b89779f68d3afdc",
+    "wof:geomhash":"7f4d4027c92abf5137ab56074689aedb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.3,
     52.89848000000001
 ],
-  "geometry": {"coordinates":[22.3,52.89848000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.3,52.89848],"type":"Point"}
 }

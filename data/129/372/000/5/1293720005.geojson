@@ -54,7 +54,7 @@
         "wk:page":"Majdan_%C5%9Aredni"
     },
     "wof:country":"PL",
-    "wof:geomhash":"57556c28b5ca2ddb5287938c0da99667",
+    "wof:geomhash":"4031fa5ba121affffa7ed199d3cdf4bc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     23.0,
     50.9
 ],
-  "geometry": {"coordinates":[23.0,50.9],"type":"Point"}
+  "geometry": {"coordinates":[23,50.9],"type":"Point"}
 }

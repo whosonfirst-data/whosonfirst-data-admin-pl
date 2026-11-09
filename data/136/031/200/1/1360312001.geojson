@@ -60,7 +60,7 @@
         "wk:page":"%C5%BBurawce"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ed087db35adc4b6285a63b111d25835e",
+    "wof:geomhash":"215386c2038549685dc3ccc38c1d534f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     23.54642,
     50.38209000000001
 ],
-  "geometry": {"coordinates":[23.54642,50.38209000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.54642,50.38209],"type":"Point"}
 }

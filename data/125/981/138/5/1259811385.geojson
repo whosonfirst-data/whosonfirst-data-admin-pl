@@ -54,7 +54,7 @@
         "wk:page":"Wola_K%C4%99czewska"
     },
     "wof:country":"PL",
-    "wof:geomhash":"55d0c986fe1eb1ed1640858b974c4379",
+    "wof:geomhash":"aad290ee79b5471ded28781fad1ab3b7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.20678,
     53.12648000000001
 ],
-  "geometry": {"coordinates":[20.20678,53.12648000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.20678,53.12648],"type":"Point"}
 }

@@ -61,7 +61,7 @@
         "wk:page":"Grabowo%2C_Nidzica_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e06c21516553b256528fa54f2afd66a6",
+    "wof:geomhash":"c2faa4af63b2227dcd69d294e0bf758a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     20.58022,
     53.34968000000001
 ],
-  "geometry": {"coordinates":[20.58022,53.34968000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.58022,53.34968],"type":"Point"}
 }

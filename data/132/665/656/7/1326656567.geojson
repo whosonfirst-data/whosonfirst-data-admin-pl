@@ -54,7 +54,7 @@
         "wk:page":"Kunki%2C_M%C5%82awa_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5bec30480f65e23e6e4fdf620c750266",
+    "wof:geomhash":"6ccccbed4f6671c53f151594c85229f1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.17304,
     52.99368000000001
 ],
-  "geometry": {"coordinates":[20.17304,52.99368000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.17304,52.99368],"type":"Point"}
 }

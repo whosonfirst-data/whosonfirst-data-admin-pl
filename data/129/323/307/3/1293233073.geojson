@@ -51,7 +51,7 @@
         "wk:page":"Ustronie%2C_%C5%81%C3%B3d%C5%BA_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"0e23d530a8b130779b004955e7ea464f",
+    "wof:geomhash":"c164fc42da4a3304e6877a679f9878f0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.30107000000001,
     51.88679000000001
 ],
-  "geometry": {"coordinates":[19.30107000000001,51.88679000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.30107,51.88679],"type":"Point"}
 }

@@ -63,7 +63,7 @@
         "wk:page":"Iwowe"
     },
     "wof:country":"PL",
-    "wof:geomhash":"87b5fe2891dd204d8f2957939eda281f",
+    "wof:geomhash":"d014eaf5d4108cc19685e6efc438defd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     21.86039,
     51.97642000000001
 ],
-  "geometry": {"coordinates":[21.86039,51.97642000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.86039,51.97642],"type":"Point"}
 }

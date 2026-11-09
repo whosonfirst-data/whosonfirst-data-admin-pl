@@ -54,7 +54,7 @@
         "wk:page":"Luszowice%2C_D%C4%85browa_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6beeef1ea5e8d384b1eb83333868bc9e",
+    "wof:geomhash":"8bba4fb5054452f7b17a9b8c2d73be57",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.09527000000001,
     50.13947
 ],
-  "geometry": {"coordinates":[21.09527000000001,50.13947],"type":"Point"}
+  "geometry": {"coordinates":[21.09527,50.13947],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Modliny"
     },
     "wof:country":"PL",
-    "wof:geomhash":"00705d48df844ef0f7c47824f9c3274f",
+    "wof:geomhash":"8c488b4b0d97ef0075b18f190716a6e3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.69136,
     54.01156999999999
 ],
-  "geometry": {"coordinates":[20.69136,54.01156999999999],"type":"Point"}
+  "geometry": {"coordinates":[20.69136,54.01157],"type":"Point"}
 }

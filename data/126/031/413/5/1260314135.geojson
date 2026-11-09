@@ -63,7 +63,7 @@
         "wk:page":"Buja%C5%82y-Gniewosze"
     },
     "wof:country":"PL",
-    "wof:geomhash":"93186a610f1f73b398cff36b0acc2cc6",
+    "wof:geomhash":"febb84e7219c39594f13618778d6af06",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     22.35598,
     52.46299000000001
 ],
-  "geometry": {"coordinates":[22.35598,52.46299000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.35598,52.46299],"type":"Point"}
 }

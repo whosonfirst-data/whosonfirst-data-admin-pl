@@ -68,7 +68,7 @@
         "wk:page":"Mo%C5%BCne"
     },
     "wof:country":"PL",
-    "wof:geomhash":"07e7f5ac68a83339d1a774bdf49a9e44",
+    "wof:geomhash":"d135c50e6533f5ff53b1f29fd34a453c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     22.53012,
     54.04304000000001
 ],
-  "geometry": {"coordinates":[22.53012,54.04304000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.53012,54.04304],"type":"Point"}
 }

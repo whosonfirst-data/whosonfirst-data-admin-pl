@@ -54,7 +54,7 @@
         "wk:page":"Loty%C5%84%2C_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"23859bf9ef83b052eb3c6bd75488db7e",
+    "wof:geomhash":"d688b11e8a7c3ae11d7dc38f1a18e36c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.73451,
     53.70209000000001
 ],
-  "geometry": {"coordinates":[17.73451,53.70209000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.73451,53.70209],"type":"Point"}
 }

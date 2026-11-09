@@ -61,7 +61,7 @@
         "wk:page":"Kaliszki%2C_Warmian-Masurian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"dd7ae24c82030cab9cfed95856fac35d",
+    "wof:geomhash":"8a937fb4837ff61b465c88f18526a541",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     22.00983,
     53.61666999999999
 ],
-  "geometry": {"coordinates":[22.00983,53.61666999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.00983,53.61667],"type":"Point"}
 }

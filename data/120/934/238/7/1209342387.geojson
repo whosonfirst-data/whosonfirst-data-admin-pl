@@ -54,7 +54,7 @@
         "wk:page":"S%C5%82otwin"
     },
     "wof:country":"PL",
-    "wof:geomhash":"12c286ae671fc68dac7b67eaa26dbcde",
+    "wof:geomhash":"5d20437171902b30e088c455620da778",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.45803,
     52.54143000000001
 ],
-  "geometry": {"coordinates":[20.45803,52.54143000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.45803,52.54143],"type":"Point"}
 }

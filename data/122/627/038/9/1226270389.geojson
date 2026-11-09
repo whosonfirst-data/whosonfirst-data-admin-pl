@@ -57,7 +57,7 @@
         "wk:page":"Waniewo%2C_Wysokie_Mazowieckie_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7e51dc9482e30b931911b9da38e1b732",
+    "wof:geomhash":"b964fe0afc1da7f72b2971e1fb15e77b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.81353,
     53.07698000000001
 ],
-  "geometry": {"coordinates":[22.81353,53.07698000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.81353,53.07698],"type":"Point"}
 }

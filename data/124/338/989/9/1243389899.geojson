@@ -51,7 +51,7 @@
         "wk:page":"Szary_Dw%C3%B3r"
     },
     "wof:country":"PL",
-    "wof:geomhash":"819980df78ca90917419a14bb7321be0",
+    "wof:geomhash":"55f0af24aa9fdf8d87fb05aa5afc312d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.14289,
     54.80603000000001
 ],
-  "geometry": {"coordinates":[18.14289,54.80603000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.14289,54.80603],"type":"Point"}
 }

@@ -51,7 +51,7 @@
         "wk:page":"Jonki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2301539b942c9881aec4d2909b6a75f6",
+    "wof:geomhash":"3766b3d896389ca5b2ab044728161304",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.42355,
     53.87804000000001
 ],
-  "geometry": {"coordinates":[17.42355,53.87804000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.42355,53.87804],"type":"Point"}
 }

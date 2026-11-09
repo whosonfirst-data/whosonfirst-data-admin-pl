@@ -54,7 +54,7 @@
         "wk:page":"Okowizna"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e2cb2de70cccce7e49eaa07b19b1bba7",
+    "wof:geomhash":"377b3c9e94cd68cf7ff115f765738257",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.79305,
     54.16068000000001
 ],
-  "geometry": {"coordinates":[21.79305,54.16068000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.79305,54.16068],"type":"Point"}
 }

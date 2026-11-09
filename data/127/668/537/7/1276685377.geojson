@@ -57,7 +57,7 @@
         "wk:page":"Niewiarowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"884595cb8150bf220be0d7dfa0d86dc1",
+    "wof:geomhash":"ccd9e0a59ace3e7471b79fd6387c7208",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.7556,
     53.35608000000001
 ],
-  "geometry": {"coordinates":[22.7556,53.35608000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.7556,53.35608],"type":"Point"}
 }

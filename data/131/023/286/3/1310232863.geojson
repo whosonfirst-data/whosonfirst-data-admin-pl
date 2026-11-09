@@ -54,7 +54,7 @@
         "wk:page":"Gawarzec_G%C3%B3rny"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c76897c28ec0e945482f58dc4555f808",
+    "wof:geomhash":"d17f265935837abcfdd241ea07bc950b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.25227000000001,
     52.42315
 ],
-  "geometry": {"coordinates":[20.25227000000001,52.42315],"type":"Point"}
+  "geometry": {"coordinates":[20.25227,52.42315],"type":"Point"}
 }

@@ -51,7 +51,7 @@
         "wk:page":"Coto%C5%84"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ff59a274180d2a19e99489a20df140d0",
+    "wof:geomhash":"a560aaa268d1c3f680b59cdf9136a7ff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.64632000000001,
     52.67468
 ],
-  "geometry": {"coordinates":[17.64632000000001,52.67468],"type":"Point"}
+  "geometry": {"coordinates":[17.64632,52.67468],"type":"Point"}
 }

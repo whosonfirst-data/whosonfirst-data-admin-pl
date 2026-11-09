@@ -54,7 +54,7 @@
         "wk:page":"Rynowo%2C_West_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"fef4b78f07e08f1bd3661eeb20dbd717",
+    "wof:geomhash":"3e1a6f9d2776dd192e83358121537628",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     15.75718,
     53.66393000000001
 ],
-  "geometry": {"coordinates":[15.75718,53.66393000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.75718,53.66393],"type":"Point"}
 }

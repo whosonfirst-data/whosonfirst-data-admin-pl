@@ -60,7 +60,7 @@
         "wk:page":"Piaseczno%2C_Gmina_Banie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6a751f6c67d16f66e1379ca384ff6afb",
+    "wof:geomhash":"d8f4b037b2f4b2ec11dcaea716d009d1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     14.70181,
     53.06039000000001
 ],
-  "geometry": {"coordinates":[14.70181,53.06039000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.70181,53.06039],"type":"Point"}
 }

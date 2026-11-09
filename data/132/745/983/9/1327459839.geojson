@@ -48,7 +48,7 @@
         "wk:page":"Pikus%2C_Warmian-Masurian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f4e76904985fe09bc4380e51d8385c31",
+    "wof:geomhash":"00662aea6fe64a3d56ef4718aec7ee69",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     19.73828,
     53.65904000000001
 ],
-  "geometry": {"coordinates":[19.73828,53.65904000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.73828,53.65904],"type":"Point"}
 }

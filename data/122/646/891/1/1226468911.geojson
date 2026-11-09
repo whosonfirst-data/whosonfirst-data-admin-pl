@@ -54,7 +54,7 @@
         "wk:page":"Czarnylas%2C_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8f83e5c5bf7e0aaf5fca63a42ad3d284",
+    "wof:geomhash":"00d77f9d936e68730f2790cd66113185",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.49617000000001,
     53.83906
 ],
-  "geometry": {"coordinates":[18.49617000000001,53.83906],"type":"Point"}
+  "geometry": {"coordinates":[18.49617,53.83906],"type":"Point"}
 }

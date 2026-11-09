@@ -57,7 +57,7 @@
         "wk:page":"Dzbanice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6c06abfb12dd5f60923f09d638bd71f0",
+    "wof:geomhash":"017ff4fb5cd3e8ae4a4ab312aa559c55",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.07684,
     52.60563000000001
 ],
-  "geometry": {"coordinates":[21.07684,52.60563000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.07684,52.60563],"type":"Point"}
 }

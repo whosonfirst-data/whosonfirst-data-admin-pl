@@ -61,7 +61,7 @@
         "wk:page":"Paw%C5%82owo%2C_Olsztyn_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a401259819ea3d0add15fc33f6e22089",
+    "wof:geomhash":"117e1bc19e088d2b5d447f3f4202b7fa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     20.26667,
     53.53333000000001
 ],
-  "geometry": {"coordinates":[20.26667,53.53333000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.26667,53.53333],"type":"Point"}
 }

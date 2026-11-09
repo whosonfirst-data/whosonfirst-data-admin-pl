@@ -57,7 +57,7 @@
         "wk:page":"Wincencin"
     },
     "wof:country":"PL",
-    "wof:geomhash":"efb6b94d758ed2ae3947b0f2aaa20b4d",
+    "wof:geomhash":"b5be33f06a3d1c56de3b7f512a3ca373",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     23.26741,
     51.39364000000001
 ],
-  "geometry": {"coordinates":[23.26741,51.39364000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.26741,51.39364],"type":"Point"}
 }

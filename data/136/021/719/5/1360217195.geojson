@@ -54,7 +54,7 @@
         "wk:page":"Krzywa_G%C3%B3ra%2C_Opole_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d8dee3a263c59dda52c2b3e7aa9aa017",
+    "wof:geomhash":"ffc8a139246acff8a3038f88cba31a58",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.87711000000001,
     50.86499
 ],
-  "geometry": {"coordinates":[17.87711000000001,50.86499],"type":"Point"}
+  "geometry": {"coordinates":[17.87711,50.86499],"type":"Point"}
 }

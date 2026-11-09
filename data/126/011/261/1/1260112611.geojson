@@ -51,7 +51,7 @@
         "wk:page":"Szczerkowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ae5fbe3275703fad9a145a8e9c2cf8af",
+    "wof:geomhash":"b17965fa3386f652d7566a4b4f182790",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.52435,
     52.38529000000001
 ],
-  "geometry": {"coordinates":[18.52435,52.38529000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.52435,52.38529],"type":"Point"}
 }

@@ -65,7 +65,7 @@
         "wk:page":"Dzikowo_I%C5%82aweckie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d8829a086ab28b850dcdca14cd373448",
+    "wof:geomhash":"b3e944a7def4e3632e7b21d813c630f5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     20.40934,
     54.32794000000001
 ],
-  "geometry": {"coordinates":[20.40934,54.32794000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.40934,54.32794],"type":"Point"}
 }

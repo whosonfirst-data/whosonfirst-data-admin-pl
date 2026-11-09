@@ -54,7 +54,7 @@
         "wk:page":"Szafarnia%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9b45af2a76463ff866c3e51eb90ce3e1",
+    "wof:geomhash":"58e4d4b7f4025cd447bfdefd52cb28dd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.48553,
     53.18261999999999
 ],
-  "geometry": {"coordinates":[21.48553,53.18261999999999],"type":"Point"}
+  "geometry": {"coordinates":[21.48553,53.18262],"type":"Point"}
 }

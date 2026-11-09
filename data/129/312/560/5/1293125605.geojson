@@ -54,7 +54,7 @@
         "wk:page":"Pieryszew"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ae27226cc217f1cb0d56ced1fab95704",
+    "wof:geomhash":"a1f34a1a4c073373a4dd0d8621e8ee8a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.56862000000001,
     52.3039
 ],
-  "geometry": {"coordinates":[19.56862000000001,52.3039],"type":"Point"}
+  "geometry": {"coordinates":[19.56862,52.3039],"type":"Point"}
 }

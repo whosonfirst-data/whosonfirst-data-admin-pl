@@ -66,7 +66,7 @@
         "wk:page":"Kompina"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a36ad69bbfd2299c3b133f9e71752d7a",
+    "wof:geomhash":"7d4a86125fdc3d19995bd0e6d5ba6595",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     20.07085,
     52.13424000000001
 ],
-  "geometry": {"coordinates":[20.07085,52.13424000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.07085,52.13424],"type":"Point"}
 }

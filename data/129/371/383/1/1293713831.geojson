@@ -57,7 +57,7 @@
         "wk:page":"Grz%C4%99zno"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b09209c8e28b8f031cb30c7da6d0770b",
+    "wof:geomhash":"772fb60eb98d37cb48ca8a0ede32fa72",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     15.277,
     53.55363000000001
 ],
-  "geometry": {"coordinates":[15.277,53.55363000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.277,53.55363],"type":"Point"}
 }

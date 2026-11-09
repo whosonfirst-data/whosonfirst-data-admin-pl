@@ -63,7 +63,7 @@
         "wk:page":"Zubki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e0dae2268b2bfd4f74f339059d35d7a1",
+    "wof:geomhash":"a896ac24a10d4dc35161a34a909521ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     23.81637000000001,
     53.08744
 ],
-  "geometry": {"coordinates":[23.81637000000001,53.08744],"type":"Point"}
+  "geometry": {"coordinates":[23.81637,53.08744],"type":"Point"}
 }

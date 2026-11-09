@@ -60,7 +60,7 @@
         "wk:page":"Miedzech%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d6dfc8753fcdce995c52bcaf051cb944",
+    "wof:geomhash":"f12bd54f10206cc1e4e7909f71a746f3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     21.01297000000001,
     51.8313
 ],
-  "geometry": {"coordinates":[21.01297000000001,51.8313],"type":"Point"}
+  "geometry": {"coordinates":[21.01297,51.8313],"type":"Point"}
 }

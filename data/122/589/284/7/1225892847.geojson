@@ -51,7 +51,7 @@
         "wk:page":"Niestach%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7423405188c0989ef4f0f872deaac771",
+    "wof:geomhash":"086b991b538e785f07cbd91e350d6f2c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     20.74167000000001,
     50.82513
 ],
-  "geometry": {"coordinates":[20.74167000000001,50.82513],"type":"Point"}
+  "geometry": {"coordinates":[20.74167,50.82513],"type":"Point"}
 }

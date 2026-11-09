@@ -63,7 +63,7 @@
         "wk:page":"Pilipki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d00540c0c67e6b4b17e870879e8bc7f9",
+    "wof:geomhash":"94b8c0f95bd0bd3ce6faf68aeaddde93",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     23.33424,
     52.83394000000001
 ],
-  "geometry": {"coordinates":[23.33424,52.83394000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.33424,52.83394],"type":"Point"}
 }

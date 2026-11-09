@@ -60,7 +60,7 @@
         "wk:page":"Sarbia%2C_West_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c24b37dae6f6796259d7c6b5643d58c7",
+    "wof:geomhash":"e9b9bb71d40af6b89d90fa6a0475bcd0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     15.42051,
     54.09373000000001
 ],
-  "geometry": {"coordinates":[15.42051,54.09373000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.42051,54.09373],"type":"Point"}
 }

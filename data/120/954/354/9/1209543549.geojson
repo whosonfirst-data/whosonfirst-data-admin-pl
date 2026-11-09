@@ -57,7 +57,7 @@
         "wk:page":"Zbyszyno"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9ef2cb09d51838707d9df2eea74ad0d3",
+    "wof:geomhash":"89bc5a98d304e73bd91ad0aa634a20d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     20.23195,
     52.65108000000001
 ],
-  "geometry": {"coordinates":[20.23195,52.65108000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.23195,52.65108],"type":"Point"}
 }

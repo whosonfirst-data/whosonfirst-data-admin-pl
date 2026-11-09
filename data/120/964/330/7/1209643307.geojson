@@ -51,7 +51,7 @@
         "wk:page":"Rochental"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4320674cda2aef8faa982710d8530bb5",
+    "wof:geomhash":"791cb2e825332ae28a73be6b24723afb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     23.62628,
     53.03613000000001
 ],
-  "geometry": {"coordinates":[23.62628,53.03613000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.62628,53.03613],"type":"Point"}
 }

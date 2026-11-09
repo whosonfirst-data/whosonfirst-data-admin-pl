@@ -60,7 +60,7 @@
         "wk:page":"Ma%C5%82e_Gli%C5%9Bno"
     },
     "wof:country":"PL",
-    "wof:geomhash":"696e0bbb6d98c11a09f5d6023a58b0a9",
+    "wof:geomhash":"98a0f98ea1128a4b0b3a63a96ff43ba6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     17.77078999999999,
     53.89446
 ],
-  "geometry": {"coordinates":[17.77078999999999,53.89446],"type":"Point"}
+  "geometry": {"coordinates":[17.77079,53.89446],"type":"Point"}
 }

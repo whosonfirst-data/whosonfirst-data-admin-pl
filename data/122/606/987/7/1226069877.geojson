@@ -54,7 +54,7 @@
         "wk:page":"Lendy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c01be9d82298ed7e3df6a4f3ea91f550",
+    "wof:geomhash":"a42e46ce00518bbf807bc96a3d16faaf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.67807999999999,
     54.00291
 ],
-  "geometry": {"coordinates":[17.67807999999999,54.00291],"type":"Point"}
+  "geometry": {"coordinates":[17.67808,54.00291],"type":"Point"}
 }

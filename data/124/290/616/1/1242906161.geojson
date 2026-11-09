@@ -64,7 +64,7 @@
         "wk:page":"Imionki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e665b8b2f1e31e059c90fe3890e0a22e",
+    "wof:geomhash":"f4de01299f6ee1e8502b87fb823331fd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,5 +91,5 @@
     22.55321,
     54.02509000000001
 ],
-  "geometry": {"coordinates":[22.55321,54.02509000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.55321,54.02509],"type":"Point"}
 }

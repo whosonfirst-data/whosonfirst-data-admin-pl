@@ -54,7 +54,7 @@
         "wk:page":"W%C4%99growo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"857d792d24c9b5f75d8627b50fdec0e7",
+    "wof:geomhash":"137f1717470bc589ca720c88b24761b8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.81729,
     53.46151999999999
 ],
-  "geometry": {"coordinates":[18.81729,53.46151999999999],"type":"Point"}
+  "geometry": {"coordinates":[18.81729,53.46152],"type":"Point"}
 }

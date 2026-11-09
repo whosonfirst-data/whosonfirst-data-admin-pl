@@ -57,7 +57,7 @@
         "wk:page":"Poniklica"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ce86b4c420db88032ce6f8f9648ecfcd",
+    "wof:geomhash":"a70664fa26c7941a64413d60c5505b3a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.97245,
     53.31721999999999
 ],
-  "geometry": {"coordinates":[22.97245,53.31721999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.97245,53.31722],"type":"Point"}
 }

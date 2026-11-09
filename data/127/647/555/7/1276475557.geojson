@@ -57,7 +57,7 @@
         "wk:page":"Niesk%C3%B3rz"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c804ecc0afc6ccbe9c543a0dc02172d4",
+    "wof:geomhash":"cb6dc5ad643a75ec31b6982ffd6c4c9d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.04517,
     52.77603000000001
 ],
-  "geometry": {"coordinates":[22.04517,52.77603000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.04517,52.77603],"type":"Point"}
 }

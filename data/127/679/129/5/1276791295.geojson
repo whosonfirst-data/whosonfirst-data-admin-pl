@@ -60,7 +60,7 @@
         "wk:page":"Kikowo%2C_West_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3cbdfcd66b227218ece64b30c4c757c8",
+    "wof:geomhash":"f88510bb8aeeec989846b256e71e23bd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     16.27875,
     53.88424000000001
 ],
-  "geometry": {"coordinates":[16.27875,53.88424000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.27875,53.88424],"type":"Point"}
 }

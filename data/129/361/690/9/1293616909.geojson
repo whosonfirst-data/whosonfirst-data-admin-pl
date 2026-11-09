@@ -57,7 +57,7 @@
         "wk:page":"Luchowo%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"47ac4664e038bcfc5d6a5bc9854f4127",
+    "wof:geomhash":"791241a1c132f89427e3f7981c2bbbde",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     17.27346,
     53.26071999999999
 ],
-  "geometry": {"coordinates":[17.27346,53.26071999999999],"type":"Point"}
+  "geometry": {"coordinates":[17.27346,53.26072],"type":"Point"}
 }

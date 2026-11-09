@@ -61,7 +61,7 @@
         "wk:page":"Str%C3%B3%C5%BCewo%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d9fb476f65773e757a5db8a4f3703910",
+    "wof:geomhash":"de1abc63b660778a4135df3225a55a29",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     16.90744,
     52.93188000000001
 ],
-  "geometry": {"coordinates":[16.90744,52.93188000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.90744,52.93188],"type":"Point"}
 }

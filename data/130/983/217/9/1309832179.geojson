@@ -60,7 +60,7 @@
         "wk:page":"Lisiog%C3%B3ra"
     },
     "wof:country":"PL",
-    "wof:geomhash":"83b4295adf52bbf4f5738f0d57ebf289",
+    "wof:geomhash":"2870bef0865291c0f7a9a245ad205056",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     20.94362000000001,
     52.95518000000001
 ],
-  "geometry": {"coordinates":[20.94362000000001,52.95518000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.94362,52.95518],"type":"Point"}
 }

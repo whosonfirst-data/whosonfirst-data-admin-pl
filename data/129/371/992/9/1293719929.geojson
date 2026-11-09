@@ -54,7 +54,7 @@
         "wk:page":"Zamo%C5%9B%C4%87%2C_Piotrk%C3%B3w_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f5f07f888085630be716d7a05a5f0efe",
+    "wof:geomhash":"a6e7c72aac8a1a26420bde07acac09af",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.70492,
     51.61024000000001
 ],
-  "geometry": {"coordinates":[19.70492,51.61024000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.70492,51.61024],"type":"Point"}
 }

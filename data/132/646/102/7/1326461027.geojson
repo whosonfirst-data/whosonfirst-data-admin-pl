@@ -69,7 +69,7 @@
         "wk:page":"Laski_Koszali%C5%84skie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e840d6fc7b2975281b43024be2ac7331",
+    "wof:geomhash":"f74253ab157ce705ba3c397bf8040a7b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     16.08387999999999,
     54.14063
 ],
-  "geometry": {"coordinates":[16.08387999999999,54.14063],"type":"Point"}
+  "geometry": {"coordinates":[16.08388,54.14063],"type":"Point"}
 }

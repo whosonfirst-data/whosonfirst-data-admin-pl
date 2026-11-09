@@ -55,7 +55,7 @@
         "wk:page":"Bykowina"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4d9ac6e8261cf4e12111c333542ae3ff",
+    "wof:geomhash":"0b54aa142780e9c23d5f72d3c64e54b6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,5 +85,5 @@
     18.88572000000001,
     50.27116
 ],
-  "geometry": {"coordinates":[18.88572000000001,50.27116],"type":"Point"}
+  "geometry": {"coordinates":[18.88572,50.27116],"type":"Point"}
 }

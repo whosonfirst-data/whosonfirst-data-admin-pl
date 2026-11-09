@@ -63,7 +63,7 @@
         "wk:page":"Chwaszczewo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"abbec5fe35e0c449dbcb345aa26d0aa6",
+    "wof:geomhash":"7aa16727e722eee4dfd49031258ae34f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     23.34719,
     53.49209000000001
 ],
-  "geometry": {"coordinates":[23.34719,53.49209000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.34719,53.49209],"type":"Point"}
 }

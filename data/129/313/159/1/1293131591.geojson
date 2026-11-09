@@ -61,7 +61,7 @@
         "wk:page":"Marszewo%2C_S%C5%82awno_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d4063d33385481457db75efc6c907e03",
+    "wof:geomhash":"39aaab53851f2f71d805c9460d490df8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     16.70094,
     54.51071999999999
 ],
-  "geometry": {"coordinates":[16.70094,54.51071999999999],"type":"Point"}
+  "geometry": {"coordinates":[16.70094,54.51072],"type":"Point"}
 }

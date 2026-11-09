@@ -54,7 +54,7 @@
         "wk:page":"Su%C5%82omino"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f90abe252f44f51c279551fdcbbdee31",
+    "wof:geomhash":"b70f6c47a1c748efa1556aac4ebbe4e8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     14.54978,
     53.85791999999999
 ],
-  "geometry": {"coordinates":[14.54978,53.85791999999999],"type":"Point"}
+  "geometry": {"coordinates":[14.54978,53.85792],"type":"Point"}
 }

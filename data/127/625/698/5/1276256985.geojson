@@ -54,7 +54,7 @@
         "wk:page":"Krusze%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"dd9d64b2505d6b088427ac8066bd1903",
+    "wof:geomhash":"517ef3e9e736765a7393523dd4fb90ba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.37005,
     52.43983000000001
 ],
-  "geometry": {"coordinates":[21.37005,52.43983000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.37005,52.43983],"type":"Point"}
 }

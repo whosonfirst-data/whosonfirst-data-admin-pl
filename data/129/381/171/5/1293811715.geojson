@@ -66,7 +66,7 @@
         "wk:page":"Kosmaty_Borek"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9f0b224955ce9781b36f63403c2bb0a6",
+    "wof:geomhash":"4bc4fec6925b0aebcd6a250013003e10",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     23.20054,
     53.30903000000001
 ],
-  "geometry": {"coordinates":[23.20054,53.30903000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.20054,53.30903],"type":"Point"}
 }

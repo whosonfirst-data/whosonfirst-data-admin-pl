@@ -57,7 +57,7 @@
         "wk:page":"Sarnik"
     },
     "wof:country":"PL",
-    "wof:geomhash":"015519bd5ca052f5d04036616cc948a8",
+    "wof:geomhash":"794ff094a8f05c9f49674c63cdec2890",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     15.3067,
     53.00026999999999
 ],
-  "geometry": {"coordinates":[15.3067,53.00026999999999],"type":"Point"}
+  "geometry": {"coordinates":[15.3067,53.00027],"type":"Point"}
 }

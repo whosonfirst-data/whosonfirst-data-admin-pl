@@ -49,7 +49,7 @@
         "wk:page":"Rzoch%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7cfe0ce1bc076e4c9bdee2f4caac9186",
+    "wof:geomhash":"d8bed0f3546bbbaf1c982d5b68fbf2c7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,5 +79,5 @@
     21.48942000000001,
     50.24496
 ],
-  "geometry": {"coordinates":[21.48942000000001,50.24496],"type":"Point"}
+  "geometry": {"coordinates":[21.48942,50.24496],"type":"Point"}
 }

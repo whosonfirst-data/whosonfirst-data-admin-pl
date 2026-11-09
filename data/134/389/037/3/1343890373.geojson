@@ -63,7 +63,7 @@
         "wk:page":"Do%C5%82%C4%99gi"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b123829951d5d5e08522b2430cf83769",
+    "wof:geomhash":"a8ac01f9002e95331312d8d3864c1df8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     22.22921,
     53.54578000000001
 ],
-  "geometry": {"coordinates":[22.22921,53.54578000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.22921,53.54578],"type":"Point"}
 }

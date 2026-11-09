@@ -54,7 +54,7 @@
         "wk:page":"Chlebowo%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"43ea57743499809654638a9f6b0244f6",
+    "wof:geomhash":"d041086a4f5f83c9916716390c331bea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.99777000000001,
     52.56886
 ],
-  "geometry": {"coordinates":[19.99777000000001,52.56886],"type":"Point"}
+  "geometry": {"coordinates":[19.99777,52.56886],"type":"Point"}
 }

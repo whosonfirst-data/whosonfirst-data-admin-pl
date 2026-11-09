@@ -54,7 +54,7 @@
         "wk:page":"Ciosna%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6fb3ceb6c5000568049f164fc38f739e",
+    "wof:geomhash":"367c5978e6325096d14830cc3372ec8f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.88349,
     52.34784000000001
 ],
-  "geometry": {"coordinates":[17.88349,52.34784000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.88349,52.34784],"type":"Point"}
 }

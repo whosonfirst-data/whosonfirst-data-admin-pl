@@ -51,7 +51,7 @@
         "wk:page":"Borucinek"
     },
     "wof:country":"PL",
-    "wof:geomhash":"298174985cec705299a340e457c0839a",
+    "wof:geomhash":"d99bf8ce59c7718194b5bfd53179be46",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.76895,
     52.60948000000001
 ],
-  "geometry": {"coordinates":[18.76895,52.60948000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.76895,52.60948],"type":"Point"}
 }

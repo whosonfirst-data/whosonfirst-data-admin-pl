@@ -54,7 +54,7 @@
         "wk:page":"Piskorzyna"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2b133421f8c9c81fb92144344afdf201",
+    "wof:geomhash":"43cf2ba0796a9e3cb5b0cf6930550af0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     16.63262000000001,
     51.49952
 ],
-  "geometry": {"coordinates":[16.63262000000001,51.49952],"type":"Point"}
+  "geometry": {"coordinates":[16.63262,51.49952],"type":"Point"}
 }

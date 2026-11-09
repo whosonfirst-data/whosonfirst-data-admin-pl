@@ -63,7 +63,7 @@
         "wk:page":"Grzyma%C5%82y_Szczepankowskie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c45cf0ec59c290b9f13e0c3896a584e6",
+    "wof:geomhash":"9fb0b6e0aca37f8fa559e9e4be54d9e4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     21.96253,
     53.15923000000001
 ],
-  "geometry": {"coordinates":[21.96253,53.15923000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.96253,53.15923],"type":"Point"}
 }

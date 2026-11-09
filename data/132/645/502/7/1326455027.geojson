@@ -60,7 +60,7 @@
         "wk:page":"G%C5%82%C4%99bokie%2C_Gniezno_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6fb098ab44c1f8a4d9aac995fe1f9473",
+    "wof:geomhash":"ad48b13ff34e18e6e65299bd234662af",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     17.33411,
     52.55804000000001
 ],
-  "geometry": {"coordinates":[17.33411,52.55804000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.33411,52.55804],"type":"Point"}
 }

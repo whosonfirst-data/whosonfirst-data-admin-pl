@@ -51,7 +51,7 @@
         "wk:page":"Drzewianowo%2C_Nak%C5%82o_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"95fa608a59e644d13ad5412d64a7da7f",
+    "wof:geomhash":"c410a144f89c5e1f926760a37d1155b6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.68257999999999,
     53.26219
 ],
-  "geometry": {"coordinates":[17.68257999999999,53.26219],"type":"Point"}
+  "geometry": {"coordinates":[17.68258,53.26219],"type":"Point"}
 }

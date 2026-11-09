@@ -63,7 +63,7 @@
         "wk:page":"Dmochy-Mrozy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"84484e4066b84d3c71041453839ab56e",
+    "wof:geomhash":"e7216dc0315582d6f86bc2c660ed5cfc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     22.26448,
     52.83513000000001
 ],
-  "geometry": {"coordinates":[22.26448,52.83513000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.26448,52.83513],"type":"Point"}
 }

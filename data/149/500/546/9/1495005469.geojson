@@ -62,7 +62,7 @@
         "wk:page":"Bystrzyca%2C_%C5%81uk%C3%B3w_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"305546be405073d88dd2f198e5f418ab",
+    "wof:geomhash":"49032929c76c2c2f4f21605b1b50077b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,5 +94,5 @@
     22.31366,
     51.77437000000001
 ],
-  "geometry": {"coordinates":[22.31366,51.77437000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.31366,51.77437],"type":"Point"}
 }

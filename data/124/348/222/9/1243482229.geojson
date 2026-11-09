@@ -54,7 +54,7 @@
         "wk:page":"Nowe_Koziminy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"56bcb9fca4ad7abaeec7c5dcfe159a2b",
+    "wof:geomhash":"f48305135fc461ab6d40ee12c9a47a28",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.40461,
     52.64834000000001
 ],
-  "geometry": {"coordinates":[20.40461,52.64834000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.40461,52.64834],"type":"Point"}
 }

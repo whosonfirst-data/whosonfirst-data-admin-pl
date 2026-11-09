@@ -54,7 +54,7 @@
         "wk:page":"Kot%C3%B3wka%2C_Podlaskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"92d4a9276db9ddcad19571a00d9b77e2",
+    "wof:geomhash":"47d328f3858e5006799b40ffb13edd3d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     23.56486,
     52.80813000000001
 ],
-  "geometry": {"coordinates":[23.56486,52.80813000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.56486,52.80813],"type":"Point"}
 }

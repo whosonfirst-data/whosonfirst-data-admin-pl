@@ -54,7 +54,7 @@
         "wk:page":"Che%C5%82chy_I%C5%82owe"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d9b9da89f037d10f3ece1dc4641c6077",
+    "wof:geomhash":"e0601e34174c3fe917aaded850ef9d26",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.95565,
     52.88203000000001
 ],
-  "geometry": {"coordinates":[20.95565,52.88203000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.95565,52.88203],"type":"Point"}
 }

@@ -60,7 +60,7 @@
         "wk:page":"Lizawice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7a4b7496609baeee2095960d91a575f4",
+    "wof:geomhash":"18181f9ba4b906acb46561b6aa66d90f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     17.21649,
     50.97479000000001
 ],
-  "geometry": {"coordinates":[17.21649,50.97479000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.21649,50.97479],"type":"Point"}
 }

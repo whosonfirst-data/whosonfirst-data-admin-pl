@@ -51,7 +51,7 @@
         "wk:page":"Olimp%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9c7a17ac3cbf15dc26e33132f5911df0",
+    "wof:geomhash":"2cd83127dd287827194db079b833ba4c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     21.75997000000001,
     50.00509
 ],
-  "geometry": {"coordinates":[21.75997000000001,50.00509],"type":"Point"}
+  "geometry": {"coordinates":[21.75997,50.00509],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"Nowe_Gulczewo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"43be4f3e8834446ef02e2837b2bbb9f0",
+    "wof:geomhash":"b3114fbc745766d7cc612dfe80d6380b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     19.78333,
     52.53333000000001
 ],
-  "geometry": {"coordinates":[19.78333,52.53333000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.78333,52.53333],"type":"Point"}
 }

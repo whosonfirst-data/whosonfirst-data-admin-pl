@@ -54,7 +54,7 @@
         "wk:page":"Wilczkowo%2C_West_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"750e2e5f24471bcf7492f68ac2259e57",
+    "wof:geomhash":"65f03ee33f71949a833e3c5f304a8ec4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     15.10456,
     53.92876999999999
 ],
-  "geometry": {"coordinates":[15.10456,53.92876999999999],"type":"Point"}
+  "geometry": {"coordinates":[15.10456,53.92877],"type":"Point"}
 }

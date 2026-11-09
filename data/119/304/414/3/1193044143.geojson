@@ -57,7 +57,7 @@
         "wk:page":"Szaty_Wielkie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3048ced650d977f616a2654dcc8c00c9",
+    "wof:geomhash":"e6a563dd1e730c97c52b4e4618e1b0b5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.38073,
     54.13079000000001
 ],
-  "geometry": {"coordinates":[21.38073,54.13079000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.38073,54.13079],"type":"Point"}
 }

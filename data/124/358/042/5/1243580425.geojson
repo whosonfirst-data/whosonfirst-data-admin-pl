@@ -63,7 +63,7 @@
         "wk:page":"Kroszewo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c09819e3c34b8bdec750944773613cae",
+    "wof:geomhash":"f8754c7a2819e294c5db801079c7273e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     22.78034,
     53.73108000000001
 ],
-  "geometry": {"coordinates":[22.78034,53.73108000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.78034,53.73108],"type":"Point"}
 }

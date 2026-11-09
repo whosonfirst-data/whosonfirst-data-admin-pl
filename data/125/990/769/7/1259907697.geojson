@@ -59,7 +59,7 @@
         "wk:page":"W%C3%B3lka_Putnowicka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"707165f761944b18d5c8e63345dcac71",
+    "wof:geomhash":"51b0a673ff68645b172fe69f797543ee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,5 +86,5 @@
     23.66661,
     50.94329000000001
 ],
-  "geometry": {"coordinates":[23.66661,50.94329000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.66661,50.94329],"type":"Point"}
 }

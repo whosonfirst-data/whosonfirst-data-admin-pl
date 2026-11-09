@@ -54,7 +54,7 @@
         "wk:page":"Dzia%C5%82osza,_Lower_Silesian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"fc804424b0eb933717c2fbe1ec1c3c9a",
+    "wof:geomhash":"eb015dfecc22862a638ceb272ff1643f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.64202000000001,
     51.31024
 ],
-  "geometry": {"coordinates":[17.64202000000001,51.31024],"type":"Point"}
+  "geometry": {"coordinates":[17.64202,51.31024],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Brzezie%2C_K%C4%99pno_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e82545f3ba8d060f10014c58b67ef91f",
+    "wof:geomhash":"71d0e6d3ae3944e40a97b4137d5da4b7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.83612999999999,
     51.28119
 ],
-  "geometry": {"coordinates":[17.83612999999999,51.28119],"type":"Point"}
+  "geometry": {"coordinates":[17.83613,51.28119],"type":"Point"}
 }

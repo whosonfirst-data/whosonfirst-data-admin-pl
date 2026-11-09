@@ -57,7 +57,7 @@
         "wk:page":"Surh%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6e1721d9c424f5d46563dd3a356764d7",
+    "wof:geomhash":"39e0aedc73290c38c22f4524c8cf8cac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     23.25953,
     50.93494000000001
 ],
-  "geometry": {"coordinates":[23.25953,50.93494000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.25953,50.93494],"type":"Point"}
 }

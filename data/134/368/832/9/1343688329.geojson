@@ -57,7 +57,7 @@
         "wk:page":"Gniazdowo%2C_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f545d581689ed88c3d016dcc09d43f74",
+    "wof:geomhash":"92983b4c75d86886ab8a2599fc24d55f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     18.92857,
     54.19448000000001
 ],
-  "geometry": {"coordinates":[18.92857,54.19448000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.92857,54.19448],"type":"Point"}
 }

@@ -51,7 +51,7 @@
         "wk:page":"Gumniska_Wielkie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"977c5f27e296438f5f06ef906ccc5465",
+    "wof:geomhash":"a54a97489421832f28cbe655db7e31ff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.70027,
     53.93239000000001
 ],
-  "geometry": {"coordinates":[19.70027,53.93239000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.70027,53.93239],"type":"Point"}
 }

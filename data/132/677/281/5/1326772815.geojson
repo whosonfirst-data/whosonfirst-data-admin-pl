@@ -48,7 +48,7 @@
         "wk:page":"Zmar%C5%82e"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e1509fb456e16fcdca23d4af6857141c",
+    "wof:geomhash":"d3868fae630a2d8a17f35bf3c86d17aa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     19.95919,
     50.91869000000001
 ],
-  "geometry": {"coordinates":[19.95919,50.91869000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.95919,50.91869],"type":"Point"}
 }

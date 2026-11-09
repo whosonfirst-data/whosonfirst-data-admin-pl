@@ -57,7 +57,7 @@
         "wk:page":"Hipolitowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7c8dd6b1e7e9674c7797cff487bee21f",
+    "wof:geomhash":"096f791dceb8fd260061984d407e8b73",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.09236,
     53.35528000000001
 ],
-  "geometry": {"coordinates":[22.09236,53.35528000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.09236,53.35528],"type":"Point"}
 }

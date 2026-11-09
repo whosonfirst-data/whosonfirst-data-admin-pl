@@ -54,7 +54,7 @@
         "wk:page":"Z%C5%82otniki%2C_%C5%9Awi%C4%99tokrzyskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"24fa3bbe4e74281d8b710f9f546c547c",
+    "wof:geomhash":"f94a0aadd2e8d7a683c3470b1d655d7c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.23932000000001,
     50.75657
 ],
-  "geometry": {"coordinates":[20.23932000000001,50.75657],"type":"Point"}
+  "geometry": {"coordinates":[20.23932,50.75657],"type":"Point"}
 }

@@ -67,7 +67,7 @@
         "wk:page":"Duba%C5%9Bno"
     },
     "wof:country":"PL",
-    "wof:geomhash":"dc9873c17dcf428ba71e3d799646218b",
+    "wof:geomhash":"2f16736b199f6fb2c75850864fa11f1e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,5 +94,5 @@
     23.48637,
     53.65878000000001
 ],
-  "geometry": {"coordinates":[23.48637,53.65878000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.48637,53.65878],"type":"Point"}
 }

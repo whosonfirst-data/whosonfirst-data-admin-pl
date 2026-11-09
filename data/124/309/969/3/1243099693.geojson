@@ -61,7 +61,7 @@
         "wk:page":"Kuty%2C_Warmian-Masurian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ac9fe05a2b96467a3c465e3b4375576c",
+    "wof:geomhash":"06cb8053f91d5584684b5e16ceb6d768",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     21.93837000000001,
     54.17116
 ],
-  "geometry": {"coordinates":[21.93837000000001,54.17116],"type":"Point"}
+  "geometry": {"coordinates":[21.93837,54.17116],"type":"Point"}
 }

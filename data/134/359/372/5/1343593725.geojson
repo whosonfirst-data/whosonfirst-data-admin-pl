@@ -54,7 +54,7 @@
         "wk:page":"Biestrzyk%C3%B3w_Ma%C5%82y"
     },
     "wof:country":"PL",
-    "wof:geomhash":"072dc469d70c507b3b78ea99cdfb0b34",
+    "wof:geomhash":"4f8b386e11ba32957e6b10c773bcdfeb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.70282000000001,
     51.05654000000001
 ],
-  "geometry": {"coordinates":[19.70282000000001,51.05654000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.70282,51.05654],"type":"Point"}
 }

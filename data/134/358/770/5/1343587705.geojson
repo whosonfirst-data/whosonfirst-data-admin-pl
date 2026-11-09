@@ -51,7 +51,7 @@
         "wk:page":"Kamion%2C_%C5%81%C3%B3d%C5%BA_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"039a6e3c9fcfcd7e80028c7ca5e0dd62",
+    "wof:geomhash":"94700c54f2cbda7bfe92bc202fbf3541",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.74467000000001,
     51.15488
 ],
-  "geometry": {"coordinates":[18.74467000000001,51.15488],"type":"Point"}
+  "geometry": {"coordinates":[18.74467,51.15488],"type":"Point"}
 }

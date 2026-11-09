@@ -60,7 +60,7 @@
         "wk:page":"B%C4%85dy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c75cf66b45382d73e9229d67e4beb830",
+    "wof:geomhash":"bb1a7c406e161389f913f49af4871786",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     19.71619,
     54.12600000000001
 ],
-  "geometry": {"coordinates":[19.71619,54.12600000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.71619,54.126],"type":"Point"}
 }

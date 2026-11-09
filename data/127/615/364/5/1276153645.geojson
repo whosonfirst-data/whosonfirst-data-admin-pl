@@ -57,7 +57,7 @@
         "wk:page":"Surzyki_Wielkie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"0927b1c05ac51354c3d2cfe5d40addc5",
+    "wof:geomhash":"eeb8ae826c6866ff6b64334df9a8083a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     19.76215,
     53.82673000000001
 ],
-  "geometry": {"coordinates":[19.76215,53.82673000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.76215,53.82673],"type":"Point"}
 }

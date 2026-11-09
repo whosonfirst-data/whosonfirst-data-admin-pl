@@ -57,7 +57,7 @@
         "wk:page":"Jaros%C5%82awice%2C_%C5%9Awi%C4%99tokrzyskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7d17a3f1083c948e04cfa22dc24748c7",
+    "wof:geomhash":"60235ec8dafd2f4cf149a2f3bcc0cac1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.03725,
     50.49724000000001
 ],
-  "geometry": {"coordinates":[21.03725,50.49724000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.03725,50.49724],"type":"Point"}
 }

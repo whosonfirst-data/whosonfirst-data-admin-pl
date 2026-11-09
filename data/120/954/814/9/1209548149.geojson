@@ -48,7 +48,7 @@
         "wk:page":"Brody%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e1f3f04703c5ff92561533e7900f10b0",
+    "wof:geomhash":"33ba3b338b5774158539d883ad82fad2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     17.98333,
     53.71666999999999
 ],
-  "geometry": {"coordinates":[17.98333,53.71666999999999],"type":"Point"}
+  "geometry": {"coordinates":[17.98333,53.71667],"type":"Point"}
 }

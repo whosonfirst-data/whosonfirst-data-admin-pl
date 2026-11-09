@@ -54,7 +54,7 @@
         "wk:page":"Stra%C5%BC%2C_Podlaskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f503b8511a354d33535ebd1e30fd4e3e",
+    "wof:geomhash":"5f76c37330bfe73e1e3d9f5129b86bc4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     23.38112000000001,
     53.33233000000001
 ],
-  "geometry": {"coordinates":[23.38112000000001,53.33233000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.38112,53.33233],"type":"Point"}
 }

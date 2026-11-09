@@ -48,7 +48,7 @@
         "wk:page":"Gi%C4%99tkowizna"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9d2b2c5e005fb54b5183c378e46c7445",
+    "wof:geomhash":"a1cf6b8e932efb496a235825678415bf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     18.74989,
     51.05909000000001
 ],
-  "geometry": {"coordinates":[18.74989,51.05909000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.74989,51.05909],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Radziech%C3%B3w%2C_Lower_Silesian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ef9c995b36b9e04c1b5639dbc0a3c4cd",
+    "wof:geomhash":"c49c12e61b842258885e6ee0a723714a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     15.81448,
     51.23484000000001
 ],
-  "geometry": {"coordinates":[15.81448,51.23484000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.81448,51.23484],"type":"Point"}
 }

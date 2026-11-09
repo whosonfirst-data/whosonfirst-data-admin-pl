@@ -51,7 +51,7 @@
         "wk:page":"D%C5%BAwierzchno"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6e2b7175615e12dd3fce9aa583eb628a",
+    "wof:geomhash":"02e8fe58b928577272dc012a420e8bfb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.07869,
     52.87011999999999
 ],
-  "geometry": {"coordinates":[18.07869,52.87011999999999],"type":"Point"}
+  "geometry": {"coordinates":[18.07869,52.87012],"type":"Point"}
 }

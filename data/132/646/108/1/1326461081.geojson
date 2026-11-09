@@ -57,7 +57,7 @@
         "wk:page":"Grzybowo%2C_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"826331d2b90c856f63f3d0044485ed11",
+    "wof:geomhash":"1f08f562693edb5e080f1aeda1f2d34e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     17.89757999999999,
     54.07606
 ],
-  "geometry": {"coordinates":[17.89757999999999,54.07606],"type":"Point"}
+  "geometry": {"coordinates":[17.89758,54.07606],"type":"Point"}
 }

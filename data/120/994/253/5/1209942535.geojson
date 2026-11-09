@@ -57,7 +57,7 @@
         "wk:page":"Hodyszewo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2bd0867b80774437a9d424ab431b0249",
+    "wof:geomhash":"bebf0f27c1f6e78c13c74f2078bec00a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.77677000000001,
     52.83132
 ],
-  "geometry": {"coordinates":[22.77677000000001,52.83132],"type":"Point"}
+  "geometry": {"coordinates":[22.77677,52.83132],"type":"Point"}
 }

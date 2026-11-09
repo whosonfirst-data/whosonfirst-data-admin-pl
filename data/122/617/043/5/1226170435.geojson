@@ -48,7 +48,7 @@
         "wk:page":"Trestno"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9c3049e345e4e10854b022ceea8e87cc",
+    "wof:geomhash":"772020989a0c27f1e25780ba002f7cb2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     17.14417000000001,
     51.07843
 ],
-  "geometry": {"coordinates":[17.14417000000001,51.07843],"type":"Point"}
+  "geometry": {"coordinates":[17.14417,51.07843],"type":"Point"}
 }

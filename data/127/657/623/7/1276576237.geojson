@@ -57,7 +57,7 @@
         "wk:page":"Molendy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"62eec03ca6b73be6ef61f0798706b00e",
+    "wof:geomhash":"3031bb27d2dddf30f25b242c264608a8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.60685,
     51.51067000000001
 ],
-  "geometry": {"coordinates":[21.60685,51.51067000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.60685,51.51067],"type":"Point"}
 }

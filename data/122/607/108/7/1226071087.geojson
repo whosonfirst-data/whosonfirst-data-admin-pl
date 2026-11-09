@@ -67,7 +67,7 @@
         "wk:page":"Most%C3%B3wka%2C_Wyszk%C3%B3w_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"778b92e90c8352afe4706a999044fbec",
+    "wof:geomhash":"99f7445c021b1fd4230b503af4c9b4be",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,5 +94,5 @@
     21.43827000000001,
     52.51873000000001
 ],
-  "geometry": {"coordinates":[21.43827000000001,52.51873000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.43827,52.51873],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"Konopki%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"90b17162315d679b3fabfab6a8285ccf",
+    "wof:geomhash":"ed818bc5743349d2cee525eea28457ac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     20.46372,
     52.99746999999999
 ],
-  "geometry": {"coordinates":[20.46372,52.99746999999999],"type":"Point"}
+  "geometry": {"coordinates":[20.46372,52.99747],"type":"Point"}
 }

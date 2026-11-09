@@ -57,7 +57,7 @@
         "wk:page":"Folwark%2C_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c44c8996098ad41e7d2e49ef4b943a57",
+    "wof:geomhash":"5ce267af5beb6d046886d233242b1acd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     19.45958,
     53.86148000000001
 ],
-  "geometry": {"coordinates":[19.45958,53.86148000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.45958,53.86148],"type":"Point"}
 }

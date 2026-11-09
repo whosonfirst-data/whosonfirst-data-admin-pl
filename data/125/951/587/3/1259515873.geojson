@@ -58,7 +58,7 @@
         "wk:page":"Stara_Ko%C5%9Bcielnica"
     },
     "wof:country":"PL",
-    "wof:geomhash":"34d84aaba3053c38b05a646f245e6c9e",
+    "wof:geomhash":"b760259e08e8f095d8205e178dc484cd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,5 +85,5 @@
     18.93277,
     54.03458000000001
 ],
-  "geometry": {"coordinates":[18.93277,54.03458000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.93277,54.03458],"type":"Point"}
 }

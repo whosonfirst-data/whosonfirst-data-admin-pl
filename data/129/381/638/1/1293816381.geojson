@@ -57,7 +57,7 @@
         "wk:page":"Tolko%2C_Poland"
     },
     "wof:country":"PL",
-    "wof:geomhash":"77c9a9a88a06cc492450cd73d55a32ad",
+    "wof:geomhash":"bb7782e5c032ff21f650f31d93851bdb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     20.70865,
     54.24268000000001
 ],
-  "geometry": {"coordinates":[20.70865,54.24268000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.70865,54.24268],"type":"Point"}
 }

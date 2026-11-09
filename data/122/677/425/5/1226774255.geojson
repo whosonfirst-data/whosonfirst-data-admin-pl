@@ -57,7 +57,7 @@
         "wk:page":"Brodziszewo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"af3ce3a7b71b5a9fd3518b2fde091c06",
+    "wof:geomhash":"d7e7c1fcc6c4e02ba2a2c6ef3f44be52",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     16.51606,
     52.56988000000001
 ],
-  "geometry": {"coordinates":[16.51606,52.56988000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.51606,52.56988],"type":"Point"}
 }

@@ -48,7 +48,7 @@
         "wk:page":"Gliniana_G%C3%B3ra"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f7994157a83df85fa758ac0747d9be11",
+    "wof:geomhash":"833979970e502afdeb1e99b6ef473ee5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     19.22556,
     50.58929000000001
 ],
-  "geometry": {"coordinates":[19.22556,50.58929000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.22556,50.58929],"type":"Point"}
 }

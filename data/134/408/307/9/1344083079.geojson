@@ -51,7 +51,7 @@
         "wk:page":"Kobielice%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"538278a227daac9c8ce6ac652195ac0e",
+    "wof:geomhash":"b07aa3b54ffb91347daafa38850040bd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.53593,
     52.72318000000001
 ],
-  "geometry": {"coordinates":[18.53593,52.72318000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.53593,52.72318],"type":"Point"}
 }

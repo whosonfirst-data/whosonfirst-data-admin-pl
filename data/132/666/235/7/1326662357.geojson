@@ -60,7 +60,7 @@
         "wk:page":"Sosnowo%2C_Gryfino_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"af16a3aab02bcf42bff47b50e1bce5c9",
+    "wof:geomhash":"a7a36b0538f9414babdf74590a0085a7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     14.65007,
     53.14256999999999
 ],
-  "geometry": {"coordinates":[14.65007,53.14256999999999],"type":"Point"}
+  "geometry": {"coordinates":[14.65007,53.14257],"type":"Point"}
 }

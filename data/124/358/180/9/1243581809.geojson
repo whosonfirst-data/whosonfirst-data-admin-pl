@@ -57,7 +57,7 @@
         "wk:page":"Zaborowo%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"81c7d9e0b26c778dfcf4490a73a0515c",
+    "wof:geomhash":"6c6e716649417ee6f5bbd46d8c529a42",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     20.27484,
     52.53443000000001
 ],
-  "geometry": {"coordinates":[20.27484,52.53443000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.27484,52.53443],"type":"Point"}
 }

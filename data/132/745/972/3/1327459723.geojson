@@ -57,7 +57,7 @@
         "wk:page":"G%C4%99tomie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"150f9ce88bdd82a77de50b9c9ba05b53",
+    "wof:geomhash":"cc5086855aa108deeb80a3746524b74f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     18.69537,
     53.86488000000001
 ],
-  "geometry": {"coordinates":[18.69537,53.86488000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.69537,53.86488],"type":"Point"}
 }

@@ -51,7 +51,7 @@
         "wk:page":"M%C5%82yny%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1019fce4c9a73c5b9371a6063289496f",
+    "wof:geomhash":"13853c3153d9142287a3bb882f99abf8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.21718,
     52.60511999999999
 ],
-  "geometry": {"coordinates":[18.21718,52.60511999999999],"type":"Point"}
+  "geometry": {"coordinates":[18.21718,52.60512],"type":"Point"}
 }

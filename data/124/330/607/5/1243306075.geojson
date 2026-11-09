@@ -63,7 +63,7 @@
         "wk:page":"Chlewska_Wola"
     },
     "wof:country":"PL",
-    "wof:geomhash":"55a7ec2563426b967ca649500a817a65",
+    "wof:geomhash":"e3dba82704cffa6441d4448c89bb076e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     19.96535,
     50.67339000000001
 ],
-  "geometry": {"coordinates":[19.96535,50.67339000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.96535,50.67339],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Przewale"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d6f044f066293b744b1281c6fb12da69",
+    "wof:geomhash":"ccdd528862c59c2a94cd02a8ccb76eec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     23.63086,
     50.61559000000001
 ],
-  "geometry": {"coordinates":[23.63086,50.61559000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.63086,50.61559],"type":"Point"}
 }

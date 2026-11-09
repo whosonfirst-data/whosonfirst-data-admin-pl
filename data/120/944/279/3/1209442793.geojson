@@ -54,7 +54,7 @@
         "wk:page":"Karsznice%2C_%C5%81%C4%99czyca_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"097e9702bc2b6cbed58076444fcfc497",
+    "wof:geomhash":"6ee02fcca62e787d0996a917c7a38b78",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.36548,
     52.03729000000001
 ],
-  "geometry": {"coordinates":[19.36548,52.03729000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.36548,52.03729],"type":"Point"}
 }

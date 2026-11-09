@@ -51,7 +51,7 @@
         "wk:page":"Broniszewo%2C_Konin_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"24cc18c1f334770cdf8e32afc0c98b07",
+    "wof:geomhash":"af3e7742a83abb8c0cd45abf0d6e30f5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.39952000000001,
     52.4648
 ],
-  "geometry": {"coordinates":[18.39952000000001,52.4648],"type":"Point"}
+  "geometry": {"coordinates":[18.39952,52.4648],"type":"Point"}
 }

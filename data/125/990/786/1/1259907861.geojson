@@ -51,7 +51,7 @@
         "wk:page":"Wymok%C5%82e"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f19c69338a0e19648c4e965513123a1d",
+    "wof:geomhash":"2a717557133a9b44444d70925dde36b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.23126,
     53.21901999999999
 ],
-  "geometry": {"coordinates":[19.23126,53.21901999999999],"type":"Point"}
+  "geometry": {"coordinates":[19.23126,53.21902],"type":"Point"}
 }

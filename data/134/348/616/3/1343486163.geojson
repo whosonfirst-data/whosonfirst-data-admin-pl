@@ -60,7 +60,7 @@
         "wk:page":"Ko%C5%82odzieje%2C_Kwidzyn_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"07bcd3a5ba8018d19b29796f7b1987b7",
+    "wof:geomhash":"7ab45df6078d6fbcc71c2c4f369e142f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     19.18694,
     53.71093000000001
 ],
-  "geometry": {"coordinates":[19.18694,53.71093000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.18694,53.71093],"type":"Point"}
 }

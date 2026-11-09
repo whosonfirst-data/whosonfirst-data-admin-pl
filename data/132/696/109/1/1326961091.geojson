@@ -57,7 +57,7 @@
         "wk:page":"S%C5%82omowo%2C_Oborniki_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3893e947db71736e854c04053c368510",
+    "wof:geomhash":"32621dd5174fe1b7ecdce8bc5044bc64",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     16.94905,
     52.68646999999999
 ],
-  "geometry": {"coordinates":[16.94905,52.68646999999999],"type":"Point"}
+  "geometry": {"coordinates":[16.94905,52.68647],"type":"Point"}
 }

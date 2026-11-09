@@ -54,7 +54,7 @@
         "wk:page":"Seweryn%C3%B3w%2C_Gostynin_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5d009cb05a7e876f573237a53088e7f2",
+    "wof:geomhash":"9079209134a8285f6067cdc0a7f84469",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.64107000000001,
     52.36344
 ],
-  "geometry": {"coordinates":[19.64107000000001,52.36344],"type":"Point"}
+  "geometry": {"coordinates":[19.64107,52.36344],"type":"Point"}
 }

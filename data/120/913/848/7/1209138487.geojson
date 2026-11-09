@@ -57,7 +57,7 @@
         "wk:page":"Goszczowice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"21644167dd7d33974af6edfdce11e489",
+    "wof:geomhash":"3dc080cbc7c564563d18bd9732faa756",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     17.61667000000001,
     50.57175
 ],
-  "geometry": {"coordinates":[17.61667000000001,50.57175],"type":"Point"}
+  "geometry": {"coordinates":[17.61667,50.57175],"type":"Point"}
 }

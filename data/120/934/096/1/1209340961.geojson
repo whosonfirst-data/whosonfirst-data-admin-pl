@@ -66,7 +66,7 @@
         "wk:page":"Zaborowo%2C_Gmina_Janowiec_Ko%C5%9Bcielny"
     },
     "wof:country":"PL",
-    "wof:geomhash":"252081243ecd2356a8aa71564be6bc51",
+    "wof:geomhash":"d2a256096ff7f979363bbc42c723c895",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     20.60297000000001,
     53.26429
 ],
-  "geometry": {"coordinates":[20.60297000000001,53.26429],"type":"Point"}
+  "geometry": {"coordinates":[20.60297,53.26429],"type":"Point"}
 }

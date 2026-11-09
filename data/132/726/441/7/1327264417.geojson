@@ -57,7 +57,7 @@
         "wk:page":"Sta%C5%84sk"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9daaf4e7cc266b5d1e2ecd0e7af6dea6",
+    "wof:geomhash":"bb27a91a3851824ec25d959ed39827aa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     14.78708,
     52.50953000000001
 ],
-  "geometry": {"coordinates":[14.78708,52.50953000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.78708,52.50953],"type":"Point"}
 }

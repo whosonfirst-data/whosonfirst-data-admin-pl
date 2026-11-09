@@ -57,7 +57,7 @@
         "wk:page":"Wsola"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a67a69f7f5034a5e32255e6207497a8f",
+    "wof:geomhash":"a3653e85979823ad883cb4abaff7de66",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.12362000000001,
     51.48619
 ],
-  "geometry": {"coordinates":[21.12362000000001,51.48619],"type":"Point"}
+  "geometry": {"coordinates":[21.12362,51.48619],"type":"Point"}
 }

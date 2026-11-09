@@ -63,7 +63,7 @@
         "wk:page":"Cecele"
     },
     "wof:country":"PL",
-    "wof:geomhash":"20e905b860f7050d9b2b60892cd020ad",
+    "wof:geomhash":"cf968ea2a0c849b410c75f1b86585d91",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     22.76641,
     52.46628000000001
 ],
-  "geometry": {"coordinates":[22.76641,52.46628000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.76641,52.46628],"type":"Point"}
 }

@@ -60,7 +60,7 @@
         "wk:page":"K%C4%85sinowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5bd9203e7fa4304383eeef7740802d22",
+    "wof:geomhash":"0151201789c8916096cd4cf92a00bae0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     16.6301,
     52.57333000000001
 ],
-  "geometry": {"coordinates":[16.6301,52.57333000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.6301,52.57333],"type":"Point"}
 }

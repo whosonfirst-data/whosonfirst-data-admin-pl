@@ -55,7 +55,7 @@
         "wk:page":"Zarzecze%2C_Nisko_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"25ac2190531965429b98f43c36cddcb9",
+    "wof:geomhash":"b1ce87a0e66329cc5ffda7c279fb5f0a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.19522000000001,
     50.52767
 ],
-  "geometry": {"coordinates":[22.19522000000001,50.52767],"type":"Point"}
+  "geometry": {"coordinates":[22.19522,50.52767],"type":"Point"}
 }

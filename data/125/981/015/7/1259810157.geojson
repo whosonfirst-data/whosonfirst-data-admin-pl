@@ -51,7 +51,7 @@
         "wk:page":"Kr%C3%B3lowe"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c63dd8257331d8bb71a613ed31445e25",
+    "wof:geomhash":"14d172abc43975a67ba05f3bd20a6598",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.83732999999999,
     50.25653
 ],
-  "geometry": {"coordinates":[17.83732999999999,50.25653],"type":"Point"}
+  "geometry": {"coordinates":[17.83733,50.25653],"type":"Point"}
 }

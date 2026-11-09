@@ -54,7 +54,7 @@
         "wk:page":"Sucha%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6c2d0faa9ec8be8c4714396a25b4a4cf",
+    "wof:geomhash":"2b38379f5babe8b4cafbd25986fffc31",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.00936,
     53.41506999999999
 ],
-  "geometry": {"coordinates":[18.00936,53.41506999999999],"type":"Point"}
+  "geometry": {"coordinates":[18.00936,53.41507],"type":"Point"}
 }

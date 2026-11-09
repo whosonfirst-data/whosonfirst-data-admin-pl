@@ -57,7 +57,7 @@
         "wk:page":"Znoski"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f3ad69e31cf395a8ffd3e63da4d3f6bc",
+    "wof:geomhash":"90d25bc5474ae0349a6986b75675d419",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.77311,
     53.37688000000001
 ],
-  "geometry": {"coordinates":[22.77311,53.37688000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.77311,53.37688],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Rydzewo%2C_Grajewo_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a56c54acac4c4a5e10d8643cb0b85a20",
+    "wof:geomhash":"a4d1c0942254cef49c0fbc38389d1cc4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.53502000000001,
     53.69925
 ],
-  "geometry": {"coordinates":[22.53502000000001,53.69925],"type":"Point"}
+  "geometry": {"coordinates":[22.53502,53.69925],"type":"Point"}
 }

@@ -51,7 +51,7 @@
         "wk:page":"Obodowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"0e7597d48d128c2632486de53960129e",
+    "wof:geomhash":"57905ba10ec18c64662cdfe54b2e6079",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.70302000000001,
     53.42648000000001
 ],
-  "geometry": {"coordinates":[17.70302000000001,53.42648000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.70302,53.42648],"type":"Point"}
 }

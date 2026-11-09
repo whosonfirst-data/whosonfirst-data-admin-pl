@@ -51,7 +51,7 @@
         "wk:page":"Nowy_%C5%9Awiat%2C_Opole_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6b775ad43c73d0c87da51f6d41d2bc8d",
+    "wof:geomhash":"7b51e83bf0e59774a3a095d79a6eadae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.62236,
     50.92789000000001
 ],
-  "geometry": {"coordinates":[17.62236,50.92789000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.62236,50.92789],"type":"Point"}
 }

@@ -58,7 +58,7 @@
         "wk:page":"Joani%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"dd9d63d4b56855df7e4493e5d4487e06",
+    "wof:geomhash":"9196ce840aca72ec564f22d4c8e1e2d5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,5 +85,5 @@
     20.08902,
     51.28554000000001
 ],
-  "geometry": {"coordinates":[20.08902,51.28554000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.08902,51.28554],"type":"Point"}
 }

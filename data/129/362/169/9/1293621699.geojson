@@ -54,7 +54,7 @@
         "wk:page":"Zbytkowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"dab4e1983f76d13537ee54e963dfe67f",
+    "wof:geomhash":"8dc3a376414073f1857170202dcbfa91",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.15601,
     52.74053000000001
 ],
-  "geometry": {"coordinates":[19.15601,52.74053000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.15601,52.74053],"type":"Point"}
 }

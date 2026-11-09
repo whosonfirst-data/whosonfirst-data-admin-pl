@@ -60,7 +60,7 @@
         "wk:page":"Smolenka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a29592e31f7cd8878fe35c035cc11698",
+    "wof:geomhash":"2a7bfcb2dc72c6f953b936e5a02c1451",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     22.75949,
     54.15553000000001
 ],
-  "geometry": {"coordinates":[22.75949,54.15553000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.75949,54.15553],"type":"Point"}
 }

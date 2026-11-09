@@ -57,7 +57,7 @@
         "wk:page":"Pniewo_Wielkie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"89d80e8bc321ec0bca3ce9f96c015466",
+    "wof:geomhash":"57fc9ac787beb764f608f840dc06ce5f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     20.49037,
     52.94748000000001
 ],
-  "geometry": {"coordinates":[20.49037,52.94748000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.49037,52.94748],"type":"Point"}
 }

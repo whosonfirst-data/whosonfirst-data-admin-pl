@@ -57,7 +57,7 @@
         "wk:page":"Ry%C5%BCyn"
     },
     "wof:country":"PL",
-    "wof:geomhash":"cb18868898762920c8ff222002b6343c",
+    "wof:geomhash":"32520ec74e27f7a99b5e4fec2ae8c929",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     16.1742,
     52.63923000000001
 ],
-  "geometry": {"coordinates":[16.1742,52.63923000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.1742,52.63923],"type":"Point"}
 }

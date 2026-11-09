@@ -54,7 +54,7 @@
         "wk:page":"Rogienice%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f193ab01c6385a2a8feb3277ca182825",
+    "wof:geomhash":"6961ec12cc81962b7ebf93f3c9990e5d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.77717,
     52.75678000000001
 ],
-  "geometry": {"coordinates":[19.77717,52.75678000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.77717,52.75678],"type":"Point"}
 }

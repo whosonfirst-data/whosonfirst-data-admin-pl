@@ -63,7 +63,7 @@
         "wk:page":"Gilwa"
     },
     "wof:country":"PL",
-    "wof:geomhash":"73471a5be3e4ea5e3fec9e9ebae85f98",
+    "wof:geomhash":"2080d15171ac1ed5bbda9e974d6616fd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     19.14839,
     53.71138000000001
 ],
-  "geometry": {"coordinates":[19.14839,53.71138000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.14839,53.71138],"type":"Point"}
 }

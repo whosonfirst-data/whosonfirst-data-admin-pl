@@ -54,7 +54,7 @@
         "wk:page":"Piastowo%2C_Warmian-Masurian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7a2c5525fb15bd6513709532bbd1b498",
+    "wof:geomhash":"9b3393acf149461e465c5d0316b4d994",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.50809,
     54.20953000000001
 ],
-  "geometry": {"coordinates":[19.50809,54.20953000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.50809,54.20953],"type":"Point"}
 }

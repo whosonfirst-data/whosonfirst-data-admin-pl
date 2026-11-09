@@ -76,7 +76,7 @@
         "wk:page":"Swobnica"
     },
     "wof:country":"PL",
-    "wof:geomhash":"43a947a68ed29398f9d1381fdd16eff3",
+    "wof:geomhash":"7aa732ba1696a51bfe6dc72aae6c7589",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,5 +103,5 @@
     14.62409,
     53.04013000000001
 ],
-  "geometry": {"coordinates":[14.62409,53.04013000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.62409,53.04013],"type":"Point"}
 }

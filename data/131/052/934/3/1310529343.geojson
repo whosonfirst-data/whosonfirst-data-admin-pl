@@ -51,7 +51,7 @@
         "wk:page":"Mi%C5%82och%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5c99a966eaea04a84e96537fe389773b",
+    "wof:geomhash":"39b97b0e83a26923d0f3c1b0c426fe9c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     16.5472,
     50.83799000000001
 ],
-  "geometry": {"coordinates":[16.5472,50.83799000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.5472,50.83799],"type":"Point"}
 }

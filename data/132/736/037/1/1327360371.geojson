@@ -57,7 +57,7 @@
         "wk:page":"Czarna_Wie%C5%9B%2C_Podlaskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"52709b10470daa13a2e2fd06f98b753e",
+    "wof:geomhash":"4f1722615eadd94324b2412031dec6c1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.64256,
     53.70829000000001
 ],
-  "geometry": {"coordinates":[22.64256,53.70829000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.64256,53.70829],"type":"Point"}
 }

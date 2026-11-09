@@ -54,7 +54,7 @@
         "wk:page":"Brzeziny%2C_Nysa_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"713bbfd5ba3be17f5f3721b8c486d775",
+    "wof:geomhash":"81c1065fee24450934dac3bb4b79dc72",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.43437999999999,
     50.60509
 ],
-  "geometry": {"coordinates":[17.43437999999999,50.60509],"type":"Point"}
+  "geometry": {"coordinates":[17.43438,50.60509],"type":"Point"}
 }

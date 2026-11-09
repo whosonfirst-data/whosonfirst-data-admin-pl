@@ -57,7 +57,7 @@
         "wk:page":"Bole%C5%9Bcice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c038ed064cfc553f8efecfc492711e4e",
+    "wof:geomhash":"c9a4178ff7fb9fc61287b72e8a76cf4a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     20.11923,
     50.58329000000001
 ],
-  "geometry": {"coordinates":[20.11923,50.58329000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.11923,50.58329],"type":"Point"}
 }

@@ -56,7 +56,7 @@
         "wk:page":"Nowa_Wioska%2C_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1c467a1800a975ce14466b6f6e6a6b6d",
+    "wof:geomhash":"ed2ed0a94e7b180f4426118ca6eaa189",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,5 +83,5 @@
     19.08737,
     53.68174000000001
 ],
-  "geometry": {"coordinates":[19.08737,53.68174000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.08737,53.68174],"type":"Point"}
 }

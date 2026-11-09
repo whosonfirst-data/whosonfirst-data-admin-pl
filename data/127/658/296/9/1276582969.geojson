@@ -54,7 +54,7 @@
         "wk:page":"Stanis%C5%82awczyk"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4adc2588ddfd0dd91b2a4fce00d300a1",
+    "wof:geomhash":"abcd30394a9ec03d3a96d4973f5d59d6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.83382000000001,
     49.72429
 ],
-  "geometry": {"coordinates":[22.83382000000001,49.72429],"type":"Point"}
+  "geometry": {"coordinates":[22.83382,49.72429],"type":"Point"}
 }

@@ -78,7 +78,7 @@
         "wk:page":"Tyszki-%C5%81abno"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4e6f7cc57faed891531b91f7377c90dd",
+    "wof:geomhash":"fa921a79b94fa7105b4a39f91255e4ba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -105,5 +105,5 @@
     21.98763,
     53.42498000000001
 ],
-  "geometry": {"coordinates":[21.98763,53.42498000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.98763,53.42498],"type":"Point"}
 }

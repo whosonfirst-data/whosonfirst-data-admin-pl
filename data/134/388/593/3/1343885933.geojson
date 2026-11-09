@@ -69,7 +69,7 @@
         "wk:page":"Zegartowice%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7ba8dc98a2270fbf5e5890d38a5e5acf",
+    "wof:geomhash":"882753c4e7291b8ab65b7c7f31ff5a85",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     18.52517000000001,
     53.24395
 ],
-  "geometry": {"coordinates":[18.52517000000001,53.24395],"type":"Point"}
+  "geometry": {"coordinates":[18.52517,53.24395],"type":"Point"}
 }

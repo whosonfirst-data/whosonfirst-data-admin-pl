@@ -48,7 +48,7 @@
         "wk:page":"Zwierzyniec%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"fafa858ca205d0b758da71ba367d74af",
+    "wof:geomhash":"d2a42da38f02ea11748e862cbd358913",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     15.92599,
     52.65134000000001
 ],
-  "geometry": {"coordinates":[15.92599,52.65134000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.92599,52.65134],"type":"Point"}
 }

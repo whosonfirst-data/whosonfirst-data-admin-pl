@@ -57,7 +57,7 @@
         "wk:page":"Sacin"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b0f30d8349d96194db680bfe9b24733a",
+    "wof:geomhash":"c249d06604bfe59023f7ecf33c6f3f9a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     20.56984,
     51.65264000000001
 ],
-  "geometry": {"coordinates":[20.56984,51.65264000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.56984,51.65264],"type":"Point"}
 }

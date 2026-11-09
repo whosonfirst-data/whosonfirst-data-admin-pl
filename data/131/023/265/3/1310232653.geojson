@@ -54,7 +54,7 @@
         "wk:page":"Krzewina%2C_Warmian-Masurian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6a82c378aed69fdf8dad746b81f4afd8",
+    "wof:geomhash":"655596369423659b6722efd3ddb6ea76",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.87143,
     54.06933000000001
 ],
-  "geometry": {"coordinates":[20.87143,54.06933000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.87143,54.06933],"type":"Point"}
 }

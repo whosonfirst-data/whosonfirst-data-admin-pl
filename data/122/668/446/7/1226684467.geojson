@@ -57,7 +57,7 @@
         "wk:page":"Prze%C5%82aj_Czepiecki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5ed34829d8886d90ebbb4bbaf1ff3c24",
+    "wof:geomhash":"5d0167379e0e03d774d2ba5bd4ab5d43",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     19.91993,
     50.53984000000001
 ],
-  "geometry": {"coordinates":[19.91993,50.53984000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.91993,50.53984],"type":"Point"}
 }

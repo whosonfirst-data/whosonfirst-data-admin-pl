@@ -51,7 +51,7 @@
         "wk:page":"Kaziny"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5e883908d0dbe5a68ed1650799a08ce2",
+    "wof:geomhash":"826911c8d1e0c6da35ac13c768193305",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     20.14549,
     50.54114000000001
 ],
-  "geometry": {"coordinates":[20.14549,50.54114000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.14549,50.54114],"type":"Point"}
 }

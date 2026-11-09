@@ -62,7 +62,7 @@
         "wk:page":"Janowo%2C_Mr%C4%85gowo_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b037aa249d97e8bc33db1cc08a9c4249",
+    "wof:geomhash":"400c5f04f595796d9b0a102fd781b783",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     21.19074,
     53.82836999999999
 ],
-  "geometry": {"coordinates":[21.19074,53.82836999999999],"type":"Point"}
+  "geometry": {"coordinates":[21.19074,53.82837],"type":"Point"}
 }

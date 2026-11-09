@@ -51,7 +51,7 @@
         "wk:page":"Rog%C3%B3%C5%BAnia%2C_Podkarpackie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"82670ad2b70aad206dd209bf0bf4adca",
+    "wof:geomhash":"e8a8f67aa0f097f5d62afc8d2cb76ecd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     22.51907000000001,
     50.49477
 ],
-  "geometry": {"coordinates":[22.51907000000001,50.49477],"type":"Point"}
+  "geometry": {"coordinates":[22.51907,50.49477],"type":"Point"}
 }

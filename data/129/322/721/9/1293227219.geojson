@@ -54,7 +54,7 @@
         "wk:page":"Zbrosza_Ma%C5%82a"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d53fc5c81848045b2d242cfa5e500598",
+    "wof:geomhash":"27cc72d36d20c15a4ccc61a345e4c94d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.97722000000001,
     51.72574
 ],
-  "geometry": {"coordinates":[20.97722000000001,51.72574],"type":"Point"}
+  "geometry": {"coordinates":[20.97722,51.72574],"type":"Point"}
 }

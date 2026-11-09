@@ -51,7 +51,7 @@
         "wk:page":"G%C3%B3rowatki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"711397a1ffc35030a2e0b21921e3de33",
+    "wof:geomhash":"e4c8a1d50ce4bb0c04086939a32293d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.38668,
     53.31894000000001
 ],
-  "geometry": {"coordinates":[17.38668,53.31894000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.38668,53.31894],"type":"Point"}
 }

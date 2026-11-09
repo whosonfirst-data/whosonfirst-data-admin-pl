@@ -51,7 +51,7 @@
         "wk:page":"Jugowiec"
     },
     "wof:country":"PL",
-    "wof:geomhash":"009b4caf20149b11fccd56d30fa789b8",
+    "wof:geomhash":"1939c95effa9e9f981047c786a5d6ee3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     16.64429,
     51.13800000000001
 ],
-  "geometry": {"coordinates":[16.64429,51.13800000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.64429,51.138],"type":"Point"}
 }

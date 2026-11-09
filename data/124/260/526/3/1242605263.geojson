@@ -57,7 +57,7 @@
         "wk:page":"Nak%C5%82y"
     },
     "wof:country":"PL",
-    "wof:geomhash":"48b40250d0be7e75446dcc46674a13b6",
+    "wof:geomhash":"03f2e6ab5d627a3bc00335459f4ee82d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.49715,
     53.06928000000001
 ],
-  "geometry": {"coordinates":[21.49715,53.06928000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.49715,53.06928],"type":"Point"}
 }

@@ -51,7 +51,7 @@
         "wk:page":"W%C4%99gorzyn%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"502156e101a89146e114d5ad5052bcec",
+    "wof:geomhash":"b2da5ebbbb23559db77e6166d77d4ec8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.78572,
     53.20701999999999
 ],
-  "geometry": {"coordinates":[18.78572,53.20701999999999],"type":"Point"}
+  "geometry": {"coordinates":[18.78572,53.20702],"type":"Point"}
 }

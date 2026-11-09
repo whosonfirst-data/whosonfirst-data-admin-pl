@@ -54,7 +54,7 @@
         "wk:page":"Ligota_Tu%C5%82owicka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2d3783ec98f722df29fa0371e807e9c6",
+    "wof:geomhash":"1eb95483e045b36b2bf0143456003055",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.65317000000001,
     50.5819
 ],
-  "geometry": {"coordinates":[17.65317000000001,50.5819],"type":"Point"}
+  "geometry": {"coordinates":[17.65317,50.5819],"type":"Point"}
 }

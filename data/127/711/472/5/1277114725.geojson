@@ -54,7 +54,7 @@
         "wk:page":"%C5%81osie%C5%84%2C_%C5%9Awi%C4%99tokrzyskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"58e388b5fbd7e60429ebc6a5920422bb",
+    "wof:geomhash":"4688f6caf225fa54c7677cad31d0ab69",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.36585,
     50.90622000000001
 ],
-  "geometry": {"coordinates":[20.36585,50.90622000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.36585,50.90622],"type":"Point"}
 }

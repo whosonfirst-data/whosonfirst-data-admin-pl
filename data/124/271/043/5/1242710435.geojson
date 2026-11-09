@@ -66,7 +66,7 @@
         "wk:page":"Jedlnia"
     },
     "wof:country":"PL",
-    "wof:geomhash":"73449225b54c86000fc461ffbc011cc6",
+    "wof:geomhash":"ef87534e6ee2fd2cab90c765b843c8e4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     21.36667000000001,
     51.46667
 ],
-  "geometry": {"coordinates":[21.36667000000001,51.46667],"type":"Point"}
+  "geometry": {"coordinates":[21.36667,51.46667],"type":"Point"}
 }

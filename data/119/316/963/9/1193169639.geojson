@@ -57,7 +57,7 @@
         "wk:page":"Wola_%C5%81askarzewska"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5695c503e322fbeb9b5d38ad2d561ccb",
+    "wof:geomhash":"b5a8b771146fab942f946669ef541920",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.56132,
     51.78579000000001
 ],
-  "geometry": {"coordinates":[21.56132,51.78579000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.56132,51.78579],"type":"Point"}
 }

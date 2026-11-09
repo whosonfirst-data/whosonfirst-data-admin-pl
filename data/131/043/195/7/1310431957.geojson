@@ -51,7 +51,7 @@
         "wk:page":"Chwalimki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6da47160bcda097aae4b45d4809e1c30",
+    "wof:geomhash":"babe36d488e412e884464eaf145469b3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     16.46037999999999,
     53.733
 ],
-  "geometry": {"coordinates":[16.46037999999999,53.733],"type":"Point"}
+  "geometry": {"coordinates":[16.46038,53.733],"type":"Point"}
 }

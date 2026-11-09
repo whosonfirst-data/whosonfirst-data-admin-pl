@@ -63,7 +63,7 @@
         "wk:page":"B%C5%82onie_Ma%C5%82e"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a7b995a38cbd8342e1e79219a06eda7c",
+    "wof:geomhash":"3f3004a42fe34d053d5e2dbcd098afcd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     22.31595,
     52.35514000000001
 ],
-  "geometry": {"coordinates":[22.31595,52.35514000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.31595,52.35514],"type":"Point"}
 }

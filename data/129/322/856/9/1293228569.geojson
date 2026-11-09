@@ -75,7 +75,7 @@
         "wk:page":"Marynowy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"759b2d093f82d279c92434aa52aa9749",
+    "wof:geomhash":"8ed457eb36bffd4bb29ae9ed386c2381",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,5 +102,5 @@
     19.09248,
     54.16343000000001
 ],
-  "geometry": {"coordinates":[19.09248,54.16343000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.09248,54.16343],"type":"Point"}
 }

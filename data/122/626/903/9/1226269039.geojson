@@ -60,7 +60,7 @@
         "wk:page":"Otoki%2C_Opole_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"39f76e34a85cb02d8dcfc305373d1460",
+    "wof:geomhash":"cc9e8cf3a0f641393d9d9340ba5f5c1d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     17.64512000000001,
     50.42602
 ],
-  "geometry": {"coordinates":[17.64512000000001,50.42602],"type":"Point"}
+  "geometry": {"coordinates":[17.64512,50.42602],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Laski%2C_Parczew_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5748de7e506e41a55ed91c88ffdd0353",
+    "wof:geomhash":"e3c4316cae83d4133170110fb3e68534",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.87208,
     51.61024000000001
 ],
-  "geometry": {"coordinates":[22.87208,51.61024000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.87208,51.61024],"type":"Point"}
 }

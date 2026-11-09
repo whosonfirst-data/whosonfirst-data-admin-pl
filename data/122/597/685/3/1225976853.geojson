@@ -68,7 +68,7 @@
         "wk:page":"Hajduki_Nyskie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f02aa0ce672623d07277e2be9a9d4ed2",
+    "wof:geomhash":"1d139a2c04ff4a405fd9ccf3e2c681f7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     17.36132000000001,
     50.4258
 ],
-  "geometry": {"coordinates":[17.36132000000001,50.4258],"type":"Point"}
+  "geometry": {"coordinates":[17.36132,50.4258],"type":"Point"}
 }

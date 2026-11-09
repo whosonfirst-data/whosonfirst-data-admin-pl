@@ -54,7 +54,7 @@
         "wk:page":"Maliniak%2C_Szczytno_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6e4a110e72b85e4d5023628c107571de",
+    "wof:geomhash":"09a22c8260e903ffcbf0ccb973142b74",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.03552,
     53.44108000000001
 ],
-  "geometry": {"coordinates":[21.03552,53.44108000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.03552,53.44108],"type":"Point"}
 }

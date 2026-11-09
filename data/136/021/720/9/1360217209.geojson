@@ -69,7 +69,7 @@
         "wk:page":"Boleszewo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"358367e7eefb53527b173a95fbe21ae8",
+    "wof:geomhash":"d9780e35f463034c0c2ed4e9e3842d5f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     16.58379,
     54.37283000000001
 ],
-  "geometry": {"coordinates":[16.58379,54.37283000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.58379,54.37283],"type":"Point"}
 }

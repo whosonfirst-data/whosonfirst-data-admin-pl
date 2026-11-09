@@ -51,7 +51,7 @@
         "wk:page":"Gola%2C_Namys%C5%82%C3%B3w_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"46ec84456d2aeb85e944591e5a72d522",
+    "wof:geomhash":"db7a654538f9a9fd00f209f7b02d8e0e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.70032999999999,
     50.95134
 ],
-  "geometry": {"coordinates":[17.70032999999999,50.95134],"type":"Point"}
+  "geometry": {"coordinates":[17.70033,50.95134],"type":"Point"}
 }

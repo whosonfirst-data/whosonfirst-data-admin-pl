@@ -54,7 +54,7 @@
         "wk:page":"Gron%C3%B3w%2C_%C5%81%C3%B3d%C5%BA_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d2c4c0d4758a20cf93c04ef0f16eba01",
+    "wof:geomhash":"1dde9358514011a1748a239046e18667",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.72252000000001,
     51.41298
 ],
-  "geometry": {"coordinates":[18.72252000000001,51.41298],"type":"Point"}
+  "geometry": {"coordinates":[18.72252,51.41298],"type":"Point"}
 }

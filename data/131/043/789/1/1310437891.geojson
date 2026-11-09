@@ -57,7 +57,7 @@
         "wk:page":"Niksowizna"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8c2b5bfa0b92038a77741071f45295d8",
+    "wof:geomhash":"fccf59ee6da57ecc9d37dd9486f3b11d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.8713,
     53.33128000000001
 ],
-  "geometry": {"coordinates":[21.8713,53.33128000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.8713,53.33128],"type":"Point"}
 }

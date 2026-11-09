@@ -54,7 +54,7 @@
         "wk:page":"Wojnowo%2C_Bydgoszcz_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9914dee3c0d6c8b5d05d352ec653f352",
+    "wof:geomhash":"e49f93bdec02a32b55d6c62babbf58fd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.83816000000001,
     53.21034
 ],
-  "geometry": {"coordinates":[17.83816000000001,53.21034],"type":"Point"}
+  "geometry": {"coordinates":[17.83816,53.21034],"type":"Point"}
 }

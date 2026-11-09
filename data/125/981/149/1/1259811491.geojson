@@ -60,7 +60,7 @@
         "wk:page":"Pelnik"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7900e1a15f66cb087166e2f9c7eedbd6",
+    "wof:geomhash":"21bfad594f21e8b18bbe16a70aa3f79f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     20.15,
     53.79346999999999
 ],
-  "geometry": {"coordinates":[20.15,53.79346999999999],"type":"Point"}
+  "geometry": {"coordinates":[20.15,53.79347],"type":"Point"}
 }

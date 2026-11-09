@@ -54,7 +54,7 @@
         "wk:page":"Lesi%C4%99cin"
     },
     "wof:country":"PL",
-    "wof:geomhash":"331b3b10c8816903cd211e83fe9373da",
+    "wof:geomhash":"b62f2983dcd7967dfe5b1d901773bcca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     15.57673,
     53.58323000000001
 ],
-  "geometry": {"coordinates":[15.57673,53.58323000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.57673,53.58323],"type":"Point"}
 }

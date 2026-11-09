@@ -64,7 +64,7 @@
         "wk:page":"Szczepan%C3%B3w%2C_Lubusz_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f3b937bcaef310e359851c7d62fdc7a7",
+    "wof:geomhash":"793b236e2e886985cbd3142fe7567481",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,5 +91,5 @@
     15.19821,
     51.57467000000001
 ],
-  "geometry": {"coordinates":[15.19821,51.57467000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.19821,51.57467],"type":"Point"}
 }

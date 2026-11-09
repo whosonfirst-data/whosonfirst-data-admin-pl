@@ -57,7 +57,7 @@
         "wk:page":"Krzemienna%2C_West_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b056bd285707cdc8dd6ef4a0e4ee9fb3",
+    "wof:geomhash":"bbd8f93c0b0aba803b2953d27f3e57b8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     15.23305,
     53.57533000000001
 ],
-  "geometry": {"coordinates":[15.23305,53.57533000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.23305,53.57533],"type":"Point"}
 }

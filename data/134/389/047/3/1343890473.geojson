@@ -54,7 +54,7 @@
         "wk:page":"Wardzyn"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d25c5669338b56c12aede385f8777310",
+    "wof:geomhash":"262498fb4a9163ecc77a0022ab893029",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.64097000000001,
     51.64721
 ],
-  "geometry": {"coordinates":[19.64097000000001,51.64721],"type":"Point"}
+  "geometry": {"coordinates":[19.64097,51.64721],"type":"Point"}
 }

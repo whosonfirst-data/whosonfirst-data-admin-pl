@@ -54,7 +54,7 @@
         "wk:page":"Nowy_Garwarz"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b4b4e18321ab1a7cfbd0ae073b0b9633",
+    "wof:geomhash":"e058e213d9d6cc920290e88ec00bf2a1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.31947000000001,
     52.81475
 ],
-  "geometry": {"coordinates":[20.31947000000001,52.81475],"type":"Point"}
+  "geometry": {"coordinates":[20.31947,52.81475],"type":"Point"}
 }

@@ -51,7 +51,7 @@
         "wk:page":"Pi%C5%84czata"
     },
     "wof:country":"PL",
-    "wof:geomhash":"bcecd0201ab61abb1934b5d3c88b1bc8",
+    "wof:geomhash":"a016fdf65833b1ae9b0e6e3df5c0ee8c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.0796,
     52.60498000000001
 ],
-  "geometry": {"coordinates":[19.0796,52.60498000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.0796,52.60498],"type":"Point"}
 }

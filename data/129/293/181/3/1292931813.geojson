@@ -51,7 +51,7 @@
         "wk:page":"Poledno"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ef91bbefe67254b3a094df1327b6735a",
+    "wof:geomhash":"779493bcc1e6c75b2547f0fc2b9eff06",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.30062,
     53.39449000000001
 ],
-  "geometry": {"coordinates":[18.30062,53.39449000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.30062,53.39449],"type":"Point"}
 }

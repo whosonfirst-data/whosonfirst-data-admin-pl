@@ -60,7 +60,7 @@
         "wk:page":"Podrudzie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2540c3c8a5cb0ebe370266b14fe7a09c",
+    "wof:geomhash":"f1882018f2026904d2e1ff0b193a541e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     21.49183,
     52.16314000000001
 ],
-  "geometry": {"coordinates":[21.49183,52.16314000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.49183,52.16314],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Staroguby"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8f116bea0ac4a4a966ebc25453b4d529",
+    "wof:geomhash":"42df4a88c55cdd74a8e5a572fd9b03ba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.19587000000001,
     52.91845
 ],
-  "geometry": {"coordinates":[20.19587000000001,52.91845],"type":"Point"}
+  "geometry": {"coordinates":[20.19587,52.91845],"type":"Point"}
 }

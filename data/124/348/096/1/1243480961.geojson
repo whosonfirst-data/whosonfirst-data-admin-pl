@@ -54,7 +54,7 @@
         "wk:page":"S%C4%99czkowo%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4db04d57584fbcd00a896462ef715ad1",
+    "wof:geomhash":"a4ab0d52d5e565a89c8653be35beeb54",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.72488,
     52.68304000000001
 ],
-  "geometry": {"coordinates":[18.72488,52.68304000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.72488,52.68304],"type":"Point"}
 }

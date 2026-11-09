@@ -55,7 +55,7 @@
         "wk:page":"Je%C5%BCewo%2C_%C5%BBnin_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"28220ac8f18883ea712b05ee4ba7d322",
+    "wof:geomhash":"e74b72b899aef344e1619629827644b4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,5 +82,5 @@
     17.98925,
     52.97108000000001
 ],
-  "geometry": {"coordinates":[17.98925,52.97108000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.98925,52.97108],"type":"Point"}
 }

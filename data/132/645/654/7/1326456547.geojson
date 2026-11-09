@@ -60,7 +60,7 @@
         "wk:page":"D%C4%99bice%2C_West_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"dba82d00faaa6c8b9b62e92655f58d79",
+    "wof:geomhash":"859abaf0a0621deed0fe769c3cb42fdd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     15.11667,
     53.53333000000001
 ],
-  "geometry": {"coordinates":[15.11667,53.53333000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.11667,53.53333],"type":"Point"}
 }

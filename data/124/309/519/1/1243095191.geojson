@@ -70,7 +70,7 @@
         "wk:page":"Jaka%C4%87_Dworna"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2e72599c921ee660cc682048c0493c5f",
+    "wof:geomhash":"17f3c54a0a063046b80d966a12eb42de",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,5 +97,5 @@
     21.9294,
     53.00559000000001
 ],
-  "geometry": {"coordinates":[21.9294,53.00559000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.9294,53.00559],"type":"Point"}
 }

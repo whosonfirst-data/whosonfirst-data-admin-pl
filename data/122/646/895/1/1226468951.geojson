@@ -54,7 +54,7 @@
         "wk:page":"Cetlin"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c95cad10883af081e0acc44515fd5dff",
+    "wof:geomhash":"bbc908aaaa20286640d2dc59e02d2f39",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.81496,
     52.75418000000001
 ],
-  "geometry": {"coordinates":[19.81496,52.75418000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.81496,52.75418],"type":"Point"}
 }

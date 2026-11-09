@@ -54,7 +54,7 @@
         "wk:page":"Kamie%C5%84_Ryma%C5%84ski"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e75812e0f88236199daae5152b12eedf",
+    "wof:geomhash":"08550d4f8f731eadec376327ee6c12f8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     15.53183,
     53.92008000000001
 ],
-  "geometry": {"coordinates":[15.53183,53.92008000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.53183,53.92008],"type":"Point"}
 }

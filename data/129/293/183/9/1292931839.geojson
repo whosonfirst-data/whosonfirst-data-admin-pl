@@ -51,7 +51,7 @@
         "wk:page":"Wojciech%C3%B3w%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b3ea2735deef550e8e4f93d368759f4b",
+    "wof:geomhash":"d38347b8d49a837c9e38af2d49bd19cf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.51651,
     51.89429000000001
 ],
-  "geometry": {"coordinates":[18.51651,51.89429000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.51651,51.89429],"type":"Point"}
 }

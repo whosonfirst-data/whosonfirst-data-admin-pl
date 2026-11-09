@@ -57,7 +57,7 @@
         "wk:page":"Sady_G%C3%B3rne"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ddaf3647b16d98aad7aa96857d42ae22",
+    "wof:geomhash":"1bdde7e5b162935f49de899d5f2c8a81",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     16.16982999999999,
     50.88235
 ],
-  "geometry": {"coordinates":[16.16982999999999,50.88235],"type":"Point"}
+  "geometry": {"coordinates":[16.16983,50.88235],"type":"Point"}
 }

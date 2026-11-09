@@ -57,7 +57,7 @@
         "wk:page":"Zawi%C5%9B%C4%87%2C_Opole_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"aca20fee92eab8d20372f94458c415ab",
+    "wof:geomhash":"cabb48eac1587cb0da3337a1cd034b20",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     17.95462000000001,
     50.97918
 ],
-  "geometry": {"coordinates":[17.95462000000001,50.97918],"type":"Point"}
+  "geometry": {"coordinates":[17.95462,50.97918],"type":"Point"}
 }

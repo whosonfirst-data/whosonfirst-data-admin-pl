@@ -57,7 +57,7 @@
         "wk:page":"Choiny%2C_Lublin_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c350fcc40ab934e0f2364b0d7eed44e5",
+    "wof:geomhash":"d24855f7496071de09b890c36a0d8477",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.7853,
     51.07539000000001
 ],
-  "geometry": {"coordinates":[22.7853,51.07539000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.7853,51.07539],"type":"Point"}
 }

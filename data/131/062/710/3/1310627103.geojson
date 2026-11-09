@@ -51,7 +51,7 @@
         "wk:page":"Wichr%C3%B3w%2C_Lower_Silesian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"72b4323ca0f73142e0498513e9ae194c",
+    "wof:geomhash":"294aa97af8a0f9a0876601bd77ae3323",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     16.57348,
     51.03449000000001
 ],
-  "geometry": {"coordinates":[16.57348,51.03449000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.57348,51.03449],"type":"Point"}
 }

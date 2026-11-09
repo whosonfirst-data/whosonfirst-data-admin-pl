@@ -60,7 +60,7 @@
         "wk:page":"Pomianowo%2C_West_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ea0d96b5d3c1befd5ad6bfd38cc16fac",
+    "wof:geomhash":"11e0987a1c98cc1ead046e01cea1767a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     16.05768,
     54.03596999999999
 ],
-  "geometry": {"coordinates":[16.05768,54.03596999999999],"type":"Point"}
+  "geometry": {"coordinates":[16.05768,54.03597],"type":"Point"}
 }

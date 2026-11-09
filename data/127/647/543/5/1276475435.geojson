@@ -54,7 +54,7 @@
         "wk:page":"Krzy%C5%BCan%C3%B3w%2C_Lower_Silesian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6dffe214773ebcf92bb2f16b9eae7b04",
+    "wof:geomhash":"aba922aa3603c13522beed347e5c28da",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     16.28706,
     50.39834000000001
 ],
-  "geometry": {"coordinates":[16.28706,50.39834000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.28706,50.39834],"type":"Point"}
 }

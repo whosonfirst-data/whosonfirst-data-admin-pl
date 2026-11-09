@@ -57,7 +57,7 @@
         "wk:page":"Mi%C4%99dzyg%C3%B3rz"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4610a75f6a9a304ba9eca8bf7dae03f8",
+    "wof:geomhash":"5df549c4221e9b264c2f6d2f3583b0f9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.55483,
     50.74384000000001
 ],
-  "geometry": {"coordinates":[21.55483,50.74384000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.55483,50.74384],"type":"Point"}
 }

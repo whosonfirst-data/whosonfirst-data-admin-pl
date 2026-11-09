@@ -60,7 +60,7 @@
         "wk:page":"Wierzbiczany%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7bdedf0edce1f82970d574b1419e9272",
+    "wof:geomhash":"cf2adb552bd988a9a03afec47a4b737b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     17.70332999999999,
     52.52771
 ],
-  "geometry": {"coordinates":[17.70332999999999,52.52771],"type":"Point"}
+  "geometry": {"coordinates":[17.70333,52.52771],"type":"Point"}
 }

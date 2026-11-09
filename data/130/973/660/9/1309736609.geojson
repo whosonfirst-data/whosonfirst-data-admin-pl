@@ -56,7 +56,7 @@
         "wk:page":"S%C4%99drowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3a7a0006617b5e8da6ac59d154acd170",
+    "wof:geomhash":"d43a98943f65d5233ca11dd8b681d809",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,5 +83,5 @@
     21.0089,
     53.37139000000001
 ],
-  "geometry": {"coordinates":[21.0089,53.37139000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.0089,53.37139],"type":"Point"}
 }

@@ -61,7 +61,7 @@
         "wk:page":"Nowa_Wie%C5%9B_E%C5%82cka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e8862f91e2e2e075ad6ab6b666692c97",
+    "wof:geomhash":"2f1abd43ad152d571497e4b4612c3f0c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     22.33462,
     53.77048000000001
 ],
-  "geometry": {"coordinates":[22.33462,53.77048000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.33462,53.77048],"type":"Point"}
 }

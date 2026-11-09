@@ -57,7 +57,7 @@
         "wk:page":"Bagienice%2C_%C5%81om%C5%BCa_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8396119bdb3d64045f793dd4ac8ee21e",
+    "wof:geomhash":"54982c03e5e52ce52be15486c062f1ac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.24354,
     53.35639000000001
 ],
-  "geometry": {"coordinates":[22.24354,53.35639000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.24354,53.35639],"type":"Point"}
 }

@@ -51,7 +51,7 @@
         "wk:page":"Pomiany%2C_Mogilno_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b63885ec4e44c59e42650bb4318fa4d3",
+    "wof:geomhash":"0ed422b16e5fe0173c32acca621b6e03",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.20795,
     52.53746999999999
 ],
-  "geometry": {"coordinates":[18.20795,52.53746999999999],"type":"Point"}
+  "geometry": {"coordinates":[18.20795,52.53747],"type":"Point"}
 }

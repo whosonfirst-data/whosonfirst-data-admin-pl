@@ -51,7 +51,7 @@
         "wk:page":"Lisiec%2C_Lower_Silesian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"0efb6e27217cc8aefb4b8345e1e73e4f",
+    "wof:geomhash":"6a75eca80b56a927f59e079c3dc7d345",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     16.04197000000001,
     51.32498
 ],
-  "geometry": {"coordinates":[16.04197000000001,51.32498],"type":"Point"}
+  "geometry": {"coordinates":[16.04197,51.32498],"type":"Point"}
 }

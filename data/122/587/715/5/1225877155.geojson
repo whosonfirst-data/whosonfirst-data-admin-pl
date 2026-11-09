@@ -54,7 +54,7 @@
         "wk:page":"Korpysy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"699e598b37c158f3d9e34e2ebe49bc51",
+    "wof:geomhash":"e4ba0b5c01760d1a7ab1806fb7f35921",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.94047999999999,
     51.49142
 ],
-  "geometry": {"coordinates":[17.94047999999999,51.49142],"type":"Point"}
+  "geometry": {"coordinates":[17.94048,51.49142],"type":"Point"}
 }

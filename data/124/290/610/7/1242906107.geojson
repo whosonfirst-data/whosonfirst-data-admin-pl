@@ -54,7 +54,7 @@
         "wk:page":"Kosi%C5%82y%2C_Podlaskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f30100cf878d3e63dd95967f03622c86",
+    "wof:geomhash":"996c085a9d3a3f26f0776fdfaf0a366d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.62222,
     53.70773000000001
 ],
-  "geometry": {"coordinates":[22.62222,53.70773000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.62222,53.70773],"type":"Point"}
 }

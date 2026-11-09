@@ -55,7 +55,7 @@
         "wk:page":"Parw%C3%B3%C5%82ki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"fc33af6fd76499f2eed1de5435731b61",
+    "wof:geomhash":"cdf09e3efc918d11e86b384eab5d760c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,5 +82,5 @@
     20.16426,
     53.67596999999999
 ],
-  "geometry": {"coordinates":[20.16426,53.67596999999999],"type":"Point"}
+  "geometry": {"coordinates":[20.16426,53.67597],"type":"Point"}
 }

@@ -60,7 +60,7 @@
         "wk:page":"Wojtachy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"77af70923b730f4ce4f878f7aacf01f0",
+    "wof:geomhash":"9148a9cb1bf3c7c100d4c65d6a1cb163",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     23.10876,
     53.35013000000001
 ],
-  "geometry": {"coordinates":[23.10876,53.35013000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.10876,53.35013],"type":"Point"}
 }

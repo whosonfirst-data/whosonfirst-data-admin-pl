@@ -51,7 +51,7 @@
         "wk:page":"Kozie_Pole"
     },
     "wof:country":"PL",
-    "wof:geomhash":"30c64b05e1fc2cb180e91904c4668294",
+    "wof:geomhash":"67cb9197921386d9822cdcd583f2e4d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.71834,
     50.95352000000001
 ],
-  "geometry": {"coordinates":[19.71834,50.95352000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.71834,50.95352],"type":"Point"}
 }

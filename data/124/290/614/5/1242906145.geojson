@@ -66,7 +66,7 @@
         "wk:page":"Ga%C5%82%C4%85zczyce"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3ebd8e61357d83b5508e11a476adcaab",
+    "wof:geomhash":"c8feada2f4e95cd098028bb505572db3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     17.28287000000001,
     50.6932
 ],
-  "geometry": {"coordinates":[17.28287000000001,50.6932],"type":"Point"}
+  "geometry": {"coordinates":[17.28287,50.6932],"type":"Point"}
 }

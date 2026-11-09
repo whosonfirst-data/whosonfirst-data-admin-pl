@@ -69,7 +69,7 @@
         "wk:page":"G%C3%B3jsk"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c4fa0fd1eb6ed89cc69ee7f615827805",
+    "wof:geomhash":"437f34466631d871c0baa4e615b38b6d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     19.52597,
     52.90071999999999
 ],
-  "geometry": {"coordinates":[19.52597,52.90071999999999],"type":"Point"}
+  "geometry": {"coordinates":[19.52597,52.90072],"type":"Point"}
 }

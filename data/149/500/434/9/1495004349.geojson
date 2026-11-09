@@ -61,7 +61,7 @@
         "wk:page":"Matarnia"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ab55e076662b05abb6e9bdf163e968b8",
+    "wof:geomhash":"933a4fcd088ea5d6e823fae058dedfbf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,5 +91,5 @@
     18.47282,
     54.38563000000001
 ],
-  "geometry": {"coordinates":[18.47282,54.38563000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.47282,54.38563],"type":"Point"}
 }

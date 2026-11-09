@@ -54,7 +54,7 @@
         "wk:page":"D%C4%85browa-Moczyd%C5%82y"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3c0504d9e3483106b6eac4f518196044",
+    "wof:geomhash":"1c5df132c7d5d64dd7fbd67179ed4cf0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.50103,
     52.84068000000001
 ],
-  "geometry": {"coordinates":[22.50103,52.84068000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.50103,52.84068],"type":"Point"}
 }

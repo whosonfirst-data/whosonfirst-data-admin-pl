@@ -57,7 +57,7 @@
         "wk:page":"Zwier%C5%BCany"
     },
     "wof:country":"PL",
-    "wof:geomhash":"59f61d70aa652f4038a2bd59ebc3022c",
+    "wof:geomhash":"c08c67dfda7fcf14f6a95d87b4ecd627",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     23.50868,
     53.50131999999999
 ],
-  "geometry": {"coordinates":[23.50868,53.50131999999999],"type":"Point"}
+  "geometry": {"coordinates":[23.50868,53.50132],"type":"Point"}
 }

@@ -51,7 +51,7 @@
         "wk:page":"Krzywokleszcz"
     },
     "wof:country":"PL",
-    "wof:geomhash":"75f5e47de57d53d78d49d0e7393c10fa",
+    "wof:geomhash":"325fe50356dfb0f3ba3411b8a03d203d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     15.36648,
     52.54108000000001
 ],
-  "geometry": {"coordinates":[15.36648,52.54108000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.36648,52.54108],"type":"Point"}
 }

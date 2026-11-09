@@ -63,7 +63,7 @@
         "wk:page":"Waler%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"371cd45987dcba36d0842a70ab739d53",
+    "wof:geomhash":"cba59eac6041771196208ff7dfaaa2cd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     22.16612000000001,
     52.38791
 ],
-  "geometry": {"coordinates":[22.16612000000001,52.38791],"type":"Point"}
+  "geometry": {"coordinates":[22.16612,52.38791],"type":"Point"}
 }

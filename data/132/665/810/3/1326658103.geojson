@@ -54,7 +54,7 @@
         "wk:page":"Mirowice%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f46c6287fcf3153137ea20a78957e47d",
+    "wof:geomhash":"a4236881853e4f08c9be233a792e5711",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.17787,
     53.31036999999999
 ],
-  "geometry": {"coordinates":[18.17787,53.31036999999999],"type":"Point"}
+  "geometry": {"coordinates":[18.17787,53.31037],"type":"Point"}
 }

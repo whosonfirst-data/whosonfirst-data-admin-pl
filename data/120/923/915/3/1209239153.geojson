@@ -51,7 +51,7 @@
         "wk:page":"Karmin%2C_Pleszew_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"59310418d3472d8d1d6a0145c52d48d0",
+    "wof:geomhash":"c94bf07d3d90da79a31dacbd285b8707",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.69158999999999,
     51.83854
 ],
-  "geometry": {"coordinates":[17.69158999999999,51.83854],"type":"Point"}
+  "geometry": {"coordinates":[17.69159,51.83854],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"W%C5%82odary"
     },
     "wof:country":"PL",
-    "wof:geomhash":"afb2a147dd5347be0e251d68889478e7",
+    "wof:geomhash":"c0d32aef727318fcdc3c6ac122d71ad3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.50386,
     50.45934000000001
 ],
-  "geometry": {"coordinates":[17.50386,50.45934000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.50386,50.45934],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Prz%C4%99s%C5%82awice%2C_Gr%C3%B3jec_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"dc909c86607d4da5804bf6e9aca78129",
+    "wof:geomhash":"1bcdef7b8dbc13ccbe2a9b7b14e6d7d9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.7846,
     51.89729000000001
 ],
-  "geometry": {"coordinates":[20.7846,51.89729000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.7846,51.89729],"type":"Point"}
 }

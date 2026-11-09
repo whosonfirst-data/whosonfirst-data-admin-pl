@@ -54,7 +54,7 @@
         "wk:page":"Szynych"
     },
     "wof:country":"PL",
-    "wof:geomhash":"658b0c2ed497a62030125a8678f0a4d9",
+    "wof:geomhash":"b1734ffd88b06dfc0a8c53684941a05c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.66488,
     53.42373000000001
 ],
-  "geometry": {"coordinates":[18.66488,53.42373000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.66488,53.42373],"type":"Point"}
 }

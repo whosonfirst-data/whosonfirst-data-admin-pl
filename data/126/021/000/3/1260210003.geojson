@@ -54,7 +54,7 @@
         "wk:page":"Siedlec%2C_Krak%C3%B3w_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"485db24fd333be94f3b5145b66d5d24a",
+    "wof:geomhash":"ea636c8a451cff9e922f867c7192d998",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.67757000000001,
     50.14487
 ],
-  "geometry": {"coordinates":[19.67757000000001,50.14487],"type":"Point"}
+  "geometry": {"coordinates":[19.67757,50.14487],"type":"Point"}
 }

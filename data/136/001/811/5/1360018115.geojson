@@ -51,7 +51,7 @@
         "wk:page":"Zbytowa"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d718a994f555e8cd86168cd7f84775ac",
+    "wof:geomhash":"7aaae28e2b5b43f8c504f6d27a18697c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.42999,
     51.11512000000001
 ],
-  "geometry": {"coordinates":[17.42999,51.11512000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.42999,51.11512],"type":"Point"}
 }

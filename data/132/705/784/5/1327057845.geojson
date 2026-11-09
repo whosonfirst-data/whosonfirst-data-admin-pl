@@ -54,7 +54,7 @@
         "wk:page":"Bogaczewo%2C_Elbl%C4%85g_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8c5dae17d1001fedda4c149acd4e635e",
+    "wof:geomhash":"c8683b16ca8b5e83a847a4dfaab80c15",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.57543,
     54.09963000000001
 ],
-  "geometry": {"coordinates":[19.57543,54.09963000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.57543,54.09963],"type":"Point"}
 }

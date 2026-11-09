@@ -60,7 +60,7 @@
         "wk:page":"W%C4%99goryty"
     },
     "wof:country":"PL",
-    "wof:geomhash":"29bc5b0a37ad0d61a2e5cce6f3537fcf",
+    "wof:geomhash":"f4c4f8853eae8a5084efed741199671e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     20.90127,
     54.17769000000001
 ],
-  "geometry": {"coordinates":[20.90127,54.17769000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.90127,54.17769],"type":"Point"}
 }

@@ -72,7 +72,7 @@
         "wk:page":"Brzeska_Wola"
     },
     "wof:country":"PL",
-    "wof:geomhash":"479f87eafde7f7416f151c255ac02b6d",
+    "wof:geomhash":"5126155856c1c18c1fbbb245d42741ed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,5 +99,5 @@
     21.02178,
     51.61434000000001
 ],
-  "geometry": {"coordinates":[21.02178,51.61434000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.02178,51.61434],"type":"Point"}
 }

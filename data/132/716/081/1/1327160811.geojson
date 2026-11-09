@@ -48,7 +48,7 @@
         "wk:page":"Tarnawskie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8300a6f0c44c4fa4b0af0ec8af9ce7b0",
+    "wof:geomhash":"e0b9a062a7715f6f335de47acd71cf46",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     23.14741,
     50.06800000000001
 ],
-  "geometry": {"coordinates":[23.14741,50.06800000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.14741,50.068],"type":"Point"}
 }

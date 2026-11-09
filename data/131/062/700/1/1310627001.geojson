@@ -70,7 +70,7 @@
         "wk:page":"Godziesz%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7b3fc50785f76bd5d53fbb32c8252bac",
+    "wof:geomhash":"9f3852acba04fbfa347ce415821ab1cd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,5 +97,5 @@
     15.25075,
     51.20914000000001
 ],
-  "geometry": {"coordinates":[15.25075,51.20914000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.25075,51.20914],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Karnkowo%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"123b8152d240b58e8aba8f702a3797c8",
+    "wof:geomhash":"9f42d2e52313ef0a5cad962b5a3a5e72",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.46299,
     52.45786999999999
 ],
-  "geometry": {"coordinates":[20.46299,52.45786999999999],"type":"Point"}
+  "geometry": {"coordinates":[20.46299,52.45787],"type":"Point"}
 }

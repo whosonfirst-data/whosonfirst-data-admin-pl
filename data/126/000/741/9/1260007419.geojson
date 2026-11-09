@@ -57,7 +57,7 @@
         "wk:page":"Maszewy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"926bc13e22fafacd9e5dfb8df0c9dcf7",
+    "wof:geomhash":"8a38f55c47cffe80a95d10884ad0eafe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     20.91312000000001,
     54.19747
 ],
-  "geometry": {"coordinates":[20.91312000000001,54.19747],"type":"Point"}
+  "geometry": {"coordinates":[20.91312,54.19747],"type":"Point"}
 }

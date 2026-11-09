@@ -54,7 +54,7 @@
         "wk:page":"Zajeziorze%2C_%C5%9Awi%C4%99tokrzyskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d9efa4a661b8bdbfb84d2499d935466b",
+    "wof:geomhash":"160be47ecda61156405f7549dd23910c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.66847000000001,
     50.63378
 ],
-  "geometry": {"coordinates":[21.66847000000001,50.63378],"type":"Point"}
+  "geometry": {"coordinates":[21.66847,50.63378],"type":"Point"}
 }

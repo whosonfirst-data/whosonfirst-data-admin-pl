@@ -51,7 +51,7 @@
         "wk:page":"Strzy%C5%BCmin"
     },
     "wof:country":"PL",
-    "wof:geomhash":"27977277eea9fed07407856b47292d85",
+    "wof:geomhash":"29351d10571feab879c6e92603a42fc1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     16.2823,
     52.63953000000001
 ],
-  "geometry": {"coordinates":[16.2823,52.63953000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.2823,52.63953],"type":"Point"}
 }

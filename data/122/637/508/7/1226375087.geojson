@@ -69,7 +69,7 @@
         "wk:page":"Cz%C4%99stoszowice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7fa894beeb5fb2eb60aeb2f0314902e3",
+    "wof:geomhash":"bc6075566956687c5437c346f193b661",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     20.15179,
     50.42919000000001
 ],
-  "geometry": {"coordinates":[20.15179,50.42919000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.15179,50.42919],"type":"Point"}
 }

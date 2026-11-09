@@ -51,7 +51,7 @@
         "wk:page":"Wola_Lubiankowska"
     },
     "wof:country":"PL",
-    "wof:geomhash":"dc023466c147b172377c157b17e6ff90",
+    "wof:geomhash":"e1e919729ed7b8cf071ba1c29dfaca3f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.83307000000001,
     51.95838
 ],
-  "geometry": {"coordinates":[19.83307000000001,51.95838],"type":"Point"}
+  "geometry": {"coordinates":[19.83307,51.95838],"type":"Point"}
 }

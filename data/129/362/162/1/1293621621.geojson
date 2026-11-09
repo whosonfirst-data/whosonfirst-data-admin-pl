@@ -54,7 +54,7 @@
         "wk:page":"Cwaliny_Du%C5%BCe"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7a482cbe026c64161be687d53739fd31",
+    "wof:geomhash":"e0121d49c83065608f0b536df4d7572e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.92315,
     53.29286999999999
 ],
-  "geometry": {"coordinates":[21.92315,53.29286999999999],"type":"Point"}
+  "geometry": {"coordinates":[21.92315,53.29287],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Wronino"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3cee0d6561d47debcd7c766932452dbe",
+    "wof:geomhash":"e4b9eba2f762145ebe99d0adb408b611",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.31158,
     52.56939000000001
 ],
-  "geometry": {"coordinates":[20.31158,52.56939000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.31158,52.56939],"type":"Point"}
 }

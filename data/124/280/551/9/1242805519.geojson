@@ -58,7 +58,7 @@
         "wk:page":"Liksajny"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d470307e97b616602df37c4c4010e007",
+    "wof:geomhash":"bd09be0d704c031a68a5724f93b2cb8a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,5 +85,5 @@
     19.79282000000001,
     53.8151
 ],
-  "geometry": {"coordinates":[19.79282000000001,53.8151],"type":"Point"}
+  "geometry": {"coordinates":[19.79282,53.8151],"type":"Point"}
 }

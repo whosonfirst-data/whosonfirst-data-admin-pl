@@ -57,7 +57,7 @@
         "wk:page":"Susk"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5a2926be3258e84f88d61b5be4c18c3c",
+    "wof:geomhash":"95d549ad6f31d90b4dd40b57c129b82d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     19.68445,
     52.80363000000001
 ],
-  "geometry": {"coordinates":[19.68445,52.80363000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.68445,52.80363],"type":"Point"}
 }

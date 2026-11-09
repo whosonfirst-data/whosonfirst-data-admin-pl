@@ -54,7 +54,7 @@
         "wk:page":"Mi%C5%82owice%2C_Lubusz_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a112cb1b7d784c7043ad98f7c5c127bf",
+    "wof:geomhash":"4bcbf1d5631137ac595bdce2c7637a22",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     15.05893,
     51.60977000000001
 ],
-  "geometry": {"coordinates":[15.05893,51.60977000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.05893,51.60977],"type":"Point"}
 }

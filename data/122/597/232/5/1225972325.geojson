@@ -54,7 +54,7 @@
         "wk:page":"Ko%C5%82aczkowice%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"fdacd0c1fc173703ee7f6ff298973e8f",
+    "wof:geomhash":"a7ba0f9ca8080e25a6dddd3134303fa8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.04576,
     51.71149000000001
 ],
-  "geometry": {"coordinates":[17.04576,51.71149000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.04576,51.71149],"type":"Point"}
 }

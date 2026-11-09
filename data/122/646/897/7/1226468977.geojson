@@ -63,7 +63,7 @@
         "wk:page":"Jancewicze"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4ae19bd2eb866524b11a9c8be8a9b6e5",
+    "wof:geomhash":"7536ee13674b108da08a0ccb4fcfaa86",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     23.27934,
     52.43738000000001
 ],
-  "geometry": {"coordinates":[23.27934,52.43738000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.27934,52.43738],"type":"Point"}
 }

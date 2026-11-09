@@ -51,7 +51,7 @@
         "wk:page":"Tadajewo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5bfa7cf34b62f24eec60aff7e1ab245a",
+    "wof:geomhash":"12d7a9ea61f07e351822a3ef58bb6db7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.38409,
     53.13623000000001
 ],
-  "geometry": {"coordinates":[19.38409,53.13623000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.38409,53.13623],"type":"Point"}
 }

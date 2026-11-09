@@ -57,7 +57,7 @@
         "wk:page":"Bociniec"
     },
     "wof:country":"PL",
-    "wof:geomhash":"298ded80248e4ffabf45575227aff574",
+    "wof:geomhash":"cecf3000ce51f64af44b306466f6af7f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     17.32333,
     52.48524000000001
 ],
-  "geometry": {"coordinates":[17.32333,52.48524000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.32333,52.48524],"type":"Point"}
 }

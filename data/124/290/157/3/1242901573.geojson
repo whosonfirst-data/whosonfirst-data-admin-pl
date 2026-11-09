@@ -54,7 +54,7 @@
         "wk:page":"Ku%C5%BAnica_Katowska"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a7613764fff6e9fe0e1e829891adc1c8",
+    "wof:geomhash":"fa385916ff5217141f5c420aa0803d46",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.74967000000001,
     50.88099
 ],
-  "geometry": {"coordinates":[17.74967000000001,50.88099],"type":"Point"}
+  "geometry": {"coordinates":[17.74967,50.88099],"type":"Point"}
 }

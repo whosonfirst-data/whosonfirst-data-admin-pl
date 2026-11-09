@@ -60,7 +60,7 @@
         "wk:page":"Guzy%2C_Warmian-Masurian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4b5b16d441079a541131fe72a994d295",
+    "wof:geomhash":"dba823d1d0faaa51c670fe900b41c282",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     22.40311,
     54.15114000000001
 ],
-  "geometry": {"coordinates":[22.40311,54.15114000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.40311,54.15114],"type":"Point"}
 }

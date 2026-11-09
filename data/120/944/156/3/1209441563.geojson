@@ -60,7 +60,7 @@
         "wk:page":"Adamowizna%2C_Podlaskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5d2169bd9e9a843c7d202a746df4adb0",
+    "wof:geomhash":"b2acc752ed203583ddc434d743313e7f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     23.13584,
     54.17633000000001
 ],
-  "geometry": {"coordinates":[23.13584,54.17633000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.13584,54.17633],"type":"Point"}
 }

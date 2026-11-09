@@ -48,7 +48,7 @@
         "wk:page":"Trojaki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"992d10770e3e36d9ab3ed1af937ff966",
+    "wof:geomhash":"a91a99b629e240c1fdb0bb62d68e1fca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     19.25766,
     54.19488000000001
 ],
-  "geometry": {"coordinates":[19.25766,54.19488000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.25766,54.19488],"type":"Point"}
 }

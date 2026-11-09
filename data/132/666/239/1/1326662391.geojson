@@ -54,7 +54,7 @@
         "wk:page":"Woroszy%C5%82y"
     },
     "wof:country":"PL",
-    "wof:geomhash":"97ec2e315d6ff2ab83db0d6710ce1a05",
+    "wof:geomhash":"055e1635e3c72fd012c43824171f586a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     23.17499,
     53.22600000000001
 ],
-  "geometry": {"coordinates":[23.17499,53.22600000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.17499,53.226],"type":"Point"}
 }

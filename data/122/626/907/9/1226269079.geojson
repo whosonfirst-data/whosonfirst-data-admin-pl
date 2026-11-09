@@ -57,7 +57,7 @@
         "wk:page":"Niet%C4%85%C5%BCkowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d0c54095f7d5b084af09e47089ddb70f",
+    "wof:geomhash":"23ae4afc21bb3f7fb4d8b606a76755f2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     16.53362000000001,
     51.99637
 ],
-  "geometry": {"coordinates":[16.53362000000001,51.99637],"type":"Point"}
+  "geometry": {"coordinates":[16.53362,51.99637],"type":"Point"}
 }

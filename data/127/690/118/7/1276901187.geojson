@@ -57,7 +57,7 @@
         "wk:page":"%C5%9Awi%C4%99ck-Strumiany"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6e218f3ca1a7d404aa2d603b62995e68",
+    "wof:geomhash":"f481d8b3eabba4febb1696a9b9a5ee19",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.39022000000001,
     52.87754
 ],
-  "geometry": {"coordinates":[22.39022000000001,52.87754],"type":"Point"}
+  "geometry": {"coordinates":[22.39022,52.87754],"type":"Point"}
 }

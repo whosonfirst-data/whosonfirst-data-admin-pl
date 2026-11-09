@@ -63,7 +63,7 @@
         "wk:page":"Smorczewo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4b4db7fa6e5971bb1725e5d13657d740",
+    "wof:geomhash":"6b3c52e958dafb015228fe7231b05bf5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     22.63433,
     52.51208000000001
 ],
-  "geometry": {"coordinates":[22.63433,52.51208000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.63433,52.51208],"type":"Point"}
 }

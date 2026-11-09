@@ -51,7 +51,7 @@
         "wk:page":"Ma%C5%82e_Pu%C5%82kowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5af810f3f6e98b6fcd18e080cfee5d23",
+    "wof:geomhash":"7951fb74de73ece261c760a644d244a5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.03287000000001,
     53.19868
 ],
-  "geometry": {"coordinates":[19.03287000000001,53.19868],"type":"Point"}
+  "geometry": {"coordinates":[19.03287,53.19868],"type":"Point"}
 }

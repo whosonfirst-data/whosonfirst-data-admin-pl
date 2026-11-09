@@ -51,7 +51,7 @@
         "wk:page":"D%C4%85bie%2C_Inowroc%C5%82aw_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a0b37ab952581dda0b3a349d7cf22650",
+    "wof:geomhash":"fb921a4aa1ca367970c02886ccb96e34",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.34543,
     52.92093000000001
 ],
-  "geometry": {"coordinates":[18.34543,52.92093000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.34543,52.92093],"type":"Point"}
 }

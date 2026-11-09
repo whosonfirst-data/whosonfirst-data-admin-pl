@@ -54,7 +54,7 @@
         "wk:page":"Zab%C5%82ocie%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"21633473c7baae04f4e8cbb7496d8f07",
+    "wof:geomhash":"983aa958fe08a1e5057e277d4f258007",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.78812000000001,
     52.24749
 ],
-  "geometry": {"coordinates":[18.78812000000001,52.24749],"type":"Point"}
+  "geometry": {"coordinates":[18.78812,52.24749],"type":"Point"}
 }

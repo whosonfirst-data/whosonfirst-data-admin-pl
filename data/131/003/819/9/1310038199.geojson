@@ -57,7 +57,7 @@
         "wk:page":"Drze%C5%84sko%2C_S%C5%82awno_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c4537318f8976f8b0e5aeeceeffec1d5",
+    "wof:geomhash":"a5fb50ae78b15e485f4b31d01a39e97e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     16.6431,
     54.23628000000001
 ],
-  "geometry": {"coordinates":[16.6431,54.23628000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.6431,54.23628],"type":"Point"}
 }

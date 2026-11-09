@@ -61,7 +61,7 @@
         "wk:page":"Merguny"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f63b4310248545fe5314b1260b38f0c6",
+    "wof:geomhash":"aeba1d915c016a99c498704d80712139",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     20.6582,
     54.29913000000001
 ],
-  "geometry": {"coordinates":[20.6582,54.29913000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.6582,54.29913],"type":"Point"}
 }

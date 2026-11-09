@@ -54,7 +54,7 @@
         "wk:page":"Bielawy%2C_Gostynin_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3186512a2b6a9dd1fbc10054e6ed0f48",
+    "wof:geomhash":"5d36958ced15c326474c2cb2610acb43",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.43636,
     52.46438000000001
 ],
-  "geometry": {"coordinates":[19.43636,52.46438000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.43636,52.46438],"type":"Point"}
 }

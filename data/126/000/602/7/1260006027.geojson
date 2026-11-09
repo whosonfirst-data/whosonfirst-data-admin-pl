@@ -57,7 +57,7 @@
         "wk:page":"%C5%BBalno"
     },
     "wof:country":"PL",
-    "wof:geomhash":"38da5c1959747b4b5244ea8f9f3864c1",
+    "wof:geomhash":"aca3fcaaecb2fa2e53aa9dadb647f057",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     17.77204,
     53.61233000000001
 ],
-  "geometry": {"coordinates":[17.77204,53.61233000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.77204,53.61233],"type":"Point"}
 }

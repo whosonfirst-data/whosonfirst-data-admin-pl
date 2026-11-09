@@ -57,7 +57,7 @@
         "wk:page":"Robakowo%2C_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b08e391f3d03886e3284102365835940",
+    "wof:geomhash":"f10cdc42c3f4ae4cdf4a1c62402b2479",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     18.14394,
     54.56158000000001
 ],
-  "geometry": {"coordinates":[18.14394,54.56158000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.14394,54.56158],"type":"Point"}
 }

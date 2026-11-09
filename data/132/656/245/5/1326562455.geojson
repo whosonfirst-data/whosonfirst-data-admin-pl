@@ -57,7 +57,7 @@
         "wk:page":"Wereszczyn"
     },
     "wof:country":"PL",
-    "wof:geomhash":"617d26e5bc82c6349cd4e64525548387",
+    "wof:geomhash":"ad886ddbc2dd2bc0cb80243f64715b0e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     23.21239,
     51.36004000000001
 ],
-  "geometry": {"coordinates":[23.21239,51.36004000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.21239,51.36004],"type":"Point"}
 }

@@ -69,7 +69,7 @@
         "wk:page":"Bukowa%2C_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3c967a5aee310f65e6269f4293bc1d1f",
+    "wof:geomhash":"8bd15303f46809df62f84319ee77361b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     17.14685,
     54.60073000000001
 ],
-  "geometry": {"coordinates":[17.14685,54.60073000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.14685,54.60073],"type":"Point"}
 }

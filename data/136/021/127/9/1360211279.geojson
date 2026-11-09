@@ -51,7 +51,7 @@
         "wk:page":"Chomi%C4%85%C5%BCa_Ksi%C4%99%C5%BCa"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ba76cc4fa837aa1cd8128d51802d5ed8",
+    "wof:geomhash":"6572e6852639ad20cd5af6ae0205df79",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.85036000000001,
     52.82774000000001
 ],
-  "geometry": {"coordinates":[17.85036000000001,52.82774000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.85036,52.82774],"type":"Point"}
 }

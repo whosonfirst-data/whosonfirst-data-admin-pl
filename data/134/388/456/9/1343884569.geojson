@@ -54,7 +54,7 @@
         "wk:page":"Wierzchocina"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b9e79f3998122f54be85c2faacd2d195",
+    "wof:geomhash":"3f2c166a13187b9d775e174293ce2d98",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.25409,
     53.96038000000001
 ],
-  "geometry": {"coordinates":[17.25409,53.96038000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.25409,53.96038],"type":"Point"}
 }

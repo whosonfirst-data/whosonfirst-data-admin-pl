@@ -72,7 +72,7 @@
         "wk:page":"Skupowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1e321a35c6f36280495ad48b2886c0a9",
+    "wof:geomhash":"c014097f0233e78c61e85713bd5a9706",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,5 +99,5 @@
     23.69739,
     52.83031999999999
 ],
-  "geometry": {"coordinates":[23.69739,52.83031999999999],"type":"Point"}
+  "geometry": {"coordinates":[23.69739,52.83032],"type":"Point"}
 }

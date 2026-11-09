@@ -54,7 +54,7 @@
         "wk:page":"Laso%C5%84"
     },
     "wof:country":"PL",
-    "wof:geomhash":"45da8903c8814392ebcde0e19449a5cd",
+    "wof:geomhash":"74d1127755d1da877d6d813c768479fd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.96974,
     51.58309000000001
 ],
-  "geometry": {"coordinates":[21.96974,51.58309000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.96974,51.58309],"type":"Point"}
 }

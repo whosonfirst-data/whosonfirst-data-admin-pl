@@ -58,7 +58,7 @@
         "wk:page":"Rudka_Koz%C5%82owiecka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ecfacc3688ead7c923440625510968e2",
+    "wof:geomhash":"485cf8b942483ff1db5fa5c1bf034758",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,5 +85,5 @@
     22.58192,
     51.36154000000001
 ],
-  "geometry": {"coordinates":[22.58192,51.36154000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.58192,51.36154],"type":"Point"}
 }

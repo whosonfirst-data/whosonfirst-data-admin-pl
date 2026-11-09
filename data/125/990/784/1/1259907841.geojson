@@ -51,7 +51,7 @@
         "wk:page":"Pogorzany"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6e8e1c35d1b81b12d9f2d06efba6ddb1",
+    "wof:geomhash":"70f2b77f3aac0383eb8ad8657fba5868",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     20.17725,
     49.78514000000001
 ],
-  "geometry": {"coordinates":[20.17725,49.78514000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.17725,49.78514],"type":"Point"}
 }

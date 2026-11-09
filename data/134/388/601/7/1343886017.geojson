@@ -69,7 +69,7 @@
         "wk:page":"B%C4%99dargowo%2C_Police_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"52f61e31e157156f10a84a4286b88c81",
+    "wof:geomhash":"0f29b53e7a20a8473859bc6570b02270",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     14.4413,
     53.39158000000001
 ],
-  "geometry": {"coordinates":[14.4413,53.39158000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.4413,53.39158],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Wyst%C4%99p%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2458e66ec6ae00c8684203077a31c1e7",
+    "wof:geomhash":"edefea2ef4bcf4c0e448d2fd060b486f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.65092000000001,
     53.12177
 ],
-  "geometry": {"coordinates":[17.65092000000001,53.12177],"type":"Point"}
+  "geometry": {"coordinates":[17.65092,53.12177],"type":"Point"}
 }

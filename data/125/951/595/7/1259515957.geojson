@@ -60,7 +60,7 @@
         "wk:page":"K%C5%82odzino%2C_Kamie%C5%84_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"62d5aba181d2c90a4b89b9b6700c5aee",
+    "wof:geomhash":"2c5d6cdaa82255fed799d05969e5b9f1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     14.95824,
     53.79046999999999
 ],
-  "geometry": {"coordinates":[14.95824,53.79046999999999],"type":"Point"}
+  "geometry": {"coordinates":[14.95824,53.79047],"type":"Point"}
 }

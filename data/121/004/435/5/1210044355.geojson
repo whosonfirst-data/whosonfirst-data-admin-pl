@@ -57,7 +57,7 @@
         "wk:page":"Jastrz%C4%99bie%2C_Brodnica_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6ca8c6b25fec877720e922801c3a9202",
+    "wof:geomhash":"98a42c2040d18b772e5a35a3378343c9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     19.52038,
     53.21503000000001
 ],
-  "geometry": {"coordinates":[19.52038,53.21503000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.52038,53.21503],"type":"Point"}
 }

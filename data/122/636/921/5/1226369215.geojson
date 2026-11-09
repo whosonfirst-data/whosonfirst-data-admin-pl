@@ -54,7 +54,7 @@
         "wk:page":"D%C4%85br%C3%B3wka%2C_Gostynin_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"23cfd623c9e427ac984daa453ce2195e",
+    "wof:geomhash":"9302c139d01a2f8bb5c9872a6570f76d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.35774,
     52.45056999999999
 ],
-  "geometry": {"coordinates":[19.35774,52.45056999999999],"type":"Point"}
+  "geometry": {"coordinates":[19.35774,52.45057],"type":"Point"}
 }

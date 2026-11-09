@@ -51,7 +51,7 @@
         "wk:page":"Borszowice%2C_Gmina_Imielno"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d8632d40083d1c7e1e4f788208f91d8c",
+    "wof:geomhash":"1397b03f26e8c1f030ecc2de36d1a0a8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     20.48607,
     50.63182000000001
 ],
-  "geometry": {"coordinates":[20.48607,50.63182000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.48607,50.63182],"type":"Point"}
 }

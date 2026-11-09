@@ -54,7 +54,7 @@
         "wk:page":"Ratowo-Piotrowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"14ea4dfc76c444dd115f96a7daf97e90",
+    "wof:geomhash":"0745dd314e8864e32d22b4ac6db8e6f5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.00067,
     53.06231999999999
 ],
-  "geometry": {"coordinates":[22.00067,53.06231999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.00067,53.06232],"type":"Point"}
 }

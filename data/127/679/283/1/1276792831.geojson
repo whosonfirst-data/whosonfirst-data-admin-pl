@@ -54,7 +54,7 @@
         "wk:page":"Kisielnica%2C_Podlaskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"555053093badcd4a9f87ad4c273f216d",
+    "wof:geomhash":"830e0be8d4554a62d0cc1fbf167d01d1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.12149,
     53.25443000000001
 ],
-  "geometry": {"coordinates":[22.12149,53.25443000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.12149,53.25443],"type":"Point"}
 }

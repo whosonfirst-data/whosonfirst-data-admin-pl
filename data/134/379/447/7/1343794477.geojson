@@ -57,7 +57,7 @@
         "wk:page":"Pe%C5%84skie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8aedec8d2963934b0ed90ff45c27ecae",
+    "wof:geomhash":"b4eb2fbf6fe36dc332b9b1f09eadb497",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.81328,
     53.30708000000001
 ],
-  "geometry": {"coordinates":[22.81328,53.30708000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.81328,53.30708],"type":"Point"}
 }

@@ -63,7 +63,7 @@
         "wk:page":"My%C5%9Bliki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4e226ec4eaee7932dde7d2e55d6a2584",
+    "wof:geomhash":"949e1376c900969d018175d4def04f8a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     22.17117,
     53.61013000000001
 ],
-  "geometry": {"coordinates":[22.17117,53.61013000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.17117,53.61013],"type":"Point"}
 }

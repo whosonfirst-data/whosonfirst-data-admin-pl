@@ -54,7 +54,7 @@
         "wk:page":"Many%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7bb7eb7f864f43ab88a50c4d5ffd3428",
+    "wof:geomhash":"f099d7b3bc1c324277ced538e9c3a861",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.71454,
     51.96599000000001
 ],
-  "geometry": {"coordinates":[20.71454,51.96599000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.71454,51.96599],"type":"Point"}
 }

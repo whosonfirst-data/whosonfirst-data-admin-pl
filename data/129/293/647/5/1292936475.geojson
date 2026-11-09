@@ -55,7 +55,7 @@
         "wk:page":"Ot%C5%82%C3%B3wko"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ccf7de08d9f47e4699eb3a759ad5ef18",
+    "wof:geomhash":"7c6897d1546676fede76dd69f8290de2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,5 +82,5 @@
     18.9609,
     53.66928000000001
 ],
-  "geometry": {"coordinates":[18.9609,53.66928000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.9609,53.66928],"type":"Point"}
 }

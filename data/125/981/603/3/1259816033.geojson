@@ -60,7 +60,7 @@
         "wk:page":"Kartlewo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"569641bb1a400a69c6d375fe8a1ffc81",
+    "wof:geomhash":"0e8b69fcaa33ab821e57309ca2661532",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     14.79198,
     53.79089000000001
 ],
-  "geometry": {"coordinates":[14.79198,53.79089000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.79198,53.79089],"type":"Point"}
 }

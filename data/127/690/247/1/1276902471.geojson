@@ -63,7 +63,7 @@
         "wk:page":"Bujnowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2929a6efca7c66b151b39de6ef100774",
+    "wof:geomhash":"d34512e55d75d9d90ac5e2fc3c86c452",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     22.95689,
     52.76988000000001
 ],
-  "geometry": {"coordinates":[22.95689,52.76988000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.95689,52.76988],"type":"Point"}
 }

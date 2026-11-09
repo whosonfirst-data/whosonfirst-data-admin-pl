@@ -54,7 +54,7 @@
         "wk:page":"Smoniowice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"dcc116a19d4c6c14df00c7afa32c55ec",
+    "wof:geomhash":"0b9205972d3592c708874f6ab0240e56",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.22609,
     50.28664000000001
 ],
-  "geometry": {"coordinates":[20.22609,50.28664000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.22609,50.28664],"type":"Point"}
 }

@@ -60,7 +60,7 @@
         "wk:page":"Mazan%C3%B3wka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ac681cc14875ae9e06dbfc84727bcf3e",
+    "wof:geomhash":"ca4db507e149cb2d1bc7d4a6ce690394",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     23.38572000000001,
     51.824
 ],
-  "geometry": {"coordinates":[23.38572000000001,51.824],"type":"Point"}
+  "geometry": {"coordinates":[23.38572,51.824],"type":"Point"}
 }

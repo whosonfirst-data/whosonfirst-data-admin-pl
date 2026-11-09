@@ -54,7 +54,7 @@
         "wk:page":"Wa%C5%82kowiska"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8f64eb6d05df14b7ab7a30cdf7ede117",
+    "wof:geomhash":"887145941b09957e4e14ea535aafc9cd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.36566,
     53.57143000000001
 ],
-  "geometry": {"coordinates":[18.36566,53.57143000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.36566,53.57143],"type":"Point"}
 }

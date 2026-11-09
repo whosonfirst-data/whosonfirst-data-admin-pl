@@ -69,7 +69,7 @@
         "wk:page":"B%C4%99bnowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"307b3fad24069b98ca4f6430897bf06f",
+    "wof:geomhash":"ae2f675acdca6489bf3d3af1d04e6adb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     20.08773,
     52.91708000000001
 ],
-  "geometry": {"coordinates":[20.08773,52.91708000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.08773,52.91708],"type":"Point"}
 }

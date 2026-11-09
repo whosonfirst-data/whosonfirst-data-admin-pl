@@ -57,7 +57,7 @@
         "wk:page":"Fia%C5%82ki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"416328ed21a73522b4f249f259904866",
+    "wof:geomhash":"50a56ccdb8b807ab7fa1ebf07b3e523e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     19.6657,
     53.20953000000001
 ],
-  "geometry": {"coordinates":[19.6657,53.20953000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.6657,53.20953],"type":"Point"}
 }

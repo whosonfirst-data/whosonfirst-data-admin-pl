@@ -54,7 +54,7 @@
         "wk:page":"Soje"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9d90597bc79c10d2d7c5e518f7f8696b",
+    "wof:geomhash":"2e27cfebd9e9480efb2882cd2c4f47b2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.2638,
     52.90978000000001
 ],
-  "geometry": {"coordinates":[21.2638,52.90978000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.2638,52.90978],"type":"Point"}
 }

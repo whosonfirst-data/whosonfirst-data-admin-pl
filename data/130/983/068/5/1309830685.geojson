@@ -57,7 +57,7 @@
         "wk:page":"Rad%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5edf0aeec303d5f3a838fd70387d0682",
+    "wof:geomhash":"981aa29098f2e88aab239934c614abe1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     14.74717,
     52.43723000000001
 ],
-  "geometry": {"coordinates":[14.74717,52.43723000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.74717,52.43723],"type":"Point"}
 }

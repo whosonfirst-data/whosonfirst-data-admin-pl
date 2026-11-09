@@ -55,7 +55,7 @@
         "wk:page":"Postawele"
     },
     "wof:country":"PL",
-    "wof:geomhash":"bb1dd64afba0f540cbf5512808a900d8",
+    "wof:geomhash":"ffdd6f9082e472032d6c364404821767",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,5 +82,5 @@
     22.92143,
     54.28596999999999
 ],
-  "geometry": {"coordinates":[22.92143,54.28596999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.92143,54.28597],"type":"Point"}
 }

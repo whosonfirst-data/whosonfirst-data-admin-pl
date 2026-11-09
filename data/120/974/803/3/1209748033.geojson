@@ -66,7 +66,7 @@
         "wk:page":"Tur%C3%B3wka%2C_Podlaskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"52ccf8a42585448c8904789e6405fac7",
+    "wof:geomhash":"b99ac900f6255f0a82f549df92559c55",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     22.84732,
     53.85639000000001
 ],
-  "geometry": {"coordinates":[22.84732,53.85639000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.84732,53.85639],"type":"Point"}
 }

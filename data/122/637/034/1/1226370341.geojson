@@ -57,7 +57,7 @@
         "wk:page":"B%C5%82omino-Je%C5%BCe"
     },
     "wof:country":"PL",
-    "wof:geomhash":"486a93bea0ef306029aa437fcc7bfc70",
+    "wof:geomhash":"16f6fad436f8a7c95dc78b63be053e01",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     20.19467,
     52.64559000000001
 ],
-  "geometry": {"coordinates":[20.19467,52.64559000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.19467,52.64559],"type":"Point"}
 }

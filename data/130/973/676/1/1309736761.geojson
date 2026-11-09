@@ -45,7 +45,7 @@
         "wk:page":"Rutwica%2C_West_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ba6796ac711bf1d97d8629958107aef6",
+    "wof:geomhash":"a203f8787ac1fce2891855adbe37531a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,5 +72,5 @@
     16.27835,
     53.22754000000001
 ],
-  "geometry": {"coordinates":[16.27835,53.22754000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.27835,53.22754],"type":"Point"}
 }

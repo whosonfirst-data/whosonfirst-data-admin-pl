@@ -54,7 +54,7 @@
         "wk:page":"%C5%81uszczewo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"38b577439165553d1155f8342b9c0006",
+    "wof:geomhash":"56bc27ace4cd567c99f6500092134d41",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.36777,
     52.52144000000001
 ],
-  "geometry": {"coordinates":[18.36777,52.52144000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.36777,52.52144],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Pi%C4%85tkowizna"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f01fbea1cf8c9c808a2ab848ac4237d7",
+    "wof:geomhash":"b655b801efc9cf43491ba3e94f09360d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.58882,
     53.43796999999999
 ],
-  "geometry": {"coordinates":[21.58882,53.43796999999999],"type":"Point"}
+  "geometry": {"coordinates":[21.58882,53.43797],"type":"Point"}
 }

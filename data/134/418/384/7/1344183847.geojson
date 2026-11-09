@@ -54,7 +54,7 @@
         "wk:page":"Wersele"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9fe7ec0144b47feb607f3ae2855b728a",
+    "wof:geomhash":"6e6dc3e80e48fd29c32d454eabff6964",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.75595,
     54.28928000000001
 ],
-  "geometry": {"coordinates":[22.75595,54.28928000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.75595,54.28928],"type":"Point"}
 }

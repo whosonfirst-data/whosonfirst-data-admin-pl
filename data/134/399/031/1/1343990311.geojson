@@ -57,7 +57,7 @@
         "wk:page":"Guty%2C_Podlaskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6a6a4e33a4b8aece39de6bff97b8d2ee",
+    "wof:geomhash":"fa3bdb896e18fa15935bd71947aeb9de",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.2538,
     53.23883000000001
 ],
-  "geometry": {"coordinates":[22.2538,53.23883000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.2538,53.23883],"type":"Point"}
 }

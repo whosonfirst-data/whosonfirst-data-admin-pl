@@ -54,7 +54,7 @@
         "wk:page":"Rychnowo%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"45cfeb1e572b7055dbbd8e0bf9930bc0",
+    "wof:geomhash":"56dd926bc05b82948e547f3947b2e7d9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.0751,
     53.43581999999999
 ],
-  "geometry": {"coordinates":[19.0751,53.43581999999999],"type":"Point"}
+  "geometry": {"coordinates":[19.0751,53.43582],"type":"Point"}
 }

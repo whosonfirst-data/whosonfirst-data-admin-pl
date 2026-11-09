@@ -51,7 +51,7 @@
         "wk:page":"%C5%BBerniki_Ma%C5%82e"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e4ed99a02efe54b8e4f79dfa982c64dc",
+    "wof:geomhash":"b97a5eec6db344c7b29bb6ada13207cd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     16.90813,
     51.00382000000001
 ],
-  "geometry": {"coordinates":[16.90813,51.00382000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.90813,51.00382],"type":"Point"}
 }

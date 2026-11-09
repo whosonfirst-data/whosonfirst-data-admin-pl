@@ -60,7 +60,7 @@
         "wk:page":"Kuzie%2C_Podlaskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5b3800890d876eb93f551a0773de5a0a",
+    "wof:geomhash":"a8cdacb5cc8a59367cb7a343594ff8db",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     21.66864,
     53.30246999999999
 ],
-  "geometry": {"coordinates":[21.66864,53.30246999999999],"type":"Point"}
+  "geometry": {"coordinates":[21.66864,53.30247],"type":"Point"}
 }

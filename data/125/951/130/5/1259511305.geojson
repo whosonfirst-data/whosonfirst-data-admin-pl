@@ -59,7 +59,7 @@
         "wk:page":"Chlewice%2C_West_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9bbe844daefd2309968c32ecb26e65cb",
+    "wof:geomhash":"764bac9d06188b3d02f6beae88131053",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,5 +86,5 @@
     14.50436,
     52.66504000000001
 ],
-  "geometry": {"coordinates":[14.50436,52.66504000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.50436,52.66504],"type":"Point"}
 }

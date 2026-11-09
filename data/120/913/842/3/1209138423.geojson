@@ -51,7 +51,7 @@
         "wk:page":"Go%C5%82oty%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"06c40d72244cf35643bac3cce90b505a",
+    "wof:geomhash":"a4688f8b1c259580924279d486e9ad1d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.40033,
     53.23096999999999
 ],
-  "geometry": {"coordinates":[18.40033,53.23096999999999],"type":"Point"}
+  "geometry": {"coordinates":[18.40033,53.23097],"type":"Point"}
 }

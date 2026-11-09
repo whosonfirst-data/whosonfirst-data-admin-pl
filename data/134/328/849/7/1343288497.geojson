@@ -54,7 +54,7 @@
         "wk:page":"Komory%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8cc010d34846abadf9a4e1c9bc9a16e6",
+    "wof:geomhash":"80e8f2612a01d426fd12da942c84187d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.82622000000001,
     52.43633000000001
 ],
-  "geometry": {"coordinates":[21.82622000000001,52.43633000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.82622,52.43633],"type":"Point"}
 }

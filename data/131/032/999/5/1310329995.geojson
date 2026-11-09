@@ -55,7 +55,7 @@
         "wk:page":"Wyrza"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3bcb685ec454273d0f4c5566bfb8365f",
+    "wof:geomhash":"5f6fef3abc0c724cc52b8d47f0c9b896",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,5 +82,5 @@
     17.53449,
     53.21953000000001
 ],
-  "geometry": {"coordinates":[17.53449,53.21953000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.53449,53.21953],"type":"Point"}
 }

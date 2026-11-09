@@ -60,7 +60,7 @@
         "wk:page":"Wronki_Wielkie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"572c45a56ff4b54adee34c67515313d5",
+    "wof:geomhash":"beccd6e1f0f40a664fd5d4906227a052",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     22.27488,
     54.25823000000001
 ],
-  "geometry": {"coordinates":[22.27488,54.25823000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.27488,54.25823],"type":"Point"}
 }

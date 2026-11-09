@@ -51,7 +51,7 @@
         "wk:page":"Gnojno%2C_Lipno_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"568a1885e9f5aa1ce82ac91703ad6ddb",
+    "wof:geomhash":"397dc2c3144a0f4a72129658c752b705",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.05931,
     52.78268000000001
 ],
-  "geometry": {"coordinates":[19.05931,52.78268000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.05931,52.78268],"type":"Point"}
 }

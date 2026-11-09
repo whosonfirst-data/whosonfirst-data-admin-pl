@@ -51,7 +51,7 @@
         "wk:page":"Zawa%C5%82y%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1de21438029d1e845fc1c444cbe107e8",
+    "wof:geomhash":"926a6d9001801415fe094ffec4d9d0f1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.83468,
     52.98739000000001
 ],
-  "geometry": {"coordinates":[18.83468,52.98739000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.83468,52.98739],"type":"Point"}
 }

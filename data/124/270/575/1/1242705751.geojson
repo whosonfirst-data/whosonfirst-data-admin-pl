@@ -48,7 +48,7 @@
         "wk:page":"Rzywno"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2b11fb659df9e2fc397a33a0267ea9fd",
+    "wof:geomhash":"3ef4130827bfb89c75265efedb30ec80",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     17.94288,
     52.99313000000001
 ],
-  "geometry": {"coordinates":[17.94288,52.99313000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.94288,52.99313],"type":"Point"}
 }

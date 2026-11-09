@@ -60,7 +60,7 @@
         "wk:page":"Nied%C5%BAwiedzica%2C_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8aa692916f7573b8367dd6de74e1573b",
+    "wof:geomhash":"ed9690ff8de9799abb80d38a70b6775c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     18.9859,
     54.25848000000001
 ],
-  "geometry": {"coordinates":[18.9859,54.25848000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.9859,54.25848],"type":"Point"}
 }

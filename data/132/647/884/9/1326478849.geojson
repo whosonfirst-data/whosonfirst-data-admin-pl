@@ -57,7 +57,7 @@
         "wk:page":"Budy%2C_Ko%C5%84skie_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f9a0b7b5cfb6b08064e35c6dc11bbbce",
+    "wof:geomhash":"55e8fdb670886bfea224c900b785db82",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     20.08927000000001,
     51.07414
 ],
-  "geometry": {"coordinates":[20.08927000000001,51.07414],"type":"Point"}
+  "geometry": {"coordinates":[20.08927,51.07414],"type":"Point"}
 }

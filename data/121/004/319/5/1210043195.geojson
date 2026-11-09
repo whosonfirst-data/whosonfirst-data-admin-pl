@@ -57,7 +57,7 @@
         "wk:page":"Jaromierz%2C_Kwidzyn_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ec7bdb1a4bdd580f551baf2707d17afa",
+    "wof:geomhash":"65618894611c533e2e0a8a14af2b986e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     19.13612,
     53.65521999999999
 ],
-  "geometry": {"coordinates":[19.13612,53.65521999999999],"type":"Point"}
+  "geometry": {"coordinates":[19.13612,53.65522],"type":"Point"}
 }

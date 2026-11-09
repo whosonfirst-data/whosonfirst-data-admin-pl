@@ -54,7 +54,7 @@
         "wk:page":"Sitno%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"003d1e3e2bd23901ab267b588467c661",
+    "wof:geomhash":"3941c0962122d2627d3bb9aa6aef3090",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.37564,
     52.59793000000001
 ],
-  "geometry": {"coordinates":[21.37564,52.59793000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.37564,52.59793],"type":"Point"}
 }

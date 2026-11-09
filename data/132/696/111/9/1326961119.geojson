@@ -67,7 +67,7 @@
         "wk:page":"G%C5%82%C4%85bowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2a7920a1990bdd9fe9c80db5e3dcf70a",
+    "wof:geomhash":"793c2f7b9ab20fa24dad3fa4035af82a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,5 +94,5 @@
     21.55339,
     53.96066999999999
 ],
-  "geometry": {"coordinates":[21.55339,53.96066999999999],"type":"Point"}
+  "geometry": {"coordinates":[21.55339,53.96067],"type":"Point"}
 }

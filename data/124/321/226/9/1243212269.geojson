@@ -54,7 +54,7 @@
         "wk:page":"P%C5%82ucki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d611d1b529db4dd0fb6248a9bcd621dc",
+    "wof:geomhash":"9c177d4d9d667d317293ece8b3a0ef2b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.06914,
     50.79239000000001
 ],
-  "geometry": {"coordinates":[21.06914,50.79239000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.06914,50.79239],"type":"Point"}
 }

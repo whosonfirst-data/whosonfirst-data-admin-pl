@@ -54,7 +54,7 @@
         "wk:page":"%C5%81opatki-Kolonia"
     },
     "wof:country":"PL",
-    "wof:geomhash":"111efdb7db68373c3a632d2790969d40",
+    "wof:geomhash":"184e53da06ee1a14a2c110890a797955",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.11925,
     51.31744000000001
 ],
-  "geometry": {"coordinates":[22.11925,51.31744000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.11925,51.31744],"type":"Point"}
 }

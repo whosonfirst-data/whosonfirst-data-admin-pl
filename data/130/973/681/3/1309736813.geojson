@@ -57,7 +57,7 @@
         "wk:page":"Wyromiejki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"810528f6d97f6c1b8e1b4f6175c5d214",
+    "wof:geomhash":"ddbab5db9e1039214dff870b362fc8ec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.85261,
     52.48696999999999
 ],
-  "geometry": {"coordinates":[22.85261,52.48696999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.85261,52.48697],"type":"Point"}
 }

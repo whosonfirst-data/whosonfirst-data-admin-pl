@@ -54,7 +54,7 @@
         "wk:page":"D%C4%99bsko%2C_West_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"795b1dae31b1dd3edcfca6b1d9a70e28",
+    "wof:geomhash":"c0fc7f91b2e6116cac65da0341940f01",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     15.85774,
     53.25774000000001
 ],
-  "geometry": {"coordinates":[15.85774,53.25774000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.85774,53.25774],"type":"Point"}
 }

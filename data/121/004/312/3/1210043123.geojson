@@ -51,7 +51,7 @@
         "wk:page":"Procy%C5%84"
     },
     "wof:country":"PL",
-    "wof:geomhash":"433fa2f843333707204c8f24fa463017",
+    "wof:geomhash":"2bd221b6f668870566193ff84b9088ff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.03278,
     52.55923000000001
 ],
-  "geometry": {"coordinates":[18.03278,52.55923000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.03278,52.55923],"type":"Point"}
 }

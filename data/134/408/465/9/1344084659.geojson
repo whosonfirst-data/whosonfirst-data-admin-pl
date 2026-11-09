@@ -60,7 +60,7 @@
         "wk:page":"Tylwica"
     },
     "wof:country":"PL",
-    "wof:geomhash":"0413447b0fa2eef151e2bb87180c1104",
+    "wof:geomhash":"4dd80f86607077f0afda815dc17174ea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     23.46054,
     53.01414000000001
 ],
-  "geometry": {"coordinates":[23.46054,53.01414000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.46054,53.01414],"type":"Point"}
 }

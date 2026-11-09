@@ -54,7 +54,7 @@
         "wk:page":"Rogowo%2C_Bia%C5%82ogard_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6489563c40926cf4aebe96a2da5f0722",
+    "wof:geomhash":"93f16311c2e50a610e542b789480553f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     16.02012,
     53.96599000000001
 ],
-  "geometry": {"coordinates":[16.02012,53.96599000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.02012,53.96599],"type":"Point"}
 }

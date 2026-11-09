@@ -51,7 +51,7 @@
         "wk:page":"Podlesie%2C_Gmina_Ole%C5%9Bnica"
     },
     "wof:country":"PL",
-    "wof:geomhash":"31ebbba3d2ce489ff6ac505ea01148a4",
+    "wof:geomhash":"b1a35c0fdfa48e32c1cf61d1e1bc49b8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     21.13392,
     50.45914000000001
 ],
-  "geometry": {"coordinates":[21.13392,50.45914000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.13392,50.45914],"type":"Point"}
 }

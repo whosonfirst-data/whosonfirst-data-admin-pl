@@ -54,7 +54,7 @@
         "wk:page":"%C5%81empice%2C_Grajewo_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"50de5de881ee9401a6cc0bf8348c6b8b",
+    "wof:geomhash":"18a99af1e188be5d559a62ce310fc49a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.2769,
     53.51273000000001
 ],
-  "geometry": {"coordinates":[22.2769,53.51273000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.2769,53.51273],"type":"Point"}
 }

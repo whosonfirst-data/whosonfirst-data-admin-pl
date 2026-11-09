@@ -57,7 +57,7 @@
         "wk:page":"Borki_Wielbarskie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"aa23e510399282ab8869fa48fcc8225a",
+    "wof:geomhash":"395ff3c64a1537f90e9537ab5df59955",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.0399,
     53.40253000000001
 ],
-  "geometry": {"coordinates":[21.0399,53.40253000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.0399,53.40253],"type":"Point"}
 }

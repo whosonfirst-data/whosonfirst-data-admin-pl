@@ -54,7 +54,7 @@
         "wk:page":"Siecino"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4e5c426f7c055039c9bdd09ffeb271d4",
+    "wof:geomhash":"9b19d670f8b2b3687af39db0e19618c7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     16.00479,
     53.61268000000001
 ],
-  "geometry": {"coordinates":[16.00479,53.61268000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.00479,53.61268],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Laskowszczyzna%2C_Siemiatycze_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"34d1b75ba712dcc3000be8680f43af8e",
+    "wof:geomhash":"c6952eb18e5c87e68c45e6049edfbf8c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.87787,
     52.46619000000001
 ],
-  "geometry": {"coordinates":[22.87787,52.46619000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.87787,52.46619],"type":"Point"}
 }

@@ -60,7 +60,7 @@
         "wk:page":"Zielenica%2C_Warmian-Masurian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"94dafe8788bd28226d8c656d10048668",
+    "wof:geomhash":"c16df7612ebb3d35a48c1c787cf3d0d4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     20.51658,
     54.24466999999999
 ],
-  "geometry": {"coordinates":[20.51658,54.24466999999999],"type":"Point"}
+  "geometry": {"coordinates":[20.51658,54.24467],"type":"Point"}
 }

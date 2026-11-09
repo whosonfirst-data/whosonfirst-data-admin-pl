@@ -46,7 +46,7 @@
         "wk:page":"Czy%C5%BCew-Stacja"
     },
     "wof:country":"PL",
-    "wof:geomhash":"97231197169950dc89927fd217899534",
+    "wof:geomhash":"4c453655f25967fbff38396acd7aaed7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,5 +76,5 @@
     22.34344,
     52.79913000000001
 ],
-  "geometry": {"coordinates":[22.34344,52.79913000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.34344,52.79913],"type":"Point"}
 }

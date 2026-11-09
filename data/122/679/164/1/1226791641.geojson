@@ -63,7 +63,7 @@
         "wk:page":"K%C3%B3%C5%82ko_%C5%BBabieckie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"72599ca7375ebe7901c19f106a50e5c5",
+    "wof:geomhash":"7d76bd88c2e6ec3eff4eccc5fbda68bd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     21.09263,
     50.34464000000001
 ],
-  "geometry": {"coordinates":[21.09263,50.34464000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.09263,50.34464],"type":"Point"}
 }

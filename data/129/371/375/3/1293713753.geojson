@@ -57,7 +57,7 @@
         "wk:page":"Orelec"
     },
     "wof:country":"PL",
-    "wof:geomhash":"56ad22466b90a3174f6aff5105b9ccd8",
+    "wof:geomhash":"5acf25e661457c90f791c0fd806d5f50",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.44816,
     49.44179000000001
 ],
-  "geometry": {"coordinates":[22.44816,49.44179000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.44816,49.44179],"type":"Point"}
 }

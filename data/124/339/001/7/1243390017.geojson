@@ -57,7 +57,7 @@
         "wk:page":"Kowalin"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5a699ff86577d845c49943837d1ea1d7",
+    "wof:geomhash":"3f498951deee8d7c00688bd9628d3cf4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.15628,
     50.90819000000001
 ],
-  "geometry": {"coordinates":[22.15628,50.90819000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.15628,50.90819],"type":"Point"}
 }

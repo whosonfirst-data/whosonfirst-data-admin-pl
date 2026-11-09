@@ -54,7 +54,7 @@
         "wk:page":"Seroki%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5077e8f8b55c12e8307031a57cd27eb8",
+    "wof:geomhash":"d77c9fe17bf4b7b7049763130bea4c18",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.79934,
     52.98011999999999
 ],
-  "geometry": {"coordinates":[19.79934,52.98011999999999],"type":"Point"}
+  "geometry": {"coordinates":[19.79934,52.98012],"type":"Point"}
 }

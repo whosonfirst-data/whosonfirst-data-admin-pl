@@ -69,7 +69,7 @@
         "wk:page":"Niepogl%C4%99dzie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"934072574a7ca958d08917279d6557df",
+    "wof:geomhash":"5393023bfffdc1809ee76a300fee0b46",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     17.37144,
     54.29519000000001
 ],
-  "geometry": {"coordinates":[17.37144,54.29519000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.37144,54.29519],"type":"Point"}
 }

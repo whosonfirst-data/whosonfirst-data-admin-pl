@@ -57,7 +57,7 @@
         "wk:page":"Raczyce%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6b94fd99b7507c854ccfe9b8d4a0150a",
+    "wof:geomhash":"1ddf4d3ae1538f866fc563e8429233d4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     17.62962000000001,
     51.5743
 ],
-  "geometry": {"coordinates":[17.62962000000001,51.5743],"type":"Point"}
+  "geometry": {"coordinates":[17.62962,51.5743],"type":"Point"}
 }

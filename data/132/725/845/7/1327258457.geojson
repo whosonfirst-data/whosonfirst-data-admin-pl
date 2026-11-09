@@ -57,7 +57,7 @@
         "wk:page":"Warszkowo%2C_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"75effc3ee654eb2482c94681c0f37bf0",
+    "wof:geomhash":"33aa34f12ea2bf05dee735803dff02e1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     18.13826,
     54.68644000000001
 ],
-  "geometry": {"coordinates":[18.13826,54.68644000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.13826,54.68644],"type":"Point"}
 }

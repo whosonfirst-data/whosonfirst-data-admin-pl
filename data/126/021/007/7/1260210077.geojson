@@ -51,7 +51,7 @@
         "wk:page":"Petryki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3d1fa9f6cc5d5a05a040170343275284",
+    "wof:geomhash":"89e0c503cc662542e67d62fce33cd15e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.14782,
     51.92169000000001
 ],
-  "geometry": {"coordinates":[18.14782,51.92169000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.14782,51.92169],"type":"Point"}
 }

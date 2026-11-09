@@ -51,7 +51,7 @@
         "wk:page":"Dymitr%C3%B3w_Ma%C5%82y"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b69aa3be983a37848370283882abe6a3",
+    "wof:geomhash":"2e8747bafcb5dde0da48f5a7cc740e7c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     21.50857,
     50.49312000000001
 ],
-  "geometry": {"coordinates":[21.50857,50.49312000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.50857,50.49312],"type":"Point"}
 }

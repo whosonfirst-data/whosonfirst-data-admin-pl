@@ -57,7 +57,7 @@
         "wk:page":"Jastrz%C4%99biec%2C_%C5%9Awi%C4%99tokrzyskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"19a5d57496b7df693a0bccc1997db5a0",
+    "wof:geomhash":"d9f132224f72f05910f30e491af9579c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     20.94097,
     50.49039000000001
 ],
-  "geometry": {"coordinates":[20.94097,50.49039000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.94097,50.49039],"type":"Point"}
 }

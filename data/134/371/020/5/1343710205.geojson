@@ -54,7 +54,7 @@
         "wk:page":"Przeuszyn"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1ceb43ce42c16dcf931457763a5f842a",
+    "wof:geomhash":"71db2f90a64aafe1ba1f1a2dc0b95672",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.504,
     50.83600000000001
 ],
-  "geometry": {"coordinates":[21.504,50.83600000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.504,50.836],"type":"Point"}
 }

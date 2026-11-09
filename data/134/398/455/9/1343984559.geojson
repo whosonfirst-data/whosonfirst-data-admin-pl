@@ -57,7 +57,7 @@
         "wk:page":"Rodele"
     },
     "wof:country":"PL",
-    "wof:geomhash":"317c12153bf8368240ea1b6459233d86",
+    "wof:geomhash":"d02b0c10cc4941cac17cef5e0619938b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.37481,
     54.18476999999999
 ],
-  "geometry": {"coordinates":[21.37481,54.18476999999999],"type":"Point"}
+  "geometry": {"coordinates":[21.37481,54.18477],"type":"Point"}
 }

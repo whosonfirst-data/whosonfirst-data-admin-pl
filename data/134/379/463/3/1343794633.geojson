@@ -63,7 +63,7 @@
         "wk:page":"%C5%81%C4%99gonice_Ma%C5%82e"
     },
     "wof:country":"PL",
-    "wof:geomhash":"df6f36c978347729170bd3040e809311",
+    "wof:geomhash":"b1dda404a7a7effa991decfe40b1fbe5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     20.52057000000001,
     51.60832
 ],
-  "geometry": {"coordinates":[20.52057000000001,51.60832],"type":"Point"}
+  "geometry": {"coordinates":[20.52057,51.60832],"type":"Point"}
 }

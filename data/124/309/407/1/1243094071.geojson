@@ -48,7 +48,7 @@
         "wk:page":"Rudniczyn"
     },
     "wof:country":"PL",
-    "wof:geomhash":"0fe4b3fc7ca2d40c3cd5a90d73c0834c",
+    "wof:geomhash":"ae741dcafcab3c6b5e4a4b6e9e45400f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     17.10607000000001,
     52.80381
 ],
-  "geometry": {"coordinates":[17.10607000000001,52.80381],"type":"Point"}
+  "geometry": {"coordinates":[17.10607,52.80381],"type":"Point"}
 }

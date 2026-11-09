@@ -54,7 +54,7 @@
         "wk:page":"Franciszkowo%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a38b7f30da850445d27c52193572bda7",
+    "wof:geomhash":"7fbaf2132d95c0cddb669215e74ea72b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.91547000000001,
     53.03822
 ],
-  "geometry": {"coordinates":[19.91547000000001,53.03822],"type":"Point"}
+  "geometry": {"coordinates":[19.91547,53.03822],"type":"Point"}
 }

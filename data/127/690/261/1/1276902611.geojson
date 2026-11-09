@@ -54,7 +54,7 @@
         "wk:page":"Bierwiecka_Wola"
     },
     "wof:country":"PL",
-    "wof:geomhash":"fa0c234760cf74620fc53ac76d357655",
+    "wof:geomhash":"31bb8869a93b32aaea8a5069aea6fb65",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.16997000000001,
     51.55263
 ],
-  "geometry": {"coordinates":[21.16997000000001,51.55263],"type":"Point"}
+  "geometry": {"coordinates":[21.16997,51.55263],"type":"Point"}
 }

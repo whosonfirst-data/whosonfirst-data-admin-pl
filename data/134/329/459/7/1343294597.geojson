@@ -54,7 +54,7 @@
         "wk:page":"Rzepniki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6729989b335a6adae789f01f0f653130",
+    "wof:geomhash":"18c0723326df4df1a4df5d51134803af",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     23.22436,
     52.95764000000001
 ],
-  "geometry": {"coordinates":[23.22436,52.95764000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.22436,52.95764],"type":"Point"}
 }

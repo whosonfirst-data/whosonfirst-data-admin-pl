@@ -62,7 +62,7 @@
         "wk:page":"Szczyba%C5%82y_Gi%C5%BCyckie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b1bae55fd7b8eef181d7e31b519cfb0e",
+    "wof:geomhash":"878460039a5fe0d8c33868cb858b6344",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     21.68993,
     53.98419000000001
 ],
-  "geometry": {"coordinates":[21.68993,53.98419000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.68993,53.98419],"type":"Point"}
 }

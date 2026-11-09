@@ -54,7 +54,7 @@
         "wk:page":"Mielesz%C3%B3wka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"102c75f4a46cdf2b47892905f243d7a0",
+    "wof:geomhash":"950c9b6ef2b6115f90a1bce28cffd99d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.181,
     51.43304000000001
 ],
-  "geometry": {"coordinates":[18.181,51.43304000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.181,51.43304],"type":"Point"}
 }

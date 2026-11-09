@@ -61,7 +61,7 @@
         "wk:page":"Br%C4%99towo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"00786f81a2f42b3e442aa6bc45bb0147",
+    "wof:geomhash":"f8c39ee6c3c37bad313d9f5008cbe849",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,5 +91,5 @@
     18.57105,
     54.37009000000001
 ],
-  "geometry": {"coordinates":[18.57105,54.37009000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.57105,54.37009],"type":"Point"}
 }

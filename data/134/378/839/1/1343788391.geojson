@@ -48,7 +48,7 @@
         "wk:page":"Nicponie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"dc64ae0dfc4878bbe26e37ca20e3e3b8",
+    "wof:geomhash":"ea2647893f5c9c27e3d75e859272f870",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     17.74601000000001,
     53.68624000000001
 ],
-  "geometry": {"coordinates":[17.74601000000001,53.68624000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.74601,53.68624],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Nowy_%C5%9Awiat%2C_Lublin_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5d491e6b2bf9cf73e1bb536633e9bd2f",
+    "wof:geomhash":"5393382b3de975ed127d539bc5871ab3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.0,
     51.81667
 ],
-  "geometry": {"coordinates":[22.0,51.81667],"type":"Point"}
+  "geometry": {"coordinates":[22,51.81667],"type":"Point"}
 }

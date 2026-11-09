@@ -54,7 +54,7 @@
         "wk:page":"Byszewo%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"83124ec56a28e1f90c83d7c5cb119f44",
+    "wof:geomhash":"080bcce5373040696e39a0bab5f7898a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.81871,
     53.29493000000001
 ],
-  "geometry": {"coordinates":[17.81871,53.29493000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.81871,53.29493],"type":"Point"}
 }

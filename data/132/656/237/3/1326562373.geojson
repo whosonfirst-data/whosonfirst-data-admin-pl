@@ -57,7 +57,7 @@
         "wk:page":"Salno%2C_Bydgoszcz_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e3afd903f974267a74ddcc741d72fbb2",
+    "wof:geomhash":"b7bd944860ccfabc338420afc6149e20",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     17.85287000000001,
     53.29261999999999
 ],
-  "geometry": {"coordinates":[17.85287000000001,53.29261999999999],"type":"Point"}
+  "geometry": {"coordinates":[17.85287,53.29262],"type":"Point"}
 }

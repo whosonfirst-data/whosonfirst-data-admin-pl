@@ -54,7 +54,7 @@
         "wk:page":"Wielkie_Gacno"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a19db56758aaf799f50531459cdeb7ff",
+    "wof:geomhash":"52b4fb88e3611548d8e863ebad2089a8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.10528,
     53.63263000000001
 ],
-  "geometry": {"coordinates":[18.10528,53.63263000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.10528,53.63263],"type":"Point"}
 }

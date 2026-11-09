@@ -54,7 +54,7 @@
         "wk:page":"Kazimierza_Ma%C5%82a"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c7e2ed03636202733b1592fac564b1d5",
+    "wof:geomhash":"ed83d8cb3bda71a3df2ba6de41eee13e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.53263,
     50.26114000000001
 ],
-  "geometry": {"coordinates":[20.53263,50.26114000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.53263,50.26114],"type":"Point"}
 }

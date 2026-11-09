@@ -57,7 +57,7 @@
         "wk:page":"Tarnowola"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ac0ea89abcd738c0ae6262d9414ed99a",
+    "wof:geomhash":"f818794e94c27f4b949cdcbc42efb17e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     23.00762000000001,
     50.4903
 ],
-  "geometry": {"coordinates":[23.00762000000001,50.4903],"type":"Point"}
+  "geometry": {"coordinates":[23.00762,50.4903],"type":"Point"}
 }

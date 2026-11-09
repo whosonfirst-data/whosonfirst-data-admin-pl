@@ -57,7 +57,7 @@
         "wk:page":"Jaroszyn%2C_Lublin_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1be424f652edc0d138750762131806d7",
+    "wof:geomhash":"e54fd74014fb60019d1721f6d6f9b6d5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.93575,
     51.42704000000001
 ],
-  "geometry": {"coordinates":[21.93575,51.42704000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.93575,51.42704],"type":"Point"}
 }

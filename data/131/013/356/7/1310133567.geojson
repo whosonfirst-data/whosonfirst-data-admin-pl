@@ -60,7 +60,7 @@
         "wk:page":"M%C5%9Bcichy%2C_Grajewo_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"472e2c84056c13136c6ac3c304446b9f",
+    "wof:geomhash":"a8e0f830726cc46784c4c83f619b8dc3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     22.48455,
     53.42916999999999
 ],
-  "geometry": {"coordinates":[22.48455,53.42916999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.48455,53.42917],"type":"Point"}
 }

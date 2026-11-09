@@ -54,7 +54,7 @@
         "wk:page":"Sulis%C5%82awice%2C_%C5%9Awi%C4%99tokrzyskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"57eb4b3357548c95997647f1e3bb89af",
+    "wof:geomhash":"1b4f629ce714ffd66bfb0126d98d0801",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.46971,
     50.58600000000001
 ],
-  "geometry": {"coordinates":[21.46971,50.58600000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.46971,50.586],"type":"Point"}
 }

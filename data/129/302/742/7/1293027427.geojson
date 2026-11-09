@@ -57,7 +57,7 @@
         "wk:page":"%C5%BBelazna_Rz%C4%85dowa"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1e55192d6d00d3295cac403da18f1de8",
+    "wof:geomhash":"7777b12438aa0a144065d986e9710ae7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.12872,
     53.23148000000001
 ],
-  "geometry": {"coordinates":[21.12872,53.23148000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.12872,53.23148],"type":"Point"}
 }

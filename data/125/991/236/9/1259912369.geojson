@@ -54,7 +54,7 @@
         "wk:page":"Bia%C5%82o%C5%BCewin"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a716b1a2aa10b750547d3aa809695001",
+    "wof:geomhash":"9891d7c690f619a9d749a70bf47b34b6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.78971,
     52.83114000000001
 ],
-  "geometry": {"coordinates":[17.78971,52.83114000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.78971,52.83114],"type":"Point"}
 }

@@ -55,7 +55,7 @@
         "wk:page":"M%C5%82okicie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7de54d29b8c8e8c4ba061a2c62a3ac1a",
+    "wof:geomhash":"649f7c6827596a93122ad9752ca9801b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,5 +82,5 @@
     17.58585,
     51.10104000000001
 ],
-  "geometry": {"coordinates":[17.58585,51.10104000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.58585,51.10104],"type":"Point"}
 }

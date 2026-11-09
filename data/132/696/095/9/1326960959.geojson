@@ -57,7 +57,7 @@
         "wk:page":"Ostr%C3%B3w%2C_Lubart%C3%B3w_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"24bd46d993359257a171e70ac3f52048",
+    "wof:geomhash":"5ee345af4500e0946d76acff7e151f95",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.32697000000001,
     51.58827
 ],
-  "geometry": {"coordinates":[22.32697000000001,51.58827],"type":"Point"}
+  "geometry": {"coordinates":[22.32697,51.58827],"type":"Point"}
 }

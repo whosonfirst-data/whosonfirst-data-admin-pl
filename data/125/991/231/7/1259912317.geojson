@@ -69,7 +69,7 @@
         "wk:page":"Brzezia"
     },
     "wof:country":"PL",
-    "wof:geomhash":"cd9bb947f70c5e1eb29f96dcee4157a7",
+    "wof:geomhash":"0ceb484cfe49bd3b3167b5cc2a0c98e2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     19.92398,
     52.31554000000001
 ],
-  "geometry": {"coordinates":[19.92398,52.31554000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.92398,52.31554],"type":"Point"}
 }

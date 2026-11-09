@@ -63,7 +63,7 @@
         "wk:page":"Albert%C3%B3w%2C_Lublin_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"53f004b4fa98ab6f5a77b63602fc5034",
+    "wof:geomhash":"dd21710174ccb00f5b7e515dd143ef7d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     23.05926,
     51.29989000000001
 ],
-  "geometry": {"coordinates":[23.05926,51.29989000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.05926,51.29989],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Grabowo%2C_Sierpc_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"18d6c600b464b9e1e806d67642be8e1e",
+    "wof:geomhash":"0b2d8959fabf701accc10cab88f99b45",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.85109,
     52.83088000000001
 ],
-  "geometry": {"coordinates":[19.85109,52.83088000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.85109,52.83088],"type":"Point"}
 }

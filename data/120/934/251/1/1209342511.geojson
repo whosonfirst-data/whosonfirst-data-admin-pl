@@ -51,7 +51,7 @@
         "wk:page":"Melanowo%2C_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d5869cfdc2c3ea125de6e40abad563aa",
+    "wof:geomhash":"52a9d8468486af163c99092df644ddc5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.55,
     53.61666999999999
 ],
-  "geometry": {"coordinates":[17.55,53.61666999999999],"type":"Point"}
+  "geometry": {"coordinates":[17.55,53.61667],"type":"Point"}
 }

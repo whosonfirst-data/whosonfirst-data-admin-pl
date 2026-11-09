@@ -57,7 +57,7 @@
         "wk:page":"Koszanowo%2C_Szamotu%C5%82y_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"96056454518348ad03ce20f3654f3ad9",
+    "wof:geomhash":"d08fdad0ddc205ba7ae9f3c3408ecbcd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     16.34191,
     52.50774000000001
 ],
-  "geometry": {"coordinates":[16.34191,52.50774000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.34191,52.50774],"type":"Point"}
 }

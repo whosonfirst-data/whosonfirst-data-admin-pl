@@ -63,7 +63,7 @@
         "wk:page":"Wierzbice-Strupki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1ce803095541317057c5459e99e26cb6",
+    "wof:geomhash":"9ae8999b51de118aa29380c6faa7385a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     22.37427000000001,
     52.43998000000001
 ],
-  "geometry": {"coordinates":[22.37427000000001,52.43998000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.37427,52.43998],"type":"Point"}
 }

@@ -60,7 +60,7 @@
         "wk:page":"Unieck"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c86f240948b1c162bebbb74871c2875b",
+    "wof:geomhash":"277aa09b495a0e8f3ca3d25aee16c25b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     20.19974,
     52.86918000000001
 ],
-  "geometry": {"coordinates":[20.19974,52.86918000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.19974,52.86918],"type":"Point"}
 }

@@ -60,7 +60,7 @@
         "wk:page":"Stara_Wi%C5%9Bniewka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"878d3697495e55906524f31bc118b0f9",
+    "wof:geomhash":"a96b9619b8584b892388d3914f60cce3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     17.09181,
     53.44716999999999
 ],
-  "geometry": {"coordinates":[17.09181,53.44716999999999],"type":"Point"}
+  "geometry": {"coordinates":[17.09181,53.44717],"type":"Point"}
 }

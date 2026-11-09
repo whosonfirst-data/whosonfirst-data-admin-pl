@@ -60,7 +60,7 @@
         "wk:page":"Nieledwia"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b96ac9b49f052466e4727c337e4c9921",
+    "wof:geomhash":"fd3e36cce18f81fd805e371f37ef2fea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     19.06823,
     49.53919000000001
 ],
-  "geometry": {"coordinates":[19.06823,49.53919000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.06823,49.53919],"type":"Point"}
 }

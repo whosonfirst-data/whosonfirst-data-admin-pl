@@ -51,7 +51,7 @@
         "wk:page":"D%C5%82ugie%2C_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f5f71ef7d54a657c4aa98ab40ae4752e",
+    "wof:geomhash":"8a3a5fd04ad2f72386420788d670817e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.34839,
     53.77484000000001
 ],
-  "geometry": {"coordinates":[18.34839,53.77484000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.34839,53.77484],"type":"Point"}
 }

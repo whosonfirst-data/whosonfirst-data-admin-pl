@@ -60,7 +60,7 @@
         "wk:page":"Krawno"
     },
     "wof:country":"PL",
-    "wof:geomhash":"77a2832d47844b16a6bf0474775a046d",
+    "wof:geomhash":"ecc35c07ee09a91a4e64e004b65c9401",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     21.22337000000001,
     53.66564
 ],
-  "geometry": {"coordinates":[21.22337000000001,53.66564],"type":"Point"}
+  "geometry": {"coordinates":[21.22337,53.66564],"type":"Point"}
 }

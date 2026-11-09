@@ -54,7 +54,7 @@
         "wk:page":"Wierzchucin_Kr%C3%B3lewski"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3d99187549e050f5ba598511c81f0457",
+    "wof:geomhash":"357776c9fabb8fa4d525640227fc113d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.77901,
     53.30654000000001
 ],
-  "geometry": {"coordinates":[17.77901,53.30654000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.77901,53.30654],"type":"Point"}
 }

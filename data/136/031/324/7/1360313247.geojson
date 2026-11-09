@@ -54,7 +54,7 @@
         "wk:page":"Lisy%2C_Podlaskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"68232641bb4d5ce32e268d6a302cf599",
+    "wof:geomhash":"d4e600abd799a1d1021f6874de179dff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.22345,
     53.36796999999999
 ],
-  "geometry": {"coordinates":[22.22345,53.36796999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.22345,53.36797],"type":"Point"}
 }

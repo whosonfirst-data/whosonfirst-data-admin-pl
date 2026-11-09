@@ -63,7 +63,7 @@
         "wk:page":"Krojczyn"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a74946c701ed13b8ab720426b0081817",
+    "wof:geomhash":"aa7878f0b806397110f358d6ddf4821a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     19.20403,
     52.68666999999999
 ],
-  "geometry": {"coordinates":[19.20403,52.68666999999999],"type":"Point"}
+  "geometry": {"coordinates":[19.20403,52.68667],"type":"Point"}
 }

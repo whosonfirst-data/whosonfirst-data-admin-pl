@@ -57,7 +57,7 @@
         "wk:page":"Be%C5%82da"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7c08cf4b688d120b85bfb5cd679585b0",
+    "wof:geomhash":"a4b9210c9d32e0e393780f96f6cd0fae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.62162,
     53.68248000000001
 ],
-  "geometry": {"coordinates":[22.62162,53.68248000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.62162,53.68248],"type":"Point"}
 }

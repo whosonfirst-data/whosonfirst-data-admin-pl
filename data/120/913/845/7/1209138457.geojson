@@ -51,7 +51,7 @@
         "wk:page":"%C5%9Awidnik%2C_Lower_Silesian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"20fe00f17dc359de14939996dd717629",
+    "wof:geomhash":"984e116d2d3af78fbb3ad4148dbaf435",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     16.00021,
     50.88744000000001
 ],
-  "geometry": {"coordinates":[16.00021,50.88744000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.00021,50.88744],"type":"Point"}
 }

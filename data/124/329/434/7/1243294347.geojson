@@ -54,7 +54,7 @@
         "wk:page":"Dami%C4%99ty"
     },
     "wof:country":"PL",
-    "wof:geomhash":"42a18da98a1b954f59628c7d57f3c0ca",
+    "wof:geomhash":"ca779a31c7b8f607e48801e4b4680272",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.59955,
     52.97358000000001
 ],
-  "geometry": {"coordinates":[21.59955,52.97358000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.59955,52.97358],"type":"Point"}
 }

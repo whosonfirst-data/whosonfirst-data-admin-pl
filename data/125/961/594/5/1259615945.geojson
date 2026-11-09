@@ -54,7 +54,7 @@
         "wk:page":"Niecisz%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"db8b5322111357cecf0b644a0dc64319",
+    "wof:geomhash":"36c3be77659e84953b54ab8417dae5df",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.32457999999999,
     51.18354
 ],
-  "geometry": {"coordinates":[17.32457999999999,51.18354],"type":"Point"}
+  "geometry": {"coordinates":[17.32458,51.18354],"type":"Point"}
 }

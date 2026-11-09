@@ -51,7 +51,7 @@
         "wk:page":"Machcin%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"03131b283b6eb4513cd1473e923493df",
+    "wof:geomhash":"917b7e428f89682ca5cde9fc8d1658bc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     21.15194,
     51.91314000000001
 ],
-  "geometry": {"coordinates":[21.15194,51.91314000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.15194,51.91314],"type":"Point"}
 }

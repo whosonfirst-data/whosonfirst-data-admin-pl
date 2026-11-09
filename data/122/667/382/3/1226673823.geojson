@@ -57,7 +57,7 @@
         "wk:page":"Lesiny_Ma%C5%82e"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ef94f2f4bbb37f9d321fd18b715f3571",
+    "wof:geomhash":"60f1b4c814ee7fc1f3917948f25f7899",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.12362000000001,
     53.39633000000001
 ],
-  "geometry": {"coordinates":[21.12362000000001,53.39633000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.12362,53.39633],"type":"Point"}
 }

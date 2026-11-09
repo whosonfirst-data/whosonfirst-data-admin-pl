@@ -51,7 +51,7 @@
         "wk:page":"Salata%2C_Poland"
     },
     "wof:country":"PL",
-    "wof:geomhash":"902b75a11658b9331b77df201c586f49",
+    "wof:geomhash":"c363aa2479a7d0ec9bf1a2760acf0173",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     20.41946,
     51.03357000000001
 ],
-  "geometry": {"coordinates":[20.41946,51.03357000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.41946,51.03357],"type":"Point"}
 }

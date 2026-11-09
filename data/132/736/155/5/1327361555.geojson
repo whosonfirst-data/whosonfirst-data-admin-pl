@@ -54,7 +54,7 @@
         "wk:page":"Czarnowoda"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ae1cfa09bb22a3f2be3d1cfb0b2c42e0",
+    "wof:geomhash":"91a78f3f6dad718812f6e16ea5d6ed2b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     23.21417000000001,
     50.61357
 ],
-  "geometry": {"coordinates":[23.21417000000001,50.61357],"type":"Point"}
+  "geometry": {"coordinates":[23.21417,50.61357],"type":"Point"}
 }

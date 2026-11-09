@@ -63,7 +63,7 @@
         "wk:page":"Tolniki_Wielkie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"53c6d17e6cffcb82a927db02e139d55d",
+    "wof:geomhash":"b5c6113e1f30f29f47f99f646e914fdc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     20.68314,
     54.05628000000001
 ],
-  "geometry": {"coordinates":[20.68314,54.05628000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.68314,54.05628],"type":"Point"}
 }

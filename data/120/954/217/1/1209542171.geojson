@@ -54,7 +54,7 @@
         "wk:page":"Lewiczyn%2C_M%C5%82awa_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"045ac82af6a25452aec6a780b37a3c22",
+    "wof:geomhash":"d3bf798bedf5cdbba81b24bf409ace16",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.27372,
     53.13399999999999
 ],
-  "geometry": {"coordinates":[20.27372,53.13399999999999],"type":"Point"}
+  "geometry": {"coordinates":[20.27372,53.134],"type":"Point"}
 }

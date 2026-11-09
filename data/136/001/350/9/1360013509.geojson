@@ -64,7 +64,7 @@
         "wk:page":"Garbno%2C_Gmina_Korsze"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6e097dcdb7ad703bdc5a61a20d3cba3a",
+    "wof:geomhash":"2d9209e10400bf0a1f89857bac90c862",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,5 +91,5 @@
     21.28333,
     54.13333000000001
 ],
-  "geometry": {"coordinates":[21.28333,54.13333000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.28333,54.13333],"type":"Point"}
 }

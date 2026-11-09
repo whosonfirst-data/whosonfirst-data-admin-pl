@@ -54,7 +54,7 @@
         "wk:page":"S%C5%82otwina%2C_%C5%BBywiec_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e4c04b476404236c3bb277aea9c50a20",
+    "wof:geomhash":"5b55801724735c528e871dc2bebbd5cd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.07415,
     49.69967000000001
 ],
-  "geometry": {"coordinates":[19.07415,49.69967000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.07415,49.69967],"type":"Point"}
 }

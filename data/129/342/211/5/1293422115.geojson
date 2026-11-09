@@ -60,7 +60,7 @@
         "wk:page":"Kiciny"
     },
     "wof:country":"PL",
-    "wof:geomhash":"344892fbbc0e77090ba97b6a5d371151",
+    "wof:geomhash":"1ca7e2e7161258b21f0843c84991399e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     21.51588,
     52.50548000000001
 ],
-  "geometry": {"coordinates":[21.51588,52.50548000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.51588,52.50548],"type":"Point"}
 }

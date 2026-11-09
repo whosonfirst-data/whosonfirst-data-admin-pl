@@ -54,7 +54,7 @@
         "wk:page":"M%C5%82osz%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"178c46946984bd9c272058509e0e007e",
+    "wof:geomhash":"2bd665d6e3d3853168258a7fdd5c01fa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.90311,
     51.47454000000001
 ],
-  "geometry": {"coordinates":[19.90311,51.47454000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.90311,51.47454],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"Stara_Obra"
     },
     "wof:country":"PL",
-    "wof:geomhash":"493a92151d615d487a66c97b5300f3ae",
+    "wof:geomhash":"397a8e390918137e8dee660df513955f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     17.45727999999999,
     51.88815
 ],
-  "geometry": {"coordinates":[17.45727999999999,51.88815],"type":"Point"}
+  "geometry": {"coordinates":[17.45728,51.88815],"type":"Point"}
 }

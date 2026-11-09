@@ -51,7 +51,7 @@
         "wk:page":"Kamieniec%2C_Radziej%C3%B3w_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6064be14b248941644e85f266fe78f03",
+    "wof:geomhash":"7cb3942129c0528e8793ed1defa0817a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.68568,
     52.46678000000001
 ],
-  "geometry": {"coordinates":[18.68568,52.46678000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.68568,52.46678],"type":"Point"}
 }

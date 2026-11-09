@@ -54,7 +54,7 @@
         "wk:page":"D%C5%82uga_Wie%C5%9B%2C_W%C4%85growiec_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"85252b2abdd5351d938a178ad734cebd",
+    "wof:geomhash":"9e7d538d788ac01b222894abcf498144",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.18742,
     52.77878000000001
 ],
-  "geometry": {"coordinates":[17.18742,52.77878000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.18742,52.77878],"type":"Point"}
 }

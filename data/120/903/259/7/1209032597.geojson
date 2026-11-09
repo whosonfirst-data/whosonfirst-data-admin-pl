@@ -54,7 +54,7 @@
         "wk:page":"Wola_Kukalska"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ba33455ca07cab11aa509268926b27a5",
+    "wof:geomhash":"25baaf5eff6dc792c12b322939028bbc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.00586,
     51.87909000000001
 ],
-  "geometry": {"coordinates":[21.00586,51.87909000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.00586,51.87909],"type":"Point"}
 }

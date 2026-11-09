@@ -57,7 +57,7 @@
         "wk:page":"Janisze%2C_Lublin_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"db43c2be5e8b158670a8b2ada53ff0dc",
+    "wof:geomhash":"758e8fb9dcfc68ed76b9ad3f4686961d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.0,
     51.63333
 ],
-  "geometry": {"coordinates":[22.0,51.63333],"type":"Point"}
+  "geometry": {"coordinates":[22,51.63333],"type":"Point"}
 }

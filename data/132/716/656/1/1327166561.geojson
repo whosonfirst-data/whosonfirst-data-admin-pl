@@ -54,7 +54,7 @@
         "wk:page":"P%C5%82achty%2C_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8c74893250cef7fec7658e37ca93b205",
+    "wof:geomhash":"594b42ce137df9025692c390dafec192",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.25572,
     54.09048000000001
 ],
-  "geometry": {"coordinates":[18.25572,54.09048000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.25572,54.09048],"type":"Point"}
 }

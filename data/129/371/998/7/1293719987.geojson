@@ -45,7 +45,7 @@
         "wk:page":"Rybinka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5dc3fea03ff73f2f50c3089e1f82b28d",
+    "wof:geomhash":"c716a4e911f61ba5bfc5ca1607e64572",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,5 +72,5 @@
     19.1605,
     54.31191999999999
 ],
-  "geometry": {"coordinates":[19.1605,54.31191999999999],"type":"Point"}
+  "geometry": {"coordinates":[19.1605,54.31192],"type":"Point"}
 }

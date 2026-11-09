@@ -48,7 +48,7 @@
         "wk:page":"Gi%C5%9Blinek"
     },
     "wof:country":"PL",
-    "wof:geomhash":"bcc92adb5aceacf3988aae401b95b759",
+    "wof:geomhash":"14283ba85d528261c8dc62d5f529f877",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     19.51859,
     53.94038000000001
 ],
-  "geometry": {"coordinates":[19.51859,53.94038000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.51859,53.94038],"type":"Point"}
 }

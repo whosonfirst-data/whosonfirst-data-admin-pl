@@ -51,7 +51,7 @@
         "wk:page":"%C5%9Awidnik%2C_Nowy_S%C4%85cz_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"85bd7b1db8caed53b0e51fdc2d21ad49",
+    "wof:geomhash":"674f1d4c5f4b1a6eac2a96a2041fad94",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     20.61361,
     49.71749000000001
 ],
-  "geometry": {"coordinates":[20.61361,49.71749000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.61361,49.71749],"type":"Point"}
 }

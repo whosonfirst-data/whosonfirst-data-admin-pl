@@ -51,7 +51,7 @@
         "wk:page":"Grabowica%2C_%C5%9Awi%C4%99tokrzyskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a254c515d08e31ba409ffc2c921eed1c",
+    "wof:geomhash":"483e2f79a1b5dc59a1f43bced57f92cd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     21.09358,
     50.36474000000001
 ],
-  "geometry": {"coordinates":[21.09358,50.36474000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.09358,50.36474],"type":"Point"}
 }

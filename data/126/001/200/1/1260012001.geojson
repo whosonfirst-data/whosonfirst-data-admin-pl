@@ -57,7 +57,7 @@
         "wk:page":"Skarbisz%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"31142fe8c9dedd66658fcc7f157ce435",
+    "wof:geomhash":"a14493343d9cddc2bf54289264250b70",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     17.76197,
     50.72179000000001
 ],
-  "geometry": {"coordinates":[17.76197,50.72179000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.76197,50.72179],"type":"Point"}
 }

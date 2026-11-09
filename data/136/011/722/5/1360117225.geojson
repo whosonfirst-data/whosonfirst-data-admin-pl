@@ -57,7 +57,7 @@
         "wk:page":"Niechorz"
     },
     "wof:country":"PL",
-    "wof:geomhash":"0b042feea316a0b03734c14ef91f04f6",
+    "wof:geomhash":"a3aaf69bdfe69ef83c6f6f376f6dcb85",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     17.60454,
     53.43768000000001
 ],
-  "geometry": {"coordinates":[17.60454,53.43768000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.60454,53.43768],"type":"Point"}
 }

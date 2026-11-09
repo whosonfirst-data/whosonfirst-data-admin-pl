@@ -63,7 +63,7 @@
         "wk:page":"Dyminek"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d3a5c7ee37645a734f99afeb12a89def",
+    "wof:geomhash":"f3e2df2d61cebbbb0e947d7887c95e69",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     16.87637,
     53.78098000000001
 ],
-  "geometry": {"coordinates":[16.87637,53.78098000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.87637,53.78098],"type":"Point"}
 }

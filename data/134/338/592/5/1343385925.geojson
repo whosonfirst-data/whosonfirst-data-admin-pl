@@ -57,7 +57,7 @@
         "wk:page":"Stare_Je%C5%BCewo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a5f6ca1b57f63d40960a55dab8af3ecd",
+    "wof:geomhash":"182639f71c7ee143e357d2f8acf0038f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.73101,
     53.13636999999999
 ],
-  "geometry": {"coordinates":[22.73101,53.13636999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.73101,53.13637],"type":"Point"}
 }

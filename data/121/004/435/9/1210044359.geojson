@@ -54,7 +54,7 @@
         "wk:page":"Olszewko%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2343b2c6d3f593f3b6a548e0052b5877",
+    "wof:geomhash":"5055a308f504b6e2e821135d4e28175c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.02859,
     53.05761999999999
 ],
-  "geometry": {"coordinates":[20.02859,53.05761999999999],"type":"Point"}
+  "geometry": {"coordinates":[20.02859,53.05762],"type":"Point"}
 }

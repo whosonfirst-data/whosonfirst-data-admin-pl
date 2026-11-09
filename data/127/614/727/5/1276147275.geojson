@@ -55,7 +55,7 @@
         "wk:page":"Klebark_Ma%C5%82y"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1d600c6928fb6f91342364597b711740",
+    "wof:geomhash":"29c6e7779e2dab09691fb5bd6dd46f8b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,5 +82,5 @@
     20.56177000000001,
     53.76772
 ],
-  "geometry": {"coordinates":[20.56177000000001,53.76772],"type":"Point"}
+  "geometry": {"coordinates":[20.56177,53.76772],"type":"Point"}
 }

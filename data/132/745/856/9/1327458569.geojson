@@ -54,7 +54,7 @@
         "wk:page":"Tomasz%C3%B3wka%2C_Lipsko_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"335a30374d39c126b619f1f8a2b51606",
+    "wof:geomhash":"089117cadc5ecabccaa9b278c227ad66",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.65834,
     51.11689000000001
 ],
-  "geometry": {"coordinates":[21.65834,51.11689000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.65834,51.11689],"type":"Point"}
 }

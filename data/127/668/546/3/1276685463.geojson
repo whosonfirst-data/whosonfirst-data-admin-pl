@@ -54,7 +54,7 @@
         "wk:page":"Do%C5%82y%2C_S%C5%82upca_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"789fb801cbf08bef31756a1f2dd76aa8",
+    "wof:geomhash":"490c90d0eb46e13632c2a5f10c9b6139",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.00437999999999,
     52.35276
 ],
-  "geometry": {"coordinates":[18.00437999999999,52.35276],"type":"Point"}
+  "geometry": {"coordinates":[18.00438,52.35276],"type":"Point"}
 }

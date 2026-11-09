@@ -57,7 +57,7 @@
         "wk:page":"Ma%C5%82owice%2C_Lower_Silesian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"847ddf9a6628f3d1255c5c65076f0cb6",
+    "wof:geomhash":"9879a2130e005e0ae9daa683de68aa30",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     16.47082,
     51.40799000000001
 ],
-  "geometry": {"coordinates":[16.47082,51.40799000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.47082,51.40799],"type":"Point"}
 }

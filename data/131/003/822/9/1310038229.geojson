@@ -54,7 +54,7 @@
         "wk:page":"Kurowszczyzna"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4c4ada49adf265d6e3a462afcaefdb9a",
+    "wof:geomhash":"2c987ac4b47abbb651cd2d2817dc7a18",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     23.51447000000001,
     53.3773
 ],
-  "geometry": {"coordinates":[23.51447000000001,53.3773],"type":"Point"}
+  "geometry": {"coordinates":[23.51447,53.3773],"type":"Point"}
 }

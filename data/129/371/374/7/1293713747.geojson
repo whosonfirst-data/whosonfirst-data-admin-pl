@@ -63,7 +63,7 @@
         "wk:page":"Szewnica"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ded0e417f293a019076d90fea3ee9f70",
+    "wof:geomhash":"0b3fc0facde4052c1559c0ca9ee1cb47",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     21.56024,
     52.48578000000001
 ],
-  "geometry": {"coordinates":[21.56024,52.48578000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.56024,52.48578],"type":"Point"}
 }

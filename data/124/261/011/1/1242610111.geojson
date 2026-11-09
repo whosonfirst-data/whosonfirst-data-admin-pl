@@ -58,7 +58,7 @@
         "wk:page":"Dzier%C5%BC%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8652176a26183d50df8acf5bbe9bc383",
+    "wof:geomhash":"272c5bd9132c38fb659fe3e42810db95",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,5 +85,5 @@
     15.20451,
     52.66088000000001
 ],
-  "geometry": {"coordinates":[15.20451,52.66088000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.20451,52.66088],"type":"Point"}
 }

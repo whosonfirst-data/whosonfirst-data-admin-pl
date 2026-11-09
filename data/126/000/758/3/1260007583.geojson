@@ -51,7 +51,7 @@
         "wk:page":"Niedysz"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d54f5d591d240d974f5b2bd5796de768",
+    "wof:geomhash":"d38a1cb4b64a69eb655ce8fe4a6964f4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     15.03736,
     54.01544000000001
 ],
-  "geometry": {"coordinates":[15.03736,54.01544000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.03736,54.01544],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"Sadek%2C_Szyd%C5%82owiec_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9950b5c21cac0dd6680dfc362f8ff0c9",
+    "wof:geomhash":"f1a9d2ee5546bb67a92c62edf6dcd2c3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     20.88991,
     51.20209000000001
 ],
-  "geometry": {"coordinates":[20.88991,51.20209000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.88991,51.20209],"type":"Point"}
 }

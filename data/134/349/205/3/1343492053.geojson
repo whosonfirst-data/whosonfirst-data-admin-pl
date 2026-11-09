@@ -63,7 +63,7 @@
         "wk:page":"Zambski_Ko%C5%9Bcielne"
     },
     "wof:country":"PL",
-    "wof:geomhash":"438fc19112e34a59328b8a0279801870",
+    "wof:geomhash":"4ab8a40f2062469c1e1f100dfaaa9457",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     21.21723,
     52.75593000000001
 ],
-  "geometry": {"coordinates":[21.21723,52.75593000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.21723,52.75593],"type":"Point"}
 }

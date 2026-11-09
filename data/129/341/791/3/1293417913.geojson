@@ -59,7 +59,7 @@
         "wk:page":"Nowe_Marcinkowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6b5e12e41b1a8596369aa2fc85c135d4",
+    "wof:geomhash":"ebb80dc9669bdd23849d2223fa2dc7fb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,5 +86,5 @@
     20.8902,
     53.82774000000001
 ],
-  "geometry": {"coordinates":[20.8902,53.82774000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.8902,53.82774],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Mstowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"97bcd512e82896d757a75e504c9970c6",
+    "wof:geomhash":"82ffdef296481c1472c60823c91bf872",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.00984,
     52.39279000000001
 ],
-  "geometry": {"coordinates":[19.00984,52.39279000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.00984,52.39279],"type":"Point"}
 }

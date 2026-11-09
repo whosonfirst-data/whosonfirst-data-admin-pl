@@ -54,7 +54,7 @@
         "wk:page":"Chaw%C5%82odno"
     },
     "wof:country":"PL",
-    "wof:geomhash":"327cc15953fe19d29d64d1339a44b235",
+    "wof:geomhash":"0b433c892577f1fa91cb90993efcb303",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.29657000000001,
     52.92667
 ],
-  "geometry": {"coordinates":[17.29657000000001,52.92667],"type":"Point"}
+  "geometry": {"coordinates":[17.29657,52.92667],"type":"Point"}
 }

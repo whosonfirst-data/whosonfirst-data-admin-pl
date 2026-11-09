@@ -54,7 +54,7 @@
         "wk:page":"Bojary%2C_Podlaskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"cb96e378e003f306bb1bab9f13689ee4",
+    "wof:geomhash":"754a7b53c3b6498276a1bbdfe6f6118b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.96948,
     53.01578000000001
 ],
-  "geometry": {"coordinates":[22.96948,53.01578000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.96948,53.01578],"type":"Point"}
 }

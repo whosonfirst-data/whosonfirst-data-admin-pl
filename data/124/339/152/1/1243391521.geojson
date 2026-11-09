@@ -54,7 +54,7 @@
         "wk:page":"Korczaki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"987cfcb51d0efcbc734ad1bf11c83f6b",
+    "wof:geomhash":"d63d022d93112a30cbd910bf2ba5711a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.54282000000001,
     53.03543000000001
 ],
-  "geometry": {"coordinates":[21.54282000000001,53.03543000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.54282,53.03543],"type":"Point"}
 }

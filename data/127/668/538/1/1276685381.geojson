@@ -54,7 +54,7 @@
         "wk:page":"Sycowa_Huta"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1b93617fd80671bfb06de7846913dd3d",
+    "wof:geomhash":"03fbf7e9d3453811d1aff90ce0030e78",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.91023999999999,
     54.08897
 ],
-  "geometry": {"coordinates":[17.91023999999999,54.08897],"type":"Point"}
+  "geometry": {"coordinates":[17.91024,54.08897],"type":"Point"}
 }

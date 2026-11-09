@@ -57,7 +57,7 @@
         "wk:page":"Pal%C4%99dzie%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"89cf69cb3688925ec8d0bb71a0c6ae4e",
+    "wof:geomhash":"e5c53606406f62b5de42520995e881f5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     16.73627999999999,
     52.37028
 ],
-  "geometry": {"coordinates":[16.73627999999999,52.37028],"type":"Point"}
+  "geometry": {"coordinates":[16.73628,52.37028],"type":"Point"}
 }

@@ -69,7 +69,7 @@
         "wk:page":"Kuflew"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f89da62b67ee6c09c182765798bc6372",
+    "wof:geomhash":"fa34deb6d00dd2bcae0f77008dc935a0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     21.82582,
     52.09314000000001
 ],
-  "geometry": {"coordinates":[21.82582,52.09314000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.82582,52.09314],"type":"Point"}
 }

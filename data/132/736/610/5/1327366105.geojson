@@ -57,7 +57,7 @@
         "wk:page":"Glewice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6a4d8077573e5e8b5dd05b1569c16e53",
+    "wof:geomhash":"9012cd769451bd9a1ebb19cf63aa4e17",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     14.91377,
     53.60706999999999
 ],
-  "geometry": {"coordinates":[14.91377,53.60706999999999],"type":"Point"}
+  "geometry": {"coordinates":[14.91377,53.60707],"type":"Point"}
 }

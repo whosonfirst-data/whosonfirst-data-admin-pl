@@ -58,7 +58,7 @@
         "wk:page":"Nowa_%C5%9Awi%C4%99ta"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ca4f77d84a1d3cb9a6d64a052d7fe5a6",
+    "wof:geomhash":"d51a032ed859d561c4c02b3e031ddf2a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,5 +85,5 @@
     17.12992,
     53.34379000000001
 ],
-  "geometry": {"coordinates":[17.12992,53.34379000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.12992,53.34379],"type":"Point"}
 }

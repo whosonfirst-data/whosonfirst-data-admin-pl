@@ -51,7 +51,7 @@
         "wk:page":"%C5%9Aciborzyce%2C_Lesser_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"aa7705da0a0b07678d45d61ddaff4c1d",
+    "wof:geomhash":"3b56b16f2bed46112cbedf51c320071d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.90937000000001,
     50.29515
 ],
-  "geometry": {"coordinates":[19.90937000000001,50.29515],"type":"Point"}
+  "geometry": {"coordinates":[19.90937,50.29515],"type":"Point"}
 }

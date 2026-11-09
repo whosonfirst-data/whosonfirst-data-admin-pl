@@ -61,7 +61,7 @@
         "wk:page":"%C5%9Awidry-Awissa"
     },
     "wof:country":"PL",
-    "wof:geomhash":"435493b59b93769d9ec04b3ac31a6a3e",
+    "wof:geomhash":"21661e6dea7d398150ceba4f02639ae1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     22.30372,
     53.54326999999999
 ],
-  "geometry": {"coordinates":[22.30372,53.54326999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.30372,53.54327],"type":"Point"}
 }

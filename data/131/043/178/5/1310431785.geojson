@@ -59,7 +59,7 @@
         "wk:page":"Rogojny"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3b5f77a939840bb0c842050134e8d58b",
+    "wof:geomhash":"bc6bef4448689c5bb4822653ebea71e6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,5 +86,5 @@
     22.23003,
     54.07214000000001
 ],
-  "geometry": {"coordinates":[22.23003,54.07214000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.23003,54.07214],"type":"Point"}
 }

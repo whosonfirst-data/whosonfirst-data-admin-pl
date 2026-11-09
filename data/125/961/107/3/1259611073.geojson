@@ -63,7 +63,7 @@
         "wk:page":"Jemieliste%2C_Podlaskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7e7fe785cd491e96db7763c08fb3d227",
+    "wof:geomhash":"0963ae21fd0cbea80bc1f42ca0fa8d59",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     22.72102000000001,
     54.18608
 ],
-  "geometry": {"coordinates":[22.72102000000001,54.18608],"type":"Point"}
+  "geometry": {"coordinates":[22.72102,54.18608],"type":"Point"}
 }

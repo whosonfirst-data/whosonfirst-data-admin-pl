@@ -57,7 +57,7 @@
         "wk:page":"Janik%C3%B3w%2C_Przysucha_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e975ecf1fdc1c15f268ca8487ef7d941",
+    "wof:geomhash":"ee4da50c445d0d6a07652fe2a25ff4f2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     20.65567,
     51.39514000000001
 ],
-  "geometry": {"coordinates":[20.65567,51.39514000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.65567,51.39514],"type":"Point"}
 }

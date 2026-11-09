@@ -57,7 +57,7 @@
         "wk:page":"Nie%C5%BCychowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f569bbaf152913ce665e330a0e686d0e",
+    "wof:geomhash":"55fff4df095a421f5eac62c2e02c1f6a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     17.15671,
     53.14373000000001
 ],
-  "geometry": {"coordinates":[17.15671,53.14373000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.15671,53.14373],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Zdziar_Ma%C5%82y"
     },
     "wof:country":"PL",
-    "wof:geomhash":"24f5a11f7163b5b9526d7f43519d2c0c",
+    "wof:geomhash":"666990891dd34ae6ceaf5184efa25818",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.03203,
     52.62838000000001
 ],
-  "geometry": {"coordinates":[20.03203,52.62838000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.03203,52.62838],"type":"Point"}
 }

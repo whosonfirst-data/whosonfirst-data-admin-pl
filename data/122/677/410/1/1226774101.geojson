@@ -54,7 +54,7 @@
         "wk:page":"Kocie%C5%84_Wielki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b7427172c7c0cf1c0cc9d359814549e9",
+    "wof:geomhash":"4f3e9ef465631cdab7a06ee19873f2bf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     16.25241,
     52.96803000000001
 ],
-  "geometry": {"coordinates":[16.25241,52.96803000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.25241,52.96803],"type":"Point"}
 }

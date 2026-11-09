@@ -63,7 +63,7 @@
         "wk:page":"Gr%C4%99blin"
     },
     "wof:country":"PL",
-    "wof:geomhash":"0b0735c37ef000c72a6528949396e636",
+    "wof:geomhash":"37e8cc50a03b8518ec22c356cf01ed11",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     18.76544,
     53.96194000000001
 ],
-  "geometry": {"coordinates":[18.76544,53.96194000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.76544,53.96194],"type":"Point"}
 }

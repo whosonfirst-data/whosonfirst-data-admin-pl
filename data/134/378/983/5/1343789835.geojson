@@ -54,7 +54,7 @@
         "wk:page":"Rudnicze"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8b6fc01e5c68dd025c689bfe710db493",
+    "wof:geomhash":"90f75ef4944f23da4e01232f0e400244",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.10794,
     52.81531999999999
 ],
-  "geometry": {"coordinates":[17.10794,52.81531999999999],"type":"Point"}
+  "geometry": {"coordinates":[17.10794,52.81532],"type":"Point"}
 }

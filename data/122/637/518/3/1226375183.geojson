@@ -75,7 +75,7 @@
         "wk:page":"Wytowno"
     },
     "wof:country":"PL",
-    "wof:geomhash":"bfcd93234f9249c921c0ffb98cd4c162",
+    "wof:geomhash":"f3be8be88da99fde5b4fd365dac7da09",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,5 +102,5 @@
     16.97436,
     54.58886999999999
 ],
-  "geometry": {"coordinates":[16.97436,54.58886999999999],"type":"Point"}
+  "geometry": {"coordinates":[16.97436,54.58887],"type":"Point"}
 }

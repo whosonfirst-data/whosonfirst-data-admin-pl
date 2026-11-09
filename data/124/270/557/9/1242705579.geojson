@@ -57,7 +57,7 @@
         "wk:page":"Syberia%2C_M%C5%82awa_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5c6f35d7df05bf7b8b4a7402c67b4ea5",
+    "wof:geomhash":"a8c233ddb643ad34577572767ee8e84c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     20.25375,
     52.97329000000001
 ],
-  "geometry": {"coordinates":[20.25375,52.97329000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.25375,52.97329],"type":"Point"}
 }

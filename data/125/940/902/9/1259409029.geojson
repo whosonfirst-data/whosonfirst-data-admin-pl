@@ -51,7 +51,7 @@
         "wk:page":"Krzy%C5%BC%2C_%C5%81%C3%B3d%C5%BA_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8e5d93261ee21eddce566132b51925b2",
+    "wof:geomhash":"fef4a45588da928e4d3f1a960f27c727",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.35747000000001,
     51.23419000000001
 ],
-  "geometry": {"coordinates":[18.35747000000001,51.23419000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.35747,51.23419],"type":"Point"}
 }

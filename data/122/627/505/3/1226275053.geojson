@@ -57,7 +57,7 @@
         "wk:page":"Zaj%C4%85czkowo%2C_Podlaskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"527088172570480b8901a1b9df46fbaa",
+    "wof:geomhash":"73b7c7d4016cde806c57f788a74801b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.73466,
     54.07378000000001
 ],
-  "geometry": {"coordinates":[22.73466,54.07378000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.73466,54.07378],"type":"Point"}
 }

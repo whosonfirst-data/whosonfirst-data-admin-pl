@@ -54,7 +54,7 @@
         "wk:page":"Go%C5%82yszyn"
     },
     "wof:country":"PL",
-    "wof:geomhash":"138d658147b0c0bf9ae6ba2167f63b3f",
+    "wof:geomhash":"283f007b40858a107efde1841d9a7702",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.91358,
     50.27464000000001
 ],
-  "geometry": {"coordinates":[19.91358,50.27464000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.91358,50.27464],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Bia%C5%82oborze"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2c4597feeaa03c78407f88800a6b12e8",
+    "wof:geomhash":"663c869c4449d3a219064a1470decb02",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.96877000000001,
     50.44809
 ],
-  "geometry": {"coordinates":[20.96877000000001,50.44809],"type":"Point"}
+  "geometry": {"coordinates":[20.96877,50.44809],"type":"Point"}
 }

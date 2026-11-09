@@ -60,7 +60,7 @@
         "wk:page":"Skorz%C4%99cin"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a8bb5d0034d20afe9f8336dca9dea3d8",
+    "wof:geomhash":"0a96d6ad10dcb1f07242d65902190490",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     17.85707,
     52.46344000000001
 ],
-  "geometry": {"coordinates":[17.85707,52.46344000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.85707,52.46344],"type":"Point"}
 }

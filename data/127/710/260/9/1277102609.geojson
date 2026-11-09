@@ -51,7 +51,7 @@
         "wk:page":"Maciejewo%2C_West_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"83d1b9dec2c89327ac91f559468db6a3",
+    "wof:geomhash":"b3c134b4e4dec4fcc60c821930836b78",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     15.00563,
     53.55351999999999
 ],
-  "geometry": {"coordinates":[15.00563,53.55351999999999],"type":"Point"}
+  "geometry": {"coordinates":[15.00563,53.55352],"type":"Point"}
 }

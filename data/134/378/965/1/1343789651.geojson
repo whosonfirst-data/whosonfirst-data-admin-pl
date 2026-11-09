@@ -51,7 +51,7 @@
         "wk:page":"Stare_Brachowice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ee06790b5e7d8100424aa1f79ae0692a",
+    "wof:geomhash":"d1b2c05b73c294bbd90e2f649880b10d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.4,
     52.0
 ],
-  "geometry": {"coordinates":[19.4,52.0],"type":"Point"}
+  "geometry": {"coordinates":[19.4,52],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Buszyce%2C_Opole_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"83e4fc84d28ec1c5d6929c66b98029f7",
+    "wof:geomhash":"4121571d6c0c3266e6a20deea18c9a95",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.62807999999999,
     50.77436
 ],
-  "geometry": {"coordinates":[17.62807999999999,50.77436],"type":"Point"}
+  "geometry": {"coordinates":[17.62808,50.77436],"type":"Point"}
 }

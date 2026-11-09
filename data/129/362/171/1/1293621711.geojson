@@ -54,7 +54,7 @@
         "wk:page":"Gogolinek"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1e3b06d2bad62cc3484457ab01a775af",
+    "wof:geomhash":"5b877c6ae3508313d5e72531098a0792",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.84832999999999,
     53.24655
 ],
-  "geometry": {"coordinates":[17.84832999999999,53.24655],"type":"Point"}
+  "geometry": {"coordinates":[17.84833,53.24655],"type":"Point"}
 }

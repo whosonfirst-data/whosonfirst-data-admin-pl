@@ -69,7 +69,7 @@
         "wk:page":"Wola_Orzeszowska"
     },
     "wof:country":"PL",
-    "wof:geomhash":"38d43bc47edcb49142af12a15e34d3b8",
+    "wof:geomhash":"9e214d53fad7e4565028c73e247a4545",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     22.13707,
     52.45053000000001
 ],
-  "geometry": {"coordinates":[22.13707,52.45053000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.13707,52.45053],"type":"Point"}
 }

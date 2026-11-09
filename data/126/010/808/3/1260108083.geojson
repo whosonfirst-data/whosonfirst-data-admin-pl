@@ -54,7 +54,7 @@
         "wk:page":"Nowy_Borowiec"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e7e68b31a37c40c21dbdac97a94fac05",
+    "wof:geomhash":"20991ff41ee6ea8bc263b9eb17330c99",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.00457999999999,
     52.007
 ],
-  "geometry": {"coordinates":[18.00457999999999,52.007],"type":"Point"}
+  "geometry": {"coordinates":[18.00458,52.007],"type":"Point"}
 }

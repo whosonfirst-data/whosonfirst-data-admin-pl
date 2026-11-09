@@ -63,7 +63,7 @@
         "wk:page":"Grubno"
     },
     "wof:country":"PL",
-    "wof:geomhash":"155d9d949bbc7a733237cffb262d8c79",
+    "wof:geomhash":"2711c965a5913533712742895e129401",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     18.46802000000001,
     53.33713
 ],
-  "geometry": {"coordinates":[18.46802000000001,53.33713],"type":"Point"}
+  "geometry": {"coordinates":[18.46802,53.33713],"type":"Point"}
 }

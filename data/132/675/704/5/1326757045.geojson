@@ -60,7 +60,7 @@
         "wk:page":"Kamierowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f37087ad8d5492389c1e79124022c54d",
+    "wof:geomhash":"015bf2fc42b9d2994478967f6e3af4e9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     18.46362,
     54.09343000000001
 ],
-  "geometry": {"coordinates":[18.46362,54.09343000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.46362,54.09343],"type":"Point"}
 }

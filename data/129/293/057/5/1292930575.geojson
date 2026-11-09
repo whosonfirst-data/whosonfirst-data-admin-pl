@@ -66,7 +66,7 @@
         "wk:page":"Kromolice%2C_Gosty%C5%84_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b0dcfac7f5abc69d1bc5313617c3364e",
+    "wof:geomhash":"94502f93b0dbc1a53c0eb8022fa18ee6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     17.29039,
     51.76714000000001
 ],
-  "geometry": {"coordinates":[17.29039,51.76714000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.29039,51.76714],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"Chro%C5%9Blice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5ed9def5679457336f468d7462d84ca5",
+    "wof:geomhash":"02297b68158e9e22cbfe0e4433e39e8d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     16.08439,
     51.08584000000001
 ],
-  "geometry": {"coordinates":[16.08439,51.08584000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.08439,51.08584],"type":"Point"}
 }

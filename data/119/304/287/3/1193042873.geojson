@@ -54,7 +54,7 @@
         "wk:page":"Leszczyny%2C_Szyd%C5%82owiec_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"41d500a111ebb7e11efd107984f3250c",
+    "wof:geomhash":"514eac72a069573f031a8bbee16b523a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.74172,
     51.18982000000001
 ],
-  "geometry": {"coordinates":[20.74172,51.18982000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.74172,51.18982],"type":"Point"}
 }

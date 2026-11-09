@@ -51,7 +51,7 @@
         "wk:page":"Chudoba%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6d9df248f46e1180d0eb2ae26619cb0a",
+    "wof:geomhash":"a05e2876c49cd1110246fd5668ec402f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.36667000000001,
     51.56667
 ],
-  "geometry": {"coordinates":[18.36667000000001,51.56667],"type":"Point"}
+  "geometry": {"coordinates":[18.36667,51.56667],"type":"Point"}
 }

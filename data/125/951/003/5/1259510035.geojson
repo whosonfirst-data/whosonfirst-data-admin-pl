@@ -60,7 +60,7 @@
         "wk:page":"Stanomino"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c5d984ac408a4ef0205a3376f2f85a4c",
+    "wof:geomhash":"bb84cef0208087a610d38b18ffce30a4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     15.89869,
     53.95823000000001
 ],
-  "geometry": {"coordinates":[15.89869,53.95823000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.89869,53.95823],"type":"Point"}
 }

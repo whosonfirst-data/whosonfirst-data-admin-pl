@@ -57,7 +57,7 @@
         "wk:page":"Naro%C5%BCniki%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"32030ca52127b4fc77c0e8b752a4a12c",
+    "wof:geomhash":"caeb6a3e8905bfc5d992eeb0597b5f99",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     16.23467,
     52.16119000000001
 ],
-  "geometry": {"coordinates":[16.23467,52.16119000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.23467,52.16119],"type":"Point"}
 }

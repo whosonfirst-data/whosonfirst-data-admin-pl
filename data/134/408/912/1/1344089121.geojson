@@ -63,7 +63,7 @@
         "wk:page":"Cwaliny_Ma%C5%82e"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a0e1db746d80a9e700ace78c0d3fdcf2",
+    "wof:geomhash":"5703b20cb62ed0313a026bb26d6f0ead",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     21.94962,
     53.28919000000001
 ],
-  "geometry": {"coordinates":[21.94962,53.28919000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.94962,53.28919],"type":"Point"}
 }

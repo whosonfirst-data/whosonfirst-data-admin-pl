@@ -51,7 +51,7 @@
         "wk:page":"Mikorzyn%2C_K%C4%99pno_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b5d2b3dd34be76a7e6a6cf075708a30e",
+    "wof:geomhash":"17ece2f77fede039a551c7af8364f33f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.02977000000001,
     51.36021
 ],
-  "geometry": {"coordinates":[18.02977000000001,51.36021],"type":"Point"}
+  "geometry": {"coordinates":[18.02977,51.36021],"type":"Point"}
 }

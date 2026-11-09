@@ -54,7 +54,7 @@
         "wk:page":"Pozga"
     },
     "wof:country":"PL",
-    "wof:geomhash":"722e3fc3c6a111e29d678aa283ebdddc",
+    "wof:geomhash":"49582436d2d4e275d990ca1c456b950e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.92635,
     52.90904000000001
 ],
-  "geometry": {"coordinates":[19.92635,52.90904000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.92635,52.90904],"type":"Point"}
 }

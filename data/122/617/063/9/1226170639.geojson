@@ -57,7 +57,7 @@
         "wk:page":"Lenarcice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d09552c3f474ec00e1ee628d5150e412",
+    "wof:geomhash":"ced9269a960fe48ca6f3d8b635cca048",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     17.62927999999999,
     50.13604
 ],
-  "geometry": {"coordinates":[17.62927999999999,50.13604],"type":"Point"}
+  "geometry": {"coordinates":[17.62928,50.13604],"type":"Point"}
 }

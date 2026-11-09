@@ -56,7 +56,7 @@
         "wk:page":"Rozajny"
     },
     "wof:country":"PL",
-    "wof:geomhash":"aafcb1f34159409585a983c339281505",
+    "wof:geomhash":"4c78c1b99383c870cfc1df1372c95043",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,5 +83,5 @@
     19.04214,
     53.65600000000001
 ],
-  "geometry": {"coordinates":[19.04214,53.65600000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.04214,53.656],"type":"Point"}
 }

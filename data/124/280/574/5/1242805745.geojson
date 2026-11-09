@@ -61,7 +61,7 @@
         "wk:page":"Pieczarki%2C_W%C4%99gorzewo_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3eb3fb1deb99a9c03312c8d7ff084493",
+    "wof:geomhash":"811e6cb23b242256550a753988d6f505",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     21.80161,
     54.10268000000001
 ],
-  "geometry": {"coordinates":[21.80161,54.10268000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.80161,54.10268],"type":"Point"}
 }

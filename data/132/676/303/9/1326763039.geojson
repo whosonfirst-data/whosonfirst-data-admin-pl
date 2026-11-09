@@ -54,7 +54,7 @@
         "wk:page":"Majdan_Wielki%2C_Zamo%C5%9B%C4%87_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c2077fd10fe888db0963c2a96e2ef62b",
+    "wof:geomhash":"41a6b6991031d3cdf67aed1c37d5d561",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     23.27217000000001,
     50.5433
 ],
-  "geometry": {"coordinates":[23.27217000000001,50.5433],"type":"Point"}
+  "geometry": {"coordinates":[23.27217,50.5433],"type":"Point"}
 }

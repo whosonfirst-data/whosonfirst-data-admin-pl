@@ -54,7 +54,7 @@
         "wk:page":"Lipie%2C_Starachowice_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a21578d8a49bd85adc0b9f467d65860c",
+    "wof:geomhash":"bd55fb53c8ab10e603b2be4efb1bcda0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.12877000000001,
     51.07754
 ],
-  "geometry": {"coordinates":[21.12877000000001,51.07754],"type":"Point"}
+  "geometry": {"coordinates":[21.12877,51.07754],"type":"Point"}
 }

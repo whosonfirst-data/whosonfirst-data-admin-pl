@@ -66,7 +66,7 @@
         "wk:page":"Anatolin"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b5a60a32f4c2619b1fdde21d11e15901",
+    "wof:geomhash":"bd4b857572b8592e7e2d60788dcd150e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     19.75922000000001,
     52.31651
 ],
-  "geometry": {"coordinates":[19.75922000000001,52.31651],"type":"Point"}
+  "geometry": {"coordinates":[19.75922,52.31651],"type":"Point"}
 }

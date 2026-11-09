@@ -57,7 +57,7 @@
         "wk:page":"Saduny"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3810bfa0bc02b51889d5bf390b72f9ec",
+    "wof:geomhash":"834f3bd22eb7a2c81135296e0c4faa3e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.25936,
     54.15586999999999
 ],
-  "geometry": {"coordinates":[21.25936,54.15586999999999],"type":"Point"}
+  "geometry": {"coordinates":[21.25936,54.15587],"type":"Point"}
 }

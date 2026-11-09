@@ -54,7 +54,7 @@
         "wk:page":"Skoki%2C_Pu%C5%82awy_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c3e1b2392c6941aebd114bc49f22edea",
+    "wof:geomhash":"aee176a43a2550c5829963fc0ba6fff0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.8561,
     51.54004000000001
 ],
-  "geometry": {"coordinates":[21.8561,51.54004000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.8561,51.54004],"type":"Point"}
 }

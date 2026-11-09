@@ -54,7 +54,7 @@
         "wk:page":"Suminek%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3c8bd69478bbd9a91aaa154cbfb5fab0",
+    "wof:geomhash":"becb2303fa8ecbad7508703f6eb425b0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.43566,
     52.78353000000001
 ],
-  "geometry": {"coordinates":[19.43566,52.78353000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.43566,52.78353],"type":"Point"}
 }

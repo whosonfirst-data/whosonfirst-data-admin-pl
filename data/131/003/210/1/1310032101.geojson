@@ -51,7 +51,7 @@
         "wk:page":"Kaw%C4%99czynek%2C_%C5%81%C3%B3d%C5%BA_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a4d16b5c4b5eaadd2db697adfb727c7c",
+    "wof:geomhash":"caff5fe63de8b37ef3c8e529540f5235",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.54732000000001,
     51.66442
 ],
-  "geometry": {"coordinates":[18.54732000000001,51.66442],"type":"Point"}
+  "geometry": {"coordinates":[18.54732,51.66442],"type":"Point"}
 }

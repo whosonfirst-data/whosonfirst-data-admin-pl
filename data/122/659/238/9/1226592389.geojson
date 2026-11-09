@@ -54,7 +54,7 @@
         "wk:page":"Pio%C5%82unka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"670ce6762b7bda6abb82df5fa2ce7dd3",
+    "wof:geomhash":"07c10245da0013a5a1467bfb2b18d0de",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.14182000000001,
     50.56828
 ],
-  "geometry": {"coordinates":[20.14182000000001,50.56828],"type":"Point"}
+  "geometry": {"coordinates":[20.14182,50.56828],"type":"Point"}
 }

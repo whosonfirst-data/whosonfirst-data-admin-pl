@@ -57,7 +57,7 @@
         "wk:page":"Czatkowy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"be3b35e85eeccf40a17800bed11da222",
+    "wof:geomhash":"2e53303499d3df760aaaec31c0d3dc00",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     18.81619,
     54.13153000000001
 ],
-  "geometry": {"coordinates":[18.81619,54.13153000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.81619,54.13153],"type":"Point"}
 }

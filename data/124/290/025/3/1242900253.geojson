@@ -57,7 +57,7 @@
         "wk:page":"Podbielko"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b2fc26bfe08f3010b90e1a9ed19e9315",
+    "wof:geomhash":"239fa69408add0440629bf3545ee2965",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.99336,
     52.91054000000001
 ],
-  "geometry": {"coordinates":[21.99336,52.91054000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.99336,52.91054],"type":"Point"}
 }

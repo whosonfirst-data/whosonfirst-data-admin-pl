@@ -54,7 +54,7 @@
         "wk:page":"Belny"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a2e2eaec310c6621bf5189d80916a798",
+    "wof:geomhash":"a66e5b2f871f8108e07ee125eb67e7dc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.57557000000001,
     52.41102
 ],
-  "geometry": {"coordinates":[18.57557000000001,52.41102],"type":"Point"}
+  "geometry": {"coordinates":[18.57557,52.41102],"type":"Point"}
 }

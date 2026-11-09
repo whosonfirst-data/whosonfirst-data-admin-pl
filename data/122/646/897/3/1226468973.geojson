@@ -57,7 +57,7 @@
         "wk:page":"Piszczaty-Piotrowi%C4%99ta"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c06073f0a82c98b12bfe7583bd4a7e74",
+    "wof:geomhash":"8a726e2ecaabf17f97774bf1d8a3d944",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.6236,
     53.05589000000001
 ],
-  "geometry": {"coordinates":[22.6236,53.05589000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.6236,53.05589],"type":"Point"}
 }

@@ -61,7 +61,7 @@
         "wk:page":"Piszczaty-Ko%C5%84czany"
     },
     "wof:country":"PL",
-    "wof:geomhash":"217c2972a8fc380dbd039ae7d653ae05",
+    "wof:geomhash":"a822517320271dda6dded863a3c6688a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     22.61225,
     53.05728000000001
 ],
-  "geometry": {"coordinates":[22.61225,53.05728000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.61225,53.05728],"type":"Point"}
 }

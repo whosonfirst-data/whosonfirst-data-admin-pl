@@ -51,7 +51,7 @@
         "wk:page":"Pal%C4%99dzie_Dolne"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b5d0c5d045df1442fcf23e20cbb437ee",
+    "wof:geomhash":"4e9fee20e2c7281512621807a03bc346",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.82542999999999,
     52.65449
 ],
-  "geometry": {"coordinates":[17.82542999999999,52.65449],"type":"Point"}
+  "geometry": {"coordinates":[17.82543,52.65449],"type":"Point"}
 }

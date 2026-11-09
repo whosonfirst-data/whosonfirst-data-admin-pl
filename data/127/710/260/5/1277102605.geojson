@@ -60,7 +60,7 @@
         "wk:page":"Z%C4%85browiec"
     },
     "wof:country":"PL",
-    "wof:geomhash":"97f103de15a1aed9498ae40b68f7528d",
+    "wof:geomhash":"520c75b6c83762c9afe4d3b0391e5430",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     19.95458,
     54.05363000000001
 ],
-  "geometry": {"coordinates":[19.95458,54.05363000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.95458,54.05363],"type":"Point"}
 }

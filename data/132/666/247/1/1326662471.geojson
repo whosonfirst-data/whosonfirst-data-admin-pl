@@ -54,7 +54,7 @@
         "wk:page":"Ruda%2C_%C5%81ask_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2a837752b3f37c45a789dd04e765843f",
+    "wof:geomhash":"ee1a572c886acdccd158ec9417f2c030",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.00299,
     51.41249000000001
 ],
-  "geometry": {"coordinates":[19.00299,51.41249000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.00299,51.41249],"type":"Point"}
 }

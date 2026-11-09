@@ -51,7 +51,7 @@
         "wk:page":"Szczawin%2C_Lower_Silesian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"274ac53efc46f16bc3e65de3a0e65fdb",
+    "wof:geomhash":"da68a81b631c8efbc5157264a04fc307",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.05712999999999,
     50.79498
 ],
-  "geometry": {"coordinates":[17.05712999999999,50.79498],"type":"Point"}
+  "geometry": {"coordinates":[17.05713,50.79498],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Sosnowiec%2C_%C5%9Awi%C4%99tokrzyskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3c2e9a150a57487d6b220ca6a5a4a4ee",
+    "wof:geomhash":"690762f68198afb9a07d20274574380e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.05554,
     50.59034000000001
 ],
-  "geometry": {"coordinates":[20.05554,50.59034000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.05554,50.59034],"type":"Point"}
 }

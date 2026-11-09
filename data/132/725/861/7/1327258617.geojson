@@ -55,7 +55,7 @@
         "wk:page":"Lask%C3%B3wka_Chor%C4%85ska"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a81efbca655b6d15d1ebbdc868dc362e",
+    "wof:geomhash":"99412ba140130a61c5e1d63233f73b1e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,5 +82,5 @@
     20.97129,
     50.12300000000001
 ],
-  "geometry": {"coordinates":[20.97129,50.12300000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.97129,50.123],"type":"Point"}
 }

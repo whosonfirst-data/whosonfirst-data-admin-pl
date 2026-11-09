@@ -66,7 +66,7 @@
         "wk:page":"Kosemin"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9a4b3f878f90ef73e8d096752ff0e330",
+    "wof:geomhash":"275bee066a2e51fdc2e4d883370f7072",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     19.89055,
     52.86241999999999
 ],
-  "geometry": {"coordinates":[19.89055,52.86241999999999],"type":"Point"}
+  "geometry": {"coordinates":[19.89055,52.86242],"type":"Point"}
 }

@@ -51,7 +51,7 @@
         "wk:page":"S%C5%82awoszynko"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d2809fe6360a7e09fdff531603db8adb",
+    "wof:geomhash":"dd8f9d9b4f3bf303365ad89b9e1862a0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.20126,
     54.81048000000001
 ],
-  "geometry": {"coordinates":[18.20126,54.81048000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.20126,54.81048],"type":"Point"}
 }

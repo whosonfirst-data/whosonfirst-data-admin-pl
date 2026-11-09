@@ -57,7 +57,7 @@
         "wk:page":"Szczenurze"
     },
     "wof:country":"PL",
-    "wof:geomhash":"701ac9cba809846b1f6384294d365342",
+    "wof:geomhash":"7d23e79057a68bb1461e11e3cf636842",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     17.62156000000001,
     54.7271
 ],
-  "geometry": {"coordinates":[17.62156000000001,54.7271],"type":"Point"}
+  "geometry": {"coordinates":[17.62156,54.7271],"type":"Point"}
 }

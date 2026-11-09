@@ -41,7 +41,7 @@
     ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"9942255ddfe72c85444256c81e4e0890",
+    "wof:geomhash":"1e60222f3af4b78fab82baffe8a0f14c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,5 +69,5 @@
     18.51799806838169,
     54.35323638375191
 ],
-  "geometry": {"coordinates":[18.51799806838169,54.35323638375191],"type":"Point"}
+  "geometry": {"coordinates":[18.517998,54.353236],"type":"Point"}
 }

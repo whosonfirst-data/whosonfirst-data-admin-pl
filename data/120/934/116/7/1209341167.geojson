@@ -58,7 +58,7 @@
         "wk:page":"Wietrzych%C3%B3wko"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1ac2cc1de92519c0e746e6ddad952209",
+    "wof:geomhash":"7a4deebffc5ff4a2256b8bae3991b669",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,5 +85,5 @@
     20.38333,
     53.43333000000001
 ],
-  "geometry": {"coordinates":[20.38333,53.43333000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.38333,53.43333],"type":"Point"}
 }

@@ -69,7 +69,7 @@
         "wk:page":"No%C5%BCyno"
     },
     "wof:country":"PL",
-    "wof:geomhash":"0d344a086a1cf951a915193e75838d02",
+    "wof:geomhash":"cd462897b57042c7da6a262fe9473a71",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     17.49024,
     54.31594000000001
 ],
-  "geometry": {"coordinates":[17.49024,54.31594000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.49024,54.31594],"type":"Point"}
 }

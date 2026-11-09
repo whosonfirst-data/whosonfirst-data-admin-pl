@@ -51,7 +51,7 @@
         "wk:page":"Olewin%2C_Lesser_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d57e71c8578e723dd85f864c1604b56f",
+    "wof:geomhash":"584763baa1203c7422fc7eaeebc066c2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.60665,
     50.27914000000001
 ],
-  "geometry": {"coordinates":[19.60665,50.27914000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.60665,50.27914],"type":"Point"}
 }

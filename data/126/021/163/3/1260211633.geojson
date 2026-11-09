@@ -63,7 +63,7 @@
         "wk:page":"Gnuszyn"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4e7d549f06e1f1e75b5065c1c81aa70a",
+    "wof:geomhash":"d0b31507f8ab406520d8aaca122a0077",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     16.26517,
     52.59314000000001
 ],
-  "geometry": {"coordinates":[16.26517,52.59314000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.26517,52.59314],"type":"Point"}
 }

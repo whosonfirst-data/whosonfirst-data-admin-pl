@@ -57,7 +57,7 @@
         "wk:page":"D%C4%99bowo%2C_Nak%C5%82o_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"32af9e158535472b34396b05e15f2b63",
+    "wof:geomhash":"caf2c20d4ca30aeb1ca6ac775cdf4ed2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     17.49462999999999,
     53.18269
 ],
-  "geometry": {"coordinates":[17.49462999999999,53.18269],"type":"Point"}
+  "geometry": {"coordinates":[17.49463,53.18269],"type":"Point"}
 }

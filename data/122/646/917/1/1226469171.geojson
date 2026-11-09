@@ -57,7 +57,7 @@
         "wk:page":"Gil%C3%B3w%2C_Lubusz_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4a90fbdee6cb84cd8305feec816b080e",
+    "wof:geomhash":"fd045839a12971daeed15cf0b4afe4aa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     15.5496,
     52.99789000000001
 ],
-  "geometry": {"coordinates":[15.5496,52.99789000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.5496,52.99789],"type":"Point"}
 }

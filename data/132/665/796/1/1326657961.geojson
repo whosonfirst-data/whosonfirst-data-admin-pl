@@ -57,7 +57,7 @@
         "wk:page":"%C5%81%C4%99czno%2C_West_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4e2645ba68777b187647acc27054e805",
+    "wof:geomhash":"aadf320fad773986624b9483a6b7a303",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     15.95158,
     53.96836999999999
 ],
-  "geometry": {"coordinates":[15.95158,53.96836999999999],"type":"Point"}
+  "geometry": {"coordinates":[15.95158,53.96837],"type":"Point"}
 }

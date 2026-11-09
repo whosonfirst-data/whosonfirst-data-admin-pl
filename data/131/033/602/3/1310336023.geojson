@@ -51,7 +51,7 @@
         "wk:page":"Cetki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a273f02dba0371a868f06c3c45e0d147",
+    "wof:geomhash":"2c998a884c60847af2e8ead942595216",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.32779,
     53.07183000000001
 ],
-  "geometry": {"coordinates":[19.32779,53.07183000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.32779,53.07183],"type":"Point"}
 }

@@ -66,7 +66,7 @@
         "wk:page":"Kistowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"14f16430bb931984ac49dec7754244e5",
+    "wof:geomhash":"a1f99b060dd68718b445f094f3327261",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     17.74377999999999,
     54.26643000000001
 ],
-  "geometry": {"coordinates":[17.74377999999999,54.26643000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.74378,54.26643],"type":"Point"}
 }

@@ -51,7 +51,7 @@
         "wk:page":"Wo%C5%82dowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"13276fd3c9d4381a5a11107791f2f4ae",
+    "wof:geomhash":"71816e5649d66bea90adc11342afcc1c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     15.18029,
     53.09076999999999
 ],
-  "geometry": {"coordinates":[15.18029,53.09076999999999],"type":"Point"}
+  "geometry": {"coordinates":[15.18029,53.09077],"type":"Point"}
 }

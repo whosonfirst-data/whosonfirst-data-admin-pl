@@ -54,7 +54,7 @@
         "wk:page":"Krysiaki%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"09912579db2f2b9e9f093500db18f36d",
+    "wof:geomhash":"207745b36f1197d17e864889035dd969",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.47346,
     53.43581999999999
 ],
-  "geometry": {"coordinates":[21.47346,53.43581999999999],"type":"Point"}
+  "geometry": {"coordinates":[21.47346,53.43582],"type":"Point"}
 }

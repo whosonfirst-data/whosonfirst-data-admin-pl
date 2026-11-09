@@ -51,7 +51,7 @@
         "wk:page":"Marcinkowice%2C_Kazimierza_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"82a986d3ef50b6054234faac3ad86e4c",
+    "wof:geomhash":"8e17e5ae5e20db793d1185b159be1fe9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     20.42736,
     50.20679000000001
 ],
-  "geometry": {"coordinates":[20.42736,50.20679000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.42736,50.20679],"type":"Point"}
 }

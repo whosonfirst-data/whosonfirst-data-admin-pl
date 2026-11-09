@@ -66,7 +66,7 @@
         "wk:page":"Lubonieczek"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a83c31d1f5329a3b12d68848e83576f0",
+    "wof:geomhash":"fd27776f496957281d0402b9078424bc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     17.19982000000001,
     52.14381
 ],
-  "geometry": {"coordinates":[17.19982000000001,52.14381],"type":"Point"}
+  "geometry": {"coordinates":[17.19982,52.14381],"type":"Point"}
 }

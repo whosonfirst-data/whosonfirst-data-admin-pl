@@ -57,7 +57,7 @@
         "wk:page":"Mociesze"
     },
     "wof:country":"PL",
-    "wof:geomhash":"862ddd1cedf49679f43ae61fcb4a3859",
+    "wof:geomhash":"53ea646247552d50e2ee5ca7c7d38bde",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.91233,
     53.48753000000001
 ],
-  "geometry": {"coordinates":[22.91233,53.48753000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.91233,53.48753],"type":"Point"}
 }

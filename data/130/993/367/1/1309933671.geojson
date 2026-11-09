@@ -54,7 +54,7 @@
         "wk:page":"Drzewoszewo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e6c8f249a25091f7697e3b29fc319e2c",
+    "wof:geomhash":"767f2fe7ef297a5e2f399a9b6afb1fff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     16.26988,
     53.30461999999999
 ],
-  "geometry": {"coordinates":[16.26988,53.30461999999999],"type":"Point"}
+  "geometry": {"coordinates":[16.26988,53.30462],"type":"Point"}
 }

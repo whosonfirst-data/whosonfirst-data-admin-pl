@@ -57,7 +57,7 @@
         "wk:page":"Reszkowce"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ef8b5aa5e6852298982663739df338a0",
+    "wof:geomhash":"03d928ff1362cc9410ca21b3b2e254e8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     23.34689,
     53.56726999999999
 ],
-  "geometry": {"coordinates":[23.34689,53.56726999999999],"type":"Point"}
+  "geometry": {"coordinates":[23.34689,53.56727],"type":"Point"}
 }

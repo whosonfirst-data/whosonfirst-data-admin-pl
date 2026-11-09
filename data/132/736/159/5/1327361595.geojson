@@ -51,7 +51,7 @@
         "wk:page":"Cegielnia%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"0cfc08829315300cd18c296e695079f3",
+    "wof:geomhash":"3dc62e9bb6fb79b30ca3d8ad14eaf28b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.73512000000001,
     52.67406
 ],
-  "geometry": {"coordinates":[17.73512000000001,52.67406],"type":"Point"}
+  "geometry": {"coordinates":[17.73512,52.67406],"type":"Point"}
 }

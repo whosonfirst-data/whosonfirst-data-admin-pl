@@ -54,7 +54,7 @@
         "wk:page":"Grab%C3%B3wek%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7f59f1c30e3690c23fae6e43fca6d966",
+    "wof:geomhash":"2638a0f44eca3d83d6fdd39668e02a43",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.33144,
     53.11581999999999
 ],
-  "geometry": {"coordinates":[21.33144,53.11581999999999],"type":"Point"}
+  "geometry": {"coordinates":[21.33144,53.11582],"type":"Point"}
 }

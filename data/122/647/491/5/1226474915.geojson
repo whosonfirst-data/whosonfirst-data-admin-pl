@@ -54,7 +54,7 @@
         "wk:page":"Szeligi-Le%C5%9Bnica"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3f566f1a8fccbf6abc7ff5714eb6a2ff",
+    "wof:geomhash":"3061773fcdbdb1b4ca8133a24d3d4edc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.28374,
     53.04861999999999
 ],
-  "geometry": {"coordinates":[22.28374,53.04861999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.28374,53.04862],"type":"Point"}
 }

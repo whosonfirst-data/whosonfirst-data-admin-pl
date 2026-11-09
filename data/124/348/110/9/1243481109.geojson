@@ -51,7 +51,7 @@
         "wk:page":"Glicko"
     },
     "wof:country":"PL",
-    "wof:geomhash":"be6fa071c4b2a9dcb2e7434fb676b880",
+    "wof:geomhash":"5e2a7786e76d070d5dc133ffd7fa6af2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     15.09958,
     53.73543000000001
 ],
-  "geometry": {"coordinates":[15.09958,53.73543000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.09958,53.73543],"type":"Point"}
 }

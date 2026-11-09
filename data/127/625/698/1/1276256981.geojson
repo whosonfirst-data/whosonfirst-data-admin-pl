@@ -54,7 +54,7 @@
         "wk:page":"Ko%C5%82omyjka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3c82c9bf6c26213c2271bd0a98e00bf3",
+    "wof:geomhash":"0a608cde8ef05f9c4c483ab8699c29c5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.37727000000001,
     53.07534
 ],
-  "geometry": {"coordinates":[22.37727000000001,53.07534],"type":"Point"}
+  "geometry": {"coordinates":[22.37727,53.07534],"type":"Point"}
 }

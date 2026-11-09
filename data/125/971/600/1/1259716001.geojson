@@ -54,7 +54,7 @@
         "wk:page":"W%C5%82ostowa"
     },
     "wof:country":"PL",
-    "wof:geomhash":"400e828a01d880f0635d36c01394032d",
+    "wof:geomhash":"00222e1cff17493b0d68654c20a24f85",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.63527000000001,
     50.50447
 ],
-  "geometry": {"coordinates":[17.63527000000001,50.50447],"type":"Point"}
+  "geometry": {"coordinates":[17.63527,50.50447],"type":"Point"}
 }

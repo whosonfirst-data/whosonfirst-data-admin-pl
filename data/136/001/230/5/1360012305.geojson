@@ -54,7 +54,7 @@
         "wk:page":"Z%C5%82otniczki%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a609bb4c3544eb0d12407ca40ae9af6e",
+    "wof:geomhash":"7d5749f0f2ea7e5ccd57a6b04c418598",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.24488,
     52.49916999999999
 ],
-  "geometry": {"coordinates":[17.24488,52.49916999999999],"type":"Point"}
+  "geometry": {"coordinates":[17.24488,52.49917],"type":"Point"}
 }

@@ -51,7 +51,7 @@
         "wk:page":"Ig%C5%82y"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7e15179b35cae80a1b1f15055243cc62",
+    "wof:geomhash":"a41f6a7871451ab49a5f2f8c469ad265",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.16109,
     53.96109000000001
 ],
-  "geometry": {"coordinates":[19.16109,53.96109000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.16109,53.96109],"type":"Point"}
 }

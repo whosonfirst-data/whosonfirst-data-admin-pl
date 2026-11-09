@@ -60,7 +60,7 @@
         "wk:page":"Bukowiec_nad_Pilic%C4%85"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ee0c8e2d8b304ac2aa0490c1ea076c5b",
+    "wof:geomhash":"01bee7631437d4dfbfbc07d013761d1c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     20.02418,
     51.42077000000001
 ],
-  "geometry": {"coordinates":[20.02418,51.42077000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.02418,51.42077],"type":"Point"}
 }

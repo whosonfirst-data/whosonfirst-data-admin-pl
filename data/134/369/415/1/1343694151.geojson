@@ -54,7 +54,7 @@
         "wk:page":"Milejowiec"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e3b40a2c087fa732650c2fb1c3d159f9",
+    "wof:geomhash":"ae5bca7a70a1e124f789ce331eafdb79",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.73932000000001,
     51.3473
 ],
-  "geometry": {"coordinates":[19.73932000000001,51.3473],"type":"Point"}
+  "geometry": {"coordinates":[19.73932,51.3473],"type":"Point"}
 }

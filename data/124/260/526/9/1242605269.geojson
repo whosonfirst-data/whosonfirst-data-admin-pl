@@ -54,7 +54,7 @@
         "wk:page":"Rudno%2C_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c65f51a5e6ac2a791f47288759a862d0",
+    "wof:geomhash":"5074f7c7ae00d82f72348194719e1b3f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.75888,
     53.93333000000001
 ],
-  "geometry": {"coordinates":[18.75888,53.93333000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.75888,53.93333],"type":"Point"}
 }

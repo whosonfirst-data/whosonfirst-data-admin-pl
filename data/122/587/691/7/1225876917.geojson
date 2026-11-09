@@ -61,7 +61,7 @@
         "wk:page":"Lipi%C5%84skie%2C_Gi%C5%BCycko_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"55aeff138ca270dd5bd368463f2eea50",
+    "wof:geomhash":"2a7ae3847249bc5c7d1b900be8677241",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     21.93323,
     53.96516999999999
 ],
-  "geometry": {"coordinates":[21.93323,53.96516999999999],"type":"Point"}
+  "geometry": {"coordinates":[21.93323,53.96517],"type":"Point"}
 }

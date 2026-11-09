@@ -54,7 +54,7 @@
         "wk:page":"Dzier%C5%BCys%C5%82aw%2C_Opole_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"195089182a6ad836acdbd0af89d1598f",
+    "wof:geomhash":"4bece132b955148410d488cfbedae50a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.96757999999999,
     50.04848
 ],
-  "geometry": {"coordinates":[17.96757999999999,50.04848],"type":"Point"}
+  "geometry": {"coordinates":[17.96758,50.04848],"type":"Point"}
 }

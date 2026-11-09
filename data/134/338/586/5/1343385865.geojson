@@ -69,7 +69,7 @@
         "wk:page":"Korkliny"
     },
     "wof:country":"PL",
-    "wof:geomhash":"85be9370eb2fbf3fb16d32327146a8e3",
+    "wof:geomhash":"c1fc6d14e710472fe6254a6aac9a5090",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     22.81688,
     54.11378000000001
 ],
-  "geometry": {"coordinates":[22.81688,54.11378000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.81688,54.11378],"type":"Point"}
 }

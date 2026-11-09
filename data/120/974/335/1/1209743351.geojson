@@ -51,7 +51,7 @@
         "wk:page":"Kiewry"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f3c3d2d99f48ddda03665492c1e70808",
+    "wof:geomhash":"8092df8e86e62f88cb6862458945c561",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     20.16966,
     53.88936999999999
 ],
-  "geometry": {"coordinates":[20.16966,53.88936999999999],"type":"Point"}
+  "geometry": {"coordinates":[20.16966,53.88937],"type":"Point"}
 }

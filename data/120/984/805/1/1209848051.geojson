@@ -54,7 +54,7 @@
         "wk:page":"Kruszyn%2C_W%C5%82oc%C5%82awek_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d94a3e17c678983cf7478bb3238261db",
+    "wof:geomhash":"e7489d8c30f0a13d79cca00d1d03a370",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.99433,
     52.57239000000001
 ],
-  "geometry": {"coordinates":[18.99433,52.57239000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.99433,52.57239],"type":"Point"}
 }

@@ -63,7 +63,7 @@
         "wk:page":"Dmochy-Wochy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a6b7950eb79dde561c2e5f91c02da895",
+    "wof:geomhash":"b460ed583974792ffdb0d6e97af5c91b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     22.27057000000001,
     52.82818
 ],
-  "geometry": {"coordinates":[22.27057000000001,52.82818],"type":"Point"}
+  "geometry": {"coordinates":[22.27057,52.82818],"type":"Point"}
 }

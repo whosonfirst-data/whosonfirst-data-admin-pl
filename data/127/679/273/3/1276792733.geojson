@@ -51,7 +51,7 @@
         "wk:page":"Polit%C3%B3wka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"37faec14dd59fb05c1e552492436b7bb",
+    "wof:geomhash":"9766b4a728f0cd4409520f14f276179c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     23.51666,
     50.98334000000001
 ],
-  "geometry": {"coordinates":[23.51666,50.98334000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.51666,50.98334],"type":"Point"}
 }

@@ -51,7 +51,7 @@
         "wk:page":"Cyk%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8a8c25803303c3c65ed892f6b1065a5d",
+    "wof:geomhash":"e578ea0e33cdaa6e84fec2eb484c5575",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     16.63332999999999,
     53.13333000000001
 ],
-  "geometry": {"coordinates":[16.63332999999999,53.13333000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.63333,53.13333],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Krze%C5%9Bniczka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"52ba9d430d0a3518c88606e32c2737a9",
+    "wof:geomhash":"2dfd797064641312d3b8cdbda038d99a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     14.7506,
     52.63223000000001
 ],
-  "geometry": {"coordinates":[14.7506,52.63223000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.7506,52.63223],"type":"Point"}
 }

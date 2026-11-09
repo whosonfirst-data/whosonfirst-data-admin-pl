@@ -51,7 +51,7 @@
         "wk:page":"Grabnica"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1abd2697c37d11efbf4ae0a1c02af0d4",
+    "wof:geomhash":"5d66da0456c793f8f1a1106a919e0c09",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     15.48411,
     53.37309000000001
 ],
-  "geometry": {"coordinates":[15.48411,53.37309000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.48411,53.37309],"type":"Point"}
 }

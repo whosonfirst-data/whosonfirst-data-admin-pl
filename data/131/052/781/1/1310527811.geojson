@@ -63,7 +63,7 @@
         "wk:page":"Chruszczewo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"83aed8168c1b7074240248d89be1d0a9",
+    "wof:geomhash":"bce4df6ad599355cd9d058af44790743",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     20.57532,
     52.89978000000001
 ],
-  "geometry": {"coordinates":[20.57532,52.89978000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.57532,52.89978],"type":"Point"}
 }

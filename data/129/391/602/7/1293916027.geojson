@@ -48,7 +48,7 @@
         "wk:page":"Stary_Suszec"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f1fc91d227987d71074f2ad9d6b55c90",
+    "wof:geomhash":"e0c2bb5aa38869a1d1fd892a19036236",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     18.76431,
     50.04799000000001
 ],
-  "geometry": {"coordinates":[18.76431,50.04799000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.76431,50.04799],"type":"Point"}
 }

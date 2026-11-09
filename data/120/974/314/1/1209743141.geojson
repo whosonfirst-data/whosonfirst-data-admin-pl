@@ -54,7 +54,7 @@
         "wk:page":"Bagno%2C_Warmian-Masurian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b49d1580aea313b46b6c738bb817a0cd",
+    "wof:geomhash":"d20fbddd861ae12e0e99c9587b5f272c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.53546,
     53.51708000000001
 ],
-  "geometry": {"coordinates":[19.53546,53.51708000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.53546,53.51708],"type":"Point"}
 }

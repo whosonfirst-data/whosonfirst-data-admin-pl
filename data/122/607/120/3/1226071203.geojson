@@ -57,7 +57,7 @@
         "wk:page":"Biedrzyce-Kozieg%C5%82owy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"044ab387f0a13f4fc98a490fa8d70673",
+    "wof:geomhash":"cc779f38a6aebe3469150f55d8ff06a5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.28861,
     52.96803000000001
 ],
-  "geometry": {"coordinates":[21.28861,52.96803000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.28861,52.96803],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"Zatom_Nowy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f8c0c7a18ae64b05705dc7f57d3d649c",
+    "wof:geomhash":"d180a8b7b95592f7134b80ef911d0b52",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     15.96669,
     52.64058000000001
 ],
-  "geometry": {"coordinates":[15.96669,52.64058000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.96669,52.64058],"type":"Point"}
 }

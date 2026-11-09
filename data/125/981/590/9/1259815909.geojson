@@ -48,7 +48,7 @@
         "wk:page":"S%C5%82up%C3%B3wko"
     },
     "wof:country":"PL",
-    "wof:geomhash":"bfafa5b669be1662e0f24450da559c8c",
+    "wof:geomhash":"4a19d82e70df710722b82f5c5be9d95e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     17.66257000000001,
     53.24981
 ],
-  "geometry": {"coordinates":[17.66257000000001,53.24981],"type":"Point"}
+  "geometry": {"coordinates":[17.66257,53.24981],"type":"Point"}
 }

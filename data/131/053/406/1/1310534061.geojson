@@ -57,7 +57,7 @@
         "wk:page":"Kras%C3%B3w%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"97b54225c7c130ef94a187e5b075e994",
+    "wof:geomhash":"f26e290cae857ab78e48ff67b99214f2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.17161,
     52.37497000000001
 ],
-  "geometry": {"coordinates":[22.17161,52.37497000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.17161,52.37497],"type":"Point"}
 }

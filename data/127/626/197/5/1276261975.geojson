@@ -74,7 +74,7 @@
         "wk:page":"Lewa%C5%82d_Wielki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"01d9deefe896c6e8e10599fec0364526",
+    "wof:geomhash":"ce70fc51e5f7402d71e62875c78cac29",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,5 +101,5 @@
     19.98692,
     53.43691999999999
 ],
-  "geometry": {"coordinates":[19.98692,53.43691999999999],"type":"Point"}
+  "geometry": {"coordinates":[19.98692,53.43692],"type":"Point"}
 }

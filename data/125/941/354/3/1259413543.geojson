@@ -54,7 +54,7 @@
         "wk:page":"Kornele"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a666e485d107b92d3220a9b330693e85",
+    "wof:geomhash":"245b112d721dac1b24d033674785a2df",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.54794,
     53.91758000000001
 ],
-  "geometry": {"coordinates":[19.54794,53.91758000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.54794,53.91758],"type":"Point"}
 }

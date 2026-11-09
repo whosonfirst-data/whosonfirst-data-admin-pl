@@ -51,7 +51,7 @@
         "wk:page":"Podwole"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e3d676997a0b7106b001742e3cdc0e7f",
+    "wof:geomhash":"ad6b91063f07d85e16b0ff0def4e271f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     20.54684,
     50.78299000000001
 ],
-  "geometry": {"coordinates":[20.54684,50.78299000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.54684,50.78299],"type":"Point"}
 }

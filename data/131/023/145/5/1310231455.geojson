@@ -61,7 +61,7 @@
         "wk:page":"Ole%C5%9Bno"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9da23d754956072d1d13da3baeeaeb23",
+    "wof:geomhash":"64cb3255153f9268145ad0c8c2551804",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     19.28616,
     54.07933000000001
 ],
-  "geometry": {"coordinates":[19.28616,54.07933000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.28616,54.07933],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"W%C3%B3lka_Ratowiecka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"0882de0da8342c8e41dcf1fb3626e71c",
+    "wof:geomhash":"2d49f4f3e0465c6322df6845d7ebfe82",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     23.23106,
     53.27838000000001
 ],
-  "geometry": {"coordinates":[23.23106,53.27838000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.23106,53.27838],"type":"Point"}
 }

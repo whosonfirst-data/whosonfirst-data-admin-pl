@@ -54,7 +54,7 @@
         "wk:page":"Szysz%C5%82owo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1cd69b10f90c4f8f14475f12e1206b41",
+    "wof:geomhash":"0c38ae22b6a53997631d457d28e7ab12",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.03676,
     52.34334000000001
 ],
-  "geometry": {"coordinates":[18.03676,52.34334000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.03676,52.34334],"type":"Point"}
 }

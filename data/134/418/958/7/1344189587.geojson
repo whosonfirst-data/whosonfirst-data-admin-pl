@@ -51,7 +51,7 @@
         "wk:page":"Rycz%C3%B3wek"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8204c478700fb7429689200c347b01e7",
+    "wof:geomhash":"36d6bb0c51d1047324ad5e41b59db750",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.56029,
     50.38959000000001
 ],
-  "geometry": {"coordinates":[19.56029,50.38959000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.56029,50.38959],"type":"Point"}
 }

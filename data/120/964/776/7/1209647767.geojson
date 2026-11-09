@@ -54,7 +54,7 @@
         "wk:page":"Popielarnia%2C_Ostr%C3%B3w_Mazowiecka_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"adacf79c9587edc1ee71d5bf1adf53e6",
+    "wof:geomhash":"42665ffe781ea74bd1b2d7d0874bdb1f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.81477000000001,
     52.7961
 ],
-  "geometry": {"coordinates":[21.81477000000001,52.7961],"type":"Point"}
+  "geometry": {"coordinates":[21.81477,52.7961],"type":"Point"}
 }

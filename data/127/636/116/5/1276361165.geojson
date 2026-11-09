@@ -51,7 +51,7 @@
         "wk:page":"Kunowo%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"23acfb0542081540103c325f0ee47843",
+    "wof:geomhash":"617af175ed5eefdaf051e09e33d4d8b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.06297,
     52.63636999999999
 ],
-  "geometry": {"coordinates":[18.06297,52.63636999999999],"type":"Point"}
+  "geometry": {"coordinates":[18.06297,52.63637],"type":"Point"}
 }

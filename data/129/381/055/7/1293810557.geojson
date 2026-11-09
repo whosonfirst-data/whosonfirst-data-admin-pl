@@ -51,7 +51,7 @@
         "wk:page":"Mi%C4%99so%C5%9Bnia"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7c868dcedf1945d8c2f646f90264fddc",
+    "wof:geomhash":"1723718ab5899ab15732a57268d765e0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.61667000000001,
     52.01667
 ],
-  "geometry": {"coordinates":[19.61667000000001,52.01667],"type":"Point"}
+  "geometry": {"coordinates":[19.61667,52.01667],"type":"Point"}
 }

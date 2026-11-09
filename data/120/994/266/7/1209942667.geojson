@@ -63,7 +63,7 @@
         "wk:page":"Ujazd%2C_Grodzisk_Wielkopolski_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d30356359e229d452cf7b4208fed9dc9",
+    "wof:geomhash":"0e02d5b06783815d518a4501e8725153",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     16.41525,
     52.20014000000001
 ],
-  "geometry": {"coordinates":[16.41525,52.20014000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.41525,52.20014],"type":"Point"}
 }

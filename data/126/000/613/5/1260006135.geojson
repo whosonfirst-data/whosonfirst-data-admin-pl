@@ -60,7 +60,7 @@
         "wk:page":"Mieleszki-Kolonia"
     },
     "wof:country":"PL",
-    "wof:geomhash":"792b63ee1a7829367f90be9df66d375f",
+    "wof:geomhash":"b9944a3ab6029e423610e87ec2482a5e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     23.69075,
     53.04346999999999
 ],
-  "geometry": {"coordinates":[23.69075,53.04346999999999],"type":"Point"}
+  "geometry": {"coordinates":[23.69075,53.04347],"type":"Point"}
 }

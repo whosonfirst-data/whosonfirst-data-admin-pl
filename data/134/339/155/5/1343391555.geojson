@@ -54,7 +54,7 @@
         "wk:page":"Roszczep"
     },
     "wof:country":"PL",
-    "wof:geomhash":"42efd2ae17588d1cfd10544f1646f974",
+    "wof:geomhash":"76827362aafd85bbc92ea653c6d4c58f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.31207,
     52.44278000000001
 ],
-  "geometry": {"coordinates":[21.31207,52.44278000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.31207,52.44278],"type":"Point"}
 }

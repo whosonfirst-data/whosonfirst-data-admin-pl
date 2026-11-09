@@ -48,7 +48,7 @@
         "wk:page":"Marynin%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c1eb14a715c4041bb9e215366b1c48c6",
+    "wof:geomhash":"240f48da024838fdc05d87ae2cef9d57",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     17.68182000000001,
     53.22924
 ],
-  "geometry": {"coordinates":[17.68182000000001,53.22924],"type":"Point"}
+  "geometry": {"coordinates":[17.68182,53.22924],"type":"Point"}
 }

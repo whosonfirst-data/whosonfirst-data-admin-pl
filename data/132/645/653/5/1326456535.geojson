@@ -57,7 +57,7 @@
         "wk:page":"K%C5%82obia%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"89f6d8ebae724e42cb9fbf7544d8a495",
+    "wof:geomhash":"7aac65a9b36a65da843b5abb2b23c172",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     18.91012000000001,
     52.5184
 ],
-  "geometry": {"coordinates":[18.91012000000001,52.5184],"type":"Point"}
+  "geometry": {"coordinates":[18.91012,52.5184],"type":"Point"}
 }

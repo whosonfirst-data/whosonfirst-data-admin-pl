@@ -57,7 +57,7 @@
         "wk:page":"Grodziec%2C_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c6f41a6095f796fa08eee5825c70cc0e",
+    "wof:geomhash":"e7c8fb1e1b56f9e45806a2723fc39358",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     19.19226,
     53.66204000000001
 ],
-  "geometry": {"coordinates":[19.19226,53.66204000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.19226,53.66204],"type":"Point"}
 }

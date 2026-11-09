@@ -68,7 +68,7 @@
         "wk:page":"Bucze%2C_%C5%BBary_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4a67e86aa55856a8ac6a916fd0a4099b",
+    "wof:geomhash":"05a1cddc52f71d3930ebf373fb70bcc8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     14.96372,
     51.45764000000001
 ],
-  "geometry": {"coordinates":[14.96372,51.45764000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.96372,51.45764],"type":"Point"}
 }

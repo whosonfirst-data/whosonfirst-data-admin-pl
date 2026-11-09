@@ -54,7 +54,7 @@
         "wk:page":"Go%C5%82e_%C5%81azy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"61cd13a216860c94a7a5d030a0f84ae4",
+    "wof:geomhash":"6fc8258da09f8cd3ea5cf027885b1a62",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.01682000000001,
     51.80251
 ],
-  "geometry": {"coordinates":[22.01682000000001,51.80251],"type":"Point"}
+  "geometry": {"coordinates":[22.01682,51.80251],"type":"Point"}
 }

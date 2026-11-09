@@ -54,7 +54,7 @@
         "wk:page":"Buszewo%2C_Szamotu%C5%82y_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"bad4de415fa10b3845e00f9609345c05",
+    "wof:geomhash":"f394fbb19d012f4bec99acb0a2084c7e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     16.37272999999999,
     52.54893000000001
 ],
-  "geometry": {"coordinates":[16.37272999999999,52.54893000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.37273,52.54893],"type":"Point"}
 }

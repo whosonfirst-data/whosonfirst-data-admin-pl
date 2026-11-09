@@ -51,7 +51,7 @@
         "wk:page":"Ko%C5%BAminiec"
     },
     "wof:country":"PL",
-    "wof:geomhash":"fa7db5f2c19899fa1bccae3aa2eb81d2",
+    "wof:geomhash":"6e9d9a3656b1b2931a2bdd1522b2a28c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.62223999999999,
     51.80989
 ],
-  "geometry": {"coordinates":[17.62223999999999,51.80989],"type":"Point"}
+  "geometry": {"coordinates":[17.62224,51.80989],"type":"Point"}
 }

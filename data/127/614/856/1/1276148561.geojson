@@ -54,7 +54,7 @@
         "wk:page":"Antosin%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f8959a9c98e2ffab93a3dc814acc8ab6",
+    "wof:geomhash":"82db7e9b55e7bd599f500839b1eeee97",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.08347,
     52.27399000000001
 ],
-  "geometry": {"coordinates":[20.08347,52.27399000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.08347,52.27399],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Ruda%2C_Garwolin_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8e4c8c072e57c26b212c9a364fd97303",
+    "wof:geomhash":"b33c89931a970f9ec62fab164db88fae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.85472,
     51.68559000000001
 ],
-  "geometry": {"coordinates":[21.85472,51.68559000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.85472,51.68559],"type":"Point"}
 }

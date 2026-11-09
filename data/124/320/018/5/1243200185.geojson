@@ -54,7 +54,7 @@
         "wk:page":"Wilk%C3%B3w%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a124a0ae31395ed6854628517b8917bf",
+    "wof:geomhash":"027d9f8d4db00edda32453a20e7ac721",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.54967000000001,
     52.25818
 ],
-  "geometry": {"coordinates":[20.54967000000001,52.25818],"type":"Point"}
+  "geometry": {"coordinates":[20.54967,52.25818],"type":"Point"}
 }

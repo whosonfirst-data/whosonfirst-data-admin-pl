@@ -57,7 +57,7 @@
         "wk:page":"Kr%C4%99pcewo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c8e6569b769159126212ef2b13095594",
+    "wof:geomhash":"01afdd10a6c0ecfec0557d8d6057fc34",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     15.14434,
     53.26886999999999
 ],
-  "geometry": {"coordinates":[15.14434,53.26886999999999],"type":"Point"}
+  "geometry": {"coordinates":[15.14434,53.26887],"type":"Point"}
 }

@@ -51,7 +51,7 @@
         "wk:page":"Dzwon%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e87a8a937a82f04f6ad3030446f14897",
+    "wof:geomhash":"282c7af2cba356f77824116653b7eab6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     15.95289,
     51.21749000000001
 ],
-  "geometry": {"coordinates":[15.95289,51.21749000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.95289,51.21749],"type":"Point"}
 }

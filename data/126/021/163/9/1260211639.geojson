@@ -51,7 +51,7 @@
         "wk:page":"Hruszowice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2d313744dff53eb3946aa2e958197476",
+    "wof:geomhash":"d14b299b20d8b9b97bde12e8d3b4959b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     22.99162,
     49.93839000000001
 ],
-  "geometry": {"coordinates":[22.99162,49.93839000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.99162,49.93839],"type":"Point"}
 }

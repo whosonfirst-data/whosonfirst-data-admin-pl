@@ -54,7 +54,7 @@
         "wk:page":"Zara%C5%84sko"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4e10f5db1eecdb0b72f6dd11ad546a42",
+    "wof:geomhash":"d058ff698de3a9befcc414524d4a3ec6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     15.83978,
     53.57138000000001
 ],
-  "geometry": {"coordinates":[15.83978,53.57138000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.83978,53.57138],"type":"Point"}
 }

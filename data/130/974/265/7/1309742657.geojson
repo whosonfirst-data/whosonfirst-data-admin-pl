@@ -57,7 +57,7 @@
         "wk:page":"R%C4%99bkowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e3a88531ef8bf83e7b95f3017408350e",
+    "wof:geomhash":"48d806ec09518d922ab7b05d6e9de9de",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     20.90958,
     52.63838000000001
 ],
-  "geometry": {"coordinates":[20.90958,52.63838000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.90958,52.63838],"type":"Point"}
 }

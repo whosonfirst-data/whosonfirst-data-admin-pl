@@ -54,7 +54,7 @@
         "wk:page":"Semlin%2C_Poland"
     },
     "wof:country":"PL",
-    "wof:geomhash":"27097e29e2a3a228db70fcc43450ba3f",
+    "wof:geomhash":"5bb44690668f464273e94ed19ce97b16",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.39341,
     53.98298000000001
 ],
-  "geometry": {"coordinates":[18.39341,53.98298000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.39341,53.98298],"type":"Point"}
 }

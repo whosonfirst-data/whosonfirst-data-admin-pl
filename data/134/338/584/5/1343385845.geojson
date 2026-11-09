@@ -51,7 +51,7 @@
         "wk:page":"Sikorzyce%2C_Lower_Silesian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a4cc551f92e4da4df1345e886d75d617",
+    "wof:geomhash":"e2ee02501021544032d02976ac995289",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     16.69732999999999,
     51.09005
 ],
-  "geometry": {"coordinates":[16.69732999999999,51.09005],"type":"Point"}
+  "geometry": {"coordinates":[16.69733,51.09005],"type":"Point"}
 }

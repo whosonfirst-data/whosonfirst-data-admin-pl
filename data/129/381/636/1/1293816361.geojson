@@ -51,7 +51,7 @@
         "wk:page":"Zar%C4%99bowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"356452a1bb8dd63d6c5ee9bc4ac5a8ab",
+    "wof:geomhash":"d22245592d8b2a1fa2e4f7151bc6486d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.59051,
     52.74548000000001
 ],
-  "geometry": {"coordinates":[18.59051,52.74548000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.59051,52.74548],"type":"Point"}
 }

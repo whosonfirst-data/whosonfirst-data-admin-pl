@@ -54,7 +54,7 @@
         "wk:page":"Zawada_Nowa"
     },
     "wof:country":"PL",
-    "wof:geomhash":"356bcd25aa8602bfe2b0da90d3aa1711",
+    "wof:geomhash":"a9341778d681b30b48d1b25a357bdd5a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.73011,
     51.49489000000001
 ],
-  "geometry": {"coordinates":[21.73011,51.49489000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.73011,51.49489],"type":"Point"}
 }

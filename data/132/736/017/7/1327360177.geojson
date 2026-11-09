@@ -54,7 +54,7 @@
         "wk:page":"Szurpi%C5%82y"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f867806396367ecc45b1eab63201535d",
+    "wof:geomhash":"7b36f908af6cffc2cdd5f6bdedd8c06f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.87894,
     54.21863000000001
 ],
-  "geometry": {"coordinates":[22.87894,54.21863000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.87894,54.21863],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"Wilczy_Las"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4e5b4df0acb2d50f2b7501e4dca83ca5",
+    "wof:geomhash":"962efc8154e5d573024eb0fffc3c8951",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     15.75937,
     51.27287000000001
 ],
-  "geometry": {"coordinates":[15.75937,51.27287000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.75937,51.27287],"type":"Point"}
 }

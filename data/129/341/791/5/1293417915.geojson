@@ -57,7 +57,7 @@
         "wk:page":"Sek%C5%82ak"
     },
     "wof:country":"PL",
-    "wof:geomhash":"778b11c25444dea157c722827bbd7251",
+    "wof:geomhash":"f197723b32e69ab0325f275020dc3cd2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.75758,
     52.48513000000001
 ],
-  "geometry": {"coordinates":[21.75758,52.48513000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.75758,52.48513],"type":"Point"}
 }

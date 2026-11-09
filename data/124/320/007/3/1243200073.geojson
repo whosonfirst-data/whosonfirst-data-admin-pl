@@ -54,7 +54,7 @@
         "wk:page":"%C5%9Alepowrony%2C_Ostr%C3%B3w_Mazowiecka_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9b5f1f73429f3328a08762b058a0f6b1",
+    "wof:geomhash":"f00545253c1ece8e515176d82d6e603e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.41168,
     52.61841999999999
 ],
-  "geometry": {"coordinates":[22.41168,52.61841999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.41168,52.61842],"type":"Point"}
 }

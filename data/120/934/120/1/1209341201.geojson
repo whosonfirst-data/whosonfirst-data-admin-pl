@@ -54,7 +54,7 @@
         "wk:page":"Rutkowskie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c4be268b714c0250362884256492e50e",
+    "wof:geomhash":"7d8f4eb2c5dc62695315f3334b818236",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.44644,
     53.26181999999999
 ],
-  "geometry": {"coordinates":[22.44644,53.26181999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.44644,53.26182],"type":"Point"}
 }

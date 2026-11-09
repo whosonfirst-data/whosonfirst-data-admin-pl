@@ -57,7 +57,7 @@
         "wk:page":"Psarskie%2C_Szamotu%C5%82y_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e03d6232f5edcae8578ab87a2302e565",
+    "wof:geomhash":"562b1663648d3c21a621a8b1ea018353",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     16.32144,
     52.57893000000001
 ],
-  "geometry": {"coordinates":[16.32144,52.57893000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.32144,52.57893],"type":"Point"}
 }

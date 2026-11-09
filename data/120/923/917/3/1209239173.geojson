@@ -54,7 +54,7 @@
         "wk:page":"By%C5%82yczek"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e0133f5a2142f7a3afc93a46ee8ffb43",
+    "wof:geomhash":"b24e8cc85a02e511bf59aabc9d89c07e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.19078,
     53.73693000000001
 ],
-  "geometry": {"coordinates":[18.19078,53.73693000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.19078,53.73693],"type":"Point"}
 }

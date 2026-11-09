@@ -57,7 +57,7 @@
         "wk:page":"Ba%C5%82dowice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"dfc35d7034805f6fb33db7c7034d14e0",
+    "wof:geomhash":"09cf3aeec40ac6c0cd95ae735e440c21",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     17.78842000000001,
     51.31631
 ],
-  "geometry": {"coordinates":[17.78842000000001,51.31631],"type":"Point"}
+  "geometry": {"coordinates":[17.78842,51.31631],"type":"Point"}
 }

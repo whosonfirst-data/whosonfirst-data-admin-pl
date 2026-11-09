@@ -63,7 +63,7 @@
         "wk:page":"Janiszew%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"34030d325d97b666fafd7e72d3b0e86a",
+    "wof:geomhash":"3d23c595bf535aa7b5832d4b935dc506",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     18.63848,
     52.08309000000001
 ],
-  "geometry": {"coordinates":[18.63848,52.08309000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.63848,52.08309],"type":"Point"}
 }

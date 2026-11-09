@@ -60,7 +60,7 @@
         "wk:page":"Twarogi"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7e317a202eee4a63bc543fdfaefdfce3",
+    "wof:geomhash":"91d3e8ee7bbbcdb07168d5746d8c5905",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     21.80392,
     52.49724000000001
 ],
-  "geometry": {"coordinates":[21.80392,52.49724000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.80392,52.49724],"type":"Point"}
 }

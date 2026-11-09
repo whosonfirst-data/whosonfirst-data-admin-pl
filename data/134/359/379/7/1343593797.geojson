@@ -54,7 +54,7 @@
         "wk:page":"Pikule%2C_Lublin_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2e245a1b723d42993334bba131564cf1",
+    "wof:geomhash":"9db8674dba620bce8576637528d74e9c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.33171,
     50.67762000000001
 ],
-  "geometry": {"coordinates":[22.33171,50.67762000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.33171,50.67762],"type":"Point"}
 }

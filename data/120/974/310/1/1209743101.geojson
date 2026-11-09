@@ -51,7 +51,7 @@
         "wk:page":"O%C5%9Bmia%C5%82owo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"38af4f44bf75993da56ee4523151b8de",
+    "wof:geomhash":"39742281c9b349eff796b19d3a11d281",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.12989,
     52.83168000000001
 ],
-  "geometry": {"coordinates":[19.12989,52.83168000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.12989,52.83168],"type":"Point"}
 }

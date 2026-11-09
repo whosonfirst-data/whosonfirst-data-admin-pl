@@ -66,7 +66,7 @@
         "wk:page":"Grabie_Polskie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"0f035b660f59ba2e42ca83b14ea81b8d",
+    "wof:geomhash":"6b3c485f62407fe6fad52bcccba5a7ba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     19.75792,
     52.44318000000001
 ],
-  "geometry": {"coordinates":[19.75792,52.44318000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.75792,52.44318],"type":"Point"}
 }

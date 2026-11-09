@@ -51,7 +51,7 @@
         "wk:page":"Ciel%C4%99tniki%2C_Silesian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"43d1d088d2ad2cee22422e667dcfb997",
+    "wof:geomhash":"e79a2d73872c1337fdf75273678fca5c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.57704,
     50.89064000000001
 ],
-  "geometry": {"coordinates":[19.57704,50.89064000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.57704,50.89064],"type":"Point"}
 }

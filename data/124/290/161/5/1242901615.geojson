@@ -54,7 +54,7 @@
         "wk:page":"Ko%C5%82aki-Wietrzychowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e3e817d1c50e252ad086f97ffb8e1a77",
+    "wof:geomhash":"48c9236d33359ef43a63379b9491ca9e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.07857000000001,
     53.30944
 ],
-  "geometry": {"coordinates":[22.07857000000001,53.30944],"type":"Point"}
+  "geometry": {"coordinates":[22.07857,53.30944],"type":"Point"}
 }

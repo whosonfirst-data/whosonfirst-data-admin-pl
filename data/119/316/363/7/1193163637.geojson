@@ -63,7 +63,7 @@
         "wk:page":"Dubiny"
     },
     "wof:country":"PL",
-    "wof:geomhash":"bfd847d4cbdf6073bece52dbee221295",
+    "wof:geomhash":"99b90cfeeba39ab097ba802e3779cd40",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     23.58774,
     52.76736999999999
 ],
-  "geometry": {"coordinates":[23.58774,52.76736999999999],"type":"Point"}
+  "geometry": {"coordinates":[23.58774,52.76737],"type":"Point"}
 }

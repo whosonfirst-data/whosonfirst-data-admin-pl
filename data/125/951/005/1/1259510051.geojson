@@ -57,7 +57,7 @@
         "wk:page":"Ruszczyzna"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4bcce13817071f40f05692b5dfc1105c",
+    "wof:geomhash":"13b1ea214663b34a5d9f2a68cc757cdd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     23.44921,
     50.64834000000001
 ],
-  "geometry": {"coordinates":[23.44921,50.64834000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.44921,50.64834],"type":"Point"}
 }

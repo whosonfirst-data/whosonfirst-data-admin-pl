@@ -54,7 +54,7 @@
         "wk:page":"Majdan_Ostrowski"
     },
     "wof:country":"PL",
-    "wof:geomhash":"83987e186dab75c563ae18f082da6875",
+    "wof:geomhash":"062372c05fcbd89f8c8ab7bf22be8fb9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     23.48672,
     50.94714000000001
 ],
-  "geometry": {"coordinates":[23.48672,50.94714000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.48672,50.94714],"type":"Point"}
 }

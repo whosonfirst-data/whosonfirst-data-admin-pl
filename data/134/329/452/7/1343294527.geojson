@@ -55,7 +55,7 @@
         "wk:page":"Walerianowo%2C_Konin_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"25cbf82b8b1432940c8dd4268139bea4",
+    "wof:geomhash":"63b94063fcd68757373c24df1fe7ae41",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,5 +82,5 @@
     18.48372,
     52.49308000000001
 ],
-  "geometry": {"coordinates":[18.48372,52.49308000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.48372,52.49308],"type":"Point"}
 }

@@ -64,7 +64,7 @@
         "wk:page":"Stara_Wie%C5%9B%2C_Przasnysz_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"610dd6fb92510f336daea299883dc838",
+    "wof:geomhash":"a420e6ee0d9ea09a3604eae4c9d74ea7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,5 +91,5 @@
     20.73189,
     53.26224000000001
 ],
-  "geometry": {"coordinates":[20.73189,53.26224000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.73189,53.26224],"type":"Point"}
 }

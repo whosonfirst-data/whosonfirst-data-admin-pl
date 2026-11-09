@@ -57,7 +57,7 @@
         "wk:page":"L%C4%99dowo%2C_Gda%C5%84sk_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c671ab3f94d0d849c4d5ed2c92c1a4c6",
+    "wof:geomhash":"a725cf896d4d3abb6c86f0ea1afcc758",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     18.73306,
     54.27753000000001
 ],
-  "geometry": {"coordinates":[18.73306,54.27753000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.73306,54.27753],"type":"Point"}
 }

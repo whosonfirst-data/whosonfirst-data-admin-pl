@@ -63,7 +63,7 @@
         "wk:page":"Kudrawka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"cdd5621592e961ea3421bbfa6580e365",
+    "wof:geomhash":"1c255a05faf63913871698eb43f23aad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     23.4668,
     53.61349000000001
 ],
-  "geometry": {"coordinates":[23.4668,53.61349000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.4668,53.61349],"type":"Point"}
 }

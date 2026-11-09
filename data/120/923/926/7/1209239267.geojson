@@ -57,7 +57,7 @@
         "wk:page":"Ulaski_Grzmi%C4%85ckie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9ff270c47a94cadd40a803b5c5ad6715",
+    "wof:geomhash":"f75044e9ebb50736dff01dcb2eeb436d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     20.74041,
     51.61559000000001
 ],
-  "geometry": {"coordinates":[20.74041,51.61559000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.74041,51.61559],"type":"Point"}
 }

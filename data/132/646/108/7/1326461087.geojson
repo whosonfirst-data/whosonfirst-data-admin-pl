@@ -69,7 +69,7 @@
         "wk:page":"Lubuczewo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"dbee3ce4827c380ddf927a244b4b536f",
+    "wof:geomhash":"df0a7b77848e7450c088a709733d24fe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     17.07447,
     54.53686999999999
 ],
-  "geometry": {"coordinates":[17.07447,54.53686999999999],"type":"Point"}
+  "geometry": {"coordinates":[17.07447,54.53687],"type":"Point"}
 }

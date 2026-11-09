@@ -57,7 +57,7 @@
         "wk:page":"K%C5%82opoty-Patry"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9aaa6b6b42c4c82b72f044ec67f91304",
+    "wof:geomhash":"cb8bff0ea6382368db81cdad1a403121",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.83659,
     52.52048000000001
 ],
-  "geometry": {"coordinates":[22.83659,52.52048000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.83659,52.52048],"type":"Point"}
 }

@@ -52,7 +52,7 @@
         "wk:page":"Smard%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b887d69d29d6a69d2bfb4124f98ccd5d",
+    "wof:geomhash":"1fc21684d0bcdd92f297c1c246c9a1f5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,5 +82,5 @@
     17.85587,
     51.60554000000001
 ],
-  "geometry": {"coordinates":[17.85587,51.60554000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.85587,51.60554],"type":"Point"}
 }

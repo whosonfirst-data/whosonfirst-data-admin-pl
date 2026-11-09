@@ -57,7 +57,7 @@
         "wk:page":"Wojnasy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7c0df46aac21aedc6edc309982400523",
+    "wof:geomhash":"c642f925fd55df5614acf24d637e96d1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.65862000000001,
     54.01059
 ],
-  "geometry": {"coordinates":[22.65862000000001,54.01059],"type":"Point"}
+  "geometry": {"coordinates":[22.65862,54.01059],"type":"Point"}
 }

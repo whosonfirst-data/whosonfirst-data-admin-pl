@@ -54,7 +54,7 @@
         "wk:page":"Dr%C4%99%C5%BCek"
     },
     "wof:country":"PL",
-    "wof:geomhash":"61213b22d893bc83e95568229b5bd33f",
+    "wof:geomhash":"2893dbda52594d1eed0b298cffd350a7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.38185,
     53.37148000000001
 ],
-  "geometry": {"coordinates":[21.38185,53.37148000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.38185,53.37148],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Stodo%C5%82y%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"bd858198cc8035985bd8608a11330acb",
+    "wof:geomhash":"307cb4c597209a22c283810af81bbb59",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.22813,
     52.65038000000001
 ],
-  "geometry": {"coordinates":[18.22813,52.65038000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.22813,52.65038],"type":"Point"}
 }

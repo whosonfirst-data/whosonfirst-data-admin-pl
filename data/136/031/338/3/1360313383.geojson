@@ -54,7 +54,7 @@
         "wk:page":"Sztabinki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3c8eda6842324d369d89cd6259a754e2",
+    "wof:geomhash":"66596e1bb30a8a577aec414d8eac5e5f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     23.40139,
     54.12538000000001
 ],
-  "geometry": {"coordinates":[23.40139,54.12538000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.40139,54.12538],"type":"Point"}
 }

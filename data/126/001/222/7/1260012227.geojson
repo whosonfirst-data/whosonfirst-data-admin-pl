@@ -48,7 +48,7 @@
         "wk:page":"Glinno%2C_Pozna%C5%84_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"dd13b530b5ac12dca58d4a30000d946b",
+    "wof:geomhash":"e1733bf6ceaeecfc4af6ceaf65a954bf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     16.88332999999999,
     52.5
 ],
-  "geometry": {"coordinates":[16.88332999999999,52.5],"type":"Point"}
+  "geometry": {"coordinates":[16.88333,52.5],"type":"Point"}
 }

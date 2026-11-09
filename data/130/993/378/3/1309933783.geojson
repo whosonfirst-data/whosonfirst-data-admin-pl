@@ -57,7 +57,7 @@
         "wk:page":"G%C4%85siorki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"06de880f214f664597502cff4710a794",
+    "wof:geomhash":"54e3528d7fcbfcfbcddd7df441db5b11",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     18.64946,
     53.81028000000001
 ],
-  "geometry": {"coordinates":[18.64946,53.81028000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.64946,53.81028],"type":"Point"}
 }

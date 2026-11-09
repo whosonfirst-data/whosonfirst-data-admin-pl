@@ -54,7 +54,7 @@
         "wk:page":"Falborz"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d4282d4b895316bb119177bc00a06f49",
+    "wof:geomhash":"1a91acabc9b78f8c2eafed85e65adb31",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.85,
     52.63333000000001
 ],
-  "geometry": {"coordinates":[18.85,52.63333000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.85,52.63333],"type":"Point"}
 }

@@ -51,7 +51,7 @@
         "wk:page":"%C5%BBelaz%C3%B3wka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"118a892d9070c9485bba7f8771ba9c3d",
+    "wof:geomhash":"6989c1a4acde6c689f63c4efad9959eb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     20.98531,
     50.13464000000001
 ],
-  "geometry": {"coordinates":[20.98531,50.13464000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.98531,50.13464],"type":"Point"}
 }

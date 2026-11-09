@@ -52,7 +52,7 @@
         "wk:page":"Nied%C5%BAwiedna"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c776b807cc540cf51c54d1eacac74de1",
+    "wof:geomhash":"7b8f88b80787cd46ad38cd8cb29160c9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,5 +82,5 @@
     16.63332999999999,
     50.28333
 ],
-  "geometry": {"coordinates":[16.63332999999999,50.28333],"type":"Point"}
+  "geometry": {"coordinates":[16.63333,50.28333],"type":"Point"}
 }

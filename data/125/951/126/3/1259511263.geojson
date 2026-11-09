@@ -57,7 +57,7 @@
         "wk:page":"%C5%81ab%C5%82awki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"bcd7f5387eddbd9dbee5e3492157de81",
+    "wof:geomhash":"e216baf787244c2806646fc39a98d162",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.0216,
     54.14928000000001
 ],
-  "geometry": {"coordinates":[21.0216,54.14928000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.0216,54.14928],"type":"Point"}
 }

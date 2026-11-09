@@ -54,7 +54,7 @@
         "wk:page":"Skurpie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5398358cea1d6fd7c492b30aef8c4405",
+    "wof:geomhash":"423a6cf71a23710a090f1784f7d70db5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.10009,
     53.27059000000001
 ],
-  "geometry": {"coordinates":[20.10009,53.27059000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.10009,53.27059],"type":"Point"}
 }

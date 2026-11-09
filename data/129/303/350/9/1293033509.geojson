@@ -63,7 +63,7 @@
         "wk:page":"Donimierz%2C_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1596b0169fcad39509e3f6f859a4f63b",
+    "wof:geomhash":"f00682e89e6d656aa540f03de04c4aef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     18.19371,
     54.47819000000001
 ],
-  "geometry": {"coordinates":[18.19371,54.47819000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.19371,54.47819],"type":"Point"}
 }

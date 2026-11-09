@@ -51,7 +51,7 @@
         "wk:page":"Psienie-Ostr%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1d78df0aaa04e621cb1f4cff15ddb0f2",
+    "wof:geomhash":"3951294bb868bd6e574462cec301a848",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.74807000000001,
     51.96288
 ],
-  "geometry": {"coordinates":[17.74807000000001,51.96288],"type":"Point"}
+  "geometry": {"coordinates":[17.74807,51.96288],"type":"Point"}
 }

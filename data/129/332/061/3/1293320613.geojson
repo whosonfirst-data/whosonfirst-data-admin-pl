@@ -60,7 +60,7 @@
         "wk:page":"Drachowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a01837cac9a3aa453856ea9c9204cd8e",
+    "wof:geomhash":"676a612124119662929c2af912cc28b7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     17.65181,
     52.44600000000001
 ],
-  "geometry": {"coordinates":[17.65181,52.44600000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.65181,52.446],"type":"Point"}
 }

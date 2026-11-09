@@ -67,7 +67,7 @@
         "wk:page":"Zab%C5%82ocie_Kanigowskie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"47af10a0fd0a17b5d5f7d66a3a548fef",
+    "wof:geomhash":"60a22448f871fe57c8be237f5c05be14",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,5 +94,5 @@
     20.48615,
     53.30278000000001
 ],
-  "geometry": {"coordinates":[20.48615,53.30278000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.48615,53.30278],"type":"Point"}
 }

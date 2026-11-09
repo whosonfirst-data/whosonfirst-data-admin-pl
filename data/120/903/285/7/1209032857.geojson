@@ -51,7 +51,7 @@
         "wk:page":"Dalewice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"06298e2d260c3a96727e5762c11596c6",
+    "wof:geomhash":"2a2b65df3bfc87ed6ab34665ffac6fe2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     20.23407000000001,
     50.22958
 ],
-  "geometry": {"coordinates":[20.23407000000001,50.22958],"type":"Point"}
+  "geometry": {"coordinates":[20.23407,50.22958],"type":"Point"}
 }

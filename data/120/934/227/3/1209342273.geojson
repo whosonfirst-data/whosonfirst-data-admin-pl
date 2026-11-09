@@ -57,7 +57,7 @@
         "wk:page":"Bujny%2C_%C5%81%C3%B3d%C5%BA_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8b703345034e294fa58eb9d5adb211f9",
+    "wof:geomhash":"b8feae4fcf15a5a254de65b2fb6e64ea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     19.64107000000001,
     51.37216
 ],
-  "geometry": {"coordinates":[19.64107000000001,51.37216],"type":"Point"}
+  "geometry": {"coordinates":[19.64107,51.37216],"type":"Point"}
 }

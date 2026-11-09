@@ -57,7 +57,7 @@
         "wk:page":"Klukowo%2C_Pu%C5%82tusk_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9566952be396351f99fe56805a222695",
+    "wof:geomhash":"89ebc7cab73efa49de3bae8463e5cf05",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     20.74176,
     52.66634000000001
 ],
-  "geometry": {"coordinates":[20.74176,52.66634000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.74176,52.66634],"type":"Point"}
 }

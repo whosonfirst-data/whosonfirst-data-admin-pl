@@ -63,7 +63,7 @@
         "wk:page":"Sieruciowce"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ae29bf0bf9878553d4cd5ab3211dde70",
+    "wof:geomhash":"1d4ec234ad3ad8813b7fe656fc0f0752",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     23.52139,
     53.66996999999999
 ],
-  "geometry": {"coordinates":[23.52139,53.66996999999999],"type":"Point"}
+  "geometry": {"coordinates":[23.52139,53.66997],"type":"Point"}
 }

@@ -61,7 +61,7 @@
         "wk:page":"Stopki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"56b54820f288ef6ed99f16564306575c",
+    "wof:geomhash":"646ebff12ce175f4c9a1e4d96c7819b5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     21.03298,
     54.32123000000001
 ],
-  "geometry": {"coordinates":[21.03298,54.32123000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.03298,54.32123],"type":"Point"}
 }

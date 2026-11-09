@@ -54,7 +54,7 @@
         "wk:page":"Tuliska"
     },
     "wof:country":"PL",
-    "wof:geomhash":"dec8d3202e7582d465a2462afd411cf2",
+    "wof:geomhash":"19b33ebff5b1e8a5de3b7c7b025c570d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.5306,
     52.35684000000001
 ],
-  "geometry": {"coordinates":[19.5306,52.35684000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.5306,52.35684],"type":"Point"}
 }

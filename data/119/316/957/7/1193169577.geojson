@@ -57,7 +57,7 @@
         "wk:page":"Mi%C5%82kowo%2C_Warmian-Masurian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"212bebda81388129f0d12ea3421608dc",
+    "wof:geomhash":"a0db9bfa81952bd323d174a8ebd07f4c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     20.29657000000001,
     54.16944
 ],
-  "geometry": {"coordinates":[20.29657000000001,54.16944],"type":"Point"}
+  "geometry": {"coordinates":[20.29657,54.16944],"type":"Point"}
 }

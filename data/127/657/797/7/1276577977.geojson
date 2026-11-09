@@ -54,7 +54,7 @@
         "wk:page":"G%C3%B3rna_Owczarnia"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a15f828754ab60ae1eacdfc51293ebc7",
+    "wof:geomhash":"3a1cdf2d867550ed3d80889989fe98fe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.98877,
     51.12439000000001
 ],
-  "geometry": {"coordinates":[21.98877,51.12439000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.98877,51.12439],"type":"Point"}
 }

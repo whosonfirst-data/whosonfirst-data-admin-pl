@@ -57,7 +57,7 @@
         "wk:page":"Szcz%C4%99snowicze"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a2db5d09dab1117c970f9df8f0b7c497",
+    "wof:geomhash":"e61c9616f4d0c8d333890749885bd3ee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     23.67799,
     53.34719000000001
 ],
-  "geometry": {"coordinates":[23.67799,53.34719000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.67799,53.34719],"type":"Point"}
 }

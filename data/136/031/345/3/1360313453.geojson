@@ -62,7 +62,7 @@
         "wk:page":"Okr%C4%85g%C5%82e%2C_Gi%C5%BCycko_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"346a7c9c3fc20b756695fc17d126fc3b",
+    "wof:geomhash":"f928be4a0a1aeea284731184fc31b8e2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     21.99229,
     53.87971999999999
 ],
-  "geometry": {"coordinates":[21.99229,53.87971999999999],"type":"Point"}
+  "geometry": {"coordinates":[21.99229,53.87972],"type":"Point"}
 }

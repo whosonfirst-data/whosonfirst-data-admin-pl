@@ -54,7 +54,7 @@
         "wk:page":"Mik%C5%82usy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f9593b590833a14d6027ec58ab2e50db",
+    "wof:geomhash":"cc85812dd4a5c076fdb607eab70db86b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.50738,
     52.04584000000001
 ],
-  "geometry": {"coordinates":[22.50738,52.04584000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.50738,52.04584],"type":"Point"}
 }

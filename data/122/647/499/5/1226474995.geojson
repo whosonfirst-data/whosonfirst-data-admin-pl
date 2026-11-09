@@ -54,7 +54,7 @@
         "wk:page":"Kotowy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"bf2e4efd6b6ed6740e13b9999d692cee",
+    "wof:geomhash":"276ac48b33951661f5a0eef96ddd1814",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.56872000000001,
     53.07397
 ],
-  "geometry": {"coordinates":[19.56872000000001,53.07397],"type":"Point"}
+  "geometry": {"coordinates":[19.56872,53.07397],"type":"Point"}
 }

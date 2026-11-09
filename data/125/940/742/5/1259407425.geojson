@@ -51,7 +51,7 @@
         "wk:page":"Ciemi%C4%99rzowice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b1db7b81e2d0e91768368fee60b2860f",
+    "wof:geomhash":"3b3de3ee9dcf28bbda0d6bff359f56be",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     22.71887000000001,
     49.89839
 ],
-  "geometry": {"coordinates":[22.71887000000001,49.89839],"type":"Point"}
+  "geometry": {"coordinates":[22.71887,49.89839],"type":"Point"}
 }

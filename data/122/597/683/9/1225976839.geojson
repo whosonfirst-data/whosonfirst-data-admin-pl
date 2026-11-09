@@ -57,7 +57,7 @@
         "wk:page":"Reczyn"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e73e5f5db602b5b09eb71c3212216509",
+    "wof:geomhash":"26b7614f77d649ce11fe4b39d4c752db",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     20.01582,
     52.46143000000001
 ],
-  "geometry": {"coordinates":[20.01582,52.46143000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.01582,52.46143],"type":"Point"}
 }

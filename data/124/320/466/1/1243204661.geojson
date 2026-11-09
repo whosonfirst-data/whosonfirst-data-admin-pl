@@ -51,7 +51,7 @@
         "wk:page":"Bia%C5%82czyn"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f528f12e2b4a1167c597f217c0e9f200",
+    "wof:geomhash":"35a95d8f473b591063884c9fefc1a16a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     20.05315,
     54.31838000000001
 ],
-  "geometry": {"coordinates":[20.05315,54.31838000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.05315,54.31838],"type":"Point"}
 }

@@ -81,7 +81,7 @@
         "wk:page":"Stowi%C4%99cino"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1f95fb70a4eef9eee6f497037f15d761",
+    "wof:geomhash":"f53b70a8c11e576ff1a417ad5f01a895",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -108,5 +108,5 @@
     17.4847,
     54.56254000000001
 ],
-  "geometry": {"coordinates":[17.4847,54.56254000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.4847,54.56254],"type":"Point"}
 }

@@ -63,7 +63,7 @@
         "wk:page":"Mo%C5%82oczki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"45bfe9540c47d460e3b7908392ac302a",
+    "wof:geomhash":"549022f1d6e082ee9b3b472ddf2c88c5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     23.18647,
     52.59518000000001
 ],
-  "geometry": {"coordinates":[23.18647,52.59518000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.18647,52.59518],"type":"Point"}
 }

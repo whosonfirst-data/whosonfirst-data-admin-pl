@@ -51,7 +51,7 @@
         "wk:page":"Karminiec"
     },
     "wof:country":"PL",
-    "wof:geomhash":"98bf9ca05b15f7c80cdfa979fab3ae53",
+    "wof:geomhash":"42a6a5792e76d054e9766bd0494c118e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.66232999999999,
     51.83948
 ],
-  "geometry": {"coordinates":[17.66232999999999,51.83948],"type":"Point"}
+  "geometry": {"coordinates":[17.66233,51.83948],"type":"Point"}
 }

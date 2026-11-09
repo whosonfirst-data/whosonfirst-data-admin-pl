@@ -54,7 +54,7 @@
         "wk:page":"Rudniki%2C_Podd%C4%99bice_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7cd15315c910cc2b8122bf4109a94f37",
+    "wof:geomhash":"79ed7a9fb84ef9b4dfca5eec406105df",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.76757000000001,
     51.79715
 ],
-  "geometry": {"coordinates":[18.76757000000001,51.79715],"type":"Point"}
+  "geometry": {"coordinates":[18.76757,51.79715],"type":"Point"}
 }

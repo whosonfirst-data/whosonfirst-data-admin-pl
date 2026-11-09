@@ -51,7 +51,7 @@
         "wk:page":"Morawin%2C_Ostrzesz%C3%B3w_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b24cd657e6d1b00e61b7dfbeb2d1e0bf",
+    "wof:geomhash":"f099ebfae95a8e2dd1f51b1d5c395a57",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.16006,
     51.41034000000001
 ],
-  "geometry": {"coordinates":[18.16006,51.41034000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.16006,51.41034],"type":"Point"}
 }

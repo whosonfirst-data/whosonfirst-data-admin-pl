@@ -60,7 +60,7 @@
         "wk:page":"Truskawiec%2C_%C5%81%C3%B3d%C5%BA_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"08c5bf5dc86f57df9afa59f554f6acee",
+    "wof:geomhash":"d1a9531b66a27313b01b14c07e2b41e2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     18.89492000000001,
     51.88405
 ],
-  "geometry": {"coordinates":[18.89492000000001,51.88405],"type":"Point"}
+  "geometry": {"coordinates":[18.89492,51.88405],"type":"Point"}
 }

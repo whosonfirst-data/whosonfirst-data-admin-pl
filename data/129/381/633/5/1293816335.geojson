@@ -63,7 +63,7 @@
         "wk:page":"Le%C5%9Bna_Jania"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d1e41e895facf9a8bf5b73bf74c1c473",
+    "wof:geomhash":"d6527d3bba7898b450189946e4ede206",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     18.60452,
     53.72221999999999
 ],
-  "geometry": {"coordinates":[18.60452,53.72221999999999],"type":"Point"}
+  "geometry": {"coordinates":[18.60452,53.72222],"type":"Point"}
 }

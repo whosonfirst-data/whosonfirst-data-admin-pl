@@ -51,7 +51,7 @@
         "wk:page":"Wola_Piekarska"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3358ed2fc37ab197ef8ed2dd60754777",
+    "wof:geomhash":"91aa856a21ba78df509a1ad2059bb1cb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.69375,
     51.88529000000001
 ],
-  "geometry": {"coordinates":[18.69375,51.88529000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.69375,51.88529],"type":"Point"}
 }

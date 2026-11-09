@@ -54,7 +54,7 @@
         "wk:page":"Unikowo%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a191b7a6237a4de19031dbfe4ac4a3eb",
+    "wof:geomhash":"97998bf46d47889ffe14329d127b1385",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.43126,
     52.92639000000001
 ],
-  "geometry": {"coordinates":[20.43126,52.92639000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.43126,52.92639],"type":"Point"}
 }

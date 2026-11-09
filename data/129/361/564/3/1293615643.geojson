@@ -68,7 +68,7 @@
         "wk:page":"Gordejki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"23026f545983459f4ca801e8fb8cf2d2",
+    "wof:geomhash":"bec4f8c37444e3469e3b6d694a8197f9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     22.40921,
     54.05589000000001
 ],
-  "geometry": {"coordinates":[22.40921,54.05589000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.40921,54.05589],"type":"Point"}
 }

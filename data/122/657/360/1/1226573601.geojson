@@ -54,7 +54,7 @@
         "wk:page":"Polichty"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4c220aeeaafc892441a77aeaf360cf9d",
+    "wof:geomhash":"fe778a0ecc0404f18fc32f35b46e9e6f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.90213,
     49.81979000000001
 ],
-  "geometry": {"coordinates":[20.90213,49.81979000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.90213,49.81979],"type":"Point"}
 }

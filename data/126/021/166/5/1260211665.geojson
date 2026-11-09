@@ -57,7 +57,7 @@
         "wk:page":"Lipie%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e60fc197230c26075b17b8f96ddf1148",
+    "wof:geomhash":"a5e0ece7ecb7cba49289978e25bf683a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     20.70457,
     51.82467000000001
 ],
-  "geometry": {"coordinates":[20.70457,51.82467000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.70457,51.82467],"type":"Point"}
 }

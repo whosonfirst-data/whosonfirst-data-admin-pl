@@ -60,7 +60,7 @@
         "wk:page":"Ankamaty"
     },
     "wof:country":"PL",
-    "wof:geomhash":"98bd54d60cb36c6b893f925957e3e0d1",
+    "wof:geomhash":"d33f835c0290bf0d7d94b6e862a4217f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     19.28041,
     53.92834000000001
 ],
-  "geometry": {"coordinates":[19.28041,53.92834000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.28041,53.92834],"type":"Point"}
 }

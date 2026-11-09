@@ -51,7 +51,7 @@
         "wk:page":"G%C3%B3rki%2C_Pi%C5%84cz%C3%B3w_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1762a07f6d13c81728d4164f4ae5af30",
+    "wof:geomhash":"cacdf58c7289f9bb5109462009e1f6c2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     20.58392000000001,
     50.62692
 ],
-  "geometry": {"coordinates":[20.58392000000001,50.62692],"type":"Point"}
+  "geometry": {"coordinates":[20.58392,50.62692],"type":"Point"}
 }

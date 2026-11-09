@@ -57,7 +57,7 @@
         "wk:page":"Czarkowo%2C_Gosty%C5%84_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f70faed03e7b00f139561b960c8f9252",
+    "wof:geomhash":"56a780dd309302b36c55f4c31f250494",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     16.86153,
     51.80412000000001
 ],
-  "geometry": {"coordinates":[16.86153,51.80412000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.86153,51.80412],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"Stawiszyn-%C5%81aziska"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9a0ab33a7b1a2ce25512f5fa1694d722",
+    "wof:geomhash":"317bdf92a7d5f6155cbcedfb735c8c2b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     19.98333,
     52.97519000000001
 ],
-  "geometry": {"coordinates":[19.98333,52.97519000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.98333,52.97519],"type":"Point"}
 }

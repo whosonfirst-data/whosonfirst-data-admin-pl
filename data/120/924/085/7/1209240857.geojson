@@ -57,7 +57,7 @@
         "wk:page":"Izdebno%2C_Mi%C4%99dzych%C3%B3d_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"161d1519e9a1e06d9d68dfcda5ff8272",
+    "wof:geomhash":"ccd4d63920c242d1d70f83d80f64f9ad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     16.19944,
     52.66448000000001
 ],
-  "geometry": {"coordinates":[16.19944,52.66448000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.19944,52.66448],"type":"Point"}
 }

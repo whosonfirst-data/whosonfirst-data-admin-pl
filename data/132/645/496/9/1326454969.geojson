@@ -51,7 +51,7 @@
         "wk:page":"Zam%C4%99ty"
     },
     "wof:country":"PL",
-    "wof:geomhash":"20bec95e727694600bf5bc2d9660e715",
+    "wof:geomhash":"1174c6a6cdf46feae0278c549e399268",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.18067000000001,
     51.98343
 ],
-  "geometry": {"coordinates":[18.18067000000001,51.98343],"type":"Point"}
+  "geometry": {"coordinates":[18.18067,51.98343],"type":"Point"}
 }

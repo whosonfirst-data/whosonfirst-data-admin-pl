@@ -63,7 +63,7 @@
         "wk:page":"Kr%C4%99piec%2C_Lublin_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d3f07007382a4974bae31719d55e585b",
+    "wof:geomhash":"06450e9c287c05cd2e76b6cee08425cb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     22.73286,
     51.20274000000001
 ],
-  "geometry": {"coordinates":[22.73286,51.20274000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.73286,51.20274],"type":"Point"}
 }

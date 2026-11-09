@@ -60,7 +60,7 @@
         "wk:page":"Gocza%C5%82kowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"26153c850d506712679cfeb8c4367829",
+    "wof:geomhash":"3489ad3f3debc80e51a35287c5f4e3ac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     17.62962000000001,
     52.47066
 ],
-  "geometry": {"coordinates":[17.62962000000001,52.47066],"type":"Point"}
+  "geometry": {"coordinates":[17.62962,52.47066],"type":"Point"}
 }

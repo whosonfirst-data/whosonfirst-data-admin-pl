@@ -54,7 +54,7 @@
         "wk:page":"Troszczyno"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4df81a09988beb4526347e4c81e7c01b",
+    "wof:geomhash":"984cd54271cf51026e753d424f56d2cb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     15.30849,
     53.67743000000001
 ],
-  "geometry": {"coordinates":[15.30849,53.67743000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.30849,53.67743],"type":"Point"}
 }

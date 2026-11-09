@@ -52,7 +52,7 @@
         "wk:page":"Cymbark"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1fbb45236ca2af2d688e6fb723c66c3d",
+    "wof:geomhash":"2bc0ebab5030a8fe97acc8019924a809",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,5 +82,5 @@
     18.92422,
     53.27766999999999
 ],
-  "geometry": {"coordinates":[18.92422,53.27766999999999],"type":"Point"}
+  "geometry": {"coordinates":[18.92422,53.27767],"type":"Point"}
 }

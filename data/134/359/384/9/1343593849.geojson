@@ -66,7 +66,7 @@
         "wk:page":"Kunin"
     },
     "wof:country":"PL",
-    "wof:geomhash":"35cae7bf1e422ffaaba84f9c91878a4c",
+    "wof:geomhash":"1d1cb7f62b95cd68de59866efdc601a1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     21.50933,
     52.84529000000001
 ],
-  "geometry": {"coordinates":[21.50933,52.84529000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.50933,52.84529],"type":"Point"}
 }

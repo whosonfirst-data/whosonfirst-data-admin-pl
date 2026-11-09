@@ -60,7 +60,7 @@
         "wk:page":"Ratajki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"00a088e72a66eae7c0685c4a2dc13bce",
+    "wof:geomhash":"d5b3a0837cb5cada23b5bcfbb4ffe891",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     16.46307,
     54.20988000000001
 ],
-  "geometry": {"coordinates":[16.46307,54.20988000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.46307,54.20988],"type":"Point"}
 }

@@ -64,7 +64,7 @@
         "wk:page":"Kowalewo%2C_Warmian-Masurian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a776c17ddab5d8ae1be7da620f9098e7",
+    "wof:geomhash":"460a20530533b27680fd5a23b8b5211e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,5 +91,5 @@
     22.07972,
     53.54598000000001
 ],
-  "geometry": {"coordinates":[22.07972,53.54598000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.07972,53.54598],"type":"Point"}
 }

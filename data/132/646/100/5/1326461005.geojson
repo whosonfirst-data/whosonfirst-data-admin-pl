@@ -61,7 +61,7 @@
         "wk:page":"Za%C5%BCelazna"
     },
     "wof:country":"PL",
-    "wof:geomhash":"155b7db0d53dfac1e7b2343a2b4bb08a",
+    "wof:geomhash":"d53662febf4f782e9f547a480a4786e7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     22.19376,
     52.02144000000001
 ],
-  "geometry": {"coordinates":[22.19376,52.02144000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.19376,52.02144],"type":"Point"}
 }

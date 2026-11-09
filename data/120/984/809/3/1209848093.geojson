@@ -51,7 +51,7 @@
         "wk:page":"Bia%C5%82kowo%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9a4dbb126e87b758587257fa39f4ecf8",
+    "wof:geomhash":"ca46d1a6c634563ba675071562b8611f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.09129,
     53.11111999999999
 ],
-  "geometry": {"coordinates":[19.09129,53.11111999999999],"type":"Point"}
+  "geometry": {"coordinates":[19.09129,53.11112],"type":"Point"}
 }

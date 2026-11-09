@@ -58,7 +58,7 @@
         "wk:page":"Dzierzgonka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"bb6928f2b40aba07674b22c27bd73c38",
+    "wof:geomhash":"7cd3a281322d0ed37703a995fff90b95",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,5 +85,5 @@
     19.43602000000001,
     54.03369
 ],
-  "geometry": {"coordinates":[19.43602000000001,54.03369],"type":"Point"}
+  "geometry": {"coordinates":[19.43602,54.03369],"type":"Point"}
 }

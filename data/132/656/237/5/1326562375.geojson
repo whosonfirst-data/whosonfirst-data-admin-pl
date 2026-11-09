@@ -51,7 +51,7 @@
         "wk:page":"R%C4%99kawiec"
     },
     "wof:country":"PL",
-    "wof:geomhash":"37b563616bced7d8eb95968790306b5e",
+    "wof:geomhash":"40ee724fd8a3d430d1c22e338854ac01",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     20.01033,
     51.67254000000001
 ],
-  "geometry": {"coordinates":[20.01033,51.67254000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.01033,51.67254],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"Zambrzyce-Kr%C3%B3le"
     },
     "wof:country":"PL",
-    "wof:geomhash":"39bf3d6492c7b5dd137832b4b38e47cb",
+    "wof:geomhash":"4b8a52f6cf112748b6103d738587e360",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.51674,
     53.09713000000001
 ],
-  "geometry": {"coordinates":[22.51674,53.09713000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.51674,53.09713],"type":"Point"}
 }

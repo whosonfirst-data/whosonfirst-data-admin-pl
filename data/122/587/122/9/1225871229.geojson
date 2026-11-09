@@ -54,7 +54,7 @@
         "wk:page":"Szeszupka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f0a993aeaced13ebdbf7871948d9adae",
+    "wof:geomhash":"5d6393f6a16bb59e140d14bea66154de",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.82547000000001,
     54.22631
 ],
-  "geometry": {"coordinates":[22.82547000000001,54.22631],"type":"Point"}
+  "geometry": {"coordinates":[22.82547,54.22631],"type":"Point"}
 }

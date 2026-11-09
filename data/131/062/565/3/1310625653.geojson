@@ -48,7 +48,7 @@
         "wk:page":"Stara_Sikorska_Huta"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2c53b2ed3d9d0579d060d507eb6dc7a4",
+    "wof:geomhash":"d0af62afd9526690d09e5de161e98a76",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     18.00867000000001,
     54.18429
 ],
-  "geometry": {"coordinates":[18.00867000000001,54.18429],"type":"Point"}
+  "geometry": {"coordinates":[18.00867,54.18429],"type":"Point"}
 }

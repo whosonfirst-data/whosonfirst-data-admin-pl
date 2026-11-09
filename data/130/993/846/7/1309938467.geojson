@@ -66,7 +66,7 @@
         "wk:page":"Trofim%C3%B3wka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"aad60ab9430ce141b6abae8b290a397a",
+    "wof:geomhash":"4c114050e7f60ef6d2145dfaebb9922e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     23.20742000000001,
     53.48708000000001
 ],
-  "geometry": {"coordinates":[23.20742000000001,53.48708000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.20742,53.48708],"type":"Point"}
 }

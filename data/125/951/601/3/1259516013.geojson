@@ -57,7 +57,7 @@
         "wk:page":"Wilko%C5%82az_Trzeci"
     },
     "wof:country":"PL",
-    "wof:geomhash":"fc73e0ad0b5041ac1d8cdce8e70ae9fc",
+    "wof:geomhash":"288be146b8a0c1c87d51f473ff96a687",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.31546,
     51.00409000000001
 ],
-  "geometry": {"coordinates":[22.31546,51.00409000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.31546,51.00409],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Zielonka%2C_Pozna%C5%84_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c50c5b387aa56c74739033469b96ba96",
+    "wof:geomhash":"933e013a70d68dd0fa985ccf591e473e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.11233,
     52.55441999999999
 ],
-  "geometry": {"coordinates":[17.11233,52.55441999999999],"type":"Point"}
+  "geometry": {"coordinates":[17.11233,52.55442],"type":"Point"}
 }

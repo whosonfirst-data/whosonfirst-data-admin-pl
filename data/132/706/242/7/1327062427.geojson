@@ -57,7 +57,7 @@
         "wk:page":"Mierz%C4%99cin%2C_Pu%C5%82tusk_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"77f70b7ff197f4da59c349f33eb83ae1",
+    "wof:geomhash":"cd0bee14a39264e3e6dc60f013ed3295",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.23482000000001,
     52.6126
 ],
-  "geometry": {"coordinates":[21.23482000000001,52.6126],"type":"Point"}
+  "geometry": {"coordinates":[21.23482,52.6126],"type":"Point"}
 }

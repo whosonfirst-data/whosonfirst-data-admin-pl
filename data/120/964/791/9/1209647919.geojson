@@ -51,7 +51,7 @@
         "wk:page":"Samice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5db55a3013287dce4004e53d54393743",
+    "wof:geomhash":"7532b7f7d47d326a1fac34e36eba88c4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     20.24205,
     51.95887000000001
 ],
-  "geometry": {"coordinates":[20.24205,51.95887000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.24205,51.95887],"type":"Point"}
 }

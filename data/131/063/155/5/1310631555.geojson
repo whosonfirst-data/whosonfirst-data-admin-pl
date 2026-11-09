@@ -51,7 +51,7 @@
         "wk:page":"Orzech%C3%B3w%2C_Podkarpackie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"54c6f134330fbbc1430d7b6b2ff42b79",
+    "wof:geomhash":"78cc7f04106a3986fe984f67a9134007",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     21.88906,
     50.74124000000001
 ],
-  "geometry": {"coordinates":[21.88906,50.74124000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.88906,50.74124],"type":"Point"}
 }

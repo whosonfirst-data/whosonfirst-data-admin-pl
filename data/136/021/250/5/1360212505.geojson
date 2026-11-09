@@ -54,7 +54,7 @@
         "wk:page":"Lubowicz_Wielki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2aadd5addf993e9aef07f26766728b76",
+    "wof:geomhash":"43212d6a657a3c0f1cab6f34e77ce456",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.54826,
     52.74424000000001
 ],
-  "geometry": {"coordinates":[22.54826,52.74424000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.54826,52.74424],"type":"Point"}
 }

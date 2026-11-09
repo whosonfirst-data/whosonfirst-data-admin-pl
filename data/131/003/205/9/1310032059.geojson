@@ -48,7 +48,7 @@
         "wk:page":"Wierzbno%2C_G%C5%82ubczyce_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c4290da53b7771e9db0953a7bc029030",
+    "wof:geomhash":"f2ca64d2b7fcd8341c947afa50dcc4b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     17.92565,
     50.15414000000001
 ],
-  "geometry": {"coordinates":[17.92565,50.15414000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.92565,50.15414],"type":"Point"}
 }

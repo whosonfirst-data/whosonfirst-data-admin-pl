@@ -69,7 +69,7 @@
         "wk:page":"S%C4%85borze"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c3eb0a2f4c2dca5e30c8313542fe1b8e",
+    "wof:geomhash":"8fed6c7285286d4ec7e3d1a4e7d734ed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     17.17987999999999,
     54.46491
 ],
-  "geometry": {"coordinates":[17.17987999999999,54.46491],"type":"Point"}
+  "geometry": {"coordinates":[17.17988,54.46491],"type":"Point"}
 }

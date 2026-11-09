@@ -63,7 +63,7 @@
         "wk:page":"Wola_Pra%C5%BCmowska"
     },
     "wof:country":"PL",
-    "wof:geomhash":"12b8e849a46d2acdb020a1a716c59131",
+    "wof:geomhash":"168ebe1efdd32f57eeb2dc5909912079",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     20.98097000000001,
     51.94224000000001
 ],
-  "geometry": {"coordinates":[20.98097000000001,51.94224000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.98097,51.94224],"type":"Point"}
 }

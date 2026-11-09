@@ -54,7 +54,7 @@
         "wk:page":"Krzywice%2C_Lublin_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"687efbe60cad3f4ce6066c3b09e4dd56",
+    "wof:geomhash":"9857c230584165393e0a11a175d02139",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     23.48122,
     51.07279000000001
 ],
-  "geometry": {"coordinates":[23.48122,51.07279000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.48122,51.07279],"type":"Point"}
 }

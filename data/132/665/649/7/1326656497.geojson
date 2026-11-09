@@ -63,7 +63,7 @@
         "wk:page":"Trzciany%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"523fdc81b2dbf2281948d77c61baa63d",
+    "wof:geomhash":"669579cba6f9dac931ef2e4c05f2a1f1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     17.58111,
     53.48164000000001
 ],
-  "geometry": {"coordinates":[17.58111,53.48164000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.58111,53.48164],"type":"Point"}
 }

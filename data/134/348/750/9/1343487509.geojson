@@ -51,7 +51,7 @@
         "wk:page":"W%C3%B3lka%2C_Rypin_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"85860fb78f9f8d48025972764188e3b6",
+    "wof:geomhash":"f2b934d80a35cff7f273622c5df66b21",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.53598,
     53.04004000000001
 ],
-  "geometry": {"coordinates":[19.53598,53.04004000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.53598,53.04004],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Karol%C3%B3w%2C_%C5%81%C3%B3d%C5%BA_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4094be34a4c7d5d31878c9c840f8619e",
+    "wof:geomhash":"991e405c7e84b30d6822d3cf164d5cae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.23809,
     51.25579000000001
 ],
-  "geometry": {"coordinates":[19.23809,51.25579000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.23809,51.25579],"type":"Point"}
 }

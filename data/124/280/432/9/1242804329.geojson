@@ -63,7 +63,7 @@
         "wk:page":"Jaworze%2C_Podkarpackie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e8ff7d818cab851d9cc7d03677585308",
+    "wof:geomhash":"dd05620b8849b7aef4b5c9d6f0571e02",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     21.46917,
     49.56319000000001
 ],
-  "geometry": {"coordinates":[21.46917,49.56319000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.46917,49.56319],"type":"Point"}
 }

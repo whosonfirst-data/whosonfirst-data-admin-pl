@@ -73,7 +73,7 @@
         "wk:page":"Siekierki%2C_West_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5cf997b2b6b7c1737b40bd9ae94a97ac",
+    "wof:geomhash":"696e36e7f4c0343d80e8572444081e50",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -100,5 +100,5 @@
     14.24515,
     52.80748000000001
 ],
-  "geometry": {"coordinates":[14.24515,52.80748000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.24515,52.80748],"type":"Point"}
 }

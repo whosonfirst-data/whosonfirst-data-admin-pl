@@ -57,7 +57,7 @@
         "wk:page":"Rusi%C5%82y"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6575429b2b6d779e5718466fe17857d8",
+    "wof:geomhash":"a2906772d2b6a31de062b41ce1c08a4b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     23.21171,
     51.70379000000001
 ],
-  "geometry": {"coordinates":[23.21171,51.70379000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.21171,51.70379],"type":"Point"}
 }

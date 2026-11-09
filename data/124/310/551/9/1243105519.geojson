@@ -54,7 +54,7 @@
         "wk:page":"Grocholice%2C_Gmina_Sadowie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"65705137e23067cb82b579b795a4e9b6",
+    "wof:geomhash":"a422403adfab4f583e7869a2f725778b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.43543,
     50.87009000000001
 ],
-  "geometry": {"coordinates":[21.43543,50.87009000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.43543,50.87009],"type":"Point"}
 }

@@ -66,7 +66,7 @@
         "wk:page":"Rak%C3%B3wek%2C_Podlaskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"77ab9f6d6512c6fce240070c7152808c",
+    "wof:geomhash":"80db94a4686aaf82a4d2faaf3b8d3bed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     22.59892,
     54.24988000000001
 ],
-  "geometry": {"coordinates":[22.59892,54.24988000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.59892,54.24988],"type":"Point"}
 }

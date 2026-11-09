@@ -66,7 +66,7 @@
         "wk:page":"Kiezmark"
     },
     "wof:country":"PL",
-    "wof:geomhash":"747398f3943955061b0f4a4d884961b1",
+    "wof:geomhash":"2bead7dc1883c12e594b11955ead46bc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     18.93067000000001,
     54.25638000000001
 ],
-  "geometry": {"coordinates":[18.93067000000001,54.25638000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.93067,54.25638],"type":"Point"}
 }

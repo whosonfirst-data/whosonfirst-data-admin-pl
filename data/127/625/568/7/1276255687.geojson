@@ -60,7 +60,7 @@
         "wk:page":"Mielenko_Drawskie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"64caff1de8553e5d2bb79c42e188fdfb",
+    "wof:geomhash":"6531857964ada25e9d69fadbed481e11",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     15.79711,
     53.49169000000001
 ],
-  "geometry": {"coordinates":[15.79711,53.49169000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.79711,53.49169],"type":"Point"}
 }

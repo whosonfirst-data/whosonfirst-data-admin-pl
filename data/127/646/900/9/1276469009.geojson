@@ -54,7 +54,7 @@
         "wk:page":"%C5%9Awiderki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"44da974f9b0cdf6bafcd14494479cb51",
+    "wof:geomhash":"f9e6f05697cd87766fdf98b760015885",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.33617000000001,
     51.84662
 ],
-  "geometry": {"coordinates":[22.33617000000001,51.84662],"type":"Point"}
+  "geometry": {"coordinates":[22.33617,51.84662],"type":"Point"}
 }

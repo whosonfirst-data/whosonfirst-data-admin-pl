@@ -51,7 +51,7 @@
         "wk:page":"B%C5%82onice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"67459398f09bcc015aa83226380dd830",
+    "wof:geomhash":"2e27b3d58010df618380204ce1efaec5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.07172000000001,
     52.10457
 ],
-  "geometry": {"coordinates":[18.07172000000001,52.10457],"type":"Point"}
+  "geometry": {"coordinates":[18.07172,52.10457],"type":"Point"}
 }

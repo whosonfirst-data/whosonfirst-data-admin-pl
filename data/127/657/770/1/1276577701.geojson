@@ -54,7 +54,7 @@
         "wk:page":"Potrzanowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4d445e12229388724c07dfa96b885ea9",
+    "wof:geomhash":"9c1e8ceb4193350bc33ab509de80bae8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.10739,
     52.67021999999999
 ],
-  "geometry": {"coordinates":[17.10739,52.67021999999999],"type":"Point"}
+  "geometry": {"coordinates":[17.10739,52.67022],"type":"Point"}
 }

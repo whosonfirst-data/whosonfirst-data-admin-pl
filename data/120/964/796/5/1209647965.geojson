@@ -54,7 +54,7 @@
         "wk:page":"Czarnolas"
     },
     "wof:country":"PL",
-    "wof:geomhash":"53b6c6a0dbae1a886831d6c8e109dd79",
+    "wof:geomhash":"54df70b21abd696aec538b30aae9df4d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.70615,
     51.42959000000001
 ],
-  "geometry": {"coordinates":[21.70615,51.42959000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.70615,51.42959],"type":"Point"}
 }

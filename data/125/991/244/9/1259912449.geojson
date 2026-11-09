@@ -63,7 +63,7 @@
         "wk:page":"Sok%C3%B3%C5%82ki%2C_E%C5%82k_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"20b979ac0048fc1441498d50071fc5ab",
+    "wof:geomhash":"b19d7789d3a24b54ee8bf950cb3577b7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     22.37349,
     53.68024000000001
 ],
-  "geometry": {"coordinates":[22.37349,53.68024000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.37349,53.68024],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"K%C5%82opotowo%2C_West_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"0a0e1fa421e76ae2fb372fb6cf1dc66c",
+    "wof:geomhash":"0ff9af1856e75296d547113a5a782318",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     15.79514,
     54.09376999999999
 ],
-  "geometry": {"coordinates":[15.79514,54.09376999999999],"type":"Point"}
+  "geometry": {"coordinates":[15.79514,54.09377],"type":"Point"}
 }

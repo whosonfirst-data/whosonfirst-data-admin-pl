@@ -54,7 +54,7 @@
         "wk:page":"Szamoty%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d9d70decd76fd71f6208efc49f011f7e",
+    "wof:geomhash":"4b2c0863c0c6cc19ba85b21d4f157912",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.14852,
     53.04078000000001
 ],
-  "geometry": {"coordinates":[17.14852,53.04078000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.14852,53.04078],"type":"Point"}
 }

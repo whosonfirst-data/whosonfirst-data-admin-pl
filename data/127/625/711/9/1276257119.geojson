@@ -69,7 +69,7 @@
         "wk:page":"Izby"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3b4c8aa51ebc6876cf05108fb4e6e803",
+    "wof:geomhash":"b00a8dd479615ff1d5ae8d4d7e791712",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     21.06627000000001,
     49.4492
 ],
-  "geometry": {"coordinates":[21.06627000000001,49.4492],"type":"Point"}
+  "geometry": {"coordinates":[21.06627,49.4492],"type":"Point"}
 }

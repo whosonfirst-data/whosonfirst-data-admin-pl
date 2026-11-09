@@ -51,7 +51,7 @@
         "wk:page":"Ignacew_Rozlaz%C5%82y"
     },
     "wof:country":"PL",
-    "wof:geomhash":"28675b570194404d04a42c769174a8d8",
+    "wof:geomhash":"5bbd60d1f1a8461cbf6106b53330a5f3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.21689,
     51.92619000000001
 ],
-  "geometry": {"coordinates":[19.21689,51.92619000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.21689,51.92619],"type":"Point"}
 }

@@ -65,7 +65,7 @@
         "wk:page":"Dziurdziewo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"41d85588b6d345956368765a0307a0ba",
+    "wof:geomhash":"d2bf4c2ed04d2ff7358e9f00475fbe85",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     20.21493,
     53.37433000000001
 ],
-  "geometry": {"coordinates":[20.21493,53.37433000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.21493,53.37433],"type":"Point"}
 }

@@ -51,7 +51,7 @@
         "wk:page":"Wolice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"0db1eb8ae40f1749eb9f980b831cf8ef",
+    "wof:geomhash":"72d7b1eeee3ebe4ee0344b861b4e417f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.90806,
     52.85596999999999
 ],
-  "geometry": {"coordinates":[17.90806,52.85596999999999],"type":"Point"}
+  "geometry": {"coordinates":[17.90806,52.85597],"type":"Point"}
 }

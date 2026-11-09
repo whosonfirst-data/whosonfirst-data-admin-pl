@@ -72,7 +72,7 @@
         "wk:page":"Czerwone"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f3fe3825bbba55d8dd373934da815581",
+    "wof:geomhash":"11cdcf2be1776c6b67645ef1be5c4369",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,5 +99,5 @@
     21.88734,
     53.42308000000001
 ],
-  "geometry": {"coordinates":[21.88734,53.42308000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.88734,53.42308],"type":"Point"}
 }

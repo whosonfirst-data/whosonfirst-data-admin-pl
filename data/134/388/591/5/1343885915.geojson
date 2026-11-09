@@ -54,7 +54,7 @@
         "wk:page":"So%C5%82tysy%2C_Opole_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"bb83435125f17f60dfda300c830d32ea",
+    "wof:geomhash":"1e3bd2b8fd8a79e0728f6fde2e47d655",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.53127000000001,
     51.11387
 ],
-  "geometry": {"coordinates":[18.53127000000001,51.11387],"type":"Point"}
+  "geometry": {"coordinates":[18.53127,51.11387],"type":"Point"}
 }

@@ -60,7 +60,7 @@
         "wk:page":"Guty%2C_Gi%C5%BCycko_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"eb8c4ee82a7a5c336677566b7f1208aa",
+    "wof:geomhash":"31ac76aa17675f10afcd4b63b0b6d995",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     21.67177,
     54.05468000000001
 ],
-  "geometry": {"coordinates":[21.67177,54.05468000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.67177,54.05468],"type":"Point"}
 }

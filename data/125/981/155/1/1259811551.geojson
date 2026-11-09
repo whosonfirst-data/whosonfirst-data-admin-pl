@@ -51,7 +51,7 @@
         "wk:page":"Bartoszowa"
     },
     "wof:country":"PL",
-    "wof:geomhash":"976724e317fc85c3b7ac42873117724f",
+    "wof:geomhash":"479ed4b43293cbbf81cfd478dc0baec1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     16.97285,
     50.88744000000001
 ],
-  "geometry": {"coordinates":[16.97285,50.88744000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.97285,50.88744],"type":"Point"}
 }

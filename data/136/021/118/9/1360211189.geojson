@@ -51,7 +51,7 @@
         "wk:page":"Wiatro%C5%82om"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ecda340a7b221f35bbadb6b4c020e3a5",
+    "wof:geomhash":"7d4f5d40e081f60ba11715d57b096bef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.08333,
     54.13333000000001
 ],
-  "geometry": {"coordinates":[17.08333,54.13333000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.08333,54.13333],"type":"Point"}
 }

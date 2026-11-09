@@ -51,7 +51,7 @@
         "wk:page":"%C5%9Awi%C4%85tniki%2C_Radziej%C3%B3w_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2ea2e424c44b6c02623245562a332154",
+    "wof:geomhash":"047be037559834e4191a61244884e467",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.51881,
     52.57973000000001
 ],
-  "geometry": {"coordinates":[18.51881,52.57973000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.51881,52.57973],"type":"Point"}
 }

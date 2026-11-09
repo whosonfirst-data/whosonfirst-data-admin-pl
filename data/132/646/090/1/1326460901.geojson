@@ -54,7 +54,7 @@
         "wk:page":"Wasi%C5%82owice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"cf5c7085bad1814b91b5f5389cbc73e6",
+    "wof:geomhash":"7338117e9db9f8472ad36890e7572475",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.65498999999999,
     50.40132
 ],
-  "geometry": {"coordinates":[17.65498999999999,50.40132],"type":"Point"}
+  "geometry": {"coordinates":[17.65499,50.40132],"type":"Point"}
 }

@@ -67,7 +67,7 @@
         "wk:page":"Kropiwnica-Gajki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1cc1ee2e071b017b501d96f44d697944",
+    "wof:geomhash":"dc4407ed04d6803ce6adaed35b1c6e0b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,5 +94,5 @@
     22.73742,
     53.08159000000001
 ],
-  "geometry": {"coordinates":[22.73742,53.08159000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.73742,53.08159],"type":"Point"}
 }

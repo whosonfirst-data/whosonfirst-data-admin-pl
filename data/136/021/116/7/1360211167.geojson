@@ -57,7 +57,7 @@
         "wk:page":"Brudzewo%2C_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"063fea83f5adbd139344dff47e0fac77",
+    "wof:geomhash":"f029e2b0c82f0314d7e8da48eeb27e6c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     18.35386,
     54.68683000000001
 ],
-  "geometry": {"coordinates":[18.35386,54.68683000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.35386,54.68683],"type":"Point"}
 }

@@ -62,7 +62,7 @@
         "wk:page":"Probark"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9979901d3a222e53cbc8dae18a7af7de",
+    "wof:geomhash":"b1db754fac04638c0211d7e2c25c9fa6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     21.36939,
     53.82978000000001
 ],
-  "geometry": {"coordinates":[21.36939,53.82978000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.36939,53.82978],"type":"Point"}
 }

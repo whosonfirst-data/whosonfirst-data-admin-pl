@@ -54,7 +54,7 @@
         "wk:page":"Nowy_%C5%9Alesz%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9cd644b93287d4c0ce583ceff4101ae9",
+    "wof:geomhash":"9fa1cce0f542fdf0b9e709f63c31598c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.10703,
     50.93324000000001
 ],
-  "geometry": {"coordinates":[17.10703,50.93324000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.10703,50.93324],"type":"Point"}
 }

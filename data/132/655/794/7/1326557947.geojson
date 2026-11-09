@@ -57,7 +57,7 @@
         "wk:page":"Lucim"
     },
     "wof:country":"PL",
-    "wof:geomhash":"83bbec0d505d9c06f63839840cd6052a",
+    "wof:geomhash":"a0833a9f8e5107c9446c4f5c45db0834",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     17.8332,
     53.38503000000001
 ],
-  "geometry": {"coordinates":[17.8332,53.38503000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.8332,53.38503],"type":"Point"}
 }

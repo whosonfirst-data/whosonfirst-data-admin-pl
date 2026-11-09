@@ -60,7 +60,7 @@
         "wk:page":"Kownaty%2C_Podlaskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3854a5efd0f80e2a62bc45bbd76bed6c",
+    "wof:geomhash":"fae4af746ec0e2bf8647579209da0be7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     22.22583,
     53.24223000000001
 ],
-  "geometry": {"coordinates":[22.22583,53.24223000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.22583,53.24223],"type":"Point"}
 }

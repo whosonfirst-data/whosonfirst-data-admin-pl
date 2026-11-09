@@ -54,7 +54,7 @@
         "wk:page":"Z%C5%82otowo%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"120ae064f446acb7946346ab54943ec0",
+    "wof:geomhash":"bc067d3dd15b487b0ac65c0ff2fb0f36",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.12194,
     52.99169000000001
 ],
-  "geometry": {"coordinates":[20.12194,52.99169000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.12194,52.99169],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"Barto%C5%82ty_Ma%C5%82e"
     },
     "wof:country":"PL",
-    "wof:geomhash":"347a61dde1f92e16fd9f44f9280daed4",
+    "wof:geomhash":"5074b1ec5a069125d936f6497d121ee1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     20.8562,
     53.79103000000001
 ],
-  "geometry": {"coordinates":[20.8562,53.79103000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.8562,53.79103],"type":"Point"}
 }

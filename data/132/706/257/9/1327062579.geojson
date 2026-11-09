@@ -54,7 +54,7 @@
         "wk:page":"Rakowo%2C_P%C5%82o%C5%84sk_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"dd1101596be9b26cd37cdec6e0b91c31",
+    "wof:geomhash":"59c5e840f73d70bc20e24b8c0631e953",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.27664,
     52.63098000000001
 ],
-  "geometry": {"coordinates":[20.27664,52.63098000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.27664,52.63098],"type":"Point"}
 }

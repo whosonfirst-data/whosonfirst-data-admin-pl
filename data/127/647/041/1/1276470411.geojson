@@ -54,7 +54,7 @@
         "wk:page":"Podlesie_Wysokie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9bd4ff3942822311c3ac782356c5b2af",
+    "wof:geomhash":"71e62bf419633c84c38973d572c0bfbd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.24321,
     52.71893000000001
 ],
-  "geometry": {"coordinates":[17.24321,52.71893000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.24321,52.71893],"type":"Point"}
 }

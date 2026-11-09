@@ -54,7 +54,7 @@
         "wk:page":"Wojnowo%2C_West_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"206a3e4e90849e9d6b950190572633b8",
+    "wof:geomhash":"01db750e1d3be846da03be53ddbf9e6b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     16.84307,
     53.63639000000001
 ],
-  "geometry": {"coordinates":[16.84307,53.63639000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.84307,53.63639],"type":"Point"}
 }

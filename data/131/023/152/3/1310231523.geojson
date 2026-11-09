@@ -62,7 +62,7 @@
         "wk:page":"Kost%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"376990ed2a3039b16eb33f4e0c75fa11",
+    "wof:geomhash":"c08029f4aa8c7d5956ccb796d09c034c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     18.1477,
     51.16589000000001
 ],
-  "geometry": {"coordinates":[18.1477,51.16589000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.1477,51.16589],"type":"Point"}
 }

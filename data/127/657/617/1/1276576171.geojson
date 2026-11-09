@@ -51,7 +51,7 @@
         "wk:page":"Naczachowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e9fdd29751dbb2d78fa5e3b17750851e",
+    "wof:geomhash":"a15f26f65d728d722c69de08160e5b4f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.84207,
     52.40519000000001
 ],
-  "geometry": {"coordinates":[18.84207,52.40519000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.84207,52.40519],"type":"Point"}
 }

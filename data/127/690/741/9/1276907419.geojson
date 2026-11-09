@@ -57,7 +57,7 @@
         "wk:page":"Ryszki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7a98b72285a181aea4ba929ca0b6ac9a",
+    "wof:geomhash":"6d06f09e9e349484d8984195b06fddbd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.03437000000001,
     51.81389
 ],
-  "geometry": {"coordinates":[21.03437000000001,51.81389],"type":"Point"}
+  "geometry": {"coordinates":[21.03437,51.81389],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"Dunin%C3%B3w_Du%C5%BCy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"fe514a7dde98544fe8e594c2ad1d8c4c",
+    "wof:geomhash":"4c90b221d2b72349299d50b4a774db60",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     19.44117,
     52.52614000000001
 ],
-  "geometry": {"coordinates":[19.44117,52.52614000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.44117,52.52614],"type":"Point"}
 }

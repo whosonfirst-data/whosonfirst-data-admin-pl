@@ -60,7 +60,7 @@
         "wk:page":"Dolnik%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"26b91fdc8cb7a2a975286336565ce4f8",
+    "wof:geomhash":"d5050909795a4f2f50c224af6a036a1a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     16.91977,
     53.26329000000001
 ],
-  "geometry": {"coordinates":[16.91977,53.26329000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.91977,53.26329],"type":"Point"}
 }

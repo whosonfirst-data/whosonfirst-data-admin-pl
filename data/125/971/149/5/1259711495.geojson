@@ -66,7 +66,7 @@
         "wk:page":"Lebiedzie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4a10853fcf41796341fd051d1004fb58",
+    "wof:geomhash":"9711cce79bc06d27613888c9dffbdc5c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     22.28971,
     52.58323000000001
 ],
-  "geometry": {"coordinates":[22.28971,52.58323000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.28971,52.58323],"type":"Point"}
 }

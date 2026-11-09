@@ -54,7 +54,7 @@
         "wk:page":"Muniaczkowice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a0cb3b92b784dae3d37102c826662241",
+    "wof:geomhash":"db39f90ae3386c1eba2ad864c42738d5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.19597000000001,
     50.21594
 ],
-  "geometry": {"coordinates":[20.19597000000001,50.21594],"type":"Point"}
+  "geometry": {"coordinates":[20.19597,50.21594],"type":"Point"}
 }

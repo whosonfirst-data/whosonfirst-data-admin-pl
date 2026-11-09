@@ -54,7 +54,7 @@
         "wk:page":"Sucha%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3849e497bb3a3a0aee8de789af5aa7e4",
+    "wof:geomhash":"daeaa51f7c13df471178d7a957161015",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.68867000000001,
     52.00898
 ],
-  "geometry": {"coordinates":[17.68867000000001,52.00898],"type":"Point"}
+  "geometry": {"coordinates":[17.68867,52.00898],"type":"Point"}
 }

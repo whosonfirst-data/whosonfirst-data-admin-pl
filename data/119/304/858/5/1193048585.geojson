@@ -55,7 +55,7 @@
         "wk:page":"Olszanica%2C_Podlaskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"41dafc9f917f5e25dddaa1b7b7cb76c0",
+    "wof:geomhash":"516c872b00a101804fea6149045e4de2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     23.08391,
     52.86026999999999
 ],
-  "geometry": {"coordinates":[23.08391,52.86026999999999],"type":"Point"}
+  "geometry": {"coordinates":[23.08391,52.86027],"type":"Point"}
 }

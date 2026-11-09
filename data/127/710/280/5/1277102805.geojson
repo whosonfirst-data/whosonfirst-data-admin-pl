@@ -57,7 +57,7 @@
         "wk:page":"Gady%2C_Warmian-Masurian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b29d110329f6ef7855d074ddfeec1041",
+    "wof:geomhash":"b5e64c64bcae8972268ea478abe6a83e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     20.57963,
     53.87713000000001
 ],
-  "geometry": {"coordinates":[20.57963,53.87713000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.57963,53.87713],"type":"Point"}
 }

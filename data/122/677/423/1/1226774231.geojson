@@ -64,7 +64,7 @@
         "wk:page":"Dziurdzi%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"800740de8f5d689f5ae516a0c91acf6c",
+    "wof:geomhash":"60daf5bbd138e56010346f9cd8f4d47d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,5 +91,5 @@
     22.29761,
     49.43409000000001
 ],
-  "geometry": {"coordinates":[22.29761,49.43409000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.29761,49.43409],"type":"Point"}
 }

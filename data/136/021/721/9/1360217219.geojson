@@ -52,7 +52,7 @@
         "wk:page":"Bartosz%C3%B3wka%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d99be689cf8315027f87fb4442d3590f",
+    "wof:geomhash":"9a3f27aea4c49e5cbd946ee92bdc4417",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,5 +79,5 @@
     20.66511,
     51.97499000000001
 ],
-  "geometry": {"coordinates":[20.66511,51.97499000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.66511,51.97499],"type":"Point"}
 }

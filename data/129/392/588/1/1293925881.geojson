@@ -54,7 +54,7 @@
         "wk:page":"Podlaszcze"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d1d3feb16d68584e6d3d59db7217949a",
+    "wof:geomhash":"6328997cc237da4b0441c6b79698db5c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.37477,
     50.65857000000001
 ],
-  "geometry": {"coordinates":[20.37477,50.65857000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.37477,50.65857],"type":"Point"}
 }

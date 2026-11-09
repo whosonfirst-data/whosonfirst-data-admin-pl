@@ -60,7 +60,7 @@
         "wk:page":"Angowice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"64e016bdf06bfe2bf7fd419bde149700",
+    "wof:geomhash":"051865cd8404d6dcb8e6bbaef0154d3e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     17.55867000000001,
     53.65574
 ],
-  "geometry": {"coordinates":[17.55867000000001,53.65574],"type":"Point"}
+  "geometry": {"coordinates":[17.55867,53.65574],"type":"Point"}
 }

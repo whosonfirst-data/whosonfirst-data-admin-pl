@@ -72,7 +72,7 @@
         "wk:page":"Szymbark%2C_Warmian-Masurian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ad06fd8ff7a49b990adb20c341d312ac",
+    "wof:geomhash":"ad87add8c43280be43a2a2dceff05fa7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,5 +99,5 @@
     19.48575,
     53.64731999999999
 ],
-  "geometry": {"coordinates":[19.48575,53.64731999999999],"type":"Point"}
+  "geometry": {"coordinates":[19.48575,53.64732],"type":"Point"}
 }

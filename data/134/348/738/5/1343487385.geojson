@@ -62,7 +62,7 @@
         "wk:page":"D%C4%85browskie%2C_E%C5%82k_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c2bf6640e57f7cfbd000b642f6983f1f",
+    "wof:geomhash":"6fc9f086cbf7156761c7c310122dbf5f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     22.47657,
     53.73878000000001
 ],
-  "geometry": {"coordinates":[22.47657,53.73878000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.47657,53.73878],"type":"Point"}
 }

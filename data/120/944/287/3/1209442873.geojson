@@ -54,7 +54,7 @@
         "wk:page":"Pob%C3%B3rka_Wielka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6733ee52c91ff506510f5723ed60db70",
+    "wof:geomhash":"199486ae292b16ef9ee228c7170714ed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.10425,
     53.13173000000001
 ],
-  "geometry": {"coordinates":[17.10425,53.13173000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.10425,53.13173],"type":"Point"}
 }

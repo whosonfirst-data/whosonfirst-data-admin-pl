@@ -51,7 +51,7 @@
         "wk:page":"Rudawa%2C_K%C5%82odzko_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"aa8261d80425f0a5286755b1119d66e0",
+    "wof:geomhash":"f13a93e329b5098bddf4545d935fa57e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     16.54507000000001,
     50.23381
 ],
-  "geometry": {"coordinates":[16.54507000000001,50.23381],"type":"Point"}
+  "geometry": {"coordinates":[16.54507,50.23381],"type":"Point"}
 }

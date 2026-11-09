@@ -60,7 +60,7 @@
         "wk:page":"%C5%9Aliwin"
     },
     "wof:country":"PL",
-    "wof:geomhash":"fedeb14d2f0e11cb0f01675e95f5aa2a",
+    "wof:geomhash":"8afbe8f29ac63a90dbe616fae11b04e6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     15.03316,
     54.07248000000001
 ],
-  "geometry": {"coordinates":[15.03316,54.07248000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.03316,54.07248],"type":"Point"}
 }

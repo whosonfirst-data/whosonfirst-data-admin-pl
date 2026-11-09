@@ -57,7 +57,7 @@
         "wk:page":"W%C3%B3lka_Szel%C4%99%C5%BCna"
     },
     "wof:country":"PL",
-    "wof:geomhash":"03d831465907805faee3aa13434f0740",
+    "wof:geomhash":"eb64c9d071b5bfddbf64f0da10c0d1a3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.61086,
     51.32324000000001
 ],
-  "geometry": {"coordinates":[21.61086,51.32324000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.61086,51.32324],"type":"Point"}
 }

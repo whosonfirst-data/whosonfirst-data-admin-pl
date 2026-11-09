@@ -57,7 +57,7 @@
         "wk:page":"Borkowo%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3420258ac078888325d784c9726ec943",
+    "wof:geomhash":"3dc7ef601f1a4e8cbc5c17a8022c7ee7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     20.66322000000001,
     52.56078
 ],
-  "geometry": {"coordinates":[20.66322000000001,52.56078],"type":"Point"}
+  "geometry": {"coordinates":[20.66322,52.56078],"type":"Point"}
 }

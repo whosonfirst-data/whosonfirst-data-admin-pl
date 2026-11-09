@@ -51,7 +51,7 @@
         "wk:page":"Lipie%2C_K%C4%99pno_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4fad3fb6bd2f06bbaad6a7f906c17130",
+    "wof:geomhash":"e8e1f27a4982482923f96bd597bbe047",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.10444,
     51.20699000000001
 ],
-  "geometry": {"coordinates":[18.10444,51.20699000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.10444,51.20699],"type":"Point"}
 }

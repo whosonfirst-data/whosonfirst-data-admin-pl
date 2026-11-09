@@ -51,7 +51,7 @@
         "wk:page":"Gaj%2C_Bartoszyce_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"de578f0ebd3052713ba720e2d851c2b7",
+    "wof:geomhash":"91c70ef464e20bf46097fee2a6644dde",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     21.15709,
     54.32223000000001
 ],
-  "geometry": {"coordinates":[21.15709,54.32223000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.15709,54.32223],"type":"Point"}
 }

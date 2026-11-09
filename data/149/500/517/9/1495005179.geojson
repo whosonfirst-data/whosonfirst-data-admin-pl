@@ -55,7 +55,7 @@
         "wk:page":"Byty%C5%84%2C_Lublin_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c6097a2d5b55a35bac009752cb43fe4b",
+    "wof:geomhash":"fec2d7591be215f4a158e4c32c2c4cf9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,5 +85,5 @@
     23.63005,
     51.32879000000001
 ],
-  "geometry": {"coordinates":[23.63005,51.32879000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.63005,51.32879],"type":"Point"}
 }

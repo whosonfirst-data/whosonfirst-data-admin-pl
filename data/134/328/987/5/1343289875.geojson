@@ -54,7 +54,7 @@
         "wk:page":"D%C4%99biny%2C_S%C4%99p%C3%B3lno_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"38427ede1fee610cc1c533ccde3467f7",
+    "wof:geomhash":"48cd5a4575948785378d89b8b219ec5b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.70217000000001,
     53.41706
 ],
-  "geometry": {"coordinates":[17.70217000000001,53.41706],"type":"Point"}
+  "geometry": {"coordinates":[17.70217,53.41706],"type":"Point"}
 }

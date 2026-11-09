@@ -102,7 +102,7 @@
         "wk:page":"Padniewko"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ca34c59f2743807e3f6415e2523d072c",
+    "wof:geomhash":"e3c7077bf27bf03364809bdf56b96d94",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,5 +129,5 @@
     17.90565,
     52.66393000000001
 ],
-  "geometry": {"coordinates":[17.90565,52.66393000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.90565,52.66393],"type":"Point"}
 }

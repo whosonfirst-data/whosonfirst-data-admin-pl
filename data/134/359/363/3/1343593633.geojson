@@ -55,7 +55,7 @@
         "wk:page":"Przyby%C5%82owo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"aac4179bf6b1fe2b3aacd155043d0385",
+    "wof:geomhash":"02e047c1383e1c8f4b23d02afade6c0d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,5 +82,5 @@
     19.56167,
     54.27164000000001
 ],
-  "geometry": {"coordinates":[19.56167,54.27164000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.56167,54.27164],"type":"Point"}
 }

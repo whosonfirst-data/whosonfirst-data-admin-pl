@@ -51,7 +51,7 @@
         "wk:page":"Jeglia"
     },
     "wof:country":"PL",
-    "wof:geomhash":"53e8cc42945c371e41e2400ebd1a706e",
+    "wof:geomhash":"0df6cbfb9f2cc4055cf41e871dbdced5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.87596,
     53.38656999999999
 ],
-  "geometry": {"coordinates":[19.87596,53.38656999999999],"type":"Point"}
+  "geometry": {"coordinates":[19.87596,53.38657],"type":"Point"}
 }

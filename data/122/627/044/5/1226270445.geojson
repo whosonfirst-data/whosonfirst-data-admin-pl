@@ -54,7 +54,7 @@
         "wk:page":"%C5%81opuchowo%2C_Bia%C5%82ystok_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"aed24772be40daf4b2e3ecfb02d19f52",
+    "wof:geomhash":"714a5251f4a83cb076607070ad52a536",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.67597,
     53.16804000000001
 ],
-  "geometry": {"coordinates":[22.67597,53.16804000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.67597,53.16804],"type":"Point"}
 }

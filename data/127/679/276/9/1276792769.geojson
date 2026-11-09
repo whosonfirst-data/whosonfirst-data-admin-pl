@@ -60,7 +60,7 @@
         "wk:page":"S%C5%82opanowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e342459878b7fd0dc8afd93b4cedfa02",
+    "wof:geomhash":"a8ec6735bef131946530ea26a534e843",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     16.53362000000001,
     52.68419
 ],
-  "geometry": {"coordinates":[16.53362000000001,52.68419],"type":"Point"}
+  "geometry": {"coordinates":[16.53362,52.68419],"type":"Point"}
 }

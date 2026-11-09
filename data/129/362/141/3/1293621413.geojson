@@ -55,7 +55,7 @@
         "wk:page":"Helen%C3%B3w_Pierwszy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8f25bffa8453144de2c6fc962ba66e2d",
+    "wof:geomhash":"95fac444eec1da59c2299f6e3737b67d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,5 +82,5 @@
     19.59154,
     52.39729000000001
 ],
-  "geometry": {"coordinates":[19.59154,52.39729000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.59154,52.39729],"type":"Point"}
 }

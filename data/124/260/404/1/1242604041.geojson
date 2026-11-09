@@ -54,7 +54,7 @@
         "wk:page":"Siedlice%2C_Opole_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"92d10c742e7957dade49b825cc1eba15",
+    "wof:geomhash":"19581ba846e8cf866c274f96d038abda",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.75408999999999,
     50.91834
 ],
-  "geometry": {"coordinates":[17.75408999999999,50.91834],"type":"Point"}
+  "geometry": {"coordinates":[17.75409,50.91834],"type":"Point"}
 }

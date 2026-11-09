@@ -51,7 +51,7 @@
         "wk:page":"Ponik%2C_Silesian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"75932291e51730045dc6aa30ce7fb2d3",
+    "wof:geomhash":"ce873453d80585ca15b9f83fc6319ca5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.43902000000001,
     50.72407000000001
 ],
-  "geometry": {"coordinates":[19.43902000000001,50.72407000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.43902,50.72407],"type":"Point"}
 }

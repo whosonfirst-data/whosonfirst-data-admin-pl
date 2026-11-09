@@ -66,7 +66,7 @@
         "wk:page":"Janczyce"
     },
     "wof:country":"PL",
-    "wof:geomhash":"99d85ffe49680dc2c795a7eae3178126",
+    "wof:geomhash":"ecccbbba68815567d17d0daa9c2e4979",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     21.23322000000001,
     50.76393
 ],
-  "geometry": {"coordinates":[21.23322000000001,50.76393],"type":"Point"}
+  "geometry": {"coordinates":[21.23322,50.76393],"type":"Point"}
 }

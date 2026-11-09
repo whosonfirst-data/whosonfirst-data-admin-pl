@@ -61,7 +61,7 @@
         "wk:page":"Przezmark%2C_Warmian-Masurian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"dcba8349c5fcdedf6e3177ebeb3aebfb",
+    "wof:geomhash":"45f798e09c48ec3b22dd8220769da4a7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     19.51667,
     54.13333000000001
 ],
-  "geometry": {"coordinates":[19.51667,54.13333000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.51667,54.13333],"type":"Point"}
 }

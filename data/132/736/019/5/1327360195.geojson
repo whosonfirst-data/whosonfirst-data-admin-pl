@@ -54,7 +54,7 @@
         "wk:page":"Strzelewo%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b44b4aabf46a7393b06719548c21f18a",
+    "wof:geomhash":"8dc006daa942ab0e46c5b2d3e42dac8b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.77548999999999,
     53.16528
 ],
-  "geometry": {"coordinates":[17.77548999999999,53.16528],"type":"Point"}
+  "geometry": {"coordinates":[17.77549,53.16528],"type":"Point"}
 }

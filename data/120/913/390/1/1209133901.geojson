@@ -48,7 +48,7 @@
         "wk:page":"Napromek"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3d259919ea422d4e4c219993f743fcb5",
+    "wof:geomhash":"2170d68959c25b2ff067786e52225e8e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     19.85711,
     53.50593000000001
 ],
-  "geometry": {"coordinates":[19.85711,53.50593000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.85711,53.50593],"type":"Point"}
 }

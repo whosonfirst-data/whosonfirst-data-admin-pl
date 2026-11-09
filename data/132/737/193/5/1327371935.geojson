@@ -51,7 +51,7 @@
         "wk:page":"Jamskie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"0c6f0bd9e5179d8a1ae29552fd7f3d46",
+    "wof:geomhash":"6ccdefc90c0b873be129cf62b8bf9b0e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.98782000000001,
     50.9015
 ],
-  "geometry": {"coordinates":[19.98782000000001,50.9015],"type":"Point"}
+  "geometry": {"coordinates":[19.98782,50.9015],"type":"Point"}
 }

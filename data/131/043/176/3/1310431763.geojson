@@ -57,7 +57,7 @@
         "wk:page":"Bajki-Zalesie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f3f9d7827b7ff43f6c97e6924eba9c97",
+    "wof:geomhash":"b4d5391d14bc8d44a7523c967c4a6ef5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.75262,
     53.29904000000001
 ],
-  "geometry": {"coordinates":[22.75262,53.29904000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.75262,53.29904],"type":"Point"}
 }

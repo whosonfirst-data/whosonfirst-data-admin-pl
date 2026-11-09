@@ -75,7 +75,7 @@
         "wk:page":"Dzikowice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d7467205b71a426462fb8212902b4221",
+    "wof:geomhash":"26e77fac0c86d541d036b1428944fd7f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,5 +102,5 @@
     15.59855,
     51.59934000000001
 ],
-  "geometry": {"coordinates":[15.59855,51.59934000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.59855,51.59934],"type":"Point"}
 }

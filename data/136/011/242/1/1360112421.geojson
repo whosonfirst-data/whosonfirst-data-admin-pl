@@ -57,7 +57,7 @@
         "wk:page":"Zapady"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7493ff8d31b7865bc80deb3e4ad8c0a3",
+    "wof:geomhash":"a56a1c8311b2ff933328f28f1246b9d6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     20.0764,
     51.89964000000001
 ],
-  "geometry": {"coordinates":[20.0764,51.89964000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.0764,51.89964],"type":"Point"}
 }

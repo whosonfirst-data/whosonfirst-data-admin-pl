@@ -51,7 +51,7 @@
         "wk:page":"Bierzyn%2C_Lower_Silesian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4de7fb9b60b67293c5ec2a03f569a1c2",
+    "wof:geomhash":"614ff7cc294b67b3e05503be01653d65",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.02084,
     50.81444000000001
 ],
-  "geometry": {"coordinates":[17.02084,50.81444000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.02084,50.81444],"type":"Point"}
 }

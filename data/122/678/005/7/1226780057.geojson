@@ -54,7 +54,7 @@
         "wk:page":"Kornelin%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f220ccb205421c15c0ecc9c2141a23f1",
+    "wof:geomhash":"2bb3b519702eaded5720ad9e7f502518",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.83252000000001,
     53.0201
 ],
-  "geometry": {"coordinates":[17.83252000000001,53.0201],"type":"Point"}
+  "geometry": {"coordinates":[17.83252,53.0201],"type":"Point"}
 }

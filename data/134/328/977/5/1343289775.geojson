@@ -54,7 +54,7 @@
         "wk:page":"%C5%81azieniec"
     },
     "wof:country":"PL",
-    "wof:geomhash":"59327fbe4d0382711f95c95a2c198056",
+    "wof:geomhash":"d4b3af501d14c38aeb4591f9e970c78b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.71641,
     52.87224000000001
 ],
-  "geometry": {"coordinates":[18.71641,52.87224000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.71641,52.87224],"type":"Point"}
 }

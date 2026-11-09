@@ -69,7 +69,7 @@
         "wk:page":"Ba%C5%84ki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"897994bf5bcc2545b9df065b9424ce40",
+    "wof:geomhash":"b4f591ccb304dc799e3229726c54a4d1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     23.12529,
     52.81894000000001
 ],
-  "geometry": {"coordinates":[23.12529,52.81894000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.12529,52.81894],"type":"Point"}
 }

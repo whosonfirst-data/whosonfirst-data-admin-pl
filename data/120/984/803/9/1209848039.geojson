@@ -51,7 +51,7 @@
         "wk:page":"%C5%BBydomice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9c2f07d07601bbb643733435bb9e97ca",
+    "wof:geomhash":"656dd5892bb65a3386f295d96b560984",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     20.27165,
     51.79349000000001
 ],
-  "geometry": {"coordinates":[20.27165,51.79349000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.27165,51.79349],"type":"Point"}
 }

@@ -56,7 +56,7 @@
         "wk:page":"%C5%81ab%C4%99dziewo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4e234ae5422413899b9a322c1881fd14",
+    "wof:geomhash":"ef1dc89796a3cf1045fc1bc36cfbcc4f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,5 +83,5 @@
     21.18458,
     53.99438000000001
 ],
-  "geometry": {"coordinates":[21.18458,53.99438000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.18458,53.99438],"type":"Point"}
 }

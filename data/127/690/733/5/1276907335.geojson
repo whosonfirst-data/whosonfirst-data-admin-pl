@@ -54,7 +54,7 @@
         "wk:page":"Bielany%2C_Pu%C5%82tusk_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"17e36b297c77ae956c90d3381b2385a0",
+    "wof:geomhash":"f02f034659289ab1462eb63147cc55b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.89205,
     52.67466999999999
 ],
-  "geometry": {"coordinates":[20.89205,52.67466999999999],"type":"Point"}
+  "geometry": {"coordinates":[20.89205,52.67467],"type":"Point"}
 }

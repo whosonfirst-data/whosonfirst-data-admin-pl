@@ -54,7 +54,7 @@
         "wk:page":"Ko%C5%82aki-Strumienie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e64402b904acbc0ffe6d7ca131509482",
+    "wof:geomhash":"7c34e4582c1333aff830e684f2040dc6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.08235,
     53.30318000000001
 ],
-  "geometry": {"coordinates":[22.08235,53.30318000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.08235,53.30318],"type":"Point"}
 }

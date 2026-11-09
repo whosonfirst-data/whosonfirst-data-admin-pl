@@ -57,7 +57,7 @@
         "wk:page":"Tajenko"
     },
     "wof:country":"PL",
-    "wof:geomhash":"00aa359a861e092f2b95ccb70b03526d",
+    "wof:geomhash":"f36fc72a48ace59c260e484a92f197db",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.86481,
     53.69968000000001
 ],
-  "geometry": {"coordinates":[22.86481,53.69968000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.86481,53.69968],"type":"Point"}
 }

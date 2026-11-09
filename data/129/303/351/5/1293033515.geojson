@@ -54,7 +54,7 @@
         "wk:page":"Gontarze"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8e63b54114e7ed1135c9416862b9195f",
+    "wof:geomhash":"a354cd413efb2ff3dd22374779832179",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.72718,
     53.18598000000001
 ],
-  "geometry": {"coordinates":[21.72718,53.18598000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.72718,53.18598],"type":"Point"}
 }

@@ -60,7 +60,7 @@
         "wk:page":"Rostkowice%2C_Opole_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"451c53e927290fc48f111e7bfc58b6bb",
+    "wof:geomhash":"cc89376a314bedcce8be28ab9ff3d62d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     17.74206000000001,
     50.38236
 ],
-  "geometry": {"coordinates":[17.74206000000001,50.38236],"type":"Point"}
+  "geometry": {"coordinates":[17.74206,50.38236],"type":"Point"}
 }

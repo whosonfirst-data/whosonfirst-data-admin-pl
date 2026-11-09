@@ -54,7 +54,7 @@
         "wk:page":"R%C5%BCaniec"
     },
     "wof:country":"PL",
-    "wof:geomhash":"db41c3f1aba83ab7f4215e86681e5324",
+    "wof:geomhash":"b26252ccd52c04e5d27247eab09746e7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.31714,
     53.09229000000001
 ],
-  "geometry": {"coordinates":[21.31714,53.09229000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.31714,53.09229],"type":"Point"}
 }

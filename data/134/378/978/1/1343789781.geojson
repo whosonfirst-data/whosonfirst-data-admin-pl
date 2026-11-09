@@ -57,7 +57,7 @@
         "wk:page":"Walewice%2C_Lubusz_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"13a90d4163fc76dbb5b7237031ed6e1a",
+    "wof:geomhash":"5e82a47ac581ecd803995f507d23e131",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     15.1766,
     52.33714000000001
 ],
-  "geometry": {"coordinates":[15.1766,52.33714000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.1766,52.33714],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"Paplin%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"944a67f6d59956831bf79690984e203b",
+    "wof:geomhash":"44047b058af328192161e3fa93d966c0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.87722,
     52.47136999999999
 ],
-  "geometry": {"coordinates":[21.87722,52.47136999999999],"type":"Point"}
+  "geometry": {"coordinates":[21.87722,52.47137],"type":"Point"}
 }

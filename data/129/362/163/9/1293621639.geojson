@@ -51,7 +51,7 @@
         "wk:page":"Pomierki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ee3b36bc670cf566e2102f0405b569dd",
+    "wof:geomhash":"d3fbbfb8c130f02928df87631fefb4e4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.79686,
     53.58971999999999
 ],
-  "geometry": {"coordinates":[19.79686,53.58971999999999],"type":"Point"}
+  "geometry": {"coordinates":[19.79686,53.58972],"type":"Point"}
 }

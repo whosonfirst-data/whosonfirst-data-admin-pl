@@ -60,7 +60,7 @@
         "wk:page":"Che%C5%82chy%2C_Podlaskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"13dc46f397c479a5d0290865bd2341c6",
+    "wof:geomhash":"0def9506c0fa6a4b43555e24ee255224",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     22.14287,
     53.52238000000001
 ],
-  "geometry": {"coordinates":[22.14287,53.52238000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.14287,53.52238],"type":"Point"}
 }

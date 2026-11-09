@@ -54,7 +54,7 @@
         "wk:page":"Charzyny"
     },
     "wof:country":"PL",
-    "wof:geomhash":"acb2a78df6fc9b0acd49ed49a325b7f6",
+    "wof:geomhash":"032e5017c10e08271f3d20089951bc2a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.18333,
     52.86666999999999
 ],
-  "geometry": {"coordinates":[20.18333,52.86666999999999],"type":"Point"}
+  "geometry": {"coordinates":[20.18333,52.86667],"type":"Point"}
 }

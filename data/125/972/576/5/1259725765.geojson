@@ -57,7 +57,7 @@
         "wk:page":"Przyjmo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"526a3009bca9b94803927ccd7cbcfe3f",
+    "wof:geomhash":"47cb20a26d3a53981d87951660e585cd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     20.51444,
     50.98099000000001
 ],
-  "geometry": {"coordinates":[20.51444,50.98099000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.51444,50.98099],"type":"Point"}
 }

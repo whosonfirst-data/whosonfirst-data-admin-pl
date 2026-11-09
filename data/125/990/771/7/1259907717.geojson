@@ -51,7 +51,7 @@
         "wk:page":"Szypowice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1b90e101134280117104ecdabbf02b28",
+    "wof:geomhash":"eeee39bcbe4071aaea00c7e7bd62d777",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.62192000000001,
     50.51454
 ],
-  "geometry": {"coordinates":[19.62192000000001,50.51454],"type":"Point"}
+  "geometry": {"coordinates":[19.62192,50.51454],"type":"Point"}
 }

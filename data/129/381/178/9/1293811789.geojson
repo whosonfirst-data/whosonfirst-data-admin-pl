@@ -51,7 +51,7 @@
         "wk:page":"Zdonia"
     },
     "wof:country":"PL",
-    "wof:geomhash":"218ea42ec1229f8e80bf5e23a3a917a0",
+    "wof:geomhash":"eb18ffaa75348c9ca2f07ed0eddbe0f2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     20.79287,
     49.83499000000001
 ],
-  "geometry": {"coordinates":[20.79287,49.83499000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.79287,49.83499],"type":"Point"}
 }

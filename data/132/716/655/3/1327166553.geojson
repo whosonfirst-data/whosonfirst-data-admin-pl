@@ -57,7 +57,7 @@
         "wk:page":"Biele%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e2c78b700a1ab24cdc5aaf2f50cae499",
+    "wof:geomhash":"52f07b09205086112f8f2c2029c87f73",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     20.46441,
     52.67126999999999
 ],
-  "geometry": {"coordinates":[20.46441,52.67126999999999],"type":"Point"}
+  "geometry": {"coordinates":[20.46441,52.67127],"type":"Point"}
 }

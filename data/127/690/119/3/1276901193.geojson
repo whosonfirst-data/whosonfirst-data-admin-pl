@@ -63,7 +63,7 @@
         "wk:page":"Annapol"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c4bb45a0f95e1c98ec8dcc0783436b5d",
+    "wof:geomhash":"4974f0fefb41a0734a95e4fa186ca379",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     17.52817000000001,
     51.98932
 ],
-  "geometry": {"coordinates":[17.52817000000001,51.98932],"type":"Point"}
+  "geometry": {"coordinates":[17.52817,51.98932],"type":"Point"}
 }

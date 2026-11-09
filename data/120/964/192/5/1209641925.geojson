@@ -54,7 +54,7 @@
         "wk:page":"Zakrzewo_Wielkie%2C_M%C5%82awa_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5f9f9498b8e41d1c36e97688266abc36",
+    "wof:geomhash":"82f4181e6249db6b4c7d33f957f26a5f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.52607,
     53.20614000000001
 ],
-  "geometry": {"coordinates":[20.52607,53.20614000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.52607,53.20614],"type":"Point"}
 }

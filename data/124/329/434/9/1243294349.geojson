@@ -54,7 +54,7 @@
         "wk:page":"Suleje"
     },
     "wof:country":"PL",
-    "wof:geomhash":"74a18874723658e5367ca9d4ff5e19f5",
+    "wof:geomhash":"32117894b48cbd863c6924820054a95d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.43367000000001,
     51.96111
 ],
-  "geometry": {"coordinates":[22.43367000000001,51.96111],"type":"Point"}
+  "geometry": {"coordinates":[22.43367,51.96111],"type":"Point"}
 }

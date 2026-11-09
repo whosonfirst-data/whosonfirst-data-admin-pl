@@ -63,7 +63,7 @@
         "wk:page":"Droszew"
     },
     "wof:country":"PL",
-    "wof:geomhash":"bf651054aaafc7875a21e4c53fdc2d72",
+    "wof:geomhash":"e6dba599ef5d617a917dbcf4e30c4e24",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     17.93200000000001,
     51.75609
 ],
-  "geometry": {"coordinates":[17.93200000000001,51.75609],"type":"Point"}
+  "geometry": {"coordinates":[17.932,51.75609],"type":"Point"}
 }

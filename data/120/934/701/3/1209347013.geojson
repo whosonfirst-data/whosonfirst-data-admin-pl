@@ -69,7 +69,7 @@
         "wk:page":"Le%C5%9Bni%C3%B3w_Wielki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"78f31a0933abc9f5192f66ea24b1f791",
+    "wof:geomhash":"6b64ebb7d32cfca35be8290fae2abcc0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     15.31061,
     51.98569000000001
 ],
-  "geometry": {"coordinates":[15.31061,51.98569000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.31061,51.98569],"type":"Point"}
 }

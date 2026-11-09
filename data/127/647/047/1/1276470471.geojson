@@ -54,7 +54,7 @@
         "wk:page":"Podwody-Kolonia"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4d25565733e31d2b2c9bbe7f6f8bdaef",
+    "wof:geomhash":"44980852192b2072299b70647621e67d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.28992,
     51.42809000000001
 ],
-  "geometry": {"coordinates":[19.28992,51.42809000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.28992,51.42809],"type":"Point"}
 }

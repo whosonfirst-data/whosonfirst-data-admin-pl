@@ -57,7 +57,7 @@
         "wk:page":"Gr%C3%B3dczany"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5fd4adaf82b6f05d2c244bfec91bbeab",
+    "wof:geomhash":"144187d9d0cdf61ebcc58345fe991013",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     17.87287000000001,
     50.02991
 ],
-  "geometry": {"coordinates":[17.87287000000001,50.02991],"type":"Point"}
+  "geometry": {"coordinates":[17.87287,50.02991],"type":"Point"}
 }

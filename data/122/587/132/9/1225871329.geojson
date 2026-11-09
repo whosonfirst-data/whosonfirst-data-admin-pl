@@ -54,7 +54,7 @@
         "wk:page":"Nowa_Otocznia"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4267a5ee416bb3d8db444de05f2f64e9",
+    "wof:geomhash":"8a6459a0eb5b681923039de300c9c0e9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.39615,
     53.09206999999999
 ],
-  "geometry": {"coordinates":[20.39615,53.09206999999999],"type":"Point"}
+  "geometry": {"coordinates":[20.39615,53.09207],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Powielin"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ba85acceca31beca104e6fc77c9011ca",
+    "wof:geomhash":"7b87f1379baa5d4c21e9af62c2737b9c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.96089,
     52.55963000000001
 ],
-  "geometry": {"coordinates":[20.96089,52.55963000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.96089,52.55963],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"Kazimier%C3%B3wka%2C_Tomasz%C3%B3w_Lubelski_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"db834401332accdddfca0e9e6d267995",
+    "wof:geomhash":"f4b429e4d361922e8badcc36ed0b02b6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     23.64342000000001,
     50.6749
 ],
-  "geometry": {"coordinates":[23.64342000000001,50.6749],"type":"Point"}
+  "geometry": {"coordinates":[23.64342,50.6749],"type":"Point"}
 }

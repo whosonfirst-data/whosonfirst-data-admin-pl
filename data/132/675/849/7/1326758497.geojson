@@ -70,7 +70,7 @@
         "wk:page":"Bart%C4%85g"
     },
     "wof:country":"PL",
-    "wof:geomhash":"958fc6bd7eedbd074c4c20ad32987164",
+    "wof:geomhash":"edbeb7da8b06dd4cb4147b80e01a1971",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,5 +97,5 @@
     20.4692,
     53.71568000000001
 ],
-  "geometry": {"coordinates":[20.4692,53.71568000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.4692,53.71568],"type":"Point"}
 }

@@ -48,7 +48,7 @@
         "wk:page":"Morzyca%2C_Stargard_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a07e1f894daacc816f24b6bbf8fd96c3",
+    "wof:geomhash":"6e8dcf47fc7aefaba0df9953e3dd0c19",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     15.14623,
     53.21038000000001
 ],
-  "geometry": {"coordinates":[15.14623,53.21038000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.14623,53.21038],"type":"Point"}
 }

@@ -60,7 +60,7 @@
         "wk:page":"%C5%BBabowo%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"941299352e43f5eff5f6f3ae5f76794f",
+    "wof:geomhash":"09a7d9fb6cb564db564a1a78de678f30",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     19.91014,
     52.82366999999999
 ],
-  "geometry": {"coordinates":[19.91014,52.82366999999999],"type":"Point"}
+  "geometry": {"coordinates":[19.91014,52.82367],"type":"Point"}
 }

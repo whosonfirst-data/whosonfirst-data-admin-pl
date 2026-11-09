@@ -57,7 +57,7 @@
         "wk:page":"Dalewo%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"07778953ecfe66b2cc284fe028f7b8c0",
+    "wof:geomhash":"ce374cf85c1440b5dde846f43e141034",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     16.91781,
     52.02334000000001
 ],
-  "geometry": {"coordinates":[16.91781,52.02334000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.91781,52.02334],"type":"Point"}
 }

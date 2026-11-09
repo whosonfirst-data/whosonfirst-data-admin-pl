@@ -54,7 +54,7 @@
         "wk:page":"Zaj%C4%85czki%2C_Podlaskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7003c82645b9fe48ed78dc586af24517",
+    "wof:geomhash":"ac7a1d86490216897a40ecee80fc43d5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     23.18186,
     52.91948000000001
 ],
-  "geometry": {"coordinates":[23.18186,52.91948000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.18186,52.91948],"type":"Point"}
 }

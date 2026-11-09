@@ -54,7 +54,7 @@
         "wk:page":"Stobnicko"
     },
     "wof:country":"PL",
-    "wof:geomhash":"43d342b9efc4f126928fe1268e17620c",
+    "wof:geomhash":"a8a63de4abe5f8551beaeafcc85d1014",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     16.56958,
     52.71723000000001
 ],
-  "geometry": {"coordinates":[16.56958,52.71723000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.56958,52.71723],"type":"Point"}
 }

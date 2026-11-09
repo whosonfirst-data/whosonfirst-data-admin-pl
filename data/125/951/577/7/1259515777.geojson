@@ -54,7 +54,7 @@
         "wk:page":"Grupa%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"43570bb6391e175bf496bdb852cc447e",
+    "wof:geomhash":"a4d8056cfd00167418213063e1a607b3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.63577,
     53.50763000000001
 ],
-  "geometry": {"coordinates":[18.63577,53.50763000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.63577,53.50763],"type":"Point"}
 }

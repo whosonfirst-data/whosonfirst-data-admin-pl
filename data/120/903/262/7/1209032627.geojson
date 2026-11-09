@@ -52,7 +52,7 @@
         "wk:page":"Nipkowie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"18877972420630a7b5a8dfd2a5a2c5ab",
+    "wof:geomhash":"8cbedf8715e38a9c1ccfc2989014afe5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,5 +79,5 @@
     19.31345,
     53.71093000000001
 ],
-  "geometry": {"coordinates":[19.31345,53.71093000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.31345,53.71093],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Paw%C5%82owo%2C_Ciechan%C3%B3w_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"69de902fee7f261e5231381fc4a4b7aa",
+    "wof:geomhash":"fb52aed461ee4d6638c3366822ad4cab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.52592000000001,
     52.91911
 ],
-  "geometry": {"coordinates":[20.52592000000001,52.91911],"type":"Point"}
+  "geometry": {"coordinates":[20.52592,52.91911],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Budy%2C_Warmian-Masurian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8fe69e84fc7153ea38ad8f56b8de4bb2",
+    "wof:geomhash":"6a762bcab435a6b68678c9a5321e2e8e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.90892,
     53.69246999999999
 ],
-  "geometry": {"coordinates":[20.90892,53.69246999999999],"type":"Point"}
+  "geometry": {"coordinates":[20.90892,53.69247],"type":"Point"}
 }

@@ -63,7 +63,7 @@
         "wk:page":"Sowczyce"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7ceb7978a7006261a161059d89f7473b",
+    "wof:geomhash":"0705545df1dbff0fbefcfa7d10cec6f9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     18.49842,
     50.84399000000001
 ],
-  "geometry": {"coordinates":[18.49842,50.84399000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.49842,50.84399],"type":"Point"}
 }

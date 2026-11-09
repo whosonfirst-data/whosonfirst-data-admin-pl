@@ -66,7 +66,7 @@
         "wk:page":"Okliny"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6b667eaf7c09a7ad4d1f8f519509980e",
+    "wof:geomhash":"d00f63149dad1dc5f495aa78b3fbf679",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     22.82084,
     54.32403000000001
 ],
-  "geometry": {"coordinates":[22.82084,54.32403000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.82084,54.32403],"type":"Point"}
 }

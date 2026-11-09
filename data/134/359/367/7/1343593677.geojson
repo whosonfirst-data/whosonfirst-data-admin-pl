@@ -54,7 +54,7 @@
         "wk:page":"Klementyn%C3%B3w%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"25489428871797982146e141718eebad",
+    "wof:geomhash":"d9892ec099253e229b1bae1dc479cf28",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.25612000000001,
     51.61969000000001
 ],
-  "geometry": {"coordinates":[21.25612000000001,51.61969000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.25612,51.61969],"type":"Point"}
 }

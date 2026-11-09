@@ -49,7 +49,7 @@
         "wk:page":"Bartodzieje_Ma%C5%82e"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3a98c2e8ac08a978f7109414cec9a34d",
+    "wof:geomhash":"5baf1d2970a5de4ec4dde3e9943a176b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,5 +79,5 @@
     18.05,
     53.11666999999999
 ],
-  "geometry": {"coordinates":[18.05,53.11666999999999],"type":"Point"}
+  "geometry": {"coordinates":[18.05,53.11667],"type":"Point"}
 }

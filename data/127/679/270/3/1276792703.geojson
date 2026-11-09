@@ -54,7 +54,7 @@
         "wk:page":"Sokole%2C_Podlaskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"476521d55dd1d9d58b14265a68522b59",
+    "wof:geomhash":"ab4028f975770a220c2cf71f84f96896",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     23.51395,
     53.08553000000001
 ],
-  "geometry": {"coordinates":[23.51395,53.08553000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.51395,53.08553],"type":"Point"}
 }

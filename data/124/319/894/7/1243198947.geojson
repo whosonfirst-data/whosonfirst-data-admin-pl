@@ -54,7 +54,7 @@
         "wk:page":"Le%C5%9Bniewo%2C_Mak%C3%B3w_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"bad60416858fc08f0b9330b6508ba1a9",
+    "wof:geomhash":"bc4afa3da5f965989f24d6780fa1c620",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.94008,
     52.85548000000001
 ],
-  "geometry": {"coordinates":[20.94008,52.85548000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.94008,52.85548],"type":"Point"}
 }

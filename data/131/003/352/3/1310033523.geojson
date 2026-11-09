@@ -54,7 +54,7 @@
         "wk:page":"Pijawne_Polskie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4789412ef191ba5573b379c0dc4961b6",
+    "wof:geomhash":"6e9af1ca04479eea7229dfc3ce6b9a4a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.92412,
     53.99554000000001
 ],
-  "geometry": {"coordinates":[22.92412,53.99554000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.92412,53.99554],"type":"Point"}
 }

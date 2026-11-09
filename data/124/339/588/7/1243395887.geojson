@@ -75,7 +75,7 @@
         "wk:page":"Marcinkowo%2C_Mr%C4%85gowo_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5c21d3bcb7c5829fb00a249b3e7fc862",
+    "wof:geomhash":"1c033d978d9e0b3f9146594a39244967",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,5 +102,5 @@
     21.27082,
     53.85919000000001
 ],
-  "geometry": {"coordinates":[21.27082,53.85919000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.27082,53.85919],"type":"Point"}
 }

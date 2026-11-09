@@ -66,7 +66,7 @@
         "wk:page":"Czerwieniec%2C_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"df3d8f399a0087deb31fbe59c879fa92",
+    "wof:geomhash":"8b9c7a314405570dcd7283df02bc4f9b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     17.55642000000001,
     54.51703000000001
 ],
-  "geometry": {"coordinates":[17.55642000000001,54.51703000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.55642,54.51703],"type":"Point"}
 }

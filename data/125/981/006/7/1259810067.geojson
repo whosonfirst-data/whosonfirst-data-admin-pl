@@ -75,7 +75,7 @@
         "wk:page":"Gardna_Wielka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"742135f153999b8b5b429249c96517f2",
+    "wof:geomhash":"6d5c1c08c92c71a53c8e6621cb334e22",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,5 +102,5 @@
     17.16982999999999,
     54.6392
 ],
-  "geometry": {"coordinates":[17.16982999999999,54.6392],"type":"Point"}
+  "geometry": {"coordinates":[17.16983,54.6392],"type":"Point"}
 }

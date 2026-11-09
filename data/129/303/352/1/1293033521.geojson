@@ -51,7 +51,7 @@
         "wk:page":"Tar%C5%82awki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ab0464554d905edf6bc9b63f1ce27a66",
+    "wof:geomhash":"1f5fa4b77a56064595e63e6c9a16353c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     21.60639,
     54.16538000000001
 ],
-  "geometry": {"coordinates":[21.60639,54.16538000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.60639,54.16538],"type":"Point"}
 }

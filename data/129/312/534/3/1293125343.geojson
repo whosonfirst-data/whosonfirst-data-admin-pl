@@ -75,7 +75,7 @@
         "wk:page":"Tanowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"142f0db0c278fa30dcc035837dda4f39",
+    "wof:geomhash":"049a4681f58447a3fc9d97479e0b7474",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,5 +102,5 @@
     14.46642,
     53.53908000000001
 ],
-  "geometry": {"coordinates":[14.46642,53.53908000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.46642,53.53908],"type":"Point"}
 }

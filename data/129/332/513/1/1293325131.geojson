@@ -54,7 +54,7 @@
         "wk:page":"Masz%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"650e9dc22827b9ce4b9efc417d9a57ec",
+    "wof:geomhash":"84993d9de1c19efb3b11a7bc736aa4d5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     23.00773,
     50.85827000000001
 ],
-  "geometry": {"coordinates":[23.00773,50.85827000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.00773,50.85827],"type":"Point"}
 }

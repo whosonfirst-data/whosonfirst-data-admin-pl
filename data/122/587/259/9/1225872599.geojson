@@ -51,7 +51,7 @@
         "wk:page":"G%C3%B3rzec"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8f01a6ae10a95094b69197271db48a94",
+    "wof:geomhash":"37690c6172c6964b0ac281afb39fd369",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.07548,
     50.81097000000001
 ],
-  "geometry": {"coordinates":[17.07548,50.81097000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.07548,50.81097],"type":"Point"}
 }

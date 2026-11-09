@@ -60,7 +60,7 @@
         "wk:page":"Mojuszewska_Huta"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5d12285fba3114da37d4f5024a7cd7dd",
+    "wof:geomhash":"ee9b16200649b5c7d0ded976fd960da1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     17.96787999999999,
     54.32933000000001
 ],
-  "geometry": {"coordinates":[17.96787999999999,54.32933000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.96788,54.32933],"type":"Point"}
 }

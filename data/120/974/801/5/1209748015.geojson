@@ -54,7 +54,7 @@
         "wk:page":"Piasek%2C_Lubliniec_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"515a0be76e3722fdca96eb0e83a275b9",
+    "wof:geomhash":"f067478597af40ee27836e799b35563a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.97037000000001,
     50.59537
 ],
-  "geometry": {"coordinates":[18.97037000000001,50.59537],"type":"Point"}
+  "geometry": {"coordinates":[18.97037,50.59537],"type":"Point"}
 }

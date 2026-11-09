@@ -54,7 +54,7 @@
         "wk:page":"Szczecno"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e97bc7982d6be56fe76e3e14ce8b5d84",
+    "wof:geomhash":"32aff0e1535c4a5cb10eaccb9bb83749",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.78352000000001,
     50.73048
 ],
-  "geometry": {"coordinates":[20.78352000000001,50.73048],"type":"Point"}
+  "geometry": {"coordinates":[20.78352,50.73048],"type":"Point"}
 }

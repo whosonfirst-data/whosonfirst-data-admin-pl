@@ -54,7 +54,7 @@
         "wk:page":"Brzust%C3%B3wek"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f56962ce7f548d89a3e1d5e262805f94",
+    "wof:geomhash":"50ff484615a4927878cd07a431b83ecf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.22336,
     51.41549000000001
 ],
-  "geometry": {"coordinates":[20.22336,51.41549000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.22336,51.41549],"type":"Point"}
 }

@@ -69,7 +69,7 @@
         "wk:page":"Bez%C5%82awki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"efd676d0aebc99f15785a53659ad8642",
+    "wof:geomhash":"1501207845eebc8b7186cc3c5b15d0cb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     21.26938,
     54.01694000000001
 ],
-  "geometry": {"coordinates":[21.26938,54.01694000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.26938,54.01694],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"Drzewce%2C_Lubusz_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6f7d43527cedcf7fe22b78e7841797a7",
+    "wof:geomhash":"d118f34b6cc56271c2feeb17b8bc3663",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     15.10621,
     52.23974000000001
 ],
-  "geometry": {"coordinates":[15.10621,52.23974000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.10621,52.23974],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"Tr%C4%99bki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d3882745f977f61016c2b3a61b260dc4",
+    "wof:geomhash":"6e330c2a847afae24c275ccbdc47d205",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     19.53678,
     52.32044000000001
 ],
-  "geometry": {"coordinates":[19.53678,52.32044000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.53678,52.32044],"type":"Point"}
 }

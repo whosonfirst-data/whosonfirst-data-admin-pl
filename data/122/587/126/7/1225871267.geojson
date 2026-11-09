@@ -48,7 +48,7 @@
         "wk:page":"Podjaworek"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a7c0a8b835b420b88c4ade685bf25533",
+    "wof:geomhash":"4954e36939cab7218fc464bfc0267e18",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     18.27675,
     51.22942000000001
 ],
-  "geometry": {"coordinates":[18.27675,51.22942000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.27675,51.22942],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Sokolnik%2C_Warmian-Masurian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d12f61c5a5bb0ba50cec4546a91238e4",
+    "wof:geomhash":"62912e0c93bbeb78c4672adea56c6744",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.6401,
     54.18658000000001
 ],
-  "geometry": {"coordinates":[19.6401,54.18658000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.6401,54.18658],"type":"Point"}
 }

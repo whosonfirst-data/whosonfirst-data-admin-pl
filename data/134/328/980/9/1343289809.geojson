@@ -54,7 +54,7 @@
         "wk:page":"W%C3%B3lka_Grochowa"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b903ec166dde6ee087956e4d62ca4a99",
+    "wof:geomhash":"91d03652567c0b2ad152c89e79031981",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.59655,
     52.79819000000001
 ],
-  "geometry": {"coordinates":[21.59655,52.79819000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.59655,52.79819],"type":"Point"}
 }

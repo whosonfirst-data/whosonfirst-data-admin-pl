@@ -54,7 +54,7 @@
         "wk:page":"Brze%C5%BAnica_Ksi%C4%85%C5%BC%C4%99ca"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5157102045b042454fb8e0d7aa7e603f",
+    "wof:geomhash":"15fb27cc4e5f260b10b6478340421579",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.74402000000001,
     51.55893
 ],
-  "geometry": {"coordinates":[22.74402000000001,51.55893],"type":"Point"}
+  "geometry": {"coordinates":[22.74402,51.55893],"type":"Point"}
 }

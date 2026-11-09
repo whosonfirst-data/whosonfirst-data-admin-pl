@@ -51,7 +51,7 @@
         "wk:page":"Niwy%2C_Lubusz_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5a9c546f85026b63a10ab133c50aeeec",
+    "wof:geomhash":"7bfb3b9332c5a0c8c300f7aba7018801",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     15.66805,
     52.94221999999999
 ],
-  "geometry": {"coordinates":[15.66805,52.94221999999999],"type":"Point"}
+  "geometry": {"coordinates":[15.66805,52.94222],"type":"Point"}
 }

@@ -63,7 +63,7 @@
         "wk:page":"Trzcianka%2C_%C5%81%C3%B3d%C5%BA_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4edbd3102d31960eb3603072e84c0166",
+    "wof:geomhash":"2f7e33166a3cf17252495b564730bdc9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     19.85642,
     51.93494000000001
 ],
-  "geometry": {"coordinates":[19.85642,51.93494000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.85642,51.93494],"type":"Point"}
 }

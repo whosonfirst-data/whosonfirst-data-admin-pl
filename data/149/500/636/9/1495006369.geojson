@@ -52,7 +52,7 @@
         "wk:page":"P%C3%B3%C5%82noc%2C_Szczecin"
     },
     "wof:country":"PL",
-    "wof:geomhash":"aa268238eeea5cc95106373e514fcb05",
+    "wof:geomhash":"0b32becaebee4de696a6efe7e47cbb60",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,5 +82,5 @@
     14.57612,
     53.47669000000001
 ],
-  "geometry": {"coordinates":[14.57612,53.47669000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.57612,53.47669],"type":"Point"}
 }

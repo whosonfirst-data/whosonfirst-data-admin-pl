@@ -51,7 +51,7 @@
         "wk:page":"Bachotek"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1891a49c163588392980bbc74da829e3",
+    "wof:geomhash":"23c885f3b55cc09862a3cd7a370978d6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.45742000000001,
     53.31216
 ],
-  "geometry": {"coordinates":[19.45742000000001,53.31216],"type":"Point"}
+  "geometry": {"coordinates":[19.45742,53.31216],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Mokrzesz"
     },
     "wof:country":"PL",
-    "wof:geomhash":"34b674b06c7ac27e47f4b6bd7d9eb353",
+    "wof:geomhash":"6e49d192a7228be2f48b689acfa2613e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.39492000000001,
     50.81247000000001
 ],
-  "geometry": {"coordinates":[19.39492000000001,50.81247000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.39492,50.81247],"type":"Point"}
 }

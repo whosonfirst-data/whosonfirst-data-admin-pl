@@ -66,7 +66,7 @@
         "wk:page":"%C5%81omczewo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"bad0d3b216b513dbac53c85216ef612c",
+    "wof:geomhash":"288e0f02616bd073ac9493e89cf6ae8a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     16.89279,
     53.55768000000001
 ],
-  "geometry": {"coordinates":[16.89279,53.55768000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.89279,53.55768],"type":"Point"}
 }

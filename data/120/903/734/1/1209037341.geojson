@@ -54,7 +54,7 @@
         "wk:page":"Taraska"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6b4f2826333f504370be78401bf78a87",
+    "wof:geomhash":"ebbbe8fd1a53d9a6cea2733829bef331",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.92758,
     51.32089000000001
 ],
-  "geometry": {"coordinates":[19.92758,51.32089000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.92758,51.32089],"type":"Point"}
 }

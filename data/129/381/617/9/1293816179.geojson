@@ -57,7 +57,7 @@
         "wk:page":"W%C3%B3lka_Wygonowska"
     },
     "wof:country":"PL",
-    "wof:geomhash":"422eead96afbcab75bb0e0a68725c4ab",
+    "wof:geomhash":"ad9752fa3aa881177c2c5c88a1d38e02",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     23.24581,
     52.62439000000001
 ],
-  "geometry": {"coordinates":[23.24581,52.62439000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.24581,52.62439],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Julinki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8ece51ed55037761f7290e2a58428009",
+    "wof:geomhash":"80ea3419eafd198cb0af352b7204bb18",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.32963,
     52.17684000000001
 ],
-  "geometry": {"coordinates":[19.32963,52.17684000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.32963,52.17684],"type":"Point"}
 }

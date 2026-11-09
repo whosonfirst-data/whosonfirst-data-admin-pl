@@ -57,7 +57,7 @@
         "wk:page":"Zgorza%C5%82e"
     },
     "wof:country":"PL",
-    "wof:geomhash":"67222abe4a594b4baec1b38961e9eef7",
+    "wof:geomhash":"7a65b2e433ac7a8b0889ae02142212d7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     17.98576,
     54.23648000000001
 ],
-  "geometry": {"coordinates":[17.98576,54.23648000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.98576,54.23648],"type":"Point"}
 }

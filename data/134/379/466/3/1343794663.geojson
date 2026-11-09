@@ -66,7 +66,7 @@
         "wk:page":"Kuty%C5%82owo-Perysie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"eb6c9a46d957bc13f234f03b044a667c",
+    "wof:geomhash":"a3ddd56bae67967991b69a09b28fc774",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     22.43168,
     52.76300000000001
 ],
-  "geometry": {"coordinates":[22.43168,52.76300000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.43168,52.763],"type":"Point"}
 }

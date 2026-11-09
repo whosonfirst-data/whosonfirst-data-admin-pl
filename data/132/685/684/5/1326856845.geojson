@@ -57,7 +57,7 @@
         "wk:page":"Karczewiec%2C_Warmian-Masurian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"55082b9e400ec4b381488184e6e0e064",
+    "wof:geomhash":"b9f00bb2faced5be53881c560fa2a8e6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.16013,
     53.76473000000001
 ],
-  "geometry": {"coordinates":[21.16013,53.76473000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.16013,53.76473],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Nowe_Stoj%C5%82o"
     },
     "wof:country":"PL",
-    "wof:geomhash":"07d1ce0173ad1618c1986f728ccca6e6",
+    "wof:geomhash":"da9c5ea96a59c7020249f58ca9ab7679",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     23.1764,
     53.52056999999999
 ],
-  "geometry": {"coordinates":[23.1764,53.52056999999999],"type":"Point"}
+  "geometry": {"coordinates":[23.1764,53.52057],"type":"Point"}
 }

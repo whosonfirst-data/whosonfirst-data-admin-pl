@@ -54,7 +54,7 @@
         "wk:page":"Krasna_G%C3%B3ra"
     },
     "wof:country":"PL",
-    "wof:geomhash":"afa5ddbe8ae5d2fee129ccfb5b256414",
+    "wof:geomhash":"74e768b33a2f540a785ff6f36dd19d7a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.48688,
     50.63182000000001
 ],
-  "geometry": {"coordinates":[17.48688,50.63182000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.48688,50.63182],"type":"Point"}
 }

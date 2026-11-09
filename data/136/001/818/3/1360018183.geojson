@@ -54,7 +54,7 @@
         "wk:page":"Wi%C4%99c%C5%82awice%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"0648ce0a5d6ae04c91eba6bc7b334659",
+    "wof:geomhash":"91aa071ef837c7eb884c02d4395d9659",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.42692000000001,
     52.6291
 ],
-  "geometry": {"coordinates":[19.42692000000001,52.6291],"type":"Point"}
+  "geometry": {"coordinates":[19.42692,52.6291],"type":"Point"}
 }

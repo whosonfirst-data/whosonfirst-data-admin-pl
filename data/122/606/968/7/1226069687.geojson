@@ -54,7 +54,7 @@
         "wk:page":"Chojny%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a39403f31bc1a933cd1a2565195a9f9f",
+    "wof:geomhash":"f62bb2c0dbd03c8a3a701fd6169d1b54",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.68912000000001,
     52.21465
 ],
-  "geometry": {"coordinates":[18.68912000000001,52.21465],"type":"Point"}
+  "geometry": {"coordinates":[18.68912,52.21465],"type":"Point"}
 }

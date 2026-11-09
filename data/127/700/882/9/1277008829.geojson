@@ -57,7 +57,7 @@
         "wk:page":"Maszutkinie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"816986cfdf51a8b90c74ed16c756e087",
+    "wof:geomhash":"4737e20a092b30fabcba9f4cc689550f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.94766,
     54.37643000000001
 ],
-  "geometry": {"coordinates":[22.94766,54.37643000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.94766,54.37643],"type":"Point"}
 }

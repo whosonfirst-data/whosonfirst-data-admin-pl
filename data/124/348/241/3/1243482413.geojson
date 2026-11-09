@@ -54,7 +54,7 @@
         "wk:page":"Zapomianowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"46fe3333f7d9c0c23124dbbd1ecfcfb9",
+    "wof:geomhash":"bb828fbb8a4b97acae11846e6d79ec44",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.87052000000001,
     52.7551
 ],
-  "geometry": {"coordinates":[18.87052000000001,52.7551],"type":"Point"}
+  "geometry": {"coordinates":[18.87052,52.7551],"type":"Point"}
 }

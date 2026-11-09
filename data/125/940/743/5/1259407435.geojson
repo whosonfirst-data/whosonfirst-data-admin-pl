@@ -51,7 +51,7 @@
         "wk:page":"Szaradowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3ed3d4627c60cff3cdd1826bbf3aef86",
+    "wof:geomhash":"d2376a25a1f57fede9a80d4ec0bdeec7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.6,
     53.0
 ],
-  "geometry": {"coordinates":[17.6,53.0],"type":"Point"}
+  "geometry": {"coordinates":[17.6,53],"type":"Point"}
 }

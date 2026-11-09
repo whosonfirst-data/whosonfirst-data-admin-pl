@@ -54,7 +54,7 @@
         "wk:page":"Niwkowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5721909e0279f0ab4c1ee2debd6dcf2a",
+    "wof:geomhash":"cc2612534892fdd220f3196d507f9f1d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.35786,
     53.15561999999999
 ],
-  "geometry": {"coordinates":[22.35786,53.15561999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.35786,53.15562],"type":"Point"}
 }

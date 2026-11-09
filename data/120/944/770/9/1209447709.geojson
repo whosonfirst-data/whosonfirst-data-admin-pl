@@ -48,7 +48,7 @@
         "wk:page":"Nadolnik%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8052321cbead01cbc3a62b0a974df9d1",
+    "wof:geomhash":"1faed7c2818b3b8813f84dbc67270a82",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     17.83682,
     53.68644000000001
 ],
-  "geometry": {"coordinates":[17.83682,53.68644000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.83682,53.68644],"type":"Point"}
 }

@@ -51,7 +51,7 @@
         "wk:page":"Orle%2C_Radziej%C3%B3w_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ef52a17ab9f30b3fa39cbd6f69f0f6ff",
+    "wof:geomhash":"e8f30b11bd440d8847aa9557ebf52295",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.64208,
     52.48591999999999
 ],
-  "geometry": {"coordinates":[18.64208,52.48591999999999],"type":"Point"}
+  "geometry": {"coordinates":[18.64208,52.48592],"type":"Point"}
 }

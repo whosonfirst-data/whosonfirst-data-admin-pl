@@ -51,7 +51,7 @@
         "wk:page":"Tyczyno"
     },
     "wof:country":"PL",
-    "wof:geomhash":"95d0d72f80bce0b5cb2e6f483da78dee",
+    "wof:geomhash":"b10ee244574da1eaa3eda3528a93e5dc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     15.40304,
     52.24404000000001
 ],
-  "geometry": {"coordinates":[15.40304,52.24404000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.40304,52.24404],"type":"Point"}
 }

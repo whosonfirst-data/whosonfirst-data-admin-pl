@@ -51,7 +51,7 @@
         "wk:page":"Grodziszowice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"af28fbfc28c5a16d5cbf59d56fe0df73",
+    "wof:geomhash":"8d5c609100caaf59c576c3821e9cebb1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.12202000000001,
     50.84952
 ],
-  "geometry": {"coordinates":[17.12202000000001,50.84952],"type":"Point"}
+  "geometry": {"coordinates":[17.12202,50.84952],"type":"Point"}
 }

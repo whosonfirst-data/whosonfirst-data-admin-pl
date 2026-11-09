@@ -58,7 +58,7 @@
         "wk:page":"Kluczewo%2C_West_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a7a8c3d29599b102fff10280fe95d53c",
+    "wof:geomhash":"9581de66f7363c825f1e071d36af8fe4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,5 +85,5 @@
     16.1873,
     53.64984000000001
 ],
-  "geometry": {"coordinates":[16.1873,53.64984000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.1873,53.64984],"type":"Point"}
 }

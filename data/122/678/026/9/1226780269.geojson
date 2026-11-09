@@ -54,7 +54,7 @@
         "wk:page":"%C5%81%C4%85czany%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4ff15614a2028a8c4d496621a7268789",
+    "wof:geomhash":"16cf4e32eb1b5fa2fb9d1959b58e2f20",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.15382,
     51.24619000000001
 ],
-  "geometry": {"coordinates":[21.15382,51.24619000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.15382,51.24619],"type":"Point"}
 }

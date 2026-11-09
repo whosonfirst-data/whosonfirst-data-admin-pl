@@ -60,7 +60,7 @@
         "wk:page":"Bronikowo%2C_West_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4034e84d5efd1a17049f11dd1ebc0862",
+    "wof:geomhash":"8db1f3d5a53a6fb0f8eac3feadfde8ce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     16.18844,
     53.30318000000001
 ],
-  "geometry": {"coordinates":[16.18844,53.30318000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.18844,53.30318],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"W%C5%82adys%C5%82aw%C3%B3w%2C_Zwole%C5%84_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4ed3b62ee2c42c5feacebd07b1e7dd65",
+    "wof:geomhash":"4c02f8d61da8403d1acf9d55b208f447",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.69027,
     51.39599000000001
 ],
-  "geometry": {"coordinates":[21.69027,51.39599000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.69027,51.39599],"type":"Point"}
 }

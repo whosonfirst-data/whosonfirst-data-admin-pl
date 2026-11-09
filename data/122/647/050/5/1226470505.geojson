@@ -70,7 +70,7 @@
         "wk:page":"Krelikiejmy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"0fda2c83b248ad657229e4fd01ea0834",
+    "wof:geomhash":"8b1c88eead30e92d5dc228c36fe63994",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,5 +97,5 @@
     21.18873,
     54.25431999999999
 ],
-  "geometry": {"coordinates":[21.18873,54.25431999999999],"type":"Point"}
+  "geometry": {"coordinates":[21.18873,54.25432],"type":"Point"}
 }

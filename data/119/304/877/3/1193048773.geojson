@@ -57,7 +57,7 @@
         "wk:page":"Nowy_Jan%C3%B3w%2C_Podlaskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b1d773b2ca734b673dcaf73453579b3c",
+    "wof:geomhash":"c626ac15817887d30ebabc706db54a2b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     23.22235,
     53.45741999999999
 ],
-  "geometry": {"coordinates":[23.22235,53.45741999999999],"type":"Point"}
+  "geometry": {"coordinates":[23.22235,53.45742],"type":"Point"}
 }

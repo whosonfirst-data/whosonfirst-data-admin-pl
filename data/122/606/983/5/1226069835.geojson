@@ -63,7 +63,7 @@
         "wk:page":"Janczewo_Wielkie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"0d30b06550d6a9865e8be411fab88e16",
+    "wof:geomhash":"ccd795d30a44c67fce2edbcdf1c87c7b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     22.24937000000001,
     52.75609
 ],
-  "geometry": {"coordinates":[22.24937000000001,52.75609],"type":"Point"}
+  "geometry": {"coordinates":[22.24937,52.75609],"type":"Point"}
 }

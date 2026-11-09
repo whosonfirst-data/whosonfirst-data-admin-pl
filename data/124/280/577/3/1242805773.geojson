@@ -54,7 +54,7 @@
         "wk:page":"Wiardunki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ffcb498e5164933ef646bfcb673d7c27",
+    "wof:geomhash":"e7668384b6cefcafaa7fa6c9035edc8c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     16.88286,
     52.78451999999999
 ],
-  "geometry": {"coordinates":[16.88286,52.78451999999999],"type":"Point"}
+  "geometry": {"coordinates":[16.88286,52.78452],"type":"Point"}
 }

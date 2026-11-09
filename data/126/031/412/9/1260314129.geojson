@@ -54,7 +54,7 @@
         "wk:page":"Jurzyn%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b549f29fb77227271a2a7587e4ef0d3f",
+    "wof:geomhash":"237e05530c0dce360660e75241ae4e42",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.67978,
     52.70851999999999
 ],
-  "geometry": {"coordinates":[20.67978,52.70851999999999],"type":"Point"}
+  "geometry": {"coordinates":[20.67978,52.70852],"type":"Point"}
 }

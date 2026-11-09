@@ -57,7 +57,7 @@
         "wk:page":"Piers%C5%82awek"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ac1f6492c9bfd2d8387b69e9b8f94dec",
+    "wof:geomhash":"2e046a0c3b93f0220c34ec7cc43b8a90",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.37577000000001,
     53.75545
 ],
-  "geometry": {"coordinates":[21.37577000000001,53.75545],"type":"Point"}
+  "geometry": {"coordinates":[21.37577,53.75545],"type":"Point"}
 }

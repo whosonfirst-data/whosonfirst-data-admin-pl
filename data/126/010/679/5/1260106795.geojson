@@ -54,7 +54,7 @@
         "wk:page":"Szronka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1fa2516cde7e16b54746b81542929aff",
+    "wof:geomhash":"2c66af2aa78aea3226bd460190f97f2f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.06018,
     53.15284000000001
 ],
-  "geometry": {"coordinates":[20.06018,53.15284000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.06018,53.15284],"type":"Point"}
 }

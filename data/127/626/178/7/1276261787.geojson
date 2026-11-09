@@ -54,7 +54,7 @@
         "wk:page":"Wierzchominko"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a753ecb298f519329f498f406b0bd428",
+    "wof:geomhash":"57dc511199f588a791e1ef161278d076",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     15.96581,
     54.17698000000001
 ],
-  "geometry": {"coordinates":[15.96581,54.17698000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.96581,54.17698],"type":"Point"}
 }

@@ -60,7 +60,7 @@
         "wk:page":"Bobrek%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b5b845e99342db3d4433735d9009dc53",
+    "wof:geomhash":"1d9f0f78294f3027be00a81fcc162156",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     21.04882000000001,
     51.60867
 ],
-  "geometry": {"coordinates":[21.04882000000001,51.60867],"type":"Point"}
+  "geometry": {"coordinates":[21.04882,51.60867],"type":"Point"}
 }

@@ -48,7 +48,7 @@
         "wk:page":"Kujawy%2C_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"11ab76776e21e3103e963673d056a2ac",
+    "wof:geomhash":"8bae2b98e58a92c5e9b462be4733f9ec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     18.29792,
     53.85404000000001
 ],
-  "geometry": {"coordinates":[18.29792,53.85404000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.29792,53.85404],"type":"Point"}
 }

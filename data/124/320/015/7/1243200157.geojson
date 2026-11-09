@@ -54,7 +54,7 @@
         "wk:page":"Szembruk"
     },
     "wof:country":"PL",
-    "wof:geomhash":"300a1dac3a31af3707d519321d647b3c",
+    "wof:geomhash":"7d359dc575de3a4e9feccd86f615b6dc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.02077,
     53.56661999999999
 ],
-  "geometry": {"coordinates":[19.02077,53.56661999999999],"type":"Point"}
+  "geometry": {"coordinates":[19.02077,53.56662],"type":"Point"}
 }

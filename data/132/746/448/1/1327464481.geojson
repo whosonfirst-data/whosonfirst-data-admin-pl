@@ -66,7 +66,7 @@
         "wk:page":"Kobylasz"
     },
     "wof:country":"PL",
-    "wof:geomhash":"094587159b36bad70e602ebe1aeaa5c0",
+    "wof:geomhash":"418f94a3ffb615d6c522d925a6b7ad73",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     17.96532999999999,
     54.43812
 ],
-  "geometry": {"coordinates":[17.96532999999999,54.43812],"type":"Point"}
+  "geometry": {"coordinates":[17.96533,54.43812],"type":"Point"}
 }

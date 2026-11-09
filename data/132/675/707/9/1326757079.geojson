@@ -48,7 +48,7 @@
         "wk:page":"Granice%2C_Gmina_Trzcinica"
     },
     "wof:country":"PL",
-    "wof:geomhash":"95b8f4ee67ab0a3ec7cac10434447a00",
+    "wof:geomhash":"ffecf3d363e6acf41d09a89ebde2371d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     18.11667000000001,
     51.2
 ],
-  "geometry": {"coordinates":[18.11667000000001,51.2],"type":"Point"}
+  "geometry": {"coordinates":[18.11667,51.2],"type":"Point"}
 }

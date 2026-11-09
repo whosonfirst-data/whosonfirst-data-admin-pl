@@ -54,7 +54,7 @@
         "wk:page":"Klar%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9025f76b1ccd29c73d8edcfdba09687b",
+    "wof:geomhash":"59e5f7761985f1bc30dd3a5ac4818d8c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.95319,
     51.22839000000001
 ],
-  "geometry": {"coordinates":[22.95319,51.22839000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.95319,51.22839],"type":"Point"}
 }

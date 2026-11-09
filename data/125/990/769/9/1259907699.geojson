@@ -54,7 +54,7 @@
         "wk:page":"Strychowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5ea0e3d087054c8878a3696cfdf013f9",
+    "wof:geomhash":"72c45850fbf1d190bf7fa9683c470bed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.49505,
     52.54848000000001
 ],
-  "geometry": {"coordinates":[17.49505,52.54848000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.49505,52.54848],"type":"Point"}
 }

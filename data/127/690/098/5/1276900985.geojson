@@ -54,7 +54,7 @@
         "wk:page":"Nowa_Wie%C5%9B%2C_Byt%C3%B3w_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"51a279d66df8996015d8b805e0587d5f",
+    "wof:geomhash":"b8955f24f1706edd2fdf23ab1d5242d1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.68404,
     54.28928000000001
 ],
-  "geometry": {"coordinates":[17.68404,54.28928000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.68404,54.28928],"type":"Point"}
 }

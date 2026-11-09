@@ -90,7 +90,7 @@
         "wk:page":"Kramk%C3%B3wka_Du%C5%BCa"
     },
     "wof:country":"PL",
-    "wof:geomhash":"787c45c72715c84d3e2ea5ad722a7f60",
+    "wof:geomhash":"cba8253ba5f6e89bf4e46bac5f65f9c8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,5 +117,5 @@
     22.68459,
     53.43091999999999
 ],
-  "geometry": {"coordinates":[22.68459,53.43091999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.68459,53.43092],"type":"Point"}
 }

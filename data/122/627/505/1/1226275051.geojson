@@ -54,7 +54,7 @@
         "wk:page":"Joanka%2C_K%C4%99pno_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e1024d6c6c9c3588318bf5c7a904f008",
+    "wof:geomhash":"982bca258e763fae881c55f13299933d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.01142999999999,
     51.2306
 ],
-  "geometry": {"coordinates":[18.01142999999999,51.2306],"type":"Point"}
+  "geometry": {"coordinates":[18.01143,51.2306],"type":"Point"}
 }

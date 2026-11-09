@@ -63,7 +63,7 @@
         "wk:page":"Iwanki%2C_Podlaskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b255acb123e0dd8f99a87e69c14bc599",
+    "wof:geomhash":"c1dc1f175c6c9582e67cc72356486d1f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     23.52732,
     52.94498000000001
 ],
-  "geometry": {"coordinates":[23.52732,52.94498000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.52732,52.94498],"type":"Point"}
 }

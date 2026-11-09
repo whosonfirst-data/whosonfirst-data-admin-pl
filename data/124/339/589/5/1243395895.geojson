@@ -57,7 +57,7 @@
         "wk:page":"Cewlino"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b3b695df593698ac8096ead61a89d1cc",
+    "wof:geomhash":"2b07fdfe53c5256542967b4e6660fce0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     16.24982,
     54.12416999999999
 ],
-  "geometry": {"coordinates":[16.24982,54.12416999999999],"type":"Point"}
+  "geometry": {"coordinates":[16.24982,54.12417],"type":"Point"}
 }

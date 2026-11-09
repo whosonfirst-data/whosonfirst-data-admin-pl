@@ -54,7 +54,7 @@
         "wk:page":"Stare_Krzewo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"499666df961fb35fc121fa3399ef3187",
+    "wof:geomhash":"ad15309e5f1ac95143b4e81cbbf2c586",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.6,
     53.13333000000001
 ],
-  "geometry": {"coordinates":[22.6,53.13333000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.6,53.13333],"type":"Point"}
 }

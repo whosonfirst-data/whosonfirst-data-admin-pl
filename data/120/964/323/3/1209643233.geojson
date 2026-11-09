@@ -57,7 +57,7 @@
         "wk:page":"Jelnia%2C_%C5%81%C3%B3d%C5%BA_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ad1c3e71d8b98eb335abaf737b6474a1",
+    "wof:geomhash":"a8da2bfab7ba93d2878808047ce681ce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     20.45156,
     51.43389000000001
 ],
-  "geometry": {"coordinates":[20.45156,51.43389000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.45156,51.43389],"type":"Point"}
 }

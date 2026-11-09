@@ -63,7 +63,7 @@
         "wk:page":"Harasimowicze"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6150911ec313fb95b4015bfcf9069bde",
+    "wof:geomhash":"aefdb583e69952970f9fe4e3b082a48d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     23.42138,
     53.66153000000001
 ],
-  "geometry": {"coordinates":[23.42138,53.66153000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.42138,53.66153],"type":"Point"}
 }

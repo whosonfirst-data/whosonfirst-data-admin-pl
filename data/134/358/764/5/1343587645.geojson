@@ -54,7 +54,7 @@
         "wk:page":"Klonowo%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ead9b8f64b8028aaed7320c59db8972e",
+    "wof:geomhash":"2640b34f82eed144a4aecf98f3db87cb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.8,
     52.93333000000001
 ],
-  "geometry": {"coordinates":[20.8,52.93333000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.8,52.93333],"type":"Point"}
 }

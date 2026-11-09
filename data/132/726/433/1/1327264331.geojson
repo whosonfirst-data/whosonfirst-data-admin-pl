@@ -51,7 +51,7 @@
         "wk:page":"Zdzierczyzna"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1646c3ae10fa8c2b2c093ba8b10a0813",
+    "wof:geomhash":"92fc8d2476673747ec9c8bd7762e7a6e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.34912000000001,
     51.33537000000001
 ],
-  "geometry": {"coordinates":[18.34912000000001,51.33537000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.34912,51.33537],"type":"Point"}
 }

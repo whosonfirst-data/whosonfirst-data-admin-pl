@@ -51,7 +51,7 @@
         "wk:page":"Kopczyn"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d5c959e9b1501f266f7dbbac2392f538",
+    "wof:geomhash":"0723c8e39f617e790fd4488550ff314e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.87402999999999,
     52.67325
 ],
-  "geometry": {"coordinates":[17.87402999999999,52.67325],"type":"Point"}
+  "geometry": {"coordinates":[17.87403,52.67325],"type":"Point"}
 }

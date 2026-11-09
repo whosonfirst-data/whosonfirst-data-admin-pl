@@ -54,7 +54,7 @@
         "wk:page":"Raty%C5%84%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6efb1fb129ed7971dd98966053f63e2b",
+    "wof:geomhash":"a2edf754c97b497875daca377db5c9f6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.98681000000001,
     52.19518
 ],
-  "geometry": {"coordinates":[17.98681000000001,52.19518],"type":"Point"}
+  "geometry": {"coordinates":[17.98681,52.19518],"type":"Point"}
 }

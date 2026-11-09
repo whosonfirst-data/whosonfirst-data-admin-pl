@@ -54,7 +54,7 @@
         "wk:page":"W%C4%99gielnia%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"45d75be813edaba1f75b4a9f3a1d2cfd",
+    "wof:geomhash":"5c5a0a62489a0351f5ee5182118385b9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     16.05487999999999,
     52.40962
 ],
-  "geometry": {"coordinates":[16.05487999999999,52.40962],"type":"Point"}
+  "geometry": {"coordinates":[16.05488,52.40962],"type":"Point"}
 }

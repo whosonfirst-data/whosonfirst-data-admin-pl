@@ -51,7 +51,7 @@
         "wk:page":"Izdebno%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1a55804ec9684658a9fc6934ee96bbae",
+    "wof:geomhash":"2ce544e4be8fa4d58b08fdbb81555d4e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.63971,
     52.75523000000001
 ],
-  "geometry": {"coordinates":[17.63971,52.75523000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.63971,52.75523],"type":"Point"}
 }

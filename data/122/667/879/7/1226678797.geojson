@@ -57,7 +57,7 @@
         "wk:page":"Posada_Ja%C5%9Bliska"
     },
     "wof:country":"PL",
-    "wof:geomhash":"0bcefc051649464e9702c5e6dfd95de2",
+    "wof:geomhash":"21d5ae638d83a3be910c020182a4df0a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.81923,
     49.43944000000001
 ],
-  "geometry": {"coordinates":[21.81923,49.43944000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.81923,49.43944],"type":"Point"}
 }

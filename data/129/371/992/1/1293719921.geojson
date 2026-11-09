@@ -57,7 +57,7 @@
         "wk:page":"Poliksy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"fb3cc7634975d5e8d207e8649c6aa05c",
+    "wof:geomhash":"ef604e1d7f87c58cf96966ca740d5668",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     19.27309,
     53.93861999999999
 ],
-  "geometry": {"coordinates":[19.27309,53.93861999999999],"type":"Point"}
+  "geometry": {"coordinates":[19.27309,53.93862],"type":"Point"}
 }

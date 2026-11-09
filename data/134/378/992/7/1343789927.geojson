@@ -54,7 +54,7 @@
         "wk:page":"Przed%C5%9Bwit"
     },
     "wof:country":"PL",
-    "wof:geomhash":"fac86697753dfa926c1b63c73d92d555",
+    "wof:geomhash":"34cf06bbcf56998e7142785ac10c2842",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.65884,
     52.82248000000001
 ],
-  "geometry": {"coordinates":[21.65884,52.82248000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.65884,52.82248],"type":"Point"}
 }

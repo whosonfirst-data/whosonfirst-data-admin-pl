@@ -54,7 +54,7 @@
         "wk:page":"Grochy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"bab97fc185ab19be1393da029c7c35a7",
+    "wof:geomhash":"a96e2b025be923b77108795ded248e36",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.85,
     52.93333000000001
 ],
-  "geometry": {"coordinates":[22.85,52.93333000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.85,52.93333],"type":"Point"}
 }

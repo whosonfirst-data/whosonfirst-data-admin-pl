@@ -60,7 +60,7 @@
         "wk:page":"Cieksyn"
     },
     "wof:country":"PL",
-    "wof:geomhash":"27a8a2bbe22eb53daa7e5fef6ec278c2",
+    "wof:geomhash":"db7780c962d82472d8241bcda381bc6d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     20.66676,
     52.57471999999999
 ],
-  "geometry": {"coordinates":[20.66676,52.57471999999999],"type":"Point"}
+  "geometry": {"coordinates":[20.66676,52.57472],"type":"Point"}
 }

@@ -66,7 +66,7 @@
         "wk:page":"Ciachcin"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5d7e597da659512ee7cd5be91f406e69",
+    "wof:geomhash":"86bc48c6bebc142fcc35d033b6a7e064",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     19.79507000000001,
     52.61509
 ],
-  "geometry": {"coordinates":[19.79507000000001,52.61509],"type":"Point"}
+  "geometry": {"coordinates":[19.79507,52.61509],"type":"Point"}
 }

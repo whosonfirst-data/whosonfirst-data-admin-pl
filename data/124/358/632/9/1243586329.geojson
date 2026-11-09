@@ -58,7 +58,7 @@
         "wk:page":"Gryzy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"12572e6f92dcda853d216d8dd7436e09",
+    "wof:geomhash":"b98d6cc2a055d39b742e651f9bfe4aec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,5 +85,5 @@
     22.28899,
     54.06263000000001
 ],
-  "geometry": {"coordinates":[22.28899,54.06263000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.28899,54.06263],"type":"Point"}
 }

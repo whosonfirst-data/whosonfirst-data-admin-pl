@@ -57,7 +57,7 @@
         "wk:page":"Nowe_Mieczys%C5%82awy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3c8d59eefc6599fd03f216cd23ba1caa",
+    "wof:geomhash":"d0c455d19c74b64207b71963cf2b3cf1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     20.15056,
     53.97063000000001
 ],
-  "geometry": {"coordinates":[20.15056,53.97063000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.15056,53.97063],"type":"Point"}
 }

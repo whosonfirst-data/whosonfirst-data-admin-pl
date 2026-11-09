@@ -57,7 +57,7 @@
         "wk:page":"Skrzydlewo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1045755d6d264c71b12e60ab13f9143a",
+    "wof:geomhash":"ec82c1e8b081e9e84e8a910645e07a90",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     15.92635,
     52.55506999999999
 ],
-  "geometry": {"coordinates":[15.92635,52.55506999999999],"type":"Point"}
+  "geometry": {"coordinates":[15.92635,52.55507],"type":"Point"}
 }

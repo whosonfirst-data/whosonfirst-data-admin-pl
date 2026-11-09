@@ -57,7 +57,7 @@
         "wk:page":"Zielnowo%2C_West_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6f8288195b4f069058444a6776e190c0",
+    "wof:geomhash":"ee6365671c41f32ecd7378081a139a1e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     16.49123,
     54.43483000000001
 ],
-  "geometry": {"coordinates":[16.49123,54.43483000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.49123,54.43483],"type":"Point"}
 }

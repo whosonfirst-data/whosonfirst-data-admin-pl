@@ -57,7 +57,7 @@
         "wk:page":"Warcho%C5%82y"
     },
     "wof:country":"PL",
-    "wof:geomhash":"029bb9b497a437d1e39a9eb3223a0cbf",
+    "wof:geomhash":"b33a3556cc2ac3d338918c2553c619e0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.02879,
     52.44351999999999
 ],
-  "geometry": {"coordinates":[22.02879,52.44351999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.02879,52.44352],"type":"Point"}
 }

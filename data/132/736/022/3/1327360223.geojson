@@ -54,7 +54,7 @@
         "wk:page":"Mi%C5%82otki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5daa19dc5036b8429758fc574d3330cf",
+    "wof:geomhash":"849bcf5ac256baef8f99bc6b02d3d8d6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.05973,
     53.04219000000001
 ],
-  "geometry": {"coordinates":[20.05973,53.04219000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.05973,53.04219],"type":"Point"}
 }

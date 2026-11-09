@@ -54,7 +54,7 @@
         "wk:page":"W%C3%B3lka%2C_W%C4%99gr%C3%B3w_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c29692cc24d9fbccc30789a0264b76f4",
+    "wof:geomhash":"9159ac235722c28e5299e9c11fb8c450",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.83232000000001,
     52.31163
 ],
-  "geometry": {"coordinates":[21.83232000000001,52.31163],"type":"Point"}
+  "geometry": {"coordinates":[21.83232,52.31163],"type":"Point"}
 }

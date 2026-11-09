@@ -48,7 +48,7 @@
         "wk:page":"Edward%C3%B3w%2C_Lower_Silesian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"867ee3dd9e5fe58b6787c06f755c9964",
+    "wof:geomhash":"3c3f4ea2f970f6e0f8b9b3aabb9fcdec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     16.97027000000001,
     50.79064
 ],
-  "geometry": {"coordinates":[16.97027000000001,50.79064],"type":"Point"}
+  "geometry": {"coordinates":[16.97027,50.79064],"type":"Point"}
 }

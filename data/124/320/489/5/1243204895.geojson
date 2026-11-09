@@ -57,7 +57,7 @@
         "wk:page":"Radoszewo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"60970bb3936079d744dd8b63644e7689",
+    "wof:geomhash":"e8bfef6e6669ed32acf81425e67ce47d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     18.27188,
     54.76994000000001
 ],
-  "geometry": {"coordinates":[18.27188,54.76994000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.27188,54.76994],"type":"Point"}
 }

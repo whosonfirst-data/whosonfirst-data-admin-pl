@@ -63,7 +63,7 @@
         "wk:page":"Grzymki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6d4b15ebd842aa8173e61ce53b831878",
+    "wof:geomhash":"a6d90cd607a724c19a7c4a5359d9fe04",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     22.27181,
     53.39021999999999
 ],
-  "geometry": {"coordinates":[22.27181,53.39021999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.27181,53.39022],"type":"Point"}
 }

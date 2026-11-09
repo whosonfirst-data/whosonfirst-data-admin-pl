@@ -63,7 +63,7 @@
         "wk:page":"Stary_Borek"
     },
     "wof:country":"PL",
-    "wof:geomhash":"897be072ae1039924ca5e8396f221fe5",
+    "wof:geomhash":"00655a6992f6e1ce57cc422ad694a19b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     15.48262,
     54.13296999999999
 ],
-  "geometry": {"coordinates":[15.48262,54.13296999999999],"type":"Point"}
+  "geometry": {"coordinates":[15.48262,54.13297],"type":"Point"}
 }

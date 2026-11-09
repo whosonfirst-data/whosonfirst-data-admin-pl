@@ -63,7 +63,7 @@
         "wk:page":"Jarczew"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d4cb80fbc542e9a5f7393ffd8e9ec82b",
+    "wof:geomhash":"d0eb9b39590f63c04e997dc9d1d960e1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     21.95807000000001,
     51.81413
 ],
-  "geometry": {"coordinates":[21.95807000000001,51.81413],"type":"Point"}
+  "geometry": {"coordinates":[21.95807,51.81413],"type":"Point"}
 }

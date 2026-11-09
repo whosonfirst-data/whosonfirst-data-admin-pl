@@ -51,7 +51,7 @@
         "wk:page":"Strza%C5%82k%C3%B3w%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9188d8b46a808ffc08b4bf1b3de79675",
+    "wof:geomhash":"b165acf45f6fa384e4a4b6cb49fbe6c1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.4251,
     51.86239000000001
 ],
-  "geometry": {"coordinates":[18.4251,51.86239000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.4251,51.86239],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"Stefan%C3%B3w%2C_Garwolin_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"65ccee759465e30042aab515a8b26561",
+    "wof:geomhash":"ba11645986294cea4f2e4d23084a74b5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.82082,
     51.78469000000001
 ],
-  "geometry": {"coordinates":[21.82082,51.78469000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.82082,51.78469],"type":"Point"}
 }

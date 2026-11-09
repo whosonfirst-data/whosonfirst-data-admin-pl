@@ -57,7 +57,7 @@
         "wk:page":"Tch%C3%B3rzno"
     },
     "wof:country":"PL",
-    "wof:geomhash":"42230766e7daf5ef551c8bf31e1fb946",
+    "wof:geomhash":"31020a5c184eac56cfe50c495a719ebf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     14.75,
     52.93333000000001
 ],
-  "geometry": {"coordinates":[14.75,52.93333000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.75,52.93333],"type":"Point"}
 }

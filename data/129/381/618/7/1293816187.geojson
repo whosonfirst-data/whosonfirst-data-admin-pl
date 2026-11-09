@@ -60,7 +60,7 @@
         "wk:page":"Nowosi%C3%B3%C5%82ki%2C_Siemiatycze_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5e8e58ba885d71ade95b9a909882fa7e",
+    "wof:geomhash":"7acb93ab3e1b27c88e63f9c0fc4f5f9b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     23.18402,
     52.53993000000001
 ],
-  "geometry": {"coordinates":[23.18402,52.53993000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.18402,52.53993],"type":"Point"}
 }

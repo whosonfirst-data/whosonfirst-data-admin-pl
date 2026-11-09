@@ -51,7 +51,7 @@
         "wk:page":"Magdaleniec%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3640c28b1fd4615e8dec8a6afc5f25ff",
+    "wof:geomhash":"70771e5b0beed9a208514779b426741f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.3616,
     52.96823000000001
 ],
-  "geometry": {"coordinates":[18.3616,52.96823000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.3616,52.96823],"type":"Point"}
 }

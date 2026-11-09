@@ -57,7 +57,7 @@
         "wk:page":"Tumanek"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4a9fa213fbf26e15527d7e9f587ec27c",
+    "wof:geomhash":"293052973f4531e981901cc554084b20",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.4756,
     52.55918000000001
 ],
-  "geometry": {"coordinates":[21.4756,52.55918000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.4756,52.55918],"type":"Point"}
 }

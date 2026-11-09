@@ -57,7 +57,7 @@
         "wk:page":"Osiki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"79f758bbbc59fe66b7cc284c0712e331",
+    "wof:geomhash":"4682d2703fd633a794928f21f99a4d83",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.7535,
     53.88608000000001
 ],
-  "geometry": {"coordinates":[21.7535,53.88608000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.7535,53.88608],"type":"Point"}
 }

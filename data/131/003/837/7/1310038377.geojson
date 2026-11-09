@@ -54,7 +54,7 @@
         "wk:page":"Jasna_G%C3%B3ra%2C_%C5%81%C3%B3d%C5%BA_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"925e3f162f036cd2199d7e4a6d0b23b9",
+    "wof:geomhash":"244f3ddd678dd63bce71dfba7d101291",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.45643,
     51.14834000000001
 ],
-  "geometry": {"coordinates":[18.45643,51.14834000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.45643,51.14834],"type":"Point"}
 }

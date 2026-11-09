@@ -54,7 +54,7 @@
         "wk:page":"Plemi%C4%99ta"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9fc55a1fa97503546260dd924b9545f4",
+    "wof:geomhash":"5f0580844b7fc0e684de037d0cfd5adf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.87897,
     53.41178000000001
 ],
-  "geometry": {"coordinates":[18.87897,53.41178000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.87897,53.41178],"type":"Point"}
 }

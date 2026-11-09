@@ -51,7 +51,7 @@
         "wk:page":"Wisy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a24889c0e6913b51c3d41da08c3be82e",
+    "wof:geomhash":"daf9ed23c237eaf26ff97dd4112d6fa4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     20.22343,
     51.07964000000001
 ],
-  "geometry": {"coordinates":[20.22343,51.07964000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.22343,51.07964],"type":"Point"}
 }

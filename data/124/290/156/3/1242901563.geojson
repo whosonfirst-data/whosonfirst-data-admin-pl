@@ -57,7 +57,7 @@
         "wk:page":"Stary_Dworek"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d1f1ebc980e338d42a0c4d036c6c3650",
+    "wof:geomhash":"42ff140f190f4c9b2ec01020be3265a8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     15.4322,
     52.55773000000001
 ],
-  "geometry": {"coordinates":[15.4322,52.55773000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.4322,52.55773],"type":"Point"}
 }

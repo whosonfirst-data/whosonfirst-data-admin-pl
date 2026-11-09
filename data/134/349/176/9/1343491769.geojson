@@ -54,7 +54,7 @@
         "wk:page":"Konstant%C3%B3w%2C_Lublin_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"36b98e675af390bccdfb09a3b720cfde",
+    "wof:geomhash":"0cd4242de46f11e65bc9b3490f38142d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.54695,
     50.69009000000001
 ],
-  "geometry": {"coordinates":[22.54695,50.69009000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.54695,50.69009],"type":"Point"}
 }

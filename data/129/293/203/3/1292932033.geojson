@@ -54,7 +54,7 @@
         "wk:page":"Luboradz%2C_West_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f1eab062cdf2d46e0beae91207869776",
+    "wof:geomhash":"a3fd0f7b38f59ad8981df49d0fcdba9f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     15.3761,
     53.80408000000001
 ],
-  "geometry": {"coordinates":[15.3761,53.80408000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.3761,53.80408],"type":"Point"}
 }

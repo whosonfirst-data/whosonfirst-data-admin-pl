@@ -61,7 +61,7 @@
         "wk:page":"%C5%BBebry-Laskowiec"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9cc783cbf01ca30c810cb3af08db1c7c",
+    "wof:geomhash":"b31c5367f4b1e514697ef2d7d107d281",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     22.34602000000001,
     52.69329000000001
 ],
-  "geometry": {"coordinates":[22.34602000000001,52.69329000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.34602,52.69329],"type":"Point"}
 }

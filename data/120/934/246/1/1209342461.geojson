@@ -55,7 +55,7 @@
         "wk:page":"Szcz%C4%99sne%2C_Warmian-Masurian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d6d8d768c03f8d2e7779c7514c44d761",
+    "wof:geomhash":"c336efcb627e2b56085efdcff4535ece",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,5 +82,5 @@
     20.55692,
     53.74053000000001
 ],
-  "geometry": {"coordinates":[20.55692,53.74053000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.55692,53.74053],"type":"Point"}
 }

@@ -52,7 +52,7 @@
         "wk:page":"%C5%81abusz"
     },
     "wof:country":"PL",
-    "wof:geomhash":"de6e533a37f4f2b4af3d218e82a0ffc3",
+    "wof:geomhash":"39514cf44f7924368e8b412f17f86229",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,5 +79,5 @@
     16.17943,
     54.27144000000001
 ],
-  "geometry": {"coordinates":[16.17943,54.27144000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.17943,54.27144],"type":"Point"}
 }

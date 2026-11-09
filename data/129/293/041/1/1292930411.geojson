@@ -66,7 +66,7 @@
         "wk:page":"Jarno%C5%82towo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e8d4de41f19d0cc03ffc8628552a02fc",
+    "wof:geomhash":"45bb265a80f209573073883ca8965450",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     19.65121,
     53.89678000000001
 ],
-  "geometry": {"coordinates":[19.65121,53.89678000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.65121,53.89678],"type":"Point"}
 }

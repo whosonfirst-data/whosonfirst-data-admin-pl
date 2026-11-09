@@ -63,7 +63,7 @@
         "wk:page":"Pasieka%2C_Podlaskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6e7c9a97502fc705d3c0cf4585cde8d7",
+    "wof:geomhash":"b92894f096718ae14f88f50720419c6c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     23.12663,
     52.66158000000001
 ],
-  "geometry": {"coordinates":[23.12663,52.66158000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.12663,52.66158],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Mi%C5%82os%C5%82awice%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1bdbc36435372125600af05292b192d4",
+    "wof:geomhash":"b5593aee3ff26da10afcffcbe3d6a23b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.35651,
     52.71259000000001
 ],
-  "geometry": {"coordinates":[17.35651,52.71259000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.35651,52.71259],"type":"Point"}
 }

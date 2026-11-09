@@ -51,7 +51,7 @@
         "wk:page":"%C5%9Aliwak%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7ea80e255b15bc57c7f6afb504e6c3e7",
+    "wof:geomhash":"4885bbe2500de222b498384204b236e9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.44597000000001,
     50.92847
 ],
-  "geometry": {"coordinates":[19.44597000000001,50.92847],"type":"Point"}
+  "geometry": {"coordinates":[19.44597,50.92847],"type":"Point"}
 }

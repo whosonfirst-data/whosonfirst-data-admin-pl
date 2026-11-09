@@ -54,7 +54,7 @@
         "wk:page":"Sewerynowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1b4abf0fea62188a5b081f76e1ee8955",
+    "wof:geomhash":"d98fc086136f33627b8be9a10735dd3b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.19606,
     52.87643000000001
 ],
-  "geometry": {"coordinates":[21.19606,52.87643000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.19606,52.87643],"type":"Point"}
 }

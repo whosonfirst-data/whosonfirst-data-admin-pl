@@ -54,7 +54,7 @@
         "wk:page":"Trompole"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ef87f76b4495875a1936ceae6f685663",
+    "wof:geomhash":"bc4d1663d87ea6ca83ed7c9ff52dbd5a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     23.16261,
     54.29143000000001
 ],
-  "geometry": {"coordinates":[23.16261,54.29143000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.16261,54.29143],"type":"Point"}
 }

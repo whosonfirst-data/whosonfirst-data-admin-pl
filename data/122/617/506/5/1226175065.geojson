@@ -63,7 +63,7 @@
         "wk:page":"Karlewo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a0990e503a1b5e97f544fc274ee5f0c0",
+    "wof:geomhash":"5cfb9812ac91a7e7185b36f679d9c665",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     19.6,
     52.78333000000001
 ],
-  "geometry": {"coordinates":[19.6,52.78333000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.6,52.78333],"type":"Point"}
 }

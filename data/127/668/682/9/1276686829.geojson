@@ -60,7 +60,7 @@
         "wk:page":"Niewolno"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8a67b84ed2e0aeed9b215111d431f501",
+    "wof:geomhash":"60696b594390feceb175466ddbe3f861",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     17.81522,
     52.57703000000001
 ],
-  "geometry": {"coordinates":[17.81522,52.57703000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.81522,52.57703],"type":"Point"}
 }

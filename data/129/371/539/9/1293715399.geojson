@@ -54,7 +54,7 @@
         "wk:page":"Mokronosy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d72aca9068bedf01a2895ce52d103a9e",
+    "wof:geomhash":"d50f5b5a839d5069968fa080eb9fd1a9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.44657,
     52.87153000000001
 ],
-  "geometry": {"coordinates":[17.44657,52.87153000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.44657,52.87153],"type":"Point"}
 }

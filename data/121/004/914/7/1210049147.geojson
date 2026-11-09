@@ -51,7 +51,7 @@
         "wk:page":"Wudzyn"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b8f588c5690a1b94da133511a2ea71b0",
+    "wof:geomhash":"ac9849d62161212f5d20f7fb1c88fd96",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.07969,
     53.32259000000001
 ],
-  "geometry": {"coordinates":[18.07969,53.32259000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.07969,53.32259],"type":"Point"}
 }

@@ -51,7 +51,7 @@
         "wk:page":"Nied%C5%BAwied%C5%BA%2C_%C5%9Awiecie_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"bd866c709c217c105a95da0e7b601e85",
+    "wof:geomhash":"a72599472d8c7012d735a4f947114564",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.39037,
     53.36881999999999
 ],
-  "geometry": {"coordinates":[18.39037,53.36881999999999],"type":"Point"}
+  "geometry": {"coordinates":[18.39037,53.36882],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"Lelewo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"62dd8a45c5203ebcaddf53456747520a",
+    "wof:geomhash":"a9aa174576be69b0409735956e3bb451",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     20.69121,
     52.55909000000001
 ],
-  "geometry": {"coordinates":[20.69121,52.55909000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.69121,52.55909],"type":"Point"}
 }

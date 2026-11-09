@@ -57,7 +57,7 @@
         "wk:page":"Garzewko"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4e130c3343310751e05a1c870a859576",
+    "wof:geomhash":"c98ba3f7c9a3d81a88a4d2da9c81e5e5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     20.31512,
     53.88223000000001
 ],
-  "geometry": {"coordinates":[20.31512,53.88223000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.31512,53.88223],"type":"Point"}
 }

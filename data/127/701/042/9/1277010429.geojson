@@ -54,7 +54,7 @@
         "wk:page":"Ko%C5%82paki%2C_Podlaskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b61dbb6771235fe32ac36e3fdad327c9",
+    "wof:geomhash":"6078349871e60eccdfb5851adf86f6e8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     23.45402,
     52.98283000000001
 ],
-  "geometry": {"coordinates":[23.45402,52.98283000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.45402,52.98283],"type":"Point"}
 }

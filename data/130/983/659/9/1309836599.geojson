@@ -60,7 +60,7 @@
         "wk:page":"Borys%C3%B3wka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2a87f515af8d84e4c2b72e9de3bf7f9e",
+    "wof:geomhash":"fa02f0af9473fa5ed418771bccb2b254",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     23.60451,
     52.83584000000001
 ],
-  "geometry": {"coordinates":[23.60451,52.83584000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.60451,52.83584],"type":"Point"}
 }

@@ -63,7 +63,7 @@
         "wk:page":"Jastrz%C4%99bowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f81cae01505e31cfe4d390c919327d34",
+    "wof:geomhash":"a8935fa23d1e05d5f341820e09eb6177",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     17.76063,
     52.60828000000001
 ],
-  "geometry": {"coordinates":[17.76063,52.60828000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.76063,52.60828],"type":"Point"}
 }

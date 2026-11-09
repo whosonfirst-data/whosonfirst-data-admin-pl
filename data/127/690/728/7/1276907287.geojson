@@ -54,7 +54,7 @@
         "wk:page":"Radachowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"819af92d84f0318da445342c79a79362",
+    "wof:geomhash":"5c18ea0d04b24bcea98e19ab25e85683",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     15.85516,
     53.07066999999999
 ],
-  "geometry": {"coordinates":[15.85516,53.07066999999999],"type":"Point"}
+  "geometry": {"coordinates":[15.85516,53.07067],"type":"Point"}
 }

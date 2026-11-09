@@ -51,7 +51,7 @@
         "wk:page":"%C5%9Arednia%2C_Podkarpackie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"dca58fefd6e3f1872bec2a3c36134733",
+    "wof:geomhash":"691f41f76f89a9260a91a69e552d720d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     22.57172000000001,
     49.83048
 ],
-  "geometry": {"coordinates":[22.57172000000001,49.83048],"type":"Point"}
+  "geometry": {"coordinates":[22.57172,49.83048],"type":"Point"}
 }

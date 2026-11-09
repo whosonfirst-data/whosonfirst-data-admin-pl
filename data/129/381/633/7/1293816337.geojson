@@ -59,7 +59,7 @@
         "wk:page":"Cygany%2C_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"37704ea34183661a23881ae42fb41554",
+    "wof:geomhash":"91ea1e8ecd65cad3ca561faf876533d2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,5 +86,5 @@
     19.00769,
     53.65156999999999
 ],
-  "geometry": {"coordinates":[19.00769,53.65156999999999],"type":"Point"}
+  "geometry": {"coordinates":[19.00769,53.65157],"type":"Point"}
 }

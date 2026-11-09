@@ -63,7 +63,7 @@
         "wk:page":"Czy%C5%BCew-Sutki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a6264f4bee0689ba4b29b1b232b25a7a",
+    "wof:geomhash":"f9a024020abc9c9c93e7fce428c54f94",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     22.29426,
     52.81681999999999
 ],
-  "geometry": {"coordinates":[22.29426,52.81681999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.29426,52.81682],"type":"Point"}
 }

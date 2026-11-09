@@ -63,7 +63,7 @@
         "wk:page":"Staworowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"deb7da553d916253f0d569693f754eaa",
+    "wof:geomhash":"ad08bcae7dd946fff2f3e52de9080b04",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     23.53203,
     53.56509000000001
 ],
-  "geometry": {"coordinates":[23.53203,53.56509000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.53203,53.56509],"type":"Point"}
 }

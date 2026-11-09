@@ -63,7 +63,7 @@
         "wk:page":"Turzyn%2C_Silesian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6da780134a5c835d77b5698ddb777602",
+    "wof:geomhash":"a35ad26b49d68d101c8a87fff0dcafdd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     19.6421,
     50.66464000000001
 ],
-  "geometry": {"coordinates":[19.6421,50.66464000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.6421,50.66464],"type":"Point"}
 }

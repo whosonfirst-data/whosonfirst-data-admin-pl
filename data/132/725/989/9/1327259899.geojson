@@ -54,7 +54,7 @@
         "wk:page":"P%C5%82ociczno%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"968549e11a7be135735d33477af9759d",
+    "wof:geomhash":"c11605ce761ffdb38b76099407113898",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.68801,
     53.11751999999999
 ],
-  "geometry": {"coordinates":[19.68801,53.11751999999999],"type":"Point"}
+  "geometry": {"coordinates":[19.68801,53.11752],"type":"Point"}
 }

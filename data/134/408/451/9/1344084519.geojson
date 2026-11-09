@@ -62,7 +62,7 @@
         "wk:page":"K%C4%99pki%2C_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6880d29f089b64605834364643413537",
+    "wof:geomhash":"9e0ffb829d4ec3696e4b0e0b49b8122d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     19.31156,
     54.19076999999999
 ],
-  "geometry": {"coordinates":[19.31156,54.19076999999999],"type":"Point"}
+  "geometry": {"coordinates":[19.31156,54.19077],"type":"Point"}
 }

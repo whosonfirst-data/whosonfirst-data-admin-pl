@@ -54,7 +54,7 @@
         "wk:page":"Julian%C3%B3w%2C_Ko%C5%84skie_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"60f5875b70a1bd2ed68062c9c112c722",
+    "wof:geomhash":"9f0cebfcdccf0ab6c6640efc1deeb5e7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.03314,
     51.13267000000001
 ],
-  "geometry": {"coordinates":[20.03314,51.13267000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.03314,51.13267],"type":"Point"}
 }

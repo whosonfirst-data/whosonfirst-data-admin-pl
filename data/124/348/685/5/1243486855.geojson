@@ -54,7 +54,7 @@
         "wk:page":"Wierzbica%2C_Proszowice_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6530f6dcc64687fa72ddf99fbff13d95",
+    "wof:geomhash":"31852f91e5832c77a43827f0a005f675",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.15442,
     50.24424000000001
 ],
-  "geometry": {"coordinates":[20.15442,50.24424000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.15442,50.24424],"type":"Point"}
 }

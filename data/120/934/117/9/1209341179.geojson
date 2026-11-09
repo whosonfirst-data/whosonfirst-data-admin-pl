@@ -54,7 +54,7 @@
         "wk:page":"Sudragi"
     },
     "wof:country":"PL",
-    "wof:geomhash":"46c1259b0cd86616398f2a5ed5b4d25a",
+    "wof:geomhash":"27f4c49ed3a7441bba1a82993d026402",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.55036,
     52.84643000000001
 ],
-  "geometry": {"coordinates":[19.55036,52.84643000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.55036,52.84643],"type":"Point"}
 }

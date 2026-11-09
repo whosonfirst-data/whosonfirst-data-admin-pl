@@ -54,7 +54,7 @@
         "wk:page":"Ogrodniki%2C_Sok%C3%B3%C5%82ka_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"bff53a37d2f445fe543c1fa95c33e2fc",
+    "wof:geomhash":"daeb0f6e782aa90b5b68a8725af41f45",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     23.49628,
     53.53633000000001
 ],
-  "geometry": {"coordinates":[23.49628,53.53633000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.49628,53.53633],"type":"Point"}
 }

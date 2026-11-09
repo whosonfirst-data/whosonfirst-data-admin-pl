@@ -72,7 +72,7 @@
         "wk:page":"%C5%BBygl%C4%85d"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c9341f0b7a1cafcabddda92a42b35d06",
+    "wof:geomhash":"90c2f0f786777348e167bd34bcd7b115",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,5 +99,5 @@
     18.51524,
     53.25816999999999
 ],
-  "geometry": {"coordinates":[18.51524,53.25816999999999],"type":"Point"}
+  "geometry": {"coordinates":[18.51524,53.25817],"type":"Point"}
 }

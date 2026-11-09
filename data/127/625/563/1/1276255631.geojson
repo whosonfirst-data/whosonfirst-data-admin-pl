@@ -48,7 +48,7 @@
         "wk:page":"W%C4%99tfie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e277e6d5f6ac299a8fbd7009f9df3be0",
+    "wof:geomhash":"ba808f3e242b182b417acbfd1731a2cd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     18.1907,
     53.51456999999999
 ],
-  "geometry": {"coordinates":[18.1907,53.51456999999999],"type":"Point"}
+  "geometry": {"coordinates":[18.1907,53.51457],"type":"Point"}
 }

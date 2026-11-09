@@ -57,7 +57,7 @@
         "wk:page":"Zadory"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e8231317c9b68a4d428b071819e07537",
+    "wof:geomhash":"36492c27ee3b84ccbb28d22321f79c50",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     16.65611,
     52.17554000000001
 ],
-  "geometry": {"coordinates":[16.65611,52.17554000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.65611,52.17554],"type":"Point"}
 }

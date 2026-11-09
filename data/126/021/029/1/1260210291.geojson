@@ -54,7 +54,7 @@
         "wk:page":"Kruszyna%2C_Opole_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5014ddab88b1ca9d5e23893945f43df9",
+    "wof:geomhash":"124c0b46ded185a51e6b290bb492bd47",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.55007,
     50.83179000000001
 ],
-  "geometry": {"coordinates":[17.55007,50.83179000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.55007,50.83179],"type":"Point"}
 }

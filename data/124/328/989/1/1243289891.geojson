@@ -54,7 +54,7 @@
         "wk:page":"Orze%C5%82%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9753e04ceb16f9429b8108ba97c9b4f6",
+    "wof:geomhash":"0a7dbd553098e360f6e1d259db2fc51c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.2568,
     53.17283000000001
 ],
-  "geometry": {"coordinates":[21.2568,53.17283000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.2568,53.17283],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Podlesice%2C_Lesser_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"47998a732c6d737455dad62380de2eba",
+    "wof:geomhash":"0d78a6fc4533b3daaa4f953818423b22",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.86667000000001,
     50.41667
 ],
-  "geometry": {"coordinates":[19.86667000000001,50.41667],"type":"Point"}
+  "geometry": {"coordinates":[19.86667,50.41667],"type":"Point"}
 }

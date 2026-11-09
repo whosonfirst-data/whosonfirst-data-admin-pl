@@ -57,7 +57,7 @@
         "wk:page":"Ochremowicze"
     },
     "wof:country":"PL",
-    "wof:geomhash":"659b342f999df882c10fa72d8f596835",
+    "wof:geomhash":"5465cb9126ccb486a1e0cf4f62cdb76c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     23.40291,
     52.99548000000001
 ],
-  "geometry": {"coordinates":[23.40291,52.99548000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.40291,52.99548],"type":"Point"}
 }

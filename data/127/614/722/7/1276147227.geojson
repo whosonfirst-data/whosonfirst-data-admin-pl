@@ -60,7 +60,7 @@
         "wk:page":"Adamowizna%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"971262fcd0197548426e64dbb5f7cecd",
+    "wof:geomhash":"478cbcc8d738c8aeb52338cc6b3b4cb1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     20.62254,
     52.07624000000001
 ],
-  "geometry": {"coordinates":[20.62254,52.07624000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.62254,52.07624],"type":"Point"}
 }

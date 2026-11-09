@@ -54,7 +54,7 @@
         "wk:page":"Marynki%2C_Podlaskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a47373bf95ba20832890d84051641003",
+    "wof:geomhash":"0420e9b0df75eefd41cb0f44a8a176f7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.83293,
     52.90071999999999
 ],
-  "geometry": {"coordinates":[22.83293,52.90071999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.83293,52.90072],"type":"Point"}
 }

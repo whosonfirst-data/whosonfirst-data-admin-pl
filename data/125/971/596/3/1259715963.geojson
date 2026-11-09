@@ -57,7 +57,7 @@
         "wk:page":"Poro%C5%9Bl-Wojs%C5%82awy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"0e333a4add9c9b61ac06e900a84d5978",
+    "wof:geomhash":"4e680dcf59de154ee704bbb96fedbe95",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.71713,
     52.92288000000001
 ],
-  "geometry": {"coordinates":[22.71713,52.92288000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.71713,52.92288],"type":"Point"}
 }

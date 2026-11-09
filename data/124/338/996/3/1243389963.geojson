@@ -51,7 +51,7 @@
         "wk:page":"Debrzyca"
     },
     "wof:country":"PL",
-    "wof:geomhash":"21129e42ba760b19236487b11b7acf1c",
+    "wof:geomhash":"39b65b8c1bf36c5a1b777254b9ab9ffb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.89552999999999,
     50.21536
 ],
-  "geometry": {"coordinates":[17.89552999999999,50.21536],"type":"Point"}
+  "geometry": {"coordinates":[17.89553,50.21536],"type":"Point"}
 }

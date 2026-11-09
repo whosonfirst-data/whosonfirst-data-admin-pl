@@ -57,7 +57,7 @@
         "wk:page":"Brzozowa%2C_Lubusz_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d8a7b2942d848b5ddb5b73964d45b5c6",
+    "wof:geomhash":"ed296fb5756a7e9d3137c5e8c4c510d8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     15.1467,
     52.59363000000001
 ],
-  "geometry": {"coordinates":[15.1467,52.59363000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.1467,52.59363],"type":"Point"}
 }

@@ -61,7 +61,7 @@
         "wk:page":"Prusinowice%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"520a17a1049733a7f9f8b54377256b90",
+    "wof:geomhash":"0e482461a15f8b13cd3d3a81ed81897f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     20.79034,
     52.67763000000001
 ],
-  "geometry": {"coordinates":[20.79034,52.67763000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.79034,52.67763],"type":"Point"}
 }

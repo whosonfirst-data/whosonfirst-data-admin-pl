@@ -54,7 +54,7 @@
         "wk:page":"Wierzchy%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"397ed26a264070afe68d96eddb99c464",
+    "wof:geomhash":"4f7bf42f2b0b948048bc8515209270a8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.24327000000001,
     53.60265
 ],
-  "geometry": {"coordinates":[18.24327000000001,53.60265],"type":"Point"}
+  "geometry": {"coordinates":[18.24327,53.60265],"type":"Point"}
 }

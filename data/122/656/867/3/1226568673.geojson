@@ -57,7 +57,7 @@
         "wk:page":"Radach%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a86d07581e23d5790b8cc6df71cd8e2a",
+    "wof:geomhash":"6f02a45936c65cf3e0749f7f598b2c07",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     14.91756,
     52.49733000000001
 ],
-  "geometry": {"coordinates":[14.91756,52.49733000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.91756,52.49733],"type":"Point"}
 }

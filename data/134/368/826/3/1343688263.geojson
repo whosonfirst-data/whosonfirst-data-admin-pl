@@ -54,7 +54,7 @@
         "wk:page":"Nawrocko"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8f23f679bc8a4acf84c5c4dfa6024098",
+    "wof:geomhash":"dd30810fab585ff1f36e0a8e0cd0541c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     14.8118,
     52.90951999999999
 ],
-  "geometry": {"coordinates":[14.8118,52.90951999999999],"type":"Point"}
+  "geometry": {"coordinates":[14.8118,52.90952],"type":"Point"}
 }

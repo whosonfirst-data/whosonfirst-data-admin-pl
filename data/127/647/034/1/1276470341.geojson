@@ -60,7 +60,7 @@
         "wk:page":"Redkowice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3b1c83e3a02b2ad50da78ca3769962d8",
+    "wof:geomhash":"c69f4d098d13617cc2ebe6fa53763180",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     17.63958,
     54.55813000000001
 ],
-  "geometry": {"coordinates":[17.63958,54.55813000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.63958,54.55813],"type":"Point"}
 }

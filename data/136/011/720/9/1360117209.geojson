@@ -57,7 +57,7 @@
         "wk:page":"Grodkowo%2C_Warmian-Masurian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"44542a639eb61a2d2c12e10f57609e53",
+    "wof:geomhash":"977d8e9c4c92235638e67ced712677c2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.96014,
     53.99704000000001
 ],
-  "geometry": {"coordinates":[21.96014,53.99704000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.96014,53.99704],"type":"Point"}
 }

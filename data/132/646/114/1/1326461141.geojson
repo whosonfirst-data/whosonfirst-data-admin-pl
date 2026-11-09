@@ -51,7 +51,7 @@
         "wk:page":"S%C5%82aboszewo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e52ba164e35a67992606644a4b0f2db5",
+    "wof:geomhash":"dc3bd30ae5d0a4fd22a5f7b0603a575d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.97119,
     52.78941999999999
 ],
-  "geometry": {"coordinates":[17.97119,52.78941999999999],"type":"Point"}
+  "geometry": {"coordinates":[17.97119,52.78942],"type":"Point"}
 }

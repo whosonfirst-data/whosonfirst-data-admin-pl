@@ -54,7 +54,7 @@
         "wk:page":"Strzy%C5%BCewo_Witkowskie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"17be5b76d7712ec9338de5cfb7c8f28c",
+    "wof:geomhash":"89d9452747294bb74915f66b6516507e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.81038999999999,
     52.43371
 ],
-  "geometry": {"coordinates":[17.81038999999999,52.43371],"type":"Point"}
+  "geometry": {"coordinates":[17.81039,52.43371],"type":"Point"}
 }

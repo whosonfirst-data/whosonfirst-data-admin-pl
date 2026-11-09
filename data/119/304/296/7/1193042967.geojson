@@ -68,7 +68,7 @@
         "wk:page":"Szkody"
     },
     "wof:country":"PL",
-    "wof:geomhash":"11d29dfd0561f386352351a125ae06a8",
+    "wof:geomhash":"b8362bf89fa1e408edc8649eed3b26ed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     22.03928,
     53.58391999999999
 ],
-  "geometry": {"coordinates":[22.03928,53.58391999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.03928,53.58392],"type":"Point"}
 }

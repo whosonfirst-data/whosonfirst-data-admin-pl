@@ -48,7 +48,7 @@
         "wk:page":"Nowa_Sikorska_Huta"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b91c172d553702d1d4339023e7837d63",
+    "wof:geomhash":"b80ee40cde863c3ceb06dcbad3c1142f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     18.06675,
     54.19600000000001
 ],
-  "geometry": {"coordinates":[18.06675,54.19600000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.06675,54.196],"type":"Point"}
 }

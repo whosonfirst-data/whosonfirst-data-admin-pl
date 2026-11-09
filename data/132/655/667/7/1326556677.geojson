@@ -58,7 +58,7 @@
         "wk:page":"Kr%C4%99pa%2C_M%C5%82awa_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"89463ef33aba7cf49a7cde743ef5914b",
+    "wof:geomhash":"b3e66c3adc8b7f5c7c0ef15396f3bfe3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,5 +85,5 @@
     20.22995,
     53.14523000000001
 ],
-  "geometry": {"coordinates":[20.22995,53.14523000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.22995,53.14523],"type":"Point"}
 }

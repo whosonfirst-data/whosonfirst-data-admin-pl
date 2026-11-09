@@ -51,7 +51,7 @@
         "wk:page":"Osse%2C_%C5%81%C3%B3d%C5%BA_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2c2bafd78641858f2f2e7527591eb283",
+    "wof:geomhash":"24f13aed2ba8ba7e65cf2c785fc2178f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.55993,
     51.93709000000001
 ],
-  "geometry": {"coordinates":[19.55993,51.93709000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.55993,51.93709],"type":"Point"}
 }

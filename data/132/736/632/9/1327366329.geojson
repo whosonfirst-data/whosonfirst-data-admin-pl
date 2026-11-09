@@ -57,7 +57,7 @@
         "wk:page":"Now%C4%99cin"
     },
     "wof:country":"PL",
-    "wof:geomhash":"76aae6b2361f15d96fb0d3493e24c435",
+    "wof:geomhash":"8ad7baade87940002d3514c352b9c984",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     17.58842000000001,
     54.75395
 ],
-  "geometry": {"coordinates":[17.58842000000001,54.75395],"type":"Point"}
+  "geometry": {"coordinates":[17.58842,54.75395],"type":"Point"}
 }

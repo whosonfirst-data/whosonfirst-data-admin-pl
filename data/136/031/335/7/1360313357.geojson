@@ -54,7 +54,7 @@
         "wk:page":"Budzi%C5%82owo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"07f86d1b1846d248ab09fe6086beef8f",
+    "wof:geomhash":"0f164e9d473585fb5ac5dd88256d49cd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.59067000000001,
     52.19772
 ],
-  "geometry": {"coordinates":[17.59067000000001,52.19772],"type":"Point"}
+  "geometry": {"coordinates":[17.59067,52.19772],"type":"Point"}
 }

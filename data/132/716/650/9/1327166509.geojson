@@ -66,7 +66,7 @@
         "wk:page":"D%C4%99bowola"
     },
     "wof:country":"PL",
-    "wof:geomhash":"fd34b2ab68f5c9d3bca5af7f0ef1801c",
+    "wof:geomhash":"bc944af0ec2c6335d5e021548f395b8b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     21.36398,
     51.70574000000001
 ],
-  "geometry": {"coordinates":[21.36398,51.70574000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.36398,51.70574],"type":"Point"}
 }

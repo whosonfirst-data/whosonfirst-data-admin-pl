@@ -63,7 +63,7 @@
         "wk:page":"W%C3%B3lka_Miedzy%C5%84ska"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e49af6ad142ed6f9198fc95c98caebae",
+    "wof:geomhash":"41935b9a3add1a0c97424e752bdb0abc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     22.17532000000001,
     52.45481
 ],
-  "geometry": {"coordinates":[22.17532000000001,52.45481],"type":"Point"}
+  "geometry": {"coordinates":[22.17532,52.45481],"type":"Point"}
 }

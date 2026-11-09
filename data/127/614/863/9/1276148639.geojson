@@ -51,7 +51,7 @@
         "wk:page":"Babie_%C5%81awy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6d0d1483c90609c19b6efa215d370263",
+    "wof:geomhash":"3e76da35c028c15884248788f758523b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.40992,
     52.86063000000001
 ],
-  "geometry": {"coordinates":[19.40992,52.86063000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.40992,52.86063],"type":"Point"}
 }

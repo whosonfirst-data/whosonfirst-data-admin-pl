@@ -54,7 +54,7 @@
         "wk:page":"Lipowiec%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c1aefc21a5fac6d73e0ad92a16e8f8c7",
+    "wof:geomhash":"78671522253ec6f3b6d6de340791b8cb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.89202,
     53.22111999999999
 ],
-  "geometry": {"coordinates":[20.89202,53.22111999999999],"type":"Point"}
+  "geometry": {"coordinates":[20.89202,53.22112],"type":"Point"}
 }

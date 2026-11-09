@@ -60,7 +60,7 @@
         "wk:page":"Bialiki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d47f37474fe8cdf98b9193728cbf55c5",
+    "wof:geomhash":"e6feaa42a6ec579bc32f8ee3ff638d1d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     21.91172000000001,
     53.47008
 ],
-  "geometry": {"coordinates":[21.91172000000001,53.47008],"type":"Point"}
+  "geometry": {"coordinates":[21.91172,53.47008],"type":"Point"}
 }

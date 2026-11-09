@@ -51,7 +51,7 @@
         "wk:page":"Krzymowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1f4b326116a409fe526def5674785d58",
+    "wof:geomhash":"870f3ca12b8664d2217e6766273a0546",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.52776,
     52.49543000000001
 ],
-  "geometry": {"coordinates":[18.52776,52.49543000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.52776,52.49543],"type":"Point"}
 }

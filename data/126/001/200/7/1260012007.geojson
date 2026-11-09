@@ -54,7 +54,7 @@
         "wk:page":"Lipniaki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"936846780e511d87323271ca2d30a5f2",
+    "wof:geomhash":"62d1b169f14c4937bf7d2396658d49c7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.58983,
     51.89644000000001
 ],
-  "geometry": {"coordinates":[22.58983,51.89644000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.58983,51.89644],"type":"Point"}
 }

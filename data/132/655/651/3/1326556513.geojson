@@ -54,7 +54,7 @@
         "wk:page":"Kwile%C5%84"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4b0523ececb691ee6941eb63a101d426",
+    "wof:geomhash":"a9b6d5b79cd11d9c6c1a34f46cc35c98",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.84557000000001,
     51.989
 ],
-  "geometry": {"coordinates":[17.84557000000001,51.989],"type":"Point"}
+  "geometry": {"coordinates":[17.84557,51.989],"type":"Point"}
 }

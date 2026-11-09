@@ -61,7 +61,7 @@
         "wk:page":"Skajboty"
     },
     "wof:country":"PL",
-    "wof:geomhash":"767d7a06a13db7430f887568b1e60bea",
+    "wof:geomhash":"d206c4fd845009ceed3a61f406850385",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     20.67082000000001,
     53.76562
 ],
-  "geometry": {"coordinates":[20.67082000000001,53.76562],"type":"Point"}
+  "geometry": {"coordinates":[20.67082,53.76562],"type":"Point"}
 }

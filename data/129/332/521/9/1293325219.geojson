@@ -57,7 +57,7 @@
         "wk:page":"W%C3%B3lka_Pukarzowska"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d7e3f7e0d470d4b0ca15c48b34907b19",
+    "wof:geomhash":"d3bd71b7ad06bfac5c72fda7ac929bb4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     23.66061,
     50.53319000000001
 ],
-  "geometry": {"coordinates":[23.66061,50.53319000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.66061,50.53319],"type":"Point"}
 }

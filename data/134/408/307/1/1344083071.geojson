@@ -54,7 +54,7 @@
         "wk:page":"Klony%2C_Warmian-Masurian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d8fca20df1142bb04f87d651632b5d8a",
+    "wof:geomhash":"14206bfe0c484a62808f0b38c0009a16",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.20741,
     53.98778000000001
 ],
-  "geometry": {"coordinates":[20.20741,53.98778000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.20741,53.98778],"type":"Point"}
 }

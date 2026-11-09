@@ -54,7 +54,7 @@
         "wk:page":"Przybyszowy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"cf2b00fa09100bb6c895b680fc7c8296",
+    "wof:geomhash":"9e68ee39931aebef696bec83a0d870a4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.27887,
     51.19139000000001
 ],
-  "geometry": {"coordinates":[20.27887,51.19139000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.27887,51.19139],"type":"Point"}
 }

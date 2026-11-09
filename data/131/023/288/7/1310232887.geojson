@@ -48,7 +48,7 @@
         "wk:page":"Mi%C4%99tno%2C_West_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"68f5708d9c0d74cadf071d58c1748d4c",
+    "wof:geomhash":"0051ab2dd8e233403717a9b286bc43e3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     15.11667,
     53.71194000000001
 ],
-  "geometry": {"coordinates":[15.11667,53.71194000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.11667,53.71194],"type":"Point"}
 }

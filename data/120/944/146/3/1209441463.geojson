@@ -73,7 +73,7 @@
         "wk:page":"Brz%C3%B3ze"
     },
     "wof:country":"PL",
-    "wof:geomhash":"35698740d7873d6ccf01ffd09561f826",
+    "wof:geomhash":"ffc5737b0e4c2f359f24e2ae106a1e69",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -100,5 +100,5 @@
     21.53887000000001,
     52.22039
 ],
-  "geometry": {"coordinates":[21.53887000000001,52.22039],"type":"Point"}
+  "geometry": {"coordinates":[21.53887,52.22039],"type":"Point"}
 }

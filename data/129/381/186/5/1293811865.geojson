@@ -49,7 +49,7 @@
         "wk:page":"Ligota_Rybi%C5%84ska"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9266dfa51532ecbb1afcda21f2f43ab0",
+    "wof:geomhash":"61d8d5d6a0ee2a59a6657a920bc6b4e6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,5 +76,5 @@
     17.70923999999999,
     51.3738
 ],
-  "geometry": {"coordinates":[17.70923999999999,51.3738],"type":"Point"}
+  "geometry": {"coordinates":[17.70924,51.3738],"type":"Point"}
 }

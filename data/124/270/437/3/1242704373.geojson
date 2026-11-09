@@ -59,7 +59,7 @@
         "wk:page":"Wichrowiec"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9a0e120679d9019779f5bdfb6ade1f03",
+    "wof:geomhash":"a58d0653bfaf0778af06bd4ead2a3cfd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,5 +86,5 @@
     20.69279,
     53.35418000000001
 ],
-  "geometry": {"coordinates":[20.69279,53.35418000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.69279,53.35418],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"Kaczkowo%2C_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3c1980db62e206b6bad4abca1500fbe7",
+    "wof:geomhash":"8f7acf21c0f663503a27a4f8c649b3cf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     17.88179,
     54.60548000000001
 ],
-  "geometry": {"coordinates":[17.88179,54.60548000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.88179,54.60548],"type":"Point"}
 }

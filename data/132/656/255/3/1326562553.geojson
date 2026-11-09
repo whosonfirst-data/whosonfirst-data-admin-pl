@@ -51,7 +51,7 @@
         "wk:page":"Kobylec%2C_Lesser_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"790009100fc06ac11407139da480c412",
+    "wof:geomhash":"77ff5cfaea6291113fbac9c6390b39fc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     20.2672,
     49.87882000000001
 ],
-  "geometry": {"coordinates":[20.2672,49.87882000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.2672,49.87882],"type":"Point"}
 }

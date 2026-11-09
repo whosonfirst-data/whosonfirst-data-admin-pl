@@ -51,7 +51,7 @@
         "wk:page":"Za%C5%82awie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"00a654a3f317f2732f373f9cf5b37445",
+    "wof:geomhash":"42e9a693ffbf43f2aa0bbd0a71b98fcf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.63737,
     50.92084000000001
 ],
-  "geometry": {"coordinates":[19.63737,50.92084000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.63737,50.92084],"type":"Point"}
 }

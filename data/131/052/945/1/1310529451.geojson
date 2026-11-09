@@ -51,7 +51,7 @@
         "wk:page":"Kopanina%2C_W%C4%85growiec_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2cf4d27538e3f3634e87a1afc52949a4",
+    "wof:geomhash":"cce6020c633d7ba2f4a372aac6350cfc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.43779,
     52.85198000000001
 ],
-  "geometry": {"coordinates":[17.43779,52.85198000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.43779,52.85198],"type":"Point"}
 }

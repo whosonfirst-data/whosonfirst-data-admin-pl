@@ -60,7 +60,7 @@
         "wk:page":"Wieszyno"
     },
     "wof:country":"PL",
-    "wof:geomhash":"43a42bcf8a974df33bcce89b3766bace",
+    "wof:geomhash":"142972b778da6bfd9568e19f91144e3b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     17.13353,
     54.45823000000001
 ],
-  "geometry": {"coordinates":[17.13353,54.45823000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.13353,54.45823],"type":"Point"}
 }

@@ -52,7 +52,7 @@
         "wk:page":"%C5%9Ar%C3%B3dmie%C5%9Bcie%2C_Szczecin"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8da1c68884897f04cb54c71ddb4c9c94",
+    "wof:geomhash":"cdbe2641149abd95b1ed2183e5a00d44",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,5 +82,5 @@
     14.56102,
     53.43058000000001
 ],
-  "geometry": {"coordinates":[14.56102,53.43058000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.56102,53.43058],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Ochle%2C_%C5%81%C3%B3d%C5%BA_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d7eac5aa6a1d6902b66e97a9f9dd4100",
+    "wof:geomhash":"c461ec733ce930f32864dcbed7fa735d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.90716,
     51.37347000000001
 ],
-  "geometry": {"coordinates":[18.90716,51.37347000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.90716,51.37347],"type":"Point"}
 }

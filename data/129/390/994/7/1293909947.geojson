@@ -51,7 +51,7 @@
         "wk:page":"Lenartowice%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f710a9c3af67637f88bc7a390e18cece",
+    "wof:geomhash":"2b7181fa4a742cd8d619ffa2d4004813",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.82521000000001,
     51.90609
 ],
-  "geometry": {"coordinates":[17.82521000000001,51.90609],"type":"Point"}
+  "geometry": {"coordinates":[17.82521,51.90609],"type":"Point"}
 }

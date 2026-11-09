@@ -57,7 +57,7 @@
         "wk:page":"Promnice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a278cc9b9e0b2b9bf82e5db6bc4c25c5",
+    "wof:geomhash":"c3ee81d4271ab09aa847d1b496c6ef1b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     16.96202000000001,
     52.54915
 ],
-  "geometry": {"coordinates":[16.96202000000001,52.54915],"type":"Point"}
+  "geometry": {"coordinates":[16.96202,52.54915],"type":"Point"}
 }

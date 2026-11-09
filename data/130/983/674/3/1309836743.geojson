@@ -60,7 +60,7 @@
         "wk:page":"Barycz_Nowa"
     },
     "wof:country":"PL",
-    "wof:geomhash":"600d039c308ceec709fde9735de52423",
+    "wof:geomhash":"ba54db8fbfd962b1c13f63b38d96db59",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     21.63886,
     51.31399999999999
 ],
-  "geometry": {"coordinates":[21.63886,51.31399999999999],"type":"Point"}
+  "geometry": {"coordinates":[21.63886,51.314],"type":"Point"}
 }

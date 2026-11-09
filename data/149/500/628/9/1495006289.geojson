@@ -61,7 +61,7 @@
         "wk:page":"Szum%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8f37983d5c168da2ad1fdd5826908a9d",
+    "wof:geomhash":"8549324a929295ecfdccc30e41f8341b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,5 +91,5 @@
     22.18677000000001,
     51.40429
 ],
-  "geometry": {"coordinates":[22.18677000000001,51.40429],"type":"Point"}
+  "geometry": {"coordinates":[22.18677,51.40429],"type":"Point"}
 }

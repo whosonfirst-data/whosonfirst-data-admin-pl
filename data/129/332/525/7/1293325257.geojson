@@ -54,7 +54,7 @@
         "wk:page":"%C5%81ysinin%2C_West_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2793dc56dc6d561117608a7636ea2346",
+    "wof:geomhash":"cc7d82ebc26aed381be83aa550dde249",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     16.34937,
     53.54378000000001
 ],
-  "geometry": {"coordinates":[16.34937,53.54378000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.34937,53.54378],"type":"Point"}
 }

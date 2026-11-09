@@ -51,7 +51,7 @@
         "wk:page":"%C5%9Awierkocin%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"0f7f3f22bc1d225d30a6bac41343b982",
+    "wof:geomhash":"2ca5b68580480d51a02f935b38395243",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.81667,
     53.53333000000001
 ],
-  "geometry": {"coordinates":[18.81667,53.53333000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.81667,53.53333],"type":"Point"}
 }

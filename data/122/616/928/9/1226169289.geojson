@@ -51,7 +51,7 @@
         "wk:page":"Bachorzewo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"840152c439e8054aed2325b7388e305d",
+    "wof:geomhash":"6ab0fb268cd7877f4111863a2bbe49f3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.26621,
     52.64588000000001
 ],
-  "geometry": {"coordinates":[19.26621,52.64588000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.26621,52.64588],"type":"Point"}
 }

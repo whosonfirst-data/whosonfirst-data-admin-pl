@@ -51,7 +51,7 @@
         "wk:page":"Nowa_Wie%C5%9B_Notecka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b2d9653b266ab11889478c6cbdd65c46",
+    "wof:geomhash":"0a468b7ba6ab069d67acfd31abadbdff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.37762,
     53.04819000000001
 ],
-  "geometry": {"coordinates":[17.37762,53.04819000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.37762,53.04819],"type":"Point"}
 }

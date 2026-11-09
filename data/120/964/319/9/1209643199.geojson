@@ -60,7 +60,7 @@
         "wk:page":"Chude%2C_Poland"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c1bd48fa88c68b59cc4c50a8b8760f42",
+    "wof:geomhash":"2f7d2bd9bae1481c8fa6168b5ca9e58c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     16.60961,
     53.23696999999999
 ],
-  "geometry": {"coordinates":[16.60961,53.23696999999999],"type":"Point"}
+  "geometry": {"coordinates":[16.60961,53.23697],"type":"Point"}
 }

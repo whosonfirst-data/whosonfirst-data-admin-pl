@@ -63,7 +63,7 @@
         "wk:page":"Kapu%C5%9Bniki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6a91c78e547ad820ccc00ba2d610ff78",
+    "wof:geomhash":"f7532cda9a228c91ca5e7544f8aa0646",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     19.53566,
     52.84628000000001
 ],
-  "geometry": {"coordinates":[19.53566,52.84628000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.53566,52.84628],"type":"Point"}
 }

@@ -69,7 +69,7 @@
         "wk:page":"Jakubowice%2C_G%C5%82ubczyce_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1d6281ec7421431e84bf57275af60bcb",
+    "wof:geomhash":"062a579186f56687092c5bb256393d16",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     17.85124,
     50.02164000000001
 ],
-  "geometry": {"coordinates":[17.85124,50.02164000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.85124,50.02164],"type":"Point"}
 }

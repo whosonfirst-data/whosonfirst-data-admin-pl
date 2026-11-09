@@ -51,7 +51,7 @@
         "wk:page":"Ostaszewo%2C_Warmian-Masurian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4166a2be971b1ba047c10b220a5bd2c0",
+    "wof:geomhash":"b9ad48e489826e207e2f42ae1701ad24",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.81667,
     53.38333000000001
 ],
-  "geometry": {"coordinates":[19.81667,53.38333000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.81667,53.38333],"type":"Point"}
 }

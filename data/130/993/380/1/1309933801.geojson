@@ -54,7 +54,7 @@
         "wk:page":"Dobrzel%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9eb212e02caae5a0c3a1fb1c9b9fd95d",
+    "wof:geomhash":"6360119948c2884c01231cf08696b282",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.38902,
     51.38800000000001
 ],
-  "geometry": {"coordinates":[19.38902,51.38800000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.38902,51.388],"type":"Point"}
 }

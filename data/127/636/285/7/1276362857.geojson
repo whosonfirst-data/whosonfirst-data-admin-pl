@@ -54,7 +54,7 @@
         "wk:page":"Pniewo%2C_Pu%C5%82tusk_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e343fbb5f88636df3b7bbbe7860f3ec7",
+    "wof:geomhash":"c453f0932436d4a838b3d5650275a8e4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.26486,
     52.65349000000001
 ],
-  "geometry": {"coordinates":[21.26486,52.65349000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.26486,52.65349],"type":"Point"}
 }

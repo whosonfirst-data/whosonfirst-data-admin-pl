@@ -66,7 +66,7 @@
         "wk:page":"Kl%C4%99pczewo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d07dd1189520dcfc4ee354248e474265",
+    "wof:geomhash":"21eaff6c35853b173b5548cff3fc085d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     15.70725,
     53.78673000000001
 ],
-  "geometry": {"coordinates":[15.70725,53.78673000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.70725,53.78673],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Starosiele"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c6215118a6665d961a92543f8d097171",
+    "wof:geomhash":"0dad5570d7629233cdff84ede73e10ce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     23.88282,
     51.03449000000001
 ],
-  "geometry": {"coordinates":[23.88282,51.03449000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.88282,51.03449],"type":"Point"}
 }

@@ -58,7 +58,7 @@
         "wk:page":"Nowina%2C_Warmian-Masurian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"bfec7d29f3379442a46d50e30612dc09",
+    "wof:geomhash":"7d39efea1b7e3b00a0952211e1fbe63d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,5 +85,5 @@
     19.48374,
     54.12553000000001
 ],
-  "geometry": {"coordinates":[19.48374,54.12553000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.48374,54.12553],"type":"Point"}
 }

@@ -51,7 +51,7 @@
         "wk:page":"Pisarzowice%2C_Brzeg_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4fc00880dce1fac0fd0f8bea086e8930",
+    "wof:geomhash":"b81a966fbc8f48e6426c9b3b5a24db98",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.48028,
     50.87824000000001
 ],
-  "geometry": {"coordinates":[17.48028,50.87824000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.48028,50.87824],"type":"Point"}
 }

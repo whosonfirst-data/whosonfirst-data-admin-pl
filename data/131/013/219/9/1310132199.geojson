@@ -61,7 +61,7 @@
         "wk:page":"Kierpajny_Ma%C5%82e"
     },
     "wof:country":"PL",
-    "wof:geomhash":"faa2d844343907ad26354a332b76359e",
+    "wof:geomhash":"1fb9fdca26c9fb340812733746b5a352",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     20.01667,
     54.21666999999999
 ],
-  "geometry": {"coordinates":[20.01667,54.21666999999999],"type":"Point"}
+  "geometry": {"coordinates":[20.01667,54.21667],"type":"Point"}
 }

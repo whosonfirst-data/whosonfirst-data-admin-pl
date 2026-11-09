@@ -63,7 +63,7 @@
         "wk:page":"Tynwa%C5%82d"
     },
     "wof:country":"PL",
-    "wof:geomhash":"fe53aab7f23178f1eebfee9788bb8656",
+    "wof:geomhash":"3ef86d582c3e425adce00a6da6d1ff24",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     19.64295,
     53.66099000000001
 ],
-  "geometry": {"coordinates":[19.64295,53.66099000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.64295,53.66099],"type":"Point"}
 }

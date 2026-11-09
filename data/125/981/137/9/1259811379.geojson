@@ -57,7 +57,7 @@
         "wk:page":"Go%C5%9Bcieradz%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a03d0d18eee28db5661229b48a4e5ccb",
+    "wof:geomhash":"35e904f2dfb9ce504e2c27b73460deae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     17.92027999999999,
     53.262
 ],
-  "geometry": {"coordinates":[17.92027999999999,53.262],"type":"Point"}
+  "geometry": {"coordinates":[17.92028,53.262],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"%C4%86wierdzin"
     },
     "wof:country":"PL",
-    "wof:geomhash":"fcb75817e4cc4045e1bb17610820740d",
+    "wof:geomhash":"ceb5197838131e3f716fd8bc416520a8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.80492000000001,
     52.47493000000001
 ],
-  "geometry": {"coordinates":[17.80492000000001,52.47493000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.80492,52.47493],"type":"Point"}
 }

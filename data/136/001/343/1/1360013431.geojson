@@ -52,7 +52,7 @@
         "wk:page":"Pie%C5%84ki_S%C5%82ubickie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2ff070c0eaef00154e5b80d799019b59",
+    "wof:geomhash":"277fc954cda1890d0cd05337be5b9b93",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,5 +79,5 @@
     20.61705,
     51.99339000000001
 ],
-  "geometry": {"coordinates":[20.61705,51.99339000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.61705,51.99339],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Ciep%C5%82e%2C_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b39bc4a317c30dec9c661e44f5535af6",
+    "wof:geomhash":"373e6f6b15a682edf1962992a06d88d3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.83917000000001,
     53.85478000000001
 ],
-  "geometry": {"coordinates":[18.83917000000001,53.85478000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.83917,53.85478],"type":"Point"}
 }

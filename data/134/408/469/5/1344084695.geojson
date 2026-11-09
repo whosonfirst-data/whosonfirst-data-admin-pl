@@ -45,7 +45,7 @@
         "wk:page":"Bukowiec_Nowy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5e70da402628dfe0c31d7310f7c6ec96",
+    "wof:geomhash":"993ff1aca34bdd5d363ddae48dec5f3e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,5 +72,5 @@
     18.473,
     53.80311999999999
 ],
-  "geometry": {"coordinates":[18.473,53.80311999999999],"type":"Point"}
+  "geometry": {"coordinates":[18.473,53.80312],"type":"Point"}
 }

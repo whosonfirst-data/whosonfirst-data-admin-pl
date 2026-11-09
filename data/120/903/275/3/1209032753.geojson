@@ -51,7 +51,7 @@
         "wk:page":"Zapole%2C_Sieradz_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b28813fb1fed0cc80849d202a87fd51d",
+    "wof:geomhash":"d25dc778dafba758cd366db3af8197f4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.6553,
     51.49100000000001
 ],
-  "geometry": {"coordinates":[18.6553,51.49100000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.6553,51.491],"type":"Point"}
 }

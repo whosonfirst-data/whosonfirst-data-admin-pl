@@ -63,7 +63,7 @@
         "wk:page":"St%C4%99szewko"
     },
     "wof:country":"PL",
-    "wof:geomhash":"183bfc6af73d4d23333774f7522283dd",
+    "wof:geomhash":"0ab4f0e61c2d9a1933019dbb73bc7894",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     17.17571,
     52.52798000000001
 ],
-  "geometry": {"coordinates":[17.17571,52.52798000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.17571,52.52798],"type":"Point"}
 }

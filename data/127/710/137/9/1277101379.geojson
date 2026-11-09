@@ -54,7 +54,7 @@
         "wk:page":"Kamienna%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"24ec3cd5bf45532f8a89d30854bfcd32",
+    "wof:geomhash":"671a834df99a43417abb7147f6f42352",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.14539,
     52.36454000000001
 ],
-  "geometry": {"coordinates":[19.14539,52.36454000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.14539,52.36454],"type":"Point"}
 }

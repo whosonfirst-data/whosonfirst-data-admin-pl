@@ -51,7 +51,7 @@
         "wk:page":"Koz%C5%82owo%2C_Grudzi%C4%85dz_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9cc95a27fdb13f5aa662174ab29461c4",
+    "wof:geomhash":"b6429e4b645cda6b5ba2ab50c1eaa746",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.19895,
     53.54163000000001
 ],
-  "geometry": {"coordinates":[19.19895,53.54163000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.19895,53.54163],"type":"Point"}
 }

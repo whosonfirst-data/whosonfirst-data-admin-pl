@@ -54,7 +54,7 @@
         "wk:page":"Ordzin"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5d9aaebb598e515866119f41a4486f21",
+    "wof:geomhash":"6962c57da07d62a4b7670efb5673f02c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     16.45582000000001,
     52.67256999999999
 ],
-  "geometry": {"coordinates":[16.45582000000001,52.67256999999999],"type":"Point"}
+  "geometry": {"coordinates":[16.45582,52.67257],"type":"Point"}
 }

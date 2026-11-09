@@ -54,7 +54,7 @@
         "wk:page":"Bartodzieje%2C_Zwole%C5%84_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"560f1c4ec41828e4aa63e8248efffdc7",
+    "wof:geomhash":"9dc98f82ca6d2c7a7ddf85feb475142f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.48182000000001,
     51.33591
 ],
-  "geometry": {"coordinates":[21.48182000000001,51.33591],"type":"Point"}
+  "geometry": {"coordinates":[21.48182,51.33591],"type":"Point"}
 }

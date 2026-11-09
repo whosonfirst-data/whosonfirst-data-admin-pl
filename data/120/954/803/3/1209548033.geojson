@@ -51,7 +51,7 @@
         "wk:page":"J%C4%99drzych%C3%B3w%2C_Lower_Silesian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8c7df7fee90b30c69db244d25975b335",
+    "wof:geomhash":"e1a648a1da86f79ebe9a05f4dceee324",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     16.04582000000001,
     51.45132
 ],
-  "geometry": {"coordinates":[16.04582000000001,51.45132],"type":"Point"}
+  "geometry": {"coordinates":[16.04582,51.45132],"type":"Point"}
 }

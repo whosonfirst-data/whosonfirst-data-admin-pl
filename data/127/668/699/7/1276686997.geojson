@@ -54,7 +54,7 @@
         "wk:page":"Ksi%C4%99%C5%BCe_M%C5%82yny"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c30aef0fcd6ca6cde3dd4871dd9beb78",
+    "wof:geomhash":"078149f8dce06f218c9a2089594f1c66",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.74439,
     51.88529000000001
 ],
-  "geometry": {"coordinates":[18.74439,51.88529000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.74439,51.88529],"type":"Point"}
 }

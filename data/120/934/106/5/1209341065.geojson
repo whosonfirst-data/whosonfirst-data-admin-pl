@@ -57,7 +57,7 @@
         "wk:page":"Janowiczki%2C_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e94fa83d57c86643a4cc04079e564955",
+    "wof:geomhash":"39b9657e07dd68f8ae429915eab49c39",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     17.63906,
     54.59056999999999
 ],
-  "geometry": {"coordinates":[17.63906,54.59056999999999],"type":"Point"}
+  "geometry": {"coordinates":[17.63906,54.59057],"type":"Point"}
 }

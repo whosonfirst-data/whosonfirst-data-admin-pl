@@ -51,7 +51,7 @@
         "wk:page":"Nowa_Ju%C5%84cza"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3140194deab856b2a25f0f333fec5452",
+    "wof:geomhash":"04027c24860e7c0f80e1874cc0272735",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.99331,
     53.84144000000001
 ],
-  "geometry": {"coordinates":[17.99331,53.84144000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.99331,53.84144],"type":"Point"}
 }

@@ -55,7 +55,7 @@
         "wk:page":"Skrobotowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9b9685172e05610094a21c371bc529fe",
+    "wof:geomhash":"3016aadc5a4e229d3b410991f68291f7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,5 +82,5 @@
     15.07153,
     54.05011999999999
 ],
-  "geometry": {"coordinates":[15.07153,54.05011999999999],"type":"Point"}
+  "geometry": {"coordinates":[15.07153,54.05012],"type":"Point"}
 }

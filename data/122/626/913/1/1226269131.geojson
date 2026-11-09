@@ -60,7 +60,7 @@
         "wk:page":"Korczyska"
     },
     "wof:country":"PL",
-    "wof:geomhash":"03ec7236bccc5b81a123727443845a7e",
+    "wof:geomhash":"580c7659ad484825ddc5dda3bff8371b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     19.06158,
     51.45659000000001
 ],
-  "geometry": {"coordinates":[19.06158,51.45659000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.06158,51.45659],"type":"Point"}
 }

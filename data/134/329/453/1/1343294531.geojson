@@ -54,7 +54,7 @@
         "wk:page":"Szczepkowo-Zalesie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"0d09276925465f77da6ad65966e4f7a9",
+    "wof:geomhash":"9684051a38a6d21b129390965df76a8d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.5839,
     53.27578000000001
 ],
-  "geometry": {"coordinates":[20.5839,53.27578000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.5839,53.27578],"type":"Point"}
 }

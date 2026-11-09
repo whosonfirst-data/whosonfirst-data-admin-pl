@@ -51,7 +51,7 @@
         "wk:page":"Pomian%C3%B3w_Dolny"
     },
     "wof:country":"PL",
-    "wof:geomhash":"34c3e27bdb74c4865d09b2f9e79c74bf",
+    "wof:geomhash":"a2aeedd6463e3e324964bf0ff6f435bf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.04802999999999,
     50.48744
 ],
-  "geometry": {"coordinates":[17.04802999999999,50.48744],"type":"Point"}
+  "geometry": {"coordinates":[17.04803,50.48744],"type":"Point"}
 }

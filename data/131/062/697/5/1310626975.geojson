@@ -54,7 +54,7 @@
         "wk:page":"Poniatowicze"
     },
     "wof:country":"PL",
-    "wof:geomhash":"cff53cf376ffbc86142c528a94e33421",
+    "wof:geomhash":"97130d0decf890880f0d9e3fe15bfd4f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     23.63422000000001,
     53.43263
 ],
-  "geometry": {"coordinates":[23.63422000000001,53.43263],"type":"Point"}
+  "geometry": {"coordinates":[23.63422,53.43263],"type":"Point"}
 }

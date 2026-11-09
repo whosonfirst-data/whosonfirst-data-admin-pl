@@ -54,7 +54,7 @@
         "wk:page":"Gliniszcze_Ma%C5%82e"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a45fb2ba9651a07b8c995a73cfab33ec",
+    "wof:geomhash":"a24719a73a5398f2ad9120f1e8b73f47",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     23.50482,
     53.48383000000001
 ],
-  "geometry": {"coordinates":[23.50482,53.48383000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.50482,53.48383],"type":"Point"}
 }

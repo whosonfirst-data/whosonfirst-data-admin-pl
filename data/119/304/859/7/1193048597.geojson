@@ -63,7 +63,7 @@
         "wk:page":"Komory_B%C5%82otne"
     },
     "wof:country":"PL",
-    "wof:geomhash":"973173466980b90e573680eca637db8a",
+    "wof:geomhash":"e6f508fdea5c9b0e12497dd7f4e1d6d1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     20.69281,
     52.76264000000001
 ],
-  "geometry": {"coordinates":[20.69281,52.76264000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.69281,52.76264],"type":"Point"}
 }

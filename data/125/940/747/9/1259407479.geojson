@@ -51,7 +51,7 @@
         "wk:page":"Chojno%2C_Brodnica_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"90a0d5d8217e485d19962b6aee41b815",
+    "wof:geomhash":"10a4bb226847ba9ebaaf9d8ef6e5ca42",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.28481,
     53.25143000000001
 ],
-  "geometry": {"coordinates":[19.28481,53.25143000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.28481,53.25143],"type":"Point"}
 }

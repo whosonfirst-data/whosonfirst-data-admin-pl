@@ -59,7 +59,7 @@
         "wk:page":"Bierwce"
     },
     "wof:country":"PL",
-    "wof:geomhash":"67c68bcb6d9206428845e02859651967",
+    "wof:geomhash":"df4569030907f32bfb5c16fca1a3b150",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,5 +86,5 @@
     21.15263,
     51.56789000000001
 ],
-  "geometry": {"coordinates":[21.15263,51.56789000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.15263,51.56789],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Emanuelina"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2f94f87714474b0d4088bfe0b0e511b0",
+    "wof:geomhash":"0ea94a4d0079ec0c17b2e538892e9401",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.56371,
     51.29819000000001
 ],
-  "geometry": {"coordinates":[18.56371,51.29819000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.56371,51.29819],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"Che%C5%82chy-Klimki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"22af9f3af9bc72610cd9f36b787b25dd",
+    "wof:geomhash":"613642f37fee5cad020c8e5378ed4f2b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     20.96417000000001,
     52.8675
 ],
-  "geometry": {"coordinates":[20.96417000000001,52.8675],"type":"Point"}
+  "geometry": {"coordinates":[20.96417,52.8675],"type":"Point"}
 }

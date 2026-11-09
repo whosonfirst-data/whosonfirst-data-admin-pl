@@ -51,7 +51,7 @@
         "wk:page":"Komar%C3%B3wka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"252323b5b2ac3bbe7a5450664fd5a773",
+    "wof:geomhash":"74a5f29c9c709f9841814b6ccfe46f4f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     23.04657000000001,
     51.4754
 ],
-  "geometry": {"coordinates":[23.04657000000001,51.4754],"type":"Point"}
+  "geometry": {"coordinates":[23.04657,51.4754],"type":"Point"}
 }

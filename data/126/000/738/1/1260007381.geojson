@@ -57,7 +57,7 @@
         "wk:page":"Podwilcze"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9b8f788cb42f93f0695236cb5adc7087",
+    "wof:geomhash":"4d3ada0784697091350ce667767ff069",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     15.73333,
     53.93333000000001
 ],
-  "geometry": {"coordinates":[15.73333,53.93333000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.73333,53.93333],"type":"Point"}
 }

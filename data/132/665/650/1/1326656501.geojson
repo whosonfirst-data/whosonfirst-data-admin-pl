@@ -51,7 +51,7 @@
         "wk:page":"Wielkie_Rychnowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e5049bf5e19d410d68b07b7df60b4428",
+    "wof:geomhash":"69612cb66cb29eae4996c5a0b4b724a4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.80611,
     53.14686999999999
 ],
-  "geometry": {"coordinates":[18.80611,53.14686999999999],"type":"Point"}
+  "geometry": {"coordinates":[18.80611,53.14687],"type":"Point"}
 }

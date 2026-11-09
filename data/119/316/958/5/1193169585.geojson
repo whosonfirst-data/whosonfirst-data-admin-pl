@@ -51,7 +51,7 @@
         "wk:page":"Rogo%C5%BCany"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5783a43ffd3d47ab8ef83f678b725935",
+    "wof:geomhash":"c9b23d1bcb8b7064c108737b210e64f7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.90783,
     50.09249000000001
 ],
-  "geometry": {"coordinates":[17.90783,50.09249000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.90783,50.09249],"type":"Point"}
 }

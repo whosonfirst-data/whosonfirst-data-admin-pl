@@ -63,7 +63,7 @@
         "wk:page":"B%C5%82%C4%85dkowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1dde4203c4e9cec4ca5e0d8ffd11386e",
+    "wof:geomhash":"f2d793f8dcaf9db9cdc1875875c740da",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     15.24339,
     53.60098000000001
 ],
-  "geometry": {"coordinates":[15.24339,53.60098000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.24339,53.60098],"type":"Point"}
 }

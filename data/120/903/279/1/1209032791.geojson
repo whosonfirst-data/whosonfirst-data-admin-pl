@@ -57,7 +57,7 @@
         "wk:page":"Stawiany%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b7eb6b4585efaf25e112cd8e50a0682c",
+    "wof:geomhash":"3b3f03a36a4a3ed554436f3196637825",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     17.20262,
     52.62011999999999
 ],
-  "geometry": {"coordinates":[17.20262,52.62011999999999],"type":"Point"}
+  "geometry": {"coordinates":[17.20262,52.62012],"type":"Point"}
 }

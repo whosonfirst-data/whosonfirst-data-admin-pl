@@ -51,7 +51,7 @@
         "wk:page":"Bogus%C5%82awice%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"91083f5321ecb2c07a132369b842ee3f",
+    "wof:geomhash":"f1e409092d5208536d58d6546b910755",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.1617,
     52.50828000000001
 ],
-  "geometry": {"coordinates":[19.1617,52.50828000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.1617,52.50828],"type":"Point"}
 }

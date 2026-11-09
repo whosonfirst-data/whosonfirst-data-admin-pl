@@ -51,7 +51,7 @@
         "wk:page":"Mostki%2C_%C5%81%C3%B3d%C5%BA_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"de9e4bc52b1526e276d9828c8cad30a6",
+    "wof:geomhash":"5e54ca51cd8be71fd9e78672bb9d0cd4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.98161,
     51.64344000000001
 ],
-  "geometry": {"coordinates":[18.98161,51.64344000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.98161,51.64344],"type":"Point"}
 }

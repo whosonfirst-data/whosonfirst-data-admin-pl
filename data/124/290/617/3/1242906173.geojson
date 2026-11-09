@@ -54,7 +54,7 @@
         "wk:page":"Ropianka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a557d2ee1561748bc603c97d44129295",
+    "wof:geomhash":"0961da73c39b302c94b340f4615810d5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.61592000000001,
     49.48543
 ],
-  "geometry": {"coordinates":[21.61592000000001,49.48543],"type":"Point"}
+  "geometry": {"coordinates":[21.61592,49.48543],"type":"Point"}
 }

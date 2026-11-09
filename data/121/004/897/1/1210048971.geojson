@@ -54,7 +54,7 @@
         "wk:page":"Ksi%C4%99%C5%BCe_Pole"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8567b2fe96496d3f2712721f60983f25",
+    "wof:geomhash":"321279e19811f6194ba8ad2b55a6ba02",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.96298999999999,
     50.10847
 ],
-  "geometry": {"coordinates":[17.96298999999999,50.10847],"type":"Point"}
+  "geometry": {"coordinates":[17.96299,50.10847],"type":"Point"}
 }

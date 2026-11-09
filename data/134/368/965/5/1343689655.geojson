@@ -54,7 +54,7 @@
         "wk:page":"Konradowo%2C_Warmian-Masurian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a7ea7e567a78a68ff657511e46312386",
+    "wof:geomhash":"6abb6f9567d7e6ca8a144ba55ba2d26e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.23186,
     53.95308000000001
 ],
-  "geometry": {"coordinates":[20.23186,53.95308000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.23186,53.95308],"type":"Point"}
 }

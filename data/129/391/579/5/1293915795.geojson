@@ -54,7 +54,7 @@
         "wk:page":"Krzemie%C5%84%2C_West_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e7d5b22bc4140c4c64ce1461c4d625d3",
+    "wof:geomhash":"824806d5e4d55187515bd18799fa10b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     15.53057,
     53.36796999999999
 ],
-  "geometry": {"coordinates":[15.53057,53.36796999999999],"type":"Point"}
+  "geometry": {"coordinates":[15.53057,53.36797],"type":"Point"}
 }

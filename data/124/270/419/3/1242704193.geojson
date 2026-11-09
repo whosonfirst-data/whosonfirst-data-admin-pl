@@ -69,7 +69,7 @@
         "wk:page":"Swornegacie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a06cbca43c39ab2a475410d4c0e7ee90",
+    "wof:geomhash":"9e477702e4fe6e01ad6e2b69749ed2c3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     17.49626,
     53.85948000000001
 ],
-  "geometry": {"coordinates":[17.49626,53.85948000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.49626,53.85948],"type":"Point"}
 }

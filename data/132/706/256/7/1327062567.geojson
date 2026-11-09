@@ -66,7 +66,7 @@
         "wk:page":"Walercin"
     },
     "wof:country":"PL",
-    "wof:geomhash":"76e97dd8e82622794236370c3c05ed91",
+    "wof:geomhash":"431929ed4fc9af64f8d7e24b4128a3c4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     21.48027,
     52.25729000000001
 ],
-  "geometry": {"coordinates":[21.48027,52.25729000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.48027,52.25729],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"%C5%BBelich%C3%B3w%2C_West_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"18484fed1b8fd9274d16d170d0f57d90",
+    "wof:geomhash":"7af95430f2dc78648e3009d4bfc8c65f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     14.29424,
     52.85234000000001
 ],
-  "geometry": {"coordinates":[14.29424,52.85234000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.29424,52.85234],"type":"Point"}
 }

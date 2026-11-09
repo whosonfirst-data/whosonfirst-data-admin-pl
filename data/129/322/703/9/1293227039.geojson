@@ -54,7 +54,7 @@
         "wk:page":"Piekary%2C_Pozna%C5%84_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3ba723d297bc5e26da2fcf7ae31e225f",
+    "wof:geomhash":"03ef3cd63b5a927093c5644a60824fe3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     16.5703,
     52.30034000000001
 ],
-  "geometry": {"coordinates":[16.5703,52.30034000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.5703,52.30034],"type":"Point"}
 }

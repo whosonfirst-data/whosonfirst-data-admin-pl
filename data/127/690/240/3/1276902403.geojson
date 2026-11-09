@@ -51,7 +51,7 @@
         "wk:page":"Boruchowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"993925dc8ef7adb700385c2f9c05ff70",
+    "wof:geomhash":"b966f87bf5ed1719d9930cd92ce1f4a2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     16.88833,
     52.75893000000001
 ],
-  "geometry": {"coordinates":[16.88833,52.75893000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.88833,52.75893],"type":"Point"}
 }

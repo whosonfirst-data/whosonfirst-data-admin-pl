@@ -61,7 +61,7 @@
         "wk:page":"Jordanki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"0ba626351e863ce66daa6a39303c4944",
+    "wof:geomhash":"8572b88570f3f34c55172999173ca104",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     19.18018,
     53.98583000000001
 ],
-  "geometry": {"coordinates":[19.18018,53.98583000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.18018,53.98583],"type":"Point"}
 }

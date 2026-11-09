@@ -57,7 +57,7 @@
         "wk:page":"W%C4%99gielsztyn"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7dea9c8e53b01f03533506e3c5c29c10",
+    "wof:geomhash":"eed0cc7703953683486b02abfaae3211",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.63494,
     54.23611999999999
 ],
-  "geometry": {"coordinates":[21.63494,54.23611999999999],"type":"Point"}
+  "geometry": {"coordinates":[21.63494,54.23612],"type":"Point"}
 }

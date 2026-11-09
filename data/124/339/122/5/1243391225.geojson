@@ -55,7 +55,7 @@
         "wk:page":"M%C4%85tyki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"17cd092e5475a42589fcff655ff70e04",
+    "wof:geomhash":"42e1d63dfe49d2e0308f19915c15eb1a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,5 +82,5 @@
     19.71133,
     53.62468000000001
 ],
-  "geometry": {"coordinates":[19.71133,53.62468000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.71133,53.62468],"type":"Point"}
 }

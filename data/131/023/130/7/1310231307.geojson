@@ -57,7 +57,7 @@
         "wk:page":"Przybroda"
     },
     "wof:country":"PL",
-    "wof:geomhash":"20c9c2834a9a6678e912c9fd249aaedc",
+    "wof:geomhash":"04b31700e46bc82b9a4927849ace8729",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     16.66197,
     52.52113000000001
 ],
-  "geometry": {"coordinates":[16.66197,52.52113000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.66197,52.52113],"type":"Point"}
 }

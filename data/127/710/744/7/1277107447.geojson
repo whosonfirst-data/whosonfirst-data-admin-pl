@@ -54,7 +54,7 @@
         "wk:page":"Sasek_Ma%C5%82y"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2f8b714f9b46926656d9240e1e9e7dcc",
+    "wof:geomhash":"1af2b6e9ea4e8a6eb5b9e12b5ae0ab2b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.88087,
     53.49854000000001
 ],
-  "geometry": {"coordinates":[20.88087,53.49854000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.88087,53.49854],"type":"Point"}
 }

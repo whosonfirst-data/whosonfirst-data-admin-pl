@@ -57,7 +57,7 @@
         "wk:page":"Duchny-Wieluny"
     },
     "wof:country":"PL",
-    "wof:geomhash":"667a2ba49d91ec0ac490f1620a54c1db",
+    "wof:geomhash":"f585ac13d36b7765b3517806665cbc6b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.50737,
     53.08394000000001
 ],
-  "geometry": {"coordinates":[22.50737,53.08394000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.50737,53.08394],"type":"Point"}
 }

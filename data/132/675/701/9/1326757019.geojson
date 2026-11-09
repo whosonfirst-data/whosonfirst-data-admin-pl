@@ -51,7 +51,7 @@
         "wk:page":"Pronie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"67596b0bcb740cb7f5bb4dbdbe1bf5ea",
+    "wof:geomhash":"ba0a82da2e18e57a49df73157879ae91",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.50039,
     53.89958000000001
 ],
-  "geometry": {"coordinates":[19.50039,53.89958000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.50039,53.89958],"type":"Point"}
 }

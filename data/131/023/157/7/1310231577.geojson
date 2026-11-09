@@ -57,7 +57,7 @@
         "wk:page":"Ro%C5%BCce"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c0e05ada0cd840f9d4005beeb1a8e9a1",
+    "wof:geomhash":"e481c1facf55caf3847a959292798af7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     20.75196,
     51.84269000000001
 ],
-  "geometry": {"coordinates":[20.75196,51.84269000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.75196,51.84269],"type":"Point"}
 }

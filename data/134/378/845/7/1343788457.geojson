@@ -72,7 +72,7 @@
         "wk:page":"Jasie%C5%84%2C_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8eb252b5116637e65b9afc266b09ae89",
+    "wof:geomhash":"99a8ba341d45bb3c59a93f32f7d1ce53",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,5 +99,5 @@
     17.62842000000001,
     54.28647
 ],
-  "geometry": {"coordinates":[17.62842000000001,54.28647],"type":"Point"}
+  "geometry": {"coordinates":[17.62842,54.28647],"type":"Point"}
 }

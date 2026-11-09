@@ -57,7 +57,7 @@
         "wk:page":"Wierzowice_Wielkie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7b8fa8c30d395347d09b9a49148774f2",
+    "wof:geomhash":"5ca0d49faebdafcd2e409f299ce015fa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     16.59522999999999,
     51.59929
 ],
-  "geometry": {"coordinates":[16.59522999999999,51.59929],"type":"Point"}
+  "geometry": {"coordinates":[16.59523,51.59929],"type":"Point"}
 }

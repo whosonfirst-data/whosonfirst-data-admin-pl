@@ -57,7 +57,7 @@
         "wk:page":"W%C3%B3lka_Piecz%C4%85ca"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d30ba681537bffc76a0b3f9b9029a5d7",
+    "wof:geomhash":"05e5aa22fc952689b27de47d81f1d0df",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.57097000000001,
     52.31798
 ],
-  "geometry": {"coordinates":[21.57097000000001,52.31798],"type":"Point"}
+  "geometry": {"coordinates":[21.57097,52.31798],"type":"Point"}
 }

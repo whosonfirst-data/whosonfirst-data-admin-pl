@@ -54,7 +54,7 @@
         "wk:page":"Jele%C5%84%2C_West_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ebb370df7424bfcc41b83a0915e25bd6",
+    "wof:geomhash":"3af4de7504be20d0ba6f9798c58ab958",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     16.60282999999999,
     53.6249
 ],
-  "geometry": {"coordinates":[16.60282999999999,53.6249],"type":"Point"}
+  "geometry": {"coordinates":[16.60283,53.6249],"type":"Point"}
 }

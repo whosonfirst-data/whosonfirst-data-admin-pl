@@ -58,7 +58,7 @@
         "wk:page":"B%C4%85k%C3%B3w_Dolny"
     },
     "wof:country":"PL",
-    "wof:geomhash":"13e30ecc14800ac862e82d80e1abfb25",
+    "wof:geomhash":"99d01fc65a258d33c4783f195ae75960",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,5 +85,5 @@
     19.71737000000001,
     52.15414000000001
 ],
-  "geometry": {"coordinates":[19.71737000000001,52.15414000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.71737,52.15414],"type":"Point"}
 }

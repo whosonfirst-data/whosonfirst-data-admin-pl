@@ -63,7 +63,7 @@
         "wk:page":"Kozin%2C_Warmian-Masurian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3fbf3db806607199149df25aacf1a724",
+    "wof:geomhash":"a61d6bc335b2f5308423c76ed4c221ce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     21.71952000000001,
     53.94657
 ],
-  "geometry": {"coordinates":[21.71952000000001,53.94657],"type":"Point"}
+  "geometry": {"coordinates":[21.71952,53.94657],"type":"Point"}
 }

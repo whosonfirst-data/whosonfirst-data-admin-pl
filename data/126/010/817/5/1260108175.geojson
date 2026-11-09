@@ -54,7 +54,7 @@
         "wk:page":"Znami%C4%85czki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5bbb821a4dbeeba213398b0cf10ad4fe",
+    "wof:geomhash":"25c7b59b7cd51005428b1934b28ec54a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.5423,
     52.79134000000001
 ],
-  "geometry": {"coordinates":[21.5423,52.79134000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.5423,52.79134],"type":"Point"}
 }

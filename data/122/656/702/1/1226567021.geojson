@@ -51,7 +51,7 @@
         "wk:page":"Hebd%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"77160947d0a55335e9b8657f988b27be",
+    "wof:geomhash":"d11cecd9317f532b65fc204b53b557cd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     20.41098,
     50.14834000000001
 ],
-  "geometry": {"coordinates":[20.41098,50.14834000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.41098,50.14834],"type":"Point"}
 }

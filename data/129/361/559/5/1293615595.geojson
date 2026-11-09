@@ -52,7 +52,7 @@
         "wk:page":"Wodynia"
     },
     "wof:country":"PL",
-    "wof:geomhash":"75fcf97c19193ddd9d28734eae49fe0e",
+    "wof:geomhash":"56d0b755bc1f979f8ee38bc7be972073",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,5 +79,5 @@
     19.61918,
     54.29389000000001
 ],
-  "geometry": {"coordinates":[19.61918,54.29389000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.61918,54.29389],"type":"Point"}
 }

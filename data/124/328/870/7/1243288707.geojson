@@ -60,7 +60,7 @@
         "wk:page":"Smogorz%C3%B3w%2C_Opole_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"76eae8c32f179edb044fcc0942d4f967",
+    "wof:geomhash":"57b3feed1b435397499e0c754bb55534",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     17.75837000000001,
     51.15642
 ],
-  "geometry": {"coordinates":[17.75837000000001,51.15642],"type":"Point"}
+  "geometry": {"coordinates":[17.75837,51.15642],"type":"Point"}
 }

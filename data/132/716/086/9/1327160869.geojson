@@ -60,7 +60,7 @@
         "wk:page":"G%C4%85dno"
     },
     "wof:country":"PL",
-    "wof:geomhash":"fe081aeccc056357b53d0caa00dc4dda",
+    "wof:geomhash":"c0e6ad957f8b6f366b32d34c13c45189",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     14.42076,
     52.85483000000001
 ],
-  "geometry": {"coordinates":[14.42076,52.85483000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.42076,52.85483],"type":"Point"}
 }

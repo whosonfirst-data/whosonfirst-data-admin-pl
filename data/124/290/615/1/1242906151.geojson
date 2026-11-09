@@ -59,7 +59,7 @@
         "wk:page":"Dworackie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4495ff35d7c761ae08e19cb39aa12e88",
+    "wof:geomhash":"eb96a2d66996114788ab3fed0125a755",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,5 +86,5 @@
     22.36142000000001,
     53.97819000000001
 ],
-  "geometry": {"coordinates":[22.36142000000001,53.97819000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.36142,53.97819],"type":"Point"}
 }

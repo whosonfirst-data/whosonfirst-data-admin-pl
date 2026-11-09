@@ -51,7 +51,7 @@
         "wk:page":"Skrzyd%C5%82owo%2C_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"721e991bdf6c80395a226340bd304ffd",
+    "wof:geomhash":"ef042fbde75d555a34cc49cba0b94a29",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.26476,
     54.12753000000001
 ],
-  "geometry": {"coordinates":[18.26476,54.12753000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.26476,54.12753],"type":"Point"}
 }

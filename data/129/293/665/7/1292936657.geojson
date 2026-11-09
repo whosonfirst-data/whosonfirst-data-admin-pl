@@ -54,7 +54,7 @@
         "wk:page":"Koziebrody"
     },
     "wof:country":"PL",
-    "wof:geomhash":"259e198a2ae69b8ff07169f099c8c963",
+    "wof:geomhash":"3a8d3e4ac840fffc4c85c338db53ece0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.99231,
     52.80246999999999
 ],
-  "geometry": {"coordinates":[19.99231,52.80246999999999],"type":"Point"}
+  "geometry": {"coordinates":[19.99231,52.80247],"type":"Point"}
 }

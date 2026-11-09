@@ -54,7 +54,7 @@
         "wk:page":"Ciechanki_Krzesimowskie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4dc351165c0dbac1d2fb27cea76187bf",
+    "wof:geomhash":"8ce72423112d6ec5adb1652d5e8fe4d4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.86667000000001,
     51.28333
 ],
-  "geometry": {"coordinates":[22.86667000000001,51.28333],"type":"Point"}
+  "geometry": {"coordinates":[22.86667,51.28333],"type":"Point"}
 }

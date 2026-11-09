@@ -54,7 +54,7 @@
         "wk:page":"K%C5%82odzin%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b7aae6c160d23c76f0b810defcb4e592",
+    "wof:geomhash":"9d3c673ca587fc852da2c8f810d5de3f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.40904,
     52.69844000000001
 ],
-  "geometry": {"coordinates":[17.40904,52.69844000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.40904,52.69844],"type":"Point"}
 }

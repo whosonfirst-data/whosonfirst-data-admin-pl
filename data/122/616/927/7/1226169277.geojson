@@ -51,7 +51,7 @@
         "wk:page":"Che%C5%82mienko"
     },
     "wof:country":"PL",
-    "wof:geomhash":"bcff69057aed3f2cce4d86b24d09bc08",
+    "wof:geomhash":"8fe990bcb5e2532616615813c128519a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     15.56462,
     53.02701999999999
 ],
-  "geometry": {"coordinates":[15.56462,53.02701999999999],"type":"Point"}
+  "geometry": {"coordinates":[15.56462,53.02702],"type":"Point"}
 }

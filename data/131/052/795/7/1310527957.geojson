@@ -52,7 +52,7 @@
         "wk:page":"Paw%C5%82%C3%B3w%2C_Lesser_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a4b0d7ea0bff466920ce181ee95cd89b",
+    "wof:geomhash":"cecabd34cfe9c91c156e38f12a7cd114",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.88947000000001,
     50.29131
 ],
-  "geometry": {"coordinates":[20.88947000000001,50.29131],"type":"Point"}
+  "geometry": {"coordinates":[20.88947,50.29131],"type":"Point"}
 }

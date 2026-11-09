@@ -51,7 +51,7 @@
         "wk:page":"K%C5%82%C3%B3bka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"753a39febb10c4c99534cbe05870d8a6",
+    "wof:geomhash":"0fe7747f0946785c36e3d77ece81a3a4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.1307,
     52.45173000000001
 ],
-  "geometry": {"coordinates":[19.1307,52.45173000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.1307,52.45173],"type":"Point"}
 }

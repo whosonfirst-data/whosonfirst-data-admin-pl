@@ -51,7 +51,7 @@
         "wk:page":"Franciszkany"
     },
     "wof:country":"PL",
-    "wof:geomhash":"505dffa7067681b686f674b5129f807f",
+    "wof:geomhash":"228c501bc53332fc39c5b234c393ee19",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     20.21502000000001,
     51.89569
 ],
-  "geometry": {"coordinates":[20.21502000000001,51.89569],"type":"Point"}
+  "geometry": {"coordinates":[20.21502,51.89569],"type":"Point"}
 }

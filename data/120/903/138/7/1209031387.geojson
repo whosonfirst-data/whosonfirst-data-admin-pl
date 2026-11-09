@@ -58,7 +58,7 @@
         "wk:page":"Hredk%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"09db91b2cbbb4aad4585c9597f5158ce",
+    "wof:geomhash":"92967d140f5f3b8666b05238a0b589e8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,5 +85,5 @@
     23.42766,
     51.23484000000001
 ],
-  "geometry": {"coordinates":[23.42766,51.23484000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.42766,51.23484],"type":"Point"}
 }

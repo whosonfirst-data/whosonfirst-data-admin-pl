@@ -54,7 +54,7 @@
         "wk:page":"Szklana%2C_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7ce9b45926c22d2acbc16ed3e0eed9e5",
+    "wof:geomhash":"da39c95ff5cd82bfaebea98816cfe6af",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.94223999999999,
     54.31618
 ],
-  "geometry": {"coordinates":[17.94223999999999,54.31618],"type":"Point"}
+  "geometry": {"coordinates":[17.94224,54.31618],"type":"Point"}
 }

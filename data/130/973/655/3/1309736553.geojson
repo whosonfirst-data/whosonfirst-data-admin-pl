@@ -69,7 +69,7 @@
         "wk:page":"Garczyn_Du%C5%BCy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"702d1dd4bb7f05dd83722d012aba5f28",
+    "wof:geomhash":"61ffb5bf29a3ebbc57d9cc90b69618f2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     21.77879,
     52.27164000000001
 ],
-  "geometry": {"coordinates":[21.77879,52.27164000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.77879,52.27164],"type":"Point"}
 }

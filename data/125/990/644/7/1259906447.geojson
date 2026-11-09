@@ -63,7 +63,7 @@
         "wk:page":"Gackie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e1943eb1a447c7613a7aa0822d771ecd",
+    "wof:geomhash":"e9800fbe584d4b7081ec00ab446fc56e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     22.50452,
     53.53814000000001
 ],
-  "geometry": {"coordinates":[22.50452,53.53814000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.50452,53.53814],"type":"Point"}
 }

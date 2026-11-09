@@ -57,7 +57,7 @@
         "wk:page":"%C5%81opusze%2C_Podlaskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3668212bbf048847a3c535cee5ca3cf3",
+    "wof:geomhash":"149c84dd99f6bc421518e98f1209e8d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.7192,
     52.50326999999999
 ],
-  "geometry": {"coordinates":[22.7192,52.50326999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.7192,52.50327],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"Kucharki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9bf6ad20c71cfadf2156b99e5ba592d4",
+    "wof:geomhash":"29750fbe8b013b50f4e749adfb570a75",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     17.91877999999999,
     51.80341
 ],
-  "geometry": {"coordinates":[17.91877999999999,51.80341],"type":"Point"}
+  "geometry": {"coordinates":[17.91878,51.80341],"type":"Point"}
 }

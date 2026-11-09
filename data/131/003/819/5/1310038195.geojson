@@ -51,7 +51,7 @@
         "wk:page":"Przybyszew%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"18a3f97dcbe2711dbb4f6c289959d818",
+    "wof:geomhash":"e85c18fa5002da4010839795ac08849c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.91537000000001,
     52.20203
 ],
-  "geometry": {"coordinates":[18.91537000000001,52.20203],"type":"Point"}
+  "geometry": {"coordinates":[18.91537,52.20203],"type":"Point"}
 }

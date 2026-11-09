@@ -54,7 +54,7 @@
         "wk:page":"Stare_Sierzputy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c1386f70c0bf018717740879d375ee28",
+    "wof:geomhash":"f498a52ed47212e122c12a80e8fc3abb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.96991,
     53.17693000000001
 ],
-  "geometry": {"coordinates":[21.96991,53.17693000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.96991,53.17693],"type":"Point"}
 }

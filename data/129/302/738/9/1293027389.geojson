@@ -54,7 +54,7 @@
         "wk:page":"Ro%C5%BCny"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f711044a1b8d092eb81cce247d9ed1e0",
+    "wof:geomhash":"a272c804e507800e87c20970e19a78d6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.3782,
     51.12929000000001
 ],
-  "geometry": {"coordinates":[19.3782,51.12929000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.3782,51.12929],"type":"Point"}
 }

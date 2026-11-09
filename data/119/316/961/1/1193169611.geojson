@@ -54,7 +54,7 @@
         "wk:page":"Ozierany_Ma%C5%82e"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5b80255d186782e440139b0bddb6094e",
+    "wof:geomhash":"797712b178869b3ca6f28474ee0852f7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,5 +80,5 @@
     23.86667000000001,
     53.21666999999999
 ],
-  "geometry": {"coordinates":[23.86667000000001,53.21666999999999],"type":"Point"}
+  "geometry": {"coordinates":[23.86667,53.21667],"type":"Point"}
 }

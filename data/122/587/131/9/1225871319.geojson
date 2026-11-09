@@ -51,7 +51,7 @@
         "wk:page":"Niemil"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5ae8ab6fc10de6310fe9db19c62ef31c",
+    "wof:geomhash":"f15be8f70e1eedf6d8fa3c3e2506d830",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.27102,
     50.86134000000001
 ],
-  "geometry": {"coordinates":[17.27102,50.86134000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.27102,50.86134],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Micha%C5%82%C3%B3wek%2C_Warsaw_West_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"fb95d2dab75ec7b48b4d4de1e488c229",
+    "wof:geomhash":"a8fd9b5a97a7c112a16c56d14a02a618",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.73326,
     52.21749000000001
 ],
-  "geometry": {"coordinates":[20.73326,52.21749000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.73326,52.21749],"type":"Point"}
 }

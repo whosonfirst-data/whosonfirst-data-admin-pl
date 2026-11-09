@@ -59,7 +59,7 @@
         "wk:page":"Wietrzychowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d876091c95c3d0834974365f82f0d326",
+    "wof:geomhash":"7b152c9281606661dc5c48935ce09a37",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,5 +86,5 @@
     20.40753,
     53.41798000000001
 ],
-  "geometry": {"coordinates":[20.40753,53.41798000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.40753,53.41798],"type":"Point"}
 }

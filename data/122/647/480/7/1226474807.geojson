@@ -63,7 +63,7 @@
         "wk:page":"Saki%2C_Gmina_Kleszczele"
     },
     "wof:country":"PL",
-    "wof:geomhash":"348ba5fd0178c162cb42ccabaa6d1947",
+    "wof:geomhash":"5b4d068d615218a718749673dba81684",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     23.33374,
     52.62838000000001
 ],
-  "geometry": {"coordinates":[23.33374,52.62838000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.33374,52.62838],"type":"Point"}
 }

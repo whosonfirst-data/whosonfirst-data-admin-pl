@@ -53,7 +53,7 @@
         "wk:page":"Cierniki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f121c08283594ecd5829092bee5330b3",
+    "wof:geomhash":"0b8115fe18f756c11824df2f0cee12b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,5 +80,5 @@
     17.00941,
     53.78066999999999
 ],
-  "geometry": {"coordinates":[17.00941,53.78066999999999],"type":"Point"}
+  "geometry": {"coordinates":[17.00941,53.78067],"type":"Point"}
 }

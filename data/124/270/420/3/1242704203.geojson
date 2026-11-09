@@ -63,7 +63,7 @@
         "wk:page":"Modliszewo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8fd1b826b42d3b3264802a01dba01d2f",
+    "wof:geomhash":"5a11a855396ca8a162603e4856328761",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     17.59993,
     52.60449000000001
 ],
-  "geometry": {"coordinates":[17.59993,52.60449000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.59993,52.60449],"type":"Point"}
 }

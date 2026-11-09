@@ -51,7 +51,7 @@
         "wk:page":"Szczutkowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"bb26a40cfb244a6bca87538bbe915f86",
+    "wof:geomhash":"67e8726aa92f8f4add3e330d62d2fa74",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.06265,
     52.48716999999999
 ],
-  "geometry": {"coordinates":[19.06265,52.48716999999999],"type":"Point"}
+  "geometry": {"coordinates":[19.06265,52.48717],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Salino"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c0b546bf15110cfe1a9d847582315fe5",
+    "wof:geomhash":"b096dbc427218ba68b619fbaad754585",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.92551,
     54.67818000000001
 ],
-  "geometry": {"coordinates":[17.92551,54.67818000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.92551,54.67818],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"%C5%81%C4%99%C5%BCce%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1e4c472da1c4c3554c1b508e2c59050a",
+    "wof:geomhash":"861b171e782fd1cbc8b9d913fcddbd4b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     16.17935,
     52.59648000000001
 ],
-  "geometry": {"coordinates":[16.17935,52.59648000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.17935,52.59648],"type":"Point"}
 }

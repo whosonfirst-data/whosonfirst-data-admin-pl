@@ -54,7 +54,7 @@
         "wk:page":"Bogusz%C3%B3wka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"68fa7ae767dabb8b806e6b3e6b30aa5a",
+    "wof:geomhash":"b3051f271d36a61bfb82a7f3824007b0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.52592000000001,
     49.7095
 ],
-  "geometry": {"coordinates":[22.52592000000001,49.7095],"type":"Point"}
+  "geometry": {"coordinates":[22.52592,49.7095],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Malinowo%2C_Siemiatycze_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7da15f98204166666ec2fa3ca6ef6682",
+    "wof:geomhash":"b0e0b48dd031f2c927af353153dea165",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.83697,
     52.54281999999999
 ],
-  "geometry": {"coordinates":[22.83697,52.54281999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.83697,52.54282],"type":"Point"}
 }

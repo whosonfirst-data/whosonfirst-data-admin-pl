@@ -54,7 +54,7 @@
         "wk:page":"Parlin%2C_%C5%BBuromin_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"bc5676ea02a4e0850e3bc872fa52f9ea",
+    "wof:geomhash":"cd2de51e0341c4de25edab98673389ff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.7802,
     52.99438000000001
 ],
-  "geometry": {"coordinates":[19.7802,52.99438000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.7802,52.99438],"type":"Point"}
 }

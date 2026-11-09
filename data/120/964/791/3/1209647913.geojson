@@ -54,7 +54,7 @@
         "wk:page":"Urbanie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8a7ac38b4397341c2ccbddbf14704763",
+    "wof:geomhash":"0d11bf74305aa82f9e61233cd031559b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     16.69981,
     52.62761999999999
 ],
-  "geometry": {"coordinates":[16.69981,52.62761999999999],"type":"Point"}
+  "geometry": {"coordinates":[16.69981,52.62762],"type":"Point"}
 }

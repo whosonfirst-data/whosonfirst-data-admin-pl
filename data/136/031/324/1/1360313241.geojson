@@ -57,7 +57,7 @@
         "wk:page":"Konity"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5136fb42b5cc80838cbd89a9ec28d120",
+    "wof:geomhash":"89c525ed824c9e766891f2fee216caf8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     20.70648,
     54.09343000000001
 ],
-  "geometry": {"coordinates":[20.70648,54.09343000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.70648,54.09343],"type":"Point"}
 }

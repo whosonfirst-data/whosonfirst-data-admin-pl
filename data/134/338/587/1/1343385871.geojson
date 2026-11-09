@@ -54,7 +54,7 @@
         "wk:page":"Kawle_Dolne"
     },
     "wof:country":"PL",
-    "wof:geomhash":"95e492354c73ea6ae2a05441c4247fbf",
+    "wof:geomhash":"7fd7d5057f0e4a3e57480974b5124066",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.28333,
     54.40114000000001
 ],
-  "geometry": {"coordinates":[18.28333,54.40114000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.28333,54.40114],"type":"Point"}
 }

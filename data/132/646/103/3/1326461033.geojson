@@ -63,7 +63,7 @@
         "wk:page":"Ponarlica"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d060319260b23c0efd572cc053953809",
+    "wof:geomhash":"cba6a20dfd2b5fbf87dbf4f17edd6963",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     23.53265,
     53.70328000000001
 ],
-  "geometry": {"coordinates":[23.53265,53.70328000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.53265,53.70328],"type":"Point"}
 }

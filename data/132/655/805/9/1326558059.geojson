@@ -60,7 +60,7 @@
         "wk:page":"Kurozw%C4%99cz"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d71e74a61756609fa1cac174464b5ddb",
+    "wof:geomhash":"e50dc9f94bb55f6461f7229147e81a47",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     16.26654,
     54.05173000000001
 ],
-  "geometry": {"coordinates":[16.26654,54.05173000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.26654,54.05173],"type":"Point"}
 }

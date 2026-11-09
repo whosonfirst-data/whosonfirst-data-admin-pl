@@ -57,7 +57,7 @@
         "wk:page":"W%C3%B3lka%2C_Grajewo_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f5647becc6136decd9731c9644df4dd6",
+    "wof:geomhash":"b7702a073fec801199a41f4f8f4a676f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.27461,
     53.59311999999999
 ],
-  "geometry": {"coordinates":[22.27461,53.59311999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.27461,53.59312],"type":"Point"}
 }

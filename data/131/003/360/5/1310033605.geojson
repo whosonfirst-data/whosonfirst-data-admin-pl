@@ -60,7 +60,7 @@
         "wk:page":"Tymianki-Adamy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f65c8e1b140ee225eab2b94c97df2407",
+    "wof:geomhash":"c23d3e5728d13168ab13d9c84233253f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     22.43837000000001,
     52.6768
 ],
-  "geometry": {"coordinates":[22.43837000000001,52.6768],"type":"Point"}
+  "geometry": {"coordinates":[22.43837,52.6768],"type":"Point"}
 }

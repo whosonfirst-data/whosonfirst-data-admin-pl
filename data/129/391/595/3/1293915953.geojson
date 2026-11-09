@@ -61,7 +61,7 @@
         "wk:page":"Jaczowice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"699e3f550a862380085b0e953c308318",
+    "wof:geomhash":"2b47c9c1d3ccb96defbdfac894c454ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     17.57807,
     50.61604000000001
 ],
-  "geometry": {"coordinates":[17.57807,50.61604000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.57807,50.61604],"type":"Point"}
 }

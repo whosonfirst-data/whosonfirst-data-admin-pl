@@ -54,7 +54,7 @@
         "wk:page":"Miros%C5%82aw%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4e1dc024a86b0d16c16e6606941b1c27",
+    "wof:geomhash":"4b339dbf8c63beaccc3d55c79e04b730",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.80605,
     52.53648000000001
 ],
-  "geometry": {"coordinates":[19.80605,52.53648000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.80605,52.53648],"type":"Point"}
 }

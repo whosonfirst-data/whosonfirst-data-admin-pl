@@ -63,7 +63,7 @@
         "wk:page":"Darnk%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"20cecb7366c4020d05bc8bda8d9fb9e1",
+    "wof:geomhash":"b505c24bf6eb2d52843948a159eded17",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     16.3133,
     50.44600000000001
 ],
-  "geometry": {"coordinates":[16.3133,50.44600000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.3133,50.446],"type":"Point"}
 }

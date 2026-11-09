@@ -57,7 +57,7 @@
         "wk:page":"Dryja%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"cc61f72a2f4e196d36778843f7728cdf",
+    "wof:geomhash":"fe5065de9ec52a537ea492c168dbacc4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     18.29381,
     52.11219000000001
 ],
-  "geometry": {"coordinates":[18.29381,52.11219000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.29381,52.11219],"type":"Point"}
 }

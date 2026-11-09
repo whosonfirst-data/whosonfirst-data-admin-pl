@@ -57,7 +57,7 @@
         "wk:page":"Magnuszowice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e6a87ea79be1ff3d9f9950827c37786a",
+    "wof:geomhash":"ac5f5256dcabf357ae6322ee5b0c9b05",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     17.59212999999999,
     50.695
 ],
-  "geometry": {"coordinates":[17.59212999999999,50.695],"type":"Point"}
+  "geometry": {"coordinates":[17.59213,50.695],"type":"Point"}
 }

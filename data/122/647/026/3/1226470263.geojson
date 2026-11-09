@@ -60,7 +60,7 @@
         "wk:page":"Brodowo%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e14803486384f06668826009308b505d",
+    "wof:geomhash":"43288fb31cd8de2783c2e570c671527c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     17.31886,
     52.19009000000001
 ],
-  "geometry": {"coordinates":[17.31886,52.19009000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.31886,52.19009],"type":"Point"}
 }

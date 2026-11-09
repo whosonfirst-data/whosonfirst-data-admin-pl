@@ -51,7 +51,7 @@
         "wk:page":"Milan%C3%B3w%2C_Garwolin_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"05fed8e811d1eccef2405bdf77e42a90",
+    "wof:geomhash":"8436319dd91ab764a284b674f0dac2cd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     21.69062000000001,
     51.74053
 ],
-  "geometry": {"coordinates":[21.69062000000001,51.74053],"type":"Point"}
+  "geometry": {"coordinates":[21.69062,51.74053],"type":"Point"}
 }

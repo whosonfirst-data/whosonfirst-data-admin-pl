@@ -54,7 +54,7 @@
         "wk:page":"Sosenkowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"00842face86489029d022f1dd7eb5633",
+    "wof:geomhash":"140e9502994308b300f826ecc499b547",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.23521,
     52.53203000000001
 ],
-  "geometry": {"coordinates":[20.23521,52.53203000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.23521,52.53203],"type":"Point"}
 }

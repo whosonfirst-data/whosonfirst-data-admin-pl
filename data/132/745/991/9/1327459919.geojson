@@ -63,7 +63,7 @@
         "wk:page":"Zagorzany"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a1b6f3b24fde377a414e79189e2f9104",
+    "wof:geomhash":"383b60062ae1099c8a300f64b8ef7726",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     20.26385,
     50.37569000000001
 ],
-  "geometry": {"coordinates":[20.26385,50.37569000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.26385,50.37569],"type":"Point"}
 }

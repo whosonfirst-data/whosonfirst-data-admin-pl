@@ -51,7 +51,7 @@
         "wk:page":"Brudzawy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2fa1aa574fb313c515a36b64173e319b",
+    "wof:geomhash":"4cfd4d5f97806055515105fce5f5635e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.14989,
     53.30719000000001
 ],
-  "geometry": {"coordinates":[19.14989,53.30719000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.14989,53.30719],"type":"Point"}
 }

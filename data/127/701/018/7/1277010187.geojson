@@ -60,7 +60,7 @@
         "wk:page":"Gogolewo%2C_S%C5%82upsk_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"bd6442d744aea9af341d460d5abbff4a",
+    "wof:geomhash":"fbe6329b22542f5ee2fdae010db6f0f9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     17.39206,
     54.37441999999999
 ],
-  "geometry": {"coordinates":[17.39206,54.37441999999999],"type":"Point"}
+  "geometry": {"coordinates":[17.39206,54.37442],"type":"Point"}
 }

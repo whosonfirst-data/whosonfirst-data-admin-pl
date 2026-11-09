@@ -54,7 +54,7 @@
         "wk:page":"Krosinek"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f031981f66ad691036564d560f6c874a",
+    "wof:geomhash":"61a13dce3c18b3bce1e53665785b2b8b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     16.68187,
     52.81061999999999
 ],
-  "geometry": {"coordinates":[16.68187,52.81061999999999],"type":"Point"}
+  "geometry": {"coordinates":[16.68187,52.81062],"type":"Point"}
 }

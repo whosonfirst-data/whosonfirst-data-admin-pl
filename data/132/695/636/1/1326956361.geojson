@@ -64,7 +64,7 @@
         "wk:page":"Przytocko"
     },
     "wof:country":"PL",
-    "wof:geomhash":"82ebc1eb502c82bfabbd13a13c34d4c9",
+    "wof:geomhash":"d6d80483b0ebf64942e836d2f726a114",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,5 +91,5 @@
     16.8372,
     54.12003000000001
 ],
-  "geometry": {"coordinates":[16.8372,54.12003000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.8372,54.12003],"type":"Point"}
 }

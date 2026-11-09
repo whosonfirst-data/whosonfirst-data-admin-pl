@@ -57,7 +57,7 @@
         "wk:page":"Strzybnik"
     },
     "wof:country":"PL",
-    "wof:geomhash":"71f4994d467201540c2303907f285a60",
+    "wof:geomhash":"001f9977efb8ea15b2aaf1a5d3b510bc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     18.16623,
     50.13509000000001
 ],
-  "geometry": {"coordinates":[18.16623,50.13509000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.16623,50.13509],"type":"Point"}
 }

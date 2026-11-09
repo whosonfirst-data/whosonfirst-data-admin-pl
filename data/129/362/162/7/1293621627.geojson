@@ -58,7 +58,7 @@
         "wk:page":"Rakowo-Czachy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"393cce5fa2625b97e8371461199e3d6f",
+    "wof:geomhash":"4d9cfc5b594092de4d0bd997fd202d19",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,5 +85,5 @@
     22.2022,
     53.13388000000001
 ],
-  "geometry": {"coordinates":[22.2022,53.13388000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.2022,53.13388],"type":"Point"}
 }

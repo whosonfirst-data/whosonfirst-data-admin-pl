@@ -54,7 +54,7 @@
         "wk:page":"Kikojty"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ace93dc793c3f4eda06359c1239c7795",
+    "wof:geomhash":"e02b1cbee8818ce18a1eba5ac7bf0fde",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.24393,
     54.05716999999999
 ],
-  "geometry": {"coordinates":[19.24393,54.05716999999999],"type":"Point"}
+  "geometry": {"coordinates":[19.24393,54.05717],"type":"Point"}
 }

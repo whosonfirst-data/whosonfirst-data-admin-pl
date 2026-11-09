@@ -54,7 +54,7 @@
         "wk:page":"Osieczek%2C_W%C4%85brze%C5%BAno_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"910790ba5c80eb2a0b8e7efba38efe51",
+    "wof:geomhash":"fdd384a1383616d42815bb7e11d9c4fb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.11073,
     53.28973000000001
 ],
-  "geometry": {"coordinates":[19.11073,53.28973000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.11073,53.28973],"type":"Point"}
 }

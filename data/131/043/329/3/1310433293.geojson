@@ -57,7 +57,7 @@
         "wk:page":"W%C5%9Bcieklice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"dc63e64e206cc2749213d6c6c225dfde",
+    "wof:geomhash":"ccd701b41f390c2c9c184bbaea820110",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.031,
     53.40228000000001
 ],
-  "geometry": {"coordinates":[22.031,53.40228000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.031,53.40228],"type":"Point"}
 }

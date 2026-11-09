@@ -57,7 +57,7 @@
         "wk:page":"Przec%C5%82aw%2C_Szamotu%C5%82y_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"58aca5ed3850b6ba7359df76e7e1848a",
+    "wof:geomhash":"2ed45162b8561bb2218fa761745a9a73",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     16.71347,
     52.55099000000001
 ],
-  "geometry": {"coordinates":[16.71347,52.55099000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.71347,52.55099],"type":"Point"}
 }

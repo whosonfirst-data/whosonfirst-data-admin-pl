@@ -63,7 +63,7 @@
         "wk:page":"Godlewo-Gorzejewo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f632975d342e9f2ba4030747c6557beb",
+    "wof:geomhash":"9802914fdd5a1c8e331cd9f89d9a74e4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     22.18904,
     52.79669000000001
 ],
-  "geometry": {"coordinates":[22.18904,52.79669000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.18904,52.79669],"type":"Point"}
 }

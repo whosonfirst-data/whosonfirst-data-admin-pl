@@ -58,7 +58,7 @@
         "wk:page":"Siniec%2C_Warmian-Masurian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6acb2c1e4c4479fe18512a12d4847396",
+    "wof:geomhash":"6542053700427ef0a5a62eb16234be9c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,5 +85,5 @@
     21.50498,
     54.13959000000001
 ],
-  "geometry": {"coordinates":[21.50498,54.13959000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.50498,54.13959],"type":"Point"}
 }

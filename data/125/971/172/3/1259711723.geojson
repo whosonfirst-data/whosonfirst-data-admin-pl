@@ -54,7 +54,7 @@
         "wk:page":"Jan%C3%B3wko%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"168d9ce233fdd5dd439371ca61ebf57d",
+    "wof:geomhash":"e0df9cb50358999459e197ffc232f502",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.61461,
     53.29989000000001
 ],
-  "geometry": {"coordinates":[19.61461,53.29989000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.61461,53.29989],"type":"Point"}
 }

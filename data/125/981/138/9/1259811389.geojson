@@ -61,7 +61,7 @@
         "wk:page":"Nawiady"
     },
     "wof:country":"PL",
-    "wof:geomhash":"81b3c6fcbdae0606977828ba6938272f",
+    "wof:geomhash":"6026fe8420fe912910389548773309a4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     21.32597,
     53.71384000000001
 ],
-  "geometry": {"coordinates":[21.32597,53.71384000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.32597,53.71384],"type":"Point"}
 }

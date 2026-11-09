@@ -55,7 +55,7 @@
         "wk:page":"Stare_Ratowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"18db106f41778d23e2c8d46f3804e133",
+    "wof:geomhash":"dfc61a11094b9a8cea7c7de3080c55bd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,5 +85,5 @@
     22.00881,
     53.03953000000001
 ],
-  "geometry": {"coordinates":[22.00881,53.03953000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.00881,53.03953],"type":"Point"}
 }

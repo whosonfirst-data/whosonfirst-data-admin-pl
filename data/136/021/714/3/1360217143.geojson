@@ -54,7 +54,7 @@
         "wk:page":"Budy%2C_Bia%C5%82ystok_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8d702994ba30e181226cfc91cb078387",
+    "wof:geomhash":"e657c1c7611d0ec90800d2717f8424cd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     23.82509,
     52.94348000000001
 ],
-  "geometry": {"coordinates":[23.82509,52.94348000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.82509,52.94348],"type":"Point"}
 }

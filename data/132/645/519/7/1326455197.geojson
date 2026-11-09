@@ -54,7 +54,7 @@
         "wk:page":"K%C5%82osowo%2C_West_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1ae91ff6842c9a55b8460e20d5555e57",
+    "wof:geomhash":"047de6b837a62f916002d7a871f6c041",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     16.28587000000001,
     53.39203000000001
 ],
-  "geometry": {"coordinates":[16.28587000000001,53.39203000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.28587,53.39203],"type":"Point"}
 }

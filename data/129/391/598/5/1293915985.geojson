@@ -54,7 +54,7 @@
         "wk:page":"Rz%C4%99szkowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e7c00e848c4f264c85cca06bd5d2fd10",
+    "wof:geomhash":"07b7605f56b83d8bcd9c021d8ea1e118",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.20382,
     53.14579000000001
 ],
-  "geometry": {"coordinates":[17.20382,53.14579000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.20382,53.14579],"type":"Point"}
 }

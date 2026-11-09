@@ -51,7 +51,7 @@
         "wk:page":"P%C5%82ochocinek"
     },
     "wof:country":"PL",
-    "wof:geomhash":"73ff4c509a222f3eb61f378613048284",
+    "wof:geomhash":"6142895ddf10773b0e998ae9543aa1f0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.61769,
     53.60913000000001
 ],
-  "geometry": {"coordinates":[18.61769,53.60913000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.61769,53.60913],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Tar%C5%82o%2C_Lublin_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8cf5a4c553a97af5e9cb5eb528b16dd5",
+    "wof:geomhash":"b5dc0d79296b79cc776f50272805b0ca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.69449,
     51.50944000000001
 ],
-  "geometry": {"coordinates":[22.69449,51.50944000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.69449,51.50944],"type":"Point"}
 }

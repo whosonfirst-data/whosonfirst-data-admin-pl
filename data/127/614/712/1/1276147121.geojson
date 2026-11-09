@@ -57,7 +57,7 @@
         "wk:page":"Uniszki_Zawadzkie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"be3f5ca373722a43df09100a5eceb67a",
+    "wof:geomhash":"99a8bfa3b785e106a6fb13dff293a581",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     20.41397000000001,
     53.16432
 ],
-  "geometry": {"coordinates":[20.41397000000001,53.16432],"type":"Point"}
+  "geometry": {"coordinates":[20.41397,53.16432],"type":"Point"}
 }

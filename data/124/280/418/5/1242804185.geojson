@@ -62,7 +62,7 @@
         "wk:page":"%C5%9Aniepie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2376eaa43e744f40abd6a379c988f698",
+    "wof:geomhash":"bfbe0d61fa425abb7bb5a9b90e7ddb72",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     22.29197000000001,
     53.7245
 ],
-  "geometry": {"coordinates":[22.29197000000001,53.7245],"type":"Point"}
+  "geometry": {"coordinates":[22.29197,53.7245],"type":"Point"}
 }

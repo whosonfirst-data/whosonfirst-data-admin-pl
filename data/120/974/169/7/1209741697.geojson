@@ -54,7 +54,7 @@
         "wk:page":"Ku%C5%BAnica_Kiedrzy%C5%84ska"
     },
     "wof:country":"PL",
-    "wof:geomhash":"da1f18d83c2ac298cca7b1c17f22a1ab",
+    "wof:geomhash":"5eda871caa2d111aaf3c26afe6912632",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.07782000000001,
     50.91351
 ],
-  "geometry": {"coordinates":[19.07782000000001,50.91351],"type":"Point"}
+  "geometry": {"coordinates":[19.07782,50.91351],"type":"Point"}
 }

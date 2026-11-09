@@ -57,7 +57,7 @@
         "wk:page":"Trzechel"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c2ca89fbe67c65fe8e3f320e07a6caba",
+    "wof:geomhash":"4f03a107d5089d872f342dcf3bff13eb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     14.9663,
     53.73233000000001
 ],
-  "geometry": {"coordinates":[14.9663,53.73233000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.9663,53.73233],"type":"Point"}
 }

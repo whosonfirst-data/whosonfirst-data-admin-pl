@@ -51,7 +51,7 @@
         "wk:page":"Tarnowska_Wola%2C_Podkarpackie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9d9bcea8e6cd7989be9f68b174d5beed",
+    "wof:geomhash":"28075c55937154a509c6e421786b4dfd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     21.73867000000001,
     50.45457
 ],
-  "geometry": {"coordinates":[21.73867000000001,50.45457],"type":"Point"}
+  "geometry": {"coordinates":[21.73867,50.45457],"type":"Point"}
 }

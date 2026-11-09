@@ -54,7 +54,7 @@
         "wk:page":"Czarny_Las%2C_Podlaskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3a87e5ee87f7d0651d770bcc97bd4797",
+    "wof:geomhash":"dbfdd72f51f75d897002e6d915d9caa9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     23.06599,
     53.66538000000001
 ],
-  "geometry": {"coordinates":[23.06599,53.66538000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.06599,53.66538],"type":"Point"}
 }

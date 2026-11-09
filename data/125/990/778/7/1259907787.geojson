@@ -54,7 +54,7 @@
         "wk:page":"Kocio%C5%82ki%2C_Podlaskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"bb68b8b61c40e507734e741fd4555c08",
+    "wof:geomhash":"7301d6a54ed26c4ef898b996654d8293",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     23.07547000000001,
     54.27746
 ],
-  "geometry": {"coordinates":[23.07547000000001,54.27746],"type":"Point"}
+  "geometry": {"coordinates":[23.07547,54.27746],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"Bia%C5%82obiel"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e761339bf1a264c93cc00e9a5e57c5c3",
+    "wof:geomhash":"7569752dd74266a6da8edeca83d99b11",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.56178,
     53.11573000000001
 ],
-  "geometry": {"coordinates":[21.56178,53.11573000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.56178,53.11573],"type":"Point"}
 }

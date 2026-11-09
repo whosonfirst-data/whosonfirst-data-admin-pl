@@ -57,7 +57,7 @@
         "wk:page":"Popki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6ebd317096f0d03f91eee06af94f1f71",
+    "wof:geomhash":"f8ef9b7201b7f5f6e8a4752fbdd20c86",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.01975,
     53.28084000000001
 ],
-  "geometry": {"coordinates":[22.01975,53.28084000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.01975,53.28084],"type":"Point"}
 }

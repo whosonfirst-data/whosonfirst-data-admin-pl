@@ -51,7 +51,7 @@
         "wk:page":"Sierako%C5%9Bce"
     },
     "wof:country":"PL",
-    "wof:geomhash":"32be29d8d219fc833c6d8deb03f04afa",
+    "wof:geomhash":"5f6c40098def7bee79ce78790f892387",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     22.76381,
     49.65734000000001
 ],
-  "geometry": {"coordinates":[22.76381,49.65734000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.76381,49.65734],"type":"Point"}
 }

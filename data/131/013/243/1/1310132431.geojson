@@ -54,7 +54,7 @@
         "wk:page":"Kawki%2C_Lubusz_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"fb84f5e32a4017535faedbe48e7d4a8a",
+    "wof:geomhash":"aada056eb2bb87caffdf7f5ccf0ba07a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     15.67901,
     52.87193000000001
 ],
-  "geometry": {"coordinates":[15.67901,52.87193000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.67901,52.87193],"type":"Point"}
 }

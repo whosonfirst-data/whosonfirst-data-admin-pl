@@ -51,7 +51,7 @@
         "wk:page":"Przyny"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7cdc7ddd8d8f78bcc4e26c63c9bcba3d",
+    "wof:geomhash":"9fa0fd21f2d5ffcb0217a334aa91fd89",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.68483,
     53.66173000000001
 ],
-  "geometry": {"coordinates":[18.68483,53.66173000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.68483,53.66173],"type":"Point"}
 }

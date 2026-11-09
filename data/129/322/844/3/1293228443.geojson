@@ -48,7 +48,7 @@
         "wk:page":"B%C4%85kowski_M%C5%82yn"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e1ef6014717d5bec8eb89bc392b95a30",
+    "wof:geomhash":"c5c417e0fa65949a2e6bb81d80575cfc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     18.56483,
     53.58199000000001
 ],
-  "geometry": {"coordinates":[18.56483,53.58199000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.56483,53.58199],"type":"Point"}
 }

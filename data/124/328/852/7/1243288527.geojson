@@ -54,7 +54,7 @@
         "wk:page":"G%C3%B3rki_Borze"
     },
     "wof:country":"PL",
-    "wof:geomhash":"033593134c20168168f538217cd69fe2",
+    "wof:geomhash":"d254e3d85402cd7b6ad15ff99a15295d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.86235,
     52.44323000000001
 ],
-  "geometry": {"coordinates":[21.86235,52.44323000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.86235,52.44323],"type":"Point"}
 }

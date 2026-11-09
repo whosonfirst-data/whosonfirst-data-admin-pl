@@ -54,7 +54,7 @@
         "wk:page":"Tarmno"
     },
     "wof:country":"PL",
-    "wof:geomhash":"965dacd215bd1bc33e77ddfc53f62c4b",
+    "wof:geomhash":"c6663356bee270e65c0479480f100bbc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     16.35,
     53.68333000000001
 ],
-  "geometry": {"coordinates":[16.35,53.68333000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.35,53.68333],"type":"Point"}
 }

@@ -72,7 +72,7 @@
         "wk:page":"Strzy%C5%BCyno"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1aca62a825b44615a9fee6a069ccc720",
+    "wof:geomhash":"556b56a22d087157c92b4622c6f2e938",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,5 +99,5 @@
     17.37076,
     54.49178000000001
 ],
-  "geometry": {"coordinates":[17.37076,54.49178000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.37076,54.49178],"type":"Point"}
 }

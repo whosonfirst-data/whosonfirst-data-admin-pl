@@ -51,7 +51,7 @@
         "wk:page":"%C5%BB%C3%B3%C5%82wino%2C_Choszczno_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c4b2997d3c04413532548d1c2482f04f",
+    "wof:geomhash":"d3be3e4d51e59875d0ee3fe84bfa23d8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     15.68625,
     53.28579000000001
 ],
-  "geometry": {"coordinates":[15.68625,53.28579000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.68625,53.28579],"type":"Point"}
 }

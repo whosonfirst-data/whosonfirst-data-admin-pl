@@ -54,7 +54,7 @@
         "wk:page":"Mogielnica%2C_P%C5%82ock_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8346b6fc34fb468ef64776dee1926500",
+    "wof:geomhash":"8a1910fe0aa58a20c438216500d110eb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.86769,
     52.73031999999999
 ],
-  "geometry": {"coordinates":[19.86769,52.73031999999999],"type":"Point"}
+  "geometry": {"coordinates":[19.86769,52.73032],"type":"Point"}
 }

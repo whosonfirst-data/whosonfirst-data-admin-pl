@@ -70,7 +70,7 @@
         "wk:page":"Czarna_Wielka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5e737b466516e1bad0de5d8fe20e7b4b",
+    "wof:geomhash":"2888c1b732c20e339d861da5b0ca8a04",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,5 +97,5 @@
     22.82624,
     52.57004000000001
 ],
-  "geometry": {"coordinates":[22.82624,52.57004000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.82624,52.57004],"type":"Point"}
 }

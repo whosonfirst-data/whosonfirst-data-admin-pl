@@ -60,7 +60,7 @@
         "wk:page":"Borkowo%2C_S%C5%82awno_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"61cd133be539be091832da637dda1e55",
+    "wof:geomhash":"874edb6b2c652f0cd2cc9baab1e1dea3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     16.58916,
     54.23141999999999
 ],
-  "geometry": {"coordinates":[16.58916,54.23141999999999],"type":"Point"}
+  "geometry": {"coordinates":[16.58916,54.23142],"type":"Point"}
 }

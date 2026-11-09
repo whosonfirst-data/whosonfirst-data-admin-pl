@@ -54,7 +54,7 @@
         "wk:page":"Popielewo%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ff34ed37c240fbb7f44242f1e6725803",
+    "wof:geomhash":"301312f189448e357a2bc8288b01b515",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.72921000000001,
     53.30604
 ],
-  "geometry": {"coordinates":[17.72921000000001,53.30604],"type":"Point"}
+  "geometry": {"coordinates":[17.72921,53.30604],"type":"Point"}
 }

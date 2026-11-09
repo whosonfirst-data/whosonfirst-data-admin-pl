@@ -54,7 +54,7 @@
         "wk:page":"%C5%9Awirna"
     },
     "wof:country":"PL",
-    "wof:geomhash":"86deb48b564252469630165d59cc0d3d",
+    "wof:geomhash":"cd655eaabf78edcc6d64d9532ad11739",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.33048,
     50.92104000000001
 ],
-  "geometry": {"coordinates":[21.33048,50.92104000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.33048,50.92104],"type":"Point"}
 }

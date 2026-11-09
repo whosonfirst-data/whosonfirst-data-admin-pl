@@ -54,7 +54,7 @@
         "wk:page":"U%C5%82anowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"14e3b5dda64743154cd65ea8efe8079c",
+    "wof:geomhash":"a29e3f856fae46341f7a66fa908e5a02",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.41796,
     52.66608000000001
 ],
-  "geometry": {"coordinates":[17.41796,52.66608000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.41796,52.66608],"type":"Point"}
 }

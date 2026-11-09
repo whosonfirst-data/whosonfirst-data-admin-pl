@@ -57,7 +57,7 @@
         "wk:page":"Trawy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4c73f52d27237f84c377a63dd618ab57",
+    "wof:geomhash":"6f06f586d7b3eeca988dc88d623ae726",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.72947000000001,
     52.41152
 ],
-  "geometry": {"coordinates":[21.72947000000001,52.41152],"type":"Point"}
+  "geometry": {"coordinates":[21.72947,52.41152],"type":"Point"}
 }

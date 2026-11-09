@@ -57,7 +57,7 @@
         "wk:page":"Brz%C3%B3zki%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"90f1f64ff151ce829cc8245ec42a6bb5",
+    "wof:geomhash":"30167838854ae4e66a5bec1d487e7bf3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     17.72041,
     53.09663000000001
 ],
-  "geometry": {"coordinates":[17.72041,53.09663000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.72041,53.09663],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Przypusta"
     },
     "wof:country":"PL",
-    "wof:geomhash":"00e968ae948828a514e05707cc0d21f5",
+    "wof:geomhash":"b03fb11901459be6852a9b408eb1488f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.58113,
     51.67019000000001
 ],
-  "geometry": {"coordinates":[19.58113,51.67019000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.58113,51.67019],"type":"Point"}
 }

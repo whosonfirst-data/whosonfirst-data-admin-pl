@@ -54,7 +54,7 @@
         "wk:page":"Wielkie_Ba%C5%82%C3%B3wki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"0657521021f0c9b1a98b6d9779cd6cd2",
+    "wof:geomhash":"9853b6df8890bd80b4ef6418d7681daf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.48374,
     53.41178000000001
 ],
-  "geometry": {"coordinates":[19.48374,53.41178000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.48374,53.41178],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Karczewie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ade08062ab2be5d7a48c1b2e78e62707",
+    "wof:geomhash":"fcaad2f6f7aea7ce00dd09fb0b1047a9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     15.25718,
     53.82239000000001
 ],
-  "geometry": {"coordinates":[15.25718,53.82239000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.25718,53.82239],"type":"Point"}
 }

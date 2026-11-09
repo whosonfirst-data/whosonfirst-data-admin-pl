@@ -58,7 +58,7 @@
         "wk:page":"%C5%9Awierki%2C_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"210a7746e7b70be32b16550fe6bbcc21",
+    "wof:geomhash":"7dfa55f40ca6e5d5501e5f0ec06229aa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,5 +85,5 @@
     19.08173,
     54.12461999999999
 ],
-  "geometry": {"coordinates":[19.08173,54.12461999999999],"type":"Point"}
+  "geometry": {"coordinates":[19.08173,54.12462],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Machcino"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1a9ded7d71249521e0b5305d38c9e0c8",
+    "wof:geomhash":"2a92b38776251a8748c868a70528fe5c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.74348,
     52.62436999999999
 ],
-  "geometry": {"coordinates":[19.74348,52.62436999999999],"type":"Point"}
+  "geometry": {"coordinates":[19.74348,52.62437],"type":"Point"}
 }

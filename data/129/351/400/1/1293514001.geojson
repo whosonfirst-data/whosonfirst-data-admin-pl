@@ -54,7 +54,7 @@
         "wk:page":"Jakubowice%2C_Namys%C5%82%C3%B3w_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f18d70ccf599e8baae2949fe0d7a7a2f",
+    "wof:geomhash":"03dd3b6a7ce72c0b93ba62ddd745ee69",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.70042999999999,
     51.13956
 ],
-  "geometry": {"coordinates":[17.70042999999999,51.13956],"type":"Point"}
+  "geometry": {"coordinates":[17.70043,51.13956],"type":"Point"}
 }

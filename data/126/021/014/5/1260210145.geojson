@@ -54,7 +54,7 @@
         "wk:page":"Os%C3%B3wiec_Kmiecy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"077f0fba49265c9b62b25ed70607a741",
+    "wof:geomhash":"e88337763b6f7c9b09ccd450d0c53f8c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.93735,
     53.07613000000001
 ],
-  "geometry": {"coordinates":[20.93735,53.07613000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.93735,53.07613],"type":"Point"}
 }

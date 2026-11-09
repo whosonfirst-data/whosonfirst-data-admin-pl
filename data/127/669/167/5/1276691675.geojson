@@ -54,7 +54,7 @@
         "wk:page":"Nowy_Walisz%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"73df5f4a82473b2ac139a756e08adb17",
+    "wof:geomhash":"add098efca0dd9ba9083cb7cc14f8718",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     16.73407000000001,
     50.31226
 ],
-  "geometry": {"coordinates":[16.73407000000001,50.31226],"type":"Point"}
+  "geometry": {"coordinates":[16.73407,50.31226],"type":"Point"}
 }

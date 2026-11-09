@@ -69,7 +69,7 @@
         "wk:page":"Kl%C4%99cino"
     },
     "wof:country":"PL",
-    "wof:geomhash":"80e91102b54c60a3ea16c37bf8f2e06b",
+    "wof:geomhash":"3f606494c3dd6063c33349e6b6b0ef75",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     17.34927,
     54.60158000000001
 ],
-  "geometry": {"coordinates":[17.34927,54.60158000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.34927,54.60158],"type":"Point"}
 }

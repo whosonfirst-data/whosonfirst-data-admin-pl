@@ -57,7 +57,7 @@
         "wk:page":"Kuchary-Je%C5%BCewo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b54c20189e2dfdd2d3ef745084a80587",
+    "wof:geomhash":"2011e7ca9544f13aba5dc29adce74d9d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     19.81667,
     52.63333000000001
 ],
-  "geometry": {"coordinates":[19.81667,52.63333000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.81667,52.63333],"type":"Point"}
 }

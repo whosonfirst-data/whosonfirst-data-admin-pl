@@ -54,7 +54,7 @@
         "wk:page":"Wiktoria%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"24c26dd8a78a57c9ce3ea2e7d3f91fbf",
+    "wof:geomhash":"6c4d07e5763672dee7967877db9f4cbb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.69786,
     52.38959000000001
 ],
-  "geometry": {"coordinates":[21.69786,52.38959000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.69786,52.38959],"type":"Point"}
 }

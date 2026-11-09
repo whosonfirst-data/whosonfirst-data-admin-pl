@@ -54,7 +54,7 @@
         "wk:page":"Orzechowo_%28Nowogard%29"
     },
     "wof:country":"PL",
-    "wof:geomhash":"283e2123a5f9b604a7573c92624e1254",
+    "wof:geomhash":"81a26d9971d6d47ea9133486ea047b0f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     15.1341,
     53.74404000000001
 ],
-  "geometry": {"coordinates":[15.1341,53.74404000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.1341,53.74404],"type":"Point"}
 }

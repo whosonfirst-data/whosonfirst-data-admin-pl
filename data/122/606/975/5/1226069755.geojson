@@ -63,7 +63,7 @@
         "wk:page":"Bu%C5%9Blary"
     },
     "wof:country":"PL",
-    "wof:geomhash":"566f399d5a54c7adf33894e18b07d36b",
+    "wof:geomhash":"24848a3355540b7296706d957412cad5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     16.0783,
     53.80419000000001
 ],
-  "geometry": {"coordinates":[16.0783,53.80419000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.0783,53.80419],"type":"Point"}
 }

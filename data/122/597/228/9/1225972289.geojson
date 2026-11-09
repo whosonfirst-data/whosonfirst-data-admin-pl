@@ -52,7 +52,7 @@
         "wk:page":"Kowale%2C_Kartuzy_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ab2cb886fc94e31e2950d107dcbb8fb9",
+    "wof:geomhash":"7cecd688f61bb80469eef873a2a8dce7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.79218999999999,
     54.35661
 ],
-  "geometry": {"coordinates":[17.79218999999999,54.35661],"type":"Point"}
+  "geometry": {"coordinates":[17.79219,54.35661],"type":"Point"}
 }

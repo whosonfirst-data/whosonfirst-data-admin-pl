@@ -57,7 +57,7 @@
         "wk:page":"Babino%2C_Podlaskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3835245bacc2bdd675244e2ef5488ee5",
+    "wof:geomhash":"d7f918d225456b27d8d5955b1ba52614",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.90826,
     53.15923000000001
 ],
-  "geometry": {"coordinates":[22.90826,53.15923000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.90826,53.15923],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"Wilkanowo%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7f8bc3db6af4b47a20c5f8427cce4fcd",
+    "wof:geomhash":"8005de3a32696646e834e65c7ef572f8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     20.1368,
     52.46769000000001
 ],
-  "geometry": {"coordinates":[20.1368,52.46769000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.1368,52.46769],"type":"Point"}
 }

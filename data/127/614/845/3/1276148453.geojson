@@ -54,7 +54,7 @@
         "wk:page":"Stawinoga"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4c52d93b2fbca562f6636b6ffe47155b",
+    "wof:geomhash":"83daa42dcb1dd57461fdc79f1b678ff5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.12936,
     52.57763000000001
 ],
-  "geometry": {"coordinates":[21.12936,52.57763000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.12936,52.57763],"type":"Point"}
 }

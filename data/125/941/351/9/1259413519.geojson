@@ -57,7 +57,7 @@
         "wk:page":"Sylczno"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7d4d1b055af9e14d349e43d9d8a1e1fe",
+    "wof:geomhash":"009913ca1a92ce298238b404fc6669d2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     17.73587999999999,
     54.16726
 ],
-  "geometry": {"coordinates":[17.73587999999999,54.16726],"type":"Point"}
+  "geometry": {"coordinates":[17.73588,54.16726],"type":"Point"}
 }

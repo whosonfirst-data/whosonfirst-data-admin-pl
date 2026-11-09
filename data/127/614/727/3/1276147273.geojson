@@ -69,7 +69,7 @@
         "wk:page":"Janowicze"
     },
     "wof:country":"PL",
-    "wof:geomhash":"aeaa2010d4c8b251a6cc875ccd2af0a7",
+    "wof:geomhash":"4f6501264606841520d3615d23b00280",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     23.17499,
     53.00893000000001
 ],
-  "geometry": {"coordinates":[23.17499,53.00893000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.17499,53.00893],"type":"Point"}
 }

@@ -72,7 +72,7 @@
         "wk:page":"G%C4%85bino"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e9a049d42928daf0b129a17d7584fa73",
+    "wof:geomhash":"b39d49fb84b7068a6052f6438e1a41fb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,5 +99,5 @@
     17.08564,
     54.58306999999999
 ],
-  "geometry": {"coordinates":[17.08564,54.58306999999999],"type":"Point"}
+  "geometry": {"coordinates":[17.08564,54.58307],"type":"Point"}
 }

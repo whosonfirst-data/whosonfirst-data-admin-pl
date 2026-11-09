@@ -54,7 +54,7 @@
         "wk:page":"Pacanowice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e08cdc307c727889c56879fb98d287cd",
+    "wof:geomhash":"f5be42cfad765df8708c26cdec0c1faf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.82963999999999,
     51.93149
 ],
-  "geometry": {"coordinates":[17.82963999999999,51.93149],"type":"Point"}
+  "geometry": {"coordinates":[17.82964,51.93149],"type":"Point"}
 }

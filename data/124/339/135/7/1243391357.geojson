@@ -57,7 +57,7 @@
         "wk:page":"Mostowo%2C_M%C5%82awa_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2caada1dd1040d5d90f9a0b2c1a1cb24",
+    "wof:geomhash":"21bd5ddb2319c14016673c74308abb5e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     20.1211,
     53.05826999999999
 ],
-  "geometry": {"coordinates":[20.1211,53.05826999999999],"type":"Point"}
+  "geometry": {"coordinates":[20.1211,53.05827],"type":"Point"}
 }

@@ -58,7 +58,7 @@
         "wk:page":"Zakrzewo-Kopijki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ba21eb26105c6149aa286dbce88941c2",
+    "wof:geomhash":"659a8c767298ef0f70164b9cbc4444c0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,5 +85,5 @@
     22.19835,
     52.72754000000001
 ],
-  "geometry": {"coordinates":[22.19835,52.72754000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.19835,52.72754],"type":"Point"}
 }

@@ -51,7 +51,7 @@
         "wk:page":"Biskupice%2C_Radziej%C3%B3w_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f8ca5f6aff50e81ad4f6ca60762749ce",
+    "wof:geomhash":"aa80e45307b6fe5d940df26c48c6c399",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.54683,
     52.64018000000001
 ],
-  "geometry": {"coordinates":[18.54683,52.64018000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.54683,52.64018],"type":"Point"}
 }

@@ -51,7 +51,7 @@
         "wk:page":"Brze%C5%BCanka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f872619cded1c5876d5013d8d1f5a6c6",
+    "wof:geomhash":"b18379110d7bdf8014de40010c9315ce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     21.76914,
     49.84334000000001
 ],
-  "geometry": {"coordinates":[21.76914,49.84334000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.76914,49.84334],"type":"Point"}
 }

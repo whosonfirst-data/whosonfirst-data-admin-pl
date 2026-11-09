@@ -57,7 +57,7 @@
         "wk:page":"Podpolichno"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a5365ba209a9ec6329f3293ff6a8dd4d",
+    "wof:geomhash":"cf1ced5c903d2de63d86bc2567df96f2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     20.3865,
     50.82559000000001
 ],
-  "geometry": {"coordinates":[20.3865,50.82559000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.3865,50.82559],"type":"Point"}
 }

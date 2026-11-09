@@ -54,7 +54,7 @@
         "wk:page":"Sitowa"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c25b3bf2c0d55772c6c9c045c2e62d7d",
+    "wof:geomhash":"7c03a7741ce1e9afdd3133a1b640b830",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.32195,
     51.34014000000001
 ],
-  "geometry": {"coordinates":[20.32195,51.34014000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.32195,51.34014],"type":"Point"}
 }

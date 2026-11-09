@@ -51,7 +51,7 @@
         "wk:page":"Mielnica_Du%C5%BCa"
     },
     "wof:country":"PL",
-    "wof:geomhash":"bd76e29d4c4d5b811c584b1fb438275e",
+    "wof:geomhash":"001ef50abcebcc13b7960dd65a9d5bf0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.37652000000001,
     52.48633
 ],
-  "geometry": {"coordinates":[18.37652000000001,52.48633],"type":"Point"}
+  "geometry": {"coordinates":[18.37652,52.48633],"type":"Point"}
 }

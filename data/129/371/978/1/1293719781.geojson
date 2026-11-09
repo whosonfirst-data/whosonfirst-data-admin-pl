@@ -57,7 +57,7 @@
         "wk:page":"Lorcin"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c0ffab60ccd9565ac065f84a3db80fae",
+    "wof:geomhash":"e6586c372f392a580c2ae956c83155ad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     20.86357000000001,
     52.54003
 ],
-  "geometry": {"coordinates":[20.86357000000001,52.54003],"type":"Point"}
+  "geometry": {"coordinates":[20.86357,52.54003],"type":"Point"}
 }

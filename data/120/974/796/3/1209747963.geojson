@@ -57,7 +57,7 @@
         "wk:page":"Sto%C5%82eczna"
     },
     "wof:country":"PL",
-    "wof:geomhash":"cb414e7d936e1316767ec504dd29b996",
+    "wof:geomhash":"24535f997dd6e9bccdb3edda4aaa10bc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     14.6446,
     52.93053000000001
 ],
-  "geometry": {"coordinates":[14.6446,52.93053000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.6446,52.93053],"type":"Point"}
 }

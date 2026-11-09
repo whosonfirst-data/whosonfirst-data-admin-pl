@@ -54,7 +54,7 @@
         "wk:page":"Strzegocin%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f6a242722d2133523a0cec16c1bcade3",
+    "wof:geomhash":"2ef3a7ef48a0ad39ed67d4aeca410c4e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.83749,
     52.68748000000001
 ],
-  "geometry": {"coordinates":[20.83749,52.68748000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.83749,52.68748],"type":"Point"}
 }

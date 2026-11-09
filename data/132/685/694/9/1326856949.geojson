@@ -60,7 +60,7 @@
         "wk:page":"W%C4%99gierce%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2f76a49d12f6773ebeace3af93fbf22a",
+    "wof:geomhash":"c76e47b6c86a6102e8d9e13f9a652614",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     16.90349,
     53.34999000000001
 ],
-  "geometry": {"coordinates":[16.90349,53.34999000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.90349,53.34999],"type":"Point"}
 }

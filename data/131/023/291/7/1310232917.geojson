@@ -57,7 +57,7 @@
         "wk:page":"Weklice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"474b0ff0f93682ce5826fd28e15e3e8c",
+    "wof:geomhash":"ee9e0077f25f79479c66b89a1eca8c71",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     19.57372,
     54.11751999999999
 ],
-  "geometry": {"coordinates":[19.57372,54.11751999999999],"type":"Point"}
+  "geometry": {"coordinates":[19.57372,54.11752],"type":"Point"}
 }

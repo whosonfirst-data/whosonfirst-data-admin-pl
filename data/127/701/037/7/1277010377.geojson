@@ -57,7 +57,7 @@
         "wk:page":"W%C4%85welnica"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d4f6495e4b1a37521647afa7a63a317e",
+    "wof:geomhash":"43754f156578ccb7aeefda18c06a0092",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     14.4125,
     53.45118000000001
 ],
-  "geometry": {"coordinates":[14.4125,53.45118000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.4125,53.45118],"type":"Point"}
 }

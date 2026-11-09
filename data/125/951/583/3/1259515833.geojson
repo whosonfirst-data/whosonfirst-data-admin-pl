@@ -62,7 +62,7 @@
         "wk:page":"Czerwonki%2C_Warmian-Masurian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"0efaa696c20f5e5fa1dc266fe13e78f9",
+    "wof:geomhash":"5e4970522ffc410bb958884cada3ede3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     21.36282000000001,
     53.85853
 ],
-  "geometry": {"coordinates":[21.36282000000001,53.85853],"type":"Point"}
+  "geometry": {"coordinates":[21.36282,53.85853],"type":"Point"}
 }

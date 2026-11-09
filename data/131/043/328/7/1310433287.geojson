@@ -58,7 +58,7 @@
         "wk:page":"Bagienice_Du%C5%BCe"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3eb9d4d8a7eed226c9109649522d5f45",
+    "wof:geomhash":"e5589f32724c73610839b9d4fa7130fd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,5 +85,5 @@
     20.00748,
     53.14523000000001
 ],
-  "geometry": {"coordinates":[20.00748,53.14523000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.00748,53.14523],"type":"Point"}
 }

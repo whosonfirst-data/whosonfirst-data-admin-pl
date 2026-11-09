@@ -63,7 +63,7 @@
         "wk:page":"Parczowce"
     },
     "wof:country":"PL",
-    "wof:geomhash":"584a47b7b96300951d357b40bdf1b0dd",
+    "wof:geomhash":"549480ad38b55d5d0d055dbacb71f3b8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     23.64216,
     53.45883000000001
 ],
-  "geometry": {"coordinates":[23.64216,53.45883000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.64216,53.45883],"type":"Point"}
 }

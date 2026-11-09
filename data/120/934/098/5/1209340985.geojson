@@ -69,7 +69,7 @@
         "wk:page":"Huta_D%C4%85browa"
     },
     "wof:country":"PL",
-    "wof:geomhash":"209a2fb315281bb3b105bb48d0498fd5",
+    "wof:geomhash":"370b91be38b55410aebfc3dec6fabe9d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     22.04712,
     51.80739000000001
 ],
-  "geometry": {"coordinates":[22.04712,51.80739000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.04712,51.80739],"type":"Point"}
 }

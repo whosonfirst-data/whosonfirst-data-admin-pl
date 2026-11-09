@@ -69,7 +69,7 @@
         "wk:page":"Ze%C5%82w%C4%85gi"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d5e5852b7212917cd1b04d8c4cdc2795",
+    "wof:geomhash":"196ade664b2a5ebb6b356abcaaa93eba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     21.49365,
     53.80153000000001
 ],
-  "geometry": {"coordinates":[21.49365,53.80153000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.49365,53.80153],"type":"Point"}
 }

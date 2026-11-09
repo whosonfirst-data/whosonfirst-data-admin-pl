@@ -72,7 +72,7 @@
         "wk:page":"Fal%C4%99cin%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7f99d801cd458d8e4a8728ee823b4e5d",
+    "wof:geomhash":"964cad71da56135db8bd9cd4b03ed924",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,5 +99,5 @@
     18.5472,
     53.23283000000001
 ],
-  "geometry": {"coordinates":[18.5472,53.23283000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.5472,53.23283],"type":"Point"}
 }

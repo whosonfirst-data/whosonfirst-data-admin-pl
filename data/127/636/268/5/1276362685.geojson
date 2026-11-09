@@ -57,7 +57,7 @@
         "wk:page":"Kapita%C5%84szczyzna"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9cf280e909b9d16299daa86ea6c21ea8",
+    "wof:geomhash":"8eecd80f5ea124af564af686cc3f36ec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     23.66807,
     52.88444000000001
 ],
-  "geometry": {"coordinates":[23.66807,52.88444000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.66807,52.88444],"type":"Point"}
 }

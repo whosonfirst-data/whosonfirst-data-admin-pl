@@ -57,7 +57,7 @@
         "wk:page":"Lubicz%2C_Lubusz_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ab3aecbcaa08abda78f606608b5bafce",
+    "wof:geomhash":"a26864a198a79b24c782397df9372d67",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     15.52233,
     52.95596999999999
 ],
-  "geometry": {"coordinates":[15.52233,52.95596999999999],"type":"Point"}
+  "geometry": {"coordinates":[15.52233,52.95597],"type":"Point"}
 }

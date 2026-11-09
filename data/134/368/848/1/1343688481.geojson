@@ -66,7 +66,7 @@
         "wk:page":"Cho%C5%9Bnica"
     },
     "wof:country":"PL",
-    "wof:geomhash":"118e9ad4fd9a79f14dcf13d162f7cbee",
+    "wof:geomhash":"347de868b8f410297fa0ca298ea00b27",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     17.66962000000001,
     54.26783
 ],
-  "geometry": {"coordinates":[17.66962000000001,54.26783],"type":"Point"}
+  "geometry": {"coordinates":[17.66962,54.26783],"type":"Point"}
 }

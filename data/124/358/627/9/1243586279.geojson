@@ -54,7 +54,7 @@
         "wk:page":"Skulska_Wie%C5%9B"
     },
     "wof:country":"PL",
-    "wof:geomhash":"216df37c4fd456f482e659039f309ada",
+    "wof:geomhash":"d1fd43c3d5c75400e616258bc173271a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.31534,
     52.48308000000001
 ],
-  "geometry": {"coordinates":[18.31534,52.48308000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.31534,52.48308],"type":"Point"}
 }

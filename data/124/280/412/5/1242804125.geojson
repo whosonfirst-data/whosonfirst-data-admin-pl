@@ -57,7 +57,7 @@
         "wk:page":"%C5%BBabczanka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b3ffd8c01eee1afe02215af826beadc3",
+    "wof:geomhash":"c885781f4f0503763b5dbdd77dc7c865",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     19.15666,
     51.31274000000001
 ],
-  "geometry": {"coordinates":[19.15666,51.31274000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.15666,51.31274],"type":"Point"}
 }

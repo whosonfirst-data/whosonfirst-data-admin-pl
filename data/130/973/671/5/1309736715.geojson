@@ -66,7 +66,7 @@
         "wk:page":"My%C5%9Blice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b890c109d320c5202fb20f79c8b1288c",
+    "wof:geomhash":"63ca7393583a585e803d4da2ebe9af76",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     19.50434,
     53.91748000000001
 ],
-  "geometry": {"coordinates":[19.50434,53.91748000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.50434,53.91748],"type":"Point"}
 }

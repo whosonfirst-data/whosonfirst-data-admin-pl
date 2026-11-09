@@ -66,7 +66,7 @@
         "wk:page":"Kiew%C5%82aki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"70800057e98e467dce1f6a2a0db45b58",
+    "wof:geomhash":"f58114845486904d553472e3bc6b3223",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     22.79692,
     52.83213000000001
 ],
-  "geometry": {"coordinates":[22.79692,52.83213000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.79692,52.83213],"type":"Point"}
 }

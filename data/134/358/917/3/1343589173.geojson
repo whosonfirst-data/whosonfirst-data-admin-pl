@@ -61,7 +61,7 @@
         "wk:page":"Rzymsko"
     },
     "wof:country":"PL",
-    "wof:geomhash":"22455e13e8606fa26ed33d9841b7f9a3",
+    "wof:geomhash":"b2aa0c149ace64e03b4ed05a8f792258",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     18.63187000000001,
     51.86086
 ],
-  "geometry": {"coordinates":[18.63187000000001,51.86086],"type":"Point"}
+  "geometry": {"coordinates":[18.63187,51.86086],"type":"Point"}
 }

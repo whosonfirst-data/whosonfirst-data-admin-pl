@@ -57,7 +57,7 @@
         "wk:page":"Bar%C5%82ogi%2C_Lublin_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"cc6795c99051e3feda269ecfca474fca",
+    "wof:geomhash":"30d3f83797255863db437e507cb9768a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.20026,
     51.42574000000001
 ],
-  "geometry": {"coordinates":[22.20026,51.42574000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.20026,51.42574],"type":"Point"}
 }

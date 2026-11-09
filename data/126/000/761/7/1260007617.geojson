@@ -51,7 +51,7 @@
         "wk:page":"Wawrowice%2C_Warmian-Masurian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ce80a9f2cc5871ceeeb49155533d1e66",
+    "wof:geomhash":"00ee625860c9d171b06d09d1182abde2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.46379,
     53.44244000000001
 ],
-  "geometry": {"coordinates":[19.46379,53.44244000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.46379,53.44244],"type":"Point"}
 }

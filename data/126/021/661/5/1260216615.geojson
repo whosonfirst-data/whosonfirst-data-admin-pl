@@ -54,7 +54,7 @@
         "wk:page":"Mniszek%2C_Lublin_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e33f7ff77d9959476ddfb3b0ec912731",
+    "wof:geomhash":"c1e5e2351cfef55fb018cbc765a35698",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.94897000000001,
     50.8363
 ],
-  "geometry": {"coordinates":[21.94897000000001,50.8363],"type":"Point"}
+  "geometry": {"coordinates":[21.94897,50.8363],"type":"Point"}
 }

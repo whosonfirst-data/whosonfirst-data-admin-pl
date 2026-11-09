@@ -57,7 +57,7 @@
         "wk:page":"Podg%C3%B3rzyn%2C_Warmian-Masurian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9b28ed7390ec0edc8e3695d4c26af2ea",
+    "wof:geomhash":"36de6d5e072c2f6e5de1694ee25cf381",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.25164,
     54.14921999999999
 ],
-  "geometry": {"coordinates":[21.25164,54.14921999999999],"type":"Point"}
+  "geometry": {"coordinates":[21.25164,54.14922],"type":"Point"}
 }

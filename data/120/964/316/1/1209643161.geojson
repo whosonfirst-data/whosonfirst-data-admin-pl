@@ -54,7 +54,7 @@
         "wk:page":"Pilaszk%C3%B3w%2C_%C5%81%C3%B3d%C5%BA_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"841394c5795fdfdd9c0a3756157169bc",
+    "wof:geomhash":"0a9d41b987f5a7a75ee90d8ffdf3209d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.88088,
     52.09079000000001
 ],
-  "geometry": {"coordinates":[19.88088,52.09079000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.88088,52.09079],"type":"Point"}
 }

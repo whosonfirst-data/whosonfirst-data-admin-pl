@@ -60,7 +60,7 @@
         "wk:page":"Bia%C5%82a_G%C3%B3ra%2C_West_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f9e41928926639ca7060c94fa51fe60e",
+    "wof:geomhash":"fcf3db883c1ba76cae247660d8759235",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     16.01214,
     53.88659000000001
 ],
-  "geometry": {"coordinates":[16.01214,53.88659000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.01214,53.88659],"type":"Point"}
 }

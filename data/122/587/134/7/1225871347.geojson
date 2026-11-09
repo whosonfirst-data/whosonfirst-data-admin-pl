@@ -60,7 +60,7 @@
         "wk:page":"Kopci%C3%B3wka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"52528d4de56046bdf7b4b12e0c830ea7",
+    "wof:geomhash":"4c32838f72e385c29d734151b1eca68a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     23.25602,
     53.55923000000001
 ],
-  "geometry": {"coordinates":[23.25602,53.55923000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.25602,53.55923],"type":"Point"}
 }

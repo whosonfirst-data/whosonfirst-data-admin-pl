@@ -57,7 +57,7 @@
         "wk:page":"Wojtkowice-Dady"
     },
     "wof:country":"PL",
-    "wof:geomhash":"41a9b315437cd774450a5b9e32fb39b3",
+    "wof:geomhash":"91981cf01a04e73c9af6b1b4f53d1a39",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.43116,
     52.61618000000001
 ],
-  "geometry": {"coordinates":[22.43116,52.61618000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.43116,52.61618],"type":"Point"}
 }

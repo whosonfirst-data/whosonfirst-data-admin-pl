@@ -51,7 +51,7 @@
         "wk:page":"Walentyn%C3%B3w%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5b2c80be90a4e259d64d90f751e5ed02",
+    "wof:geomhash":"d5632afaf95145dac2a8d079e4b31aaa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.68632999999999,
     51.71217
 ],
-  "geometry": {"coordinates":[17.68632999999999,51.71217],"type":"Point"}
+  "geometry": {"coordinates":[17.68633,51.71217],"type":"Point"}
 }

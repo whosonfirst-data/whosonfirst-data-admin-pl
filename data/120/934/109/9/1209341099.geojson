@@ -51,7 +51,7 @@
         "wk:page":"Schabajewo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"49db9fcaad05cf0baefd3d651c1e917a",
+    "wof:geomhash":"4b13845d4bd7fdbb36b7025a140b8d09",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.82224,
     52.80526999999999
 ],
-  "geometry": {"coordinates":[19.82224,52.80526999999999],"type":"Point"}
+  "geometry": {"coordinates":[19.82224,52.80527],"type":"Point"}
 }

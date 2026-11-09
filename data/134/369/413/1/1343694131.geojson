@@ -69,7 +69,7 @@
         "wk:page":"Jaborowice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"691f7617cb8ebe5b08462745d9785aff",
+    "wof:geomhash":"af4e69879aa17905e608810d3d1c363b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     18.16237000000001,
     50.23782
 ],
-  "geometry": {"coordinates":[18.16237000000001,50.23782],"type":"Point"}
+  "geometry": {"coordinates":[18.16237,50.23782],"type":"Point"}
 }

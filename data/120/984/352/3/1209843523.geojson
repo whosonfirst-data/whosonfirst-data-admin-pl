@@ -60,7 +60,7 @@
         "wk:page":"Nowiny_Barg%C5%82owskie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"bec5cdbe62bfc14a27482b0aabc90aba",
+    "wof:geomhash":"6053cebf97be48deaaacc845ffae873c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     22.84026,
     53.80139000000001
 ],
-  "geometry": {"coordinates":[22.84026,53.80139000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.84026,53.80139],"type":"Point"}
 }

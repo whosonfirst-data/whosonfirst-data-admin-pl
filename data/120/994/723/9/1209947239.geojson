@@ -58,7 +58,7 @@
         "wk:page":"Parszewo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1eca935aae52fcb746d533b40419ebad",
+    "wof:geomhash":"de00dac82c0883d6f736454f45488fcf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,5 +85,5 @@
     18.93495,
     54.13858000000001
 ],
-  "geometry": {"coordinates":[18.93495,54.13858000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.93495,54.13858],"type":"Point"}
 }

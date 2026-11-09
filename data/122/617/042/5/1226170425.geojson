@@ -61,7 +61,7 @@
         "wk:page":"Borawskie_Ma%C5%82e"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7d8baf8d65535a9949c47ec43e4ebdb9",
+    "wof:geomhash":"e2c0a5bbcfeb4553460542f143417cf2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     22.58686,
     54.10843000000001
 ],
-  "geometry": {"coordinates":[22.58686,54.10843000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.58686,54.10843],"type":"Point"}
 }

@@ -63,7 +63,7 @@
         "wk:page":"Ubiedrze"
     },
     "wof:country":"PL",
-    "wof:geomhash":"92cc1edd3192b248a952786e6385ba4a",
+    "wof:geomhash":"327600b898b7c0c06872798e2dcca705",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     16.52746,
     54.01858000000001
 ],
-  "geometry": {"coordinates":[16.52746,54.01858000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.52746,54.01858],"type":"Point"}
 }

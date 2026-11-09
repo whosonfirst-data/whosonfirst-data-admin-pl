@@ -60,7 +60,7 @@
         "wk:page":"Taborzec"
     },
     "wof:country":"PL",
-    "wof:geomhash":"da96e52948a9e826bf28820217442f34",
+    "wof:geomhash":"c009c48b411713650db7efeb707e8511",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     21.33339,
     54.19524000000001
 ],
-  "geometry": {"coordinates":[21.33339,54.19524000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.33339,54.19524],"type":"Point"}
 }

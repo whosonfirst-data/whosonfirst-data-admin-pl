@@ -51,7 +51,7 @@
         "wk:page":"Wilczeniec_Fabia%C5%84ski"
     },
     "wof:country":"PL",
-    "wof:geomhash":"37b59ed9107078269ee670e50d4cb082",
+    "wof:geomhash":"8a9a387114857109ebdfbc57beb2c745",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.08414,
     52.73048000000001
 ],
-  "geometry": {"coordinates":[19.08414,52.73048000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.08414,52.73048],"type":"Point"}
 }

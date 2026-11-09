@@ -60,7 +60,7 @@
         "wk:page":"Krzesim%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"58e8fad3ae7f505520473f33d33ee589",
+    "wof:geomhash":"90f179a5ebea083646a2a75225363a36",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     22.82135,
     51.26374000000001
 ],
-  "geometry": {"coordinates":[22.82135,51.26374000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.82135,51.26374],"type":"Point"}
 }

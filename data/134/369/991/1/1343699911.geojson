@@ -57,7 +57,7 @@
         "wk:page":"Tursko_Ma%C5%82e-Kolonia"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c62f4b0e36ea2e529c571d4b65f6d238",
+    "wof:geomhash":"cbcfac49d2e25893749b2e28ca392bef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.36764,
     50.44974000000001
 ],
-  "geometry": {"coordinates":[21.36764,50.44974000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.36764,50.44974],"type":"Point"}
 }

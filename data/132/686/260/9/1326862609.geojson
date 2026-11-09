@@ -54,7 +54,7 @@
         "wk:page":"Osetno%2C_Lower_Silesian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6cd29538f2f193aadac28fedb7a34e18",
+    "wof:geomhash":"b8340d4ee39e0a0d34d0a62163fecb58",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     16.45577999999999,
     51.63655
 ],
-  "geometry": {"coordinates":[16.45577999999999,51.63655],"type":"Point"}
+  "geometry": {"coordinates":[16.45578,51.63655],"type":"Point"}
 }

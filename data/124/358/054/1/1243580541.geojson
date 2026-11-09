@@ -54,7 +54,7 @@
         "wk:page":"Wiartel_Ma%C5%82y"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8d93302318d849c0b1cf7f9329a46b0e",
+    "wof:geomhash":"15116272738c536a8d43b1164c1b2d49",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.70765,
     53.59676999999999
 ],
-  "geometry": {"coordinates":[21.70765,53.59676999999999],"type":"Point"}
+  "geometry": {"coordinates":[21.70765,53.59677],"type":"Point"}
 }

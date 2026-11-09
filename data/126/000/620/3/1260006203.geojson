@@ -51,7 +51,7 @@
         "wk:page":"Solniki_Ma%C5%82e"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5e53fee8b056fd59beb0e3f79dec8cd6",
+    "wof:geomhash":"9b76a75065f08749f95dd8c0122dc142",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.52662999999999,
     51.14215
 ],
-  "geometry": {"coordinates":[17.52662999999999,51.14215],"type":"Point"}
+  "geometry": {"coordinates":[17.52663,51.14215],"type":"Point"}
 }

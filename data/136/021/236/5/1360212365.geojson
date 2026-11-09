@@ -60,7 +60,7 @@
         "wk:page":"Brzeziny%2C_Ryki_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"308faa85b8f3ce721fdf9ecc90b468d0",
+    "wof:geomhash":"fa26051e275a3ddc340d091604e5491f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     21.82932000000001,
     51.62537
 ],
-  "geometry": {"coordinates":[21.82932000000001,51.62537],"type":"Point"}
+  "geometry": {"coordinates":[21.82932,51.62537],"type":"Point"}
 }

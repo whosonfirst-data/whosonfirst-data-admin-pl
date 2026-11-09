@@ -51,7 +51,7 @@
         "wk:page":"Gisiel%2C_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2a1ce6dd2a645c0280a5e206315b385e",
+    "wof:geomhash":"e3af23e8dfb4b0a870314fd2c1d99507",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.49627000000001,
     53.93861
 ],
-  "geometry": {"coordinates":[19.49627000000001,53.93861],"type":"Point"}
+  "geometry": {"coordinates":[19.49627,53.93861],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Kotki%2C_Warmian-Masurian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2fee70281fda53d523bd6256db31803b",
+    "wof:geomhash":"02bae29815b60375f085c92d5168763c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.30695,
     54.28621999999999
 ],
-  "geometry": {"coordinates":[21.30695,54.28621999999999],"type":"Point"}
+  "geometry": {"coordinates":[21.30695,54.28622],"type":"Point"}
 }

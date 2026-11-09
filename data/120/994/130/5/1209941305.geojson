@@ -61,7 +61,7 @@
         "wk:page":"Chrzanowo%2C_Podlaskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8ebeca8ae51926a21f539958673d95b2",
+    "wof:geomhash":"bdf30b2d77592a715b3fd0ae938842b3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     22.34992,
     53.38766999999999
 ],
-  "geometry": {"coordinates":[22.34992,53.38766999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.34992,53.38767],"type":"Point"}
 }

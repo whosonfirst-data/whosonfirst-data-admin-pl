@@ -57,7 +57,7 @@
         "wk:page":"Go%C5%BAdzin"
     },
     "wof:country":"PL",
-    "wof:geomhash":"de9e59e1aa4eabc38c2269cb0b47ff78",
+    "wof:geomhash":"900b19ea59c9b19482f20efb53fec869",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     16.2892,
     52.16692000000001
 ],
-  "geometry": {"coordinates":[16.2892,52.16692000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.2892,52.16692],"type":"Point"}
 }

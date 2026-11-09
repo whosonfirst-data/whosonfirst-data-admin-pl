@@ -60,7 +60,7 @@
         "wk:page":"S%C5%82aw%C4%99cin%2C_Choszczno_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4846eb295ba7ba7d14c3a5f2ee91366f",
+    "wof:geomhash":"bafd3a56a1655ddc70784b3bff672fda",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     15.37995,
     53.22711999999999
 ],
-  "geometry": {"coordinates":[15.37995,53.22711999999999],"type":"Point"}
+  "geometry": {"coordinates":[15.37995,53.22712],"type":"Point"}
 }

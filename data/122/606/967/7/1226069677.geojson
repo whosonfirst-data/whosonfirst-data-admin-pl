@@ -69,7 +69,7 @@
         "wk:page":"Ploski"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1603ca8c231d8ac5bfb38ccec9498d07",
+    "wof:geomhash":"4d870aec37b26f2a74d19651751ef082",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     23.2508,
     52.88263000000001
 ],
-  "geometry": {"coordinates":[23.2508,52.88263000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.2508,52.88263],"type":"Point"}
 }

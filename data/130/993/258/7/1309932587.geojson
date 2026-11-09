@@ -58,7 +58,7 @@
         "wk:page":"Kolonia_%C5%81owiczek"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b6ca3b52d504cf7ea9bbc2fb3d72b6a8",
+    "wof:geomhash":"4e9d74e4427771ee1e0f7d113e46941f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,5 +85,5 @@
     18.77735,
     52.75301999999999
 ],
-  "geometry": {"coordinates":[18.77735,52.75301999999999],"type":"Point"}
+  "geometry": {"coordinates":[18.77735,52.75302],"type":"Point"}
 }

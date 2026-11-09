@@ -61,7 +61,7 @@
         "wk:page":"%C5%BBydowo%2C_Warmian-Masurian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2ad4ea0b8f4af29ec1a73f7597accb93",
+    "wof:geomhash":"18ee6e2c00bd6fdaedd35482f92d6330",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     20.83917000000001,
     54.31056
 ],
-  "geometry": {"coordinates":[20.83917000000001,54.31056],"type":"Point"}
+  "geometry": {"coordinates":[20.83917,54.31056],"type":"Point"}
 }

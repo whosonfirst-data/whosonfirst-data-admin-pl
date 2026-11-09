@@ -52,7 +52,7 @@
         "wk:page":"Kamionowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"44cff6eccb527bc47a30b886554d91ad",
+    "wof:geomhash":"dca4a25122d47352c813c85a29b85805",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,5 +79,5 @@
     21.91772000000001,
     53.0471
 ],
-  "geometry": {"coordinates":[21.91772000000001,53.0471],"type":"Point"}
+  "geometry": {"coordinates":[21.91772,53.0471],"type":"Point"}
 }

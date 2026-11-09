@@ -60,7 +60,7 @@
         "wk:page":"Bobowicko"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a4231ae714452d56857b7e40de1fd7bf",
+    "wof:geomhash":"207aadb370ea011bf63609a7ed1fa91f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     15.64499,
     52.44094000000001
 ],
-  "geometry": {"coordinates":[15.64499,52.44094000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.64499,52.44094],"type":"Point"}
 }

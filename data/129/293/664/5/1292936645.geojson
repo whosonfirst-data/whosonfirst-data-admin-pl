@@ -60,7 +60,7 @@
         "wk:page":"Uj%C5%9Bcie%2C_Braniewo_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2b103be8049f70f46b88edaeb62e07ca",
+    "wof:geomhash":"c25d0189d3b3d47fb91d0020048828be",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     19.74861,
     54.42661999999999
 ],
-  "geometry": {"coordinates":[19.74861,54.42661999999999],"type":"Point"}
+  "geometry": {"coordinates":[19.74861,54.42662],"type":"Point"}
 }

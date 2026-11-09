@@ -54,7 +54,7 @@
         "wk:page":"Nowe%2C_%C5%9Awi%C4%99tokrzyskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"dd60a8e0e74f8bd834c31efbab3ed45c",
+    "wof:geomhash":"cc8bc0d39b13aba2c71b86a8d0a7a1e1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.80151,
     50.92684000000001
 ],
-  "geometry": {"coordinates":[21.80151,50.92684000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.80151,50.92684],"type":"Point"}
 }

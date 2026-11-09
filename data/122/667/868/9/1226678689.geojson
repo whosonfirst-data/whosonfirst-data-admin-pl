@@ -54,7 +54,7 @@
         "wk:page":"Koszki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5f8b0ca3a332d2504b506abc9639d72c",
+    "wof:geomhash":"8090d1282b77f02bcdf4456d1daa3c33",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     23.22605,
     52.68346999999999
 ],
-  "geometry": {"coordinates":[23.22605,52.68346999999999],"type":"Point"}
+  "geometry": {"coordinates":[23.22605,52.68347],"type":"Point"}
 }

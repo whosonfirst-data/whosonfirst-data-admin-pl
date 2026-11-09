@@ -54,7 +54,7 @@
         "wk:page":"Swoboda%2C_Chodzie%C5%BC_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"57bc9658675287ed71fa3fb79f52db3b",
+    "wof:geomhash":"b4a63e2de978534889185a474d4106a9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.24963,
     53.04398000000001
 ],
-  "geometry": {"coordinates":[17.24963,53.04398000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.24963,53.04398],"type":"Point"}
 }

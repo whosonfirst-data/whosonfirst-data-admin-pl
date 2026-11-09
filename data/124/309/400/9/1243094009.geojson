@@ -61,7 +61,7 @@
         "wk:page":"Kromarki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"788c51fbdff336f141c3b3e5c4a95493",
+    "wof:geomhash":"6104e8c268b9fdefc2eedaca8c65b9f1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     20.78699,
     54.33394000000001
 ],
-  "geometry": {"coordinates":[20.78699,54.33394000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.78699,54.33394],"type":"Point"}
 }

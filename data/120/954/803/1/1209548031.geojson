@@ -66,7 +66,7 @@
         "wk:page":"P%C5%82onna%2C_Podkarpackie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2d8c42606203267051cc8d258ff57644",
+    "wof:geomhash":"caeea64197638e09c9f59b873ed88414",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     22.10172,
     49.43447000000001
 ],
-  "geometry": {"coordinates":[22.10172,49.43447000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.10172,49.43447],"type":"Point"}
 }

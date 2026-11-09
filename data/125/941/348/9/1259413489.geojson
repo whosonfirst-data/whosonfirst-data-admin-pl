@@ -54,7 +54,7 @@
         "wk:page":"Bukowo%2C_Bia%C5%82ogard_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"41e2a8556a727e8225106d480f7adcbb",
+    "wof:geomhash":"6a48f2ecba110f2b212618e802f10913",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     16.24221,
     53.97528000000001
 ],
-  "geometry": {"coordinates":[16.24221,53.97528000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.24221,53.97528],"type":"Point"}
 }

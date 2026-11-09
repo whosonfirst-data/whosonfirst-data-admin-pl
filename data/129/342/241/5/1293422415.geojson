@@ -57,7 +57,7 @@
         "wk:page":"Topolno"
     },
     "wof:country":"PL",
-    "wof:geomhash":"102da00e6f493c09dc4c9774691755fd",
+    "wof:geomhash":"1da4731c00660b929470c6f9cb3da762",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     18.29628,
     53.29168000000001
 ],
-  "geometry": {"coordinates":[18.29628,53.29168000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.29628,53.29168],"type":"Point"}
 }

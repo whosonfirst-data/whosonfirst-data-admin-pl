@@ -60,7 +60,7 @@
         "wk:page":"Rudka%2C_Warmian-Masurian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"eb66fb0f5efd02e1073a24fdd8bceb9b",
+    "wof:geomhash":"d691bb83452de078ac7396e746bae1bc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     21.04194,
     53.52911999999999
 ],
-  "geometry": {"coordinates":[21.04194,53.52911999999999],"type":"Point"}
+  "geometry": {"coordinates":[21.04194,53.52912],"type":"Point"}
 }

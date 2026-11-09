@@ -57,7 +57,7 @@
         "wk:page":"Bardo%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d315bcbb099f3feedfe89448a02a2b2a",
+    "wof:geomhash":"f47fa16d08f9797fc9bcf149212ba455",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     17.49467000000001,
     52.27477
 ],
-  "geometry": {"coordinates":[17.49467000000001,52.27477],"type":"Point"}
+  "geometry": {"coordinates":[17.49467,52.27477],"type":"Point"}
 }

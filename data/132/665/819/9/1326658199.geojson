@@ -57,7 +57,7 @@
         "wk:page":"Dobrosz%C3%B3w_Ma%C5%82y"
     },
     "wof:country":"PL",
-    "wof:geomhash":"29db8f3bfff3cdaa736e1632b34d0362",
+    "wof:geomhash":"8b1cce56f6980b99e5de4f80f9221bfb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     15.24279,
     51.76074000000001
 ],
-  "geometry": {"coordinates":[15.24279,51.76074000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.24279,51.76074],"type":"Point"}
 }

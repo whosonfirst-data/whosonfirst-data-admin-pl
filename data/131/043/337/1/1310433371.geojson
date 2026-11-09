@@ -51,7 +51,7 @@
         "wk:page":"Bieniowice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5b37230f2685ab983ad75b697438a83a",
+    "wof:geomhash":"93141473df063220af30c2826ae486fe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     16.25785,
     51.25899999999999
 ],
-  "geometry": {"coordinates":[16.25785,51.25899999999999],"type":"Point"}
+  "geometry": {"coordinates":[16.25785,51.259],"type":"Point"}
 }

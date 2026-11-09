@@ -54,7 +54,7 @@
         "wk:page":"Komierowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"08e250656d295b0a1e957000a87e903a",
+    "wof:geomhash":"ae88119b35c2b7a2697b84ed10b0042d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.65038999999999,
     53.45506999999999
 ],
-  "geometry": {"coordinates":[17.65038999999999,53.45506999999999],"type":"Point"}
+  "geometry": {"coordinates":[17.65039,53.45507],"type":"Point"}
 }

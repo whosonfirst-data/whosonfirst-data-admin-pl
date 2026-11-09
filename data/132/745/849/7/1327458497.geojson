@@ -54,7 +54,7 @@
         "wk:page":"P%C5%82aczki%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"772feb43d44d9fecae10bae7ff712219",
+    "wof:geomhash":"4ba852e5c9c77628057e6507521ae9d4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.21353,
     52.19629000000001
 ],
-  "geometry": {"coordinates":[17.21353,52.19629000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.21353,52.19629],"type":"Point"}
 }

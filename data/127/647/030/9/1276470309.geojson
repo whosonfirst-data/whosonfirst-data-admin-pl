@@ -54,7 +54,7 @@
         "wk:page":"Antoni%C3%B3w%2C_Przysucha_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e89d005cfccdc1538d080ee856459b55",
+    "wof:geomhash":"a53c2724831c125a26e2a82ac20a2557",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.50152000000001,
     51.42876
 ],
-  "geometry": {"coordinates":[20.50152000000001,51.42876],"type":"Point"}
+  "geometry": {"coordinates":[20.50152,51.42876],"type":"Point"}
 }

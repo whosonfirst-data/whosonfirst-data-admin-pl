@@ -57,7 +57,7 @@
         "wk:page":"Komorowo%2C_Nowy_Tomy%C5%9Bl_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"860cbabb27ad77ae96061f71424b2e02",
+    "wof:geomhash":"2b777e11dcf79f0e490757818733a483",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     16.11107,
     52.44988000000001
 ],
-  "geometry": {"coordinates":[16.11107,52.44988000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.11107,52.44988],"type":"Point"}
 }

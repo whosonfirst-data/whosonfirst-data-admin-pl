@@ -57,7 +57,7 @@
         "wk:page":"Gaczyska"
     },
     "wof:country":"PL",
-    "wof:geomhash":"91b176c497c006a7bf00cd474b5ed174",
+    "wof:geomhash":"1583161b77997c65b3da9a09345598e6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.2281,
     53.14143000000001
 ],
-  "geometry": {"coordinates":[21.2281,53.14143000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.2281,53.14143],"type":"Point"}
 }

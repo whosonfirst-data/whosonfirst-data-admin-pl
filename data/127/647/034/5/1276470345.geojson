@@ -51,7 +51,7 @@
         "wk:page":"Parszkowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"dfd244cc6e491016fdb0ef58361eb201",
+    "wof:geomhash":"729aa2b1f433b33f8969b855467b0887",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.26206,
     54.78073000000001
 ],
-  "geometry": {"coordinates":[18.26206,54.78073000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.26206,54.78073],"type":"Point"}
 }

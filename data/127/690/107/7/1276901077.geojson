@@ -51,7 +51,7 @@
         "wk:page":"Nowy_Ujk%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"98776e5739b13e25bf1a1aa11f705db4",
+    "wof:geomhash":"5b2ea01ff2664bf8d68334505064e581",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.44512000000001,
     50.30576
 ],
-  "geometry": {"coordinates":[19.44512000000001,50.30576],"type":"Point"}
+  "geometry": {"coordinates":[19.44512,50.30576],"type":"Point"}
 }

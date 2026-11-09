@@ -63,7 +63,7 @@
         "wk:page":"Jaryszewo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5ec59c19581548014043573263d730cb",
+    "wof:geomhash":"a5818ea3b10480e319244e7f14b0b1e6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     16.62542,
     52.68219000000001
 ],
-  "geometry": {"coordinates":[16.62542,52.68219000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.62542,52.68219],"type":"Point"}
 }

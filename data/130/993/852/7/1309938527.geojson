@@ -54,7 +54,7 @@
         "wk:page":"Jezuicka_Struga"
     },
     "wof:country":"PL",
-    "wof:geomhash":"fb117bea24497430e04bd56ca9aec8bc",
+    "wof:geomhash":"b53559e0135c22ff4cb7d8a618b43afb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.2973,
     52.93853000000001
 ],
-  "geometry": {"coordinates":[18.2973,52.93853000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.2973,52.93853],"type":"Point"}
 }

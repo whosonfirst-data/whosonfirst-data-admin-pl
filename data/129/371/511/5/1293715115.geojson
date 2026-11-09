@@ -54,7 +54,7 @@
         "wk:page":"Sobie%C5%84%2C_Opoczno_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6fa242c83dde9324e0d16c643990c4ea",
+    "wof:geomhash":"713ddc6722ca09bbc592a09e45a1030b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.28857,
     51.25644000000001
 ],
-  "geometry": {"coordinates":[20.28857,51.25644000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.28857,51.25644],"type":"Point"}
 }

@@ -63,7 +63,7 @@
         "wk:page":"Gr%C4%85dze%C5%84"
     },
     "wof:country":"PL",
-    "wof:geomhash":"088bdc36132aed729b2e6074e167c983",
+    "wof:geomhash":"cc013466f8f3e10165217386d2769bd4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     17.81922999999999,
     52.10846
 ],
-  "geometry": {"coordinates":[17.81922999999999,52.10846],"type":"Point"}
+  "geometry": {"coordinates":[17.81923,52.10846],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Malcan%C3%B3w%2C_Lublin_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d9a4a74935d0e8668e39296b8c1ab0a2",
+    "wof:geomhash":"34f73c239a81d46931ad98914d92785b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.38418,
     51.87394000000001
 ],
-  "geometry": {"coordinates":[22.38418,51.87394000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.38418,51.87394],"type":"Point"}
 }

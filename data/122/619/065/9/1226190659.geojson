@@ -51,7 +51,7 @@
         "wk:page":"Krzczonowice%2C_Stasz%C3%B3w_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ab045d77e2f4af7069a35967c200cb5d",
+    "wof:geomhash":"9adc3477921584048101d391b2072c3a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     21.11057000000001,
     50.50884
 ],
-  "geometry": {"coordinates":[21.11057000000001,50.50884],"type":"Point"}
+  "geometry": {"coordinates":[21.11057,50.50884],"type":"Point"}
 }

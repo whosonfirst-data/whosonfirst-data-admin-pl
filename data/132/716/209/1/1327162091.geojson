@@ -57,7 +57,7 @@
         "wk:page":"Skaje"
     },
     "wof:country":"PL",
-    "wof:geomhash":"89c8d357ee80a67a03ad0f77e66f6e09",
+    "wof:geomhash":"49f01ee70c3f6416584f583728851aad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.273,
     53.58031999999999
 ],
-  "geometry": {"coordinates":[22.273,53.58031999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.273,53.58032],"type":"Point"}
 }

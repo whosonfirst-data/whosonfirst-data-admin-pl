@@ -51,7 +51,7 @@
         "wk:page":"Domas%C5%82%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7eb67ced40b3762942c9eefb665c414c",
+    "wof:geomhash":"05464e488ea5b4701c97348e136b479a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.80391000000001,
     51.24715
 ],
-  "geometry": {"coordinates":[17.80391000000001,51.24715],"type":"Point"}
+  "geometry": {"coordinates":[17.80391,51.24715],"type":"Point"}
 }

@@ -60,7 +60,7 @@
         "wk:page":"Pra%C5%BCmowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8dae7894a50fc6804e19321fe43f4a85",
+    "wof:geomhash":"69be8a690ec1b73ea8021595cd0541ab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     21.68929,
     53.91898000000001
 ],
-  "geometry": {"coordinates":[21.68929,53.91898000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.68929,53.91898],"type":"Point"}
 }

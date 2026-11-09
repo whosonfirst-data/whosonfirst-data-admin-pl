@@ -51,7 +51,7 @@
         "wk:page":"Che%C5%82chy_Dzierskie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"59cb7f0d2f71296715df9b982f16b145",
+    "wof:geomhash":"0acac6ac7af1a45663cd8993aa8eea19",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     20.97951,
     52.87683000000001
 ],
-  "geometry": {"coordinates":[20.97951,52.87683000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.97951,52.87683],"type":"Point"}
 }

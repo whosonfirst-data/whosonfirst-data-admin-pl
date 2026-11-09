@@ -54,7 +54,7 @@
         "wk:page":"Karolewo%2C_Pi%C5%82a_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"30eb8039ed6684e3a7c020bf7bf407e7",
+    "wof:geomhash":"2746a65c568d4729020ee21ab7d840cf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.29561,
     53.14038000000001
 ],
-  "geometry": {"coordinates":[17.29561,53.14038000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.29561,53.14038],"type":"Point"}
 }

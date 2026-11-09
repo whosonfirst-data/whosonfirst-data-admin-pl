@@ -57,7 +57,7 @@
         "wk:page":"Manasterz%2C_Jaros%C5%82aw_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9c410b0c3eb8477f19901f761faccf26",
+    "wof:geomhash":"328e704a26c5111600f39cef913c90c6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.66781,
     50.12047000000001
 ],
-  "geometry": {"coordinates":[22.66781,50.12047000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.66781,50.12047],"type":"Point"}
 }

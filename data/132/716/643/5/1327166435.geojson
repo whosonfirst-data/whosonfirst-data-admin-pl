@@ -54,7 +54,7 @@
         "wk:page":"Dzikowo%2C_Gorz%C3%B3w_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5ba1adba3525e5ced8a3d374c4b7bce2",
+    "wof:geomhash":"4be9e2f4de59d70ad3ef33eb41a15ce2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     14.92012,
     52.80566999999999
 ],
-  "geometry": {"coordinates":[14.92012,52.80566999999999],"type":"Point"}
+  "geometry": {"coordinates":[14.92012,52.80567],"type":"Point"}
 }

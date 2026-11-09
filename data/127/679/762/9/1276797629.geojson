@@ -56,7 +56,7 @@
         "wk:page":"Rusko%C5%82%C4%99ka-Parcele"
     },
     "wof:country":"PL",
-    "wof:geomhash":"181b052621d96e62d999ff6c02827a5e",
+    "wof:geomhash":"5aa9aa60b2687ee2d60d248dc89136ff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,5 +83,5 @@
     22.13884,
     52.84186999999999
 ],
-  "geometry": {"coordinates":[22.13884,52.84186999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.13884,52.84187],"type":"Point"}
 }

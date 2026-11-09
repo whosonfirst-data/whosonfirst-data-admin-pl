@@ -54,7 +54,7 @@
         "wk:page":"Mi%C5%82osna%2C_Warmian-Masurian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e782ee3f5120775b411b949d766cfabd",
+    "wof:geomhash":"f82b47e34f56f053995d6d94086762c9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.82248,
     54.10019000000001
 ],
-  "geometry": {"coordinates":[19.82248,54.10019000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.82248,54.10019],"type":"Point"}
 }

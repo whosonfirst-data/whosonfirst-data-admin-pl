@@ -54,7 +54,7 @@
         "wk:page":"Zr%C4%85biec"
     },
     "wof:country":"PL",
-    "wof:geomhash":"33eed1408fad9dbc8e4b32dfd8eabfc9",
+    "wof:geomhash":"84ae2a7afa47127bb2eeeec62a336726",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.65132,
     51.00839000000001
 ],
-  "geometry": {"coordinates":[19.65132,51.00839000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.65132,51.00839],"type":"Point"}
 }

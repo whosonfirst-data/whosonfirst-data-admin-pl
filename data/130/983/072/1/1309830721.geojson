@@ -57,7 +57,7 @@
         "wk:page":"Kryszyn"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7d9f9f5e69fd5974c3405ad750c486f4",
+    "wof:geomhash":"637728b5173ec8c1daf98d07cc9065bf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     23.80867000000001,
     50.56832
 ],
-  "geometry": {"coordinates":[23.80867000000001,50.56832],"type":"Point"}
+  "geometry": {"coordinates":[23.80867,50.56832],"type":"Point"}
 }

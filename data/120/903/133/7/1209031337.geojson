@@ -60,7 +60,7 @@
         "wk:page":"Gwiazdowo%2C_S%C5%82awno_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e325eabd3f69060114627bdec9531f34",
+    "wof:geomhash":"69ff3bcd268903b86c89315ede94ae43",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     16.74744,
     54.30833000000001
 ],
-  "geometry": {"coordinates":[16.74744,54.30833000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.74744,54.30833],"type":"Point"}
 }

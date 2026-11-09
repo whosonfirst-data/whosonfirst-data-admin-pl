@@ -51,7 +51,7 @@
         "wk:page":"B%C4%99dziech%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b0383f0d4507301bd54309819e94826c",
+    "wof:geomhash":"4eba123cdacc9196b5f7351cd8e63b88",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.44223,
     51.88417000000001
 ],
-  "geometry": {"coordinates":[18.44223,51.88417000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.44223,51.88417],"type":"Point"}
 }

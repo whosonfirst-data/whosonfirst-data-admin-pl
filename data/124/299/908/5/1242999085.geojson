@@ -57,7 +57,7 @@
         "wk:page":"Julia%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"87c4f7346b37679aa1d649d029c7d101",
+    "wof:geomhash":"dfc0d7e013bc875b0a332979db1ca703",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     18.33782,
     52.32924000000001
 ],
-  "geometry": {"coordinates":[18.33782,52.32924000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.33782,52.32924],"type":"Point"}
 }

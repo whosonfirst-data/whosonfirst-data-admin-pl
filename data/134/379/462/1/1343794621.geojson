@@ -51,7 +51,7 @@
         "wk:page":"Mi%C5%82kowa"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f78e4b66109f16636d678651d7538917",
+    "wof:geomhash":"e51ebed9d49f2f626178af2e50b04e3a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     20.77602000000001,
     49.7169
 ],
-  "geometry": {"coordinates":[20.77602000000001,49.7169],"type":"Point"}
+  "geometry": {"coordinates":[20.77602,49.7169],"type":"Point"}
 }

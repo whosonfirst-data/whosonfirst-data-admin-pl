@@ -57,7 +57,7 @@
         "wk:page":"Brzozowo-D%C4%85br%C3%B3wka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"cdac7be899d23fe0a8266654f8fb38f6",
+    "wof:geomhash":"53fb3ee798a1e3f021a16e0affeaefc7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     20.64752,
     53.18833000000001
 ],
-  "geometry": {"coordinates":[20.64752,53.18833000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.64752,53.18833],"type":"Point"}
 }

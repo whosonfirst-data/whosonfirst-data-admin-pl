@@ -54,7 +54,7 @@
         "wk:page":"Zakrzewo_S%C5%82omy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"731859993c8a130b8e19d3d3165eeede",
+    "wof:geomhash":"822a589f71a04b455b7429fcf2424973",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.22342,
     52.70138000000001
 ],
-  "geometry": {"coordinates":[22.22342,52.70138000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.22342,52.70138],"type":"Point"}
 }

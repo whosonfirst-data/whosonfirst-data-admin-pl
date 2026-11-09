@@ -57,7 +57,7 @@
         "wk:page":"Zblutowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"49915877168387a014e2cde49a9cca2b",
+    "wof:geomhash":"adcb3241889d74ac064fe9e451c4f2ee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.76606,
     53.41099000000001
 ],
-  "geometry": {"coordinates":[22.76606,53.41099000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.76606,53.41099],"type":"Point"}
 }

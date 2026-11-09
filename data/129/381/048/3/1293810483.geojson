@@ -57,7 +57,7 @@
         "wk:page":"Morzyna"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c1b4e77a3aa20a2b2cf509d98ddf1479",
+    "wof:geomhash":"1a08737e5089d4cd25f4d4890f3f4451",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     16.6781,
     51.48654000000001
 ],
-  "geometry": {"coordinates":[16.6781,51.48654000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.6781,51.48654],"type":"Point"}
 }

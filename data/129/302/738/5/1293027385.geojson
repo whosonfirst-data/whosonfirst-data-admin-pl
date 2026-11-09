@@ -63,7 +63,7 @@
         "wk:page":"Tursk%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"00ae5c5327b6613d44827b34cc77bb2d",
+    "wof:geomhash":"c1a14497da2670766ae908828a471e41",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     20.95507000000001,
     51.52128
 ],
-  "geometry": {"coordinates":[20.95507000000001,51.52128],"type":"Point"}
+  "geometry": {"coordinates":[20.95507,51.52128],"type":"Point"}
 }

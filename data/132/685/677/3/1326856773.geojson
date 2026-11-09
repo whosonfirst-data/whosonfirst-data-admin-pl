@@ -57,7 +57,7 @@
         "wk:page":"Wychodne"
     },
     "wof:country":"PL",
-    "wof:geomhash":"843ae1985447311af746669faf10ac1c",
+    "wof:geomhash":"477c016f1da02c50e24996029e52e8d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.84209,
     54.07638000000001
 ],
-  "geometry": {"coordinates":[22.84209,54.07638000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.84209,54.07638],"type":"Point"}
 }

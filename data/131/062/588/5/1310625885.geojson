@@ -54,7 +54,7 @@
         "wk:page":"Kochan%C3%B3w%2C_Lipsko_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"14f0f9e838a4a51a0e4c9d404cd4dd83",
+    "wof:geomhash":"341180d22747f795d9adf91be5c73960",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.46162,
     51.22819000000001
 ],
-  "geometry": {"coordinates":[21.46162,51.22819000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.46162,51.22819],"type":"Point"}
 }

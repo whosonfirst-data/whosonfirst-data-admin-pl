@@ -63,7 +63,7 @@
         "wk:page":"Ja%C5%9Bkowice_Legnickie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3fa300ee3f459ba4b8be30571757d84c",
+    "wof:geomhash":"2cfb03c16f1a11c918ca4c932e875bb2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     16.31477000000001,
     51.22112
 ],
-  "geometry": {"coordinates":[16.31477000000001,51.22112],"type":"Point"}
+  "geometry": {"coordinates":[16.31477,51.22112],"type":"Point"}
 }

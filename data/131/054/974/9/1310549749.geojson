@@ -51,7 +51,7 @@
         "wk:page":"Opatkowiczki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e2bcf24ae511e8683cc4b7e53784d554",
+    "wof:geomhash":"7ce6f17b24b993699bdbb3e853d00efb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     20.48942000000001,
     50.34239
 ],
-  "geometry": {"coordinates":[20.48942000000001,50.34239],"type":"Point"}
+  "geometry": {"coordinates":[20.48942,50.34239],"type":"Point"}
 }

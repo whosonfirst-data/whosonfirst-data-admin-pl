@@ -54,7 +54,7 @@
         "wk:page":"Go%C5%82unin"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3fa7ed96456a8805384881157363d78a",
+    "wof:geomhash":"b6e49a3e75b095d59d3a6b9d1e59ac9b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.33915,
     52.46058000000001
 ],
-  "geometry": {"coordinates":[17.33915,52.46058000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.33915,52.46058],"type":"Point"}
 }

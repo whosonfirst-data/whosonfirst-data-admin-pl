@@ -57,7 +57,7 @@
         "wk:page":"%C5%9Awierczynek%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"30d1484ebbd1afa086947ba61990f1a3",
+    "wof:geomhash":"5abe7a6fe79b42fec5311d90c949c42a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     19.97037000000001,
     52.73031999999999
 ],
-  "geometry": {"coordinates":[19.97037000000001,52.73031999999999],"type":"Point"}
+  "geometry": {"coordinates":[19.97037,52.73032],"type":"Point"}
 }

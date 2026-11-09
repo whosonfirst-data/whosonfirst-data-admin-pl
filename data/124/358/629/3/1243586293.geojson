@@ -48,7 +48,7 @@
         "wk:page":"Przyrzecze%2C_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"256a660bbab9c4dfeb44ea539f566674",
+    "wof:geomhash":"2770caff1db917414e2f3f9b19ab21f0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     17.02821,
     53.74653000000001
 ],
-  "geometry": {"coordinates":[17.02821,53.74653000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.02821,53.74653],"type":"Point"}
 }

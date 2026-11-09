@@ -51,7 +51,7 @@
         "wk:page":"Skrzypiec%2C_Opole_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9a44f18e91b1ff4bab922ba73c7edcd1",
+    "wof:geomhash":"b66e23a04d962f67ed95980aad1c7233",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.64832999999999,
     50.31467
 ],
-  "geometry": {"coordinates":[17.64832999999999,50.31467],"type":"Point"}
+  "geometry": {"coordinates":[17.64833,50.31467],"type":"Point"}
 }

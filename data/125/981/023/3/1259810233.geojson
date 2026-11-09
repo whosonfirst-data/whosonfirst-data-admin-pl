@@ -51,7 +51,7 @@
         "wk:page":"Szczepanowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"523c169358e852f9bbc9ae51268bcb17",
+    "wof:geomhash":"3ce26e9be100e8a2164d504bd855f4c6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.91962999999999,
     52.8265
 ],
-  "geometry": {"coordinates":[17.91962999999999,52.8265],"type":"Point"}
+  "geometry": {"coordinates":[17.91963,52.8265],"type":"Point"}
 }

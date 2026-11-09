@@ -51,7 +51,7 @@
         "wk:page":"Kolonia_Rybacka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9a2e3bc52ca118a3f0b5db8d52c1f79a",
+    "wof:geomhash":"c312f34de7ff44d5e6e3a1e805d848a9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     21.79134,
     54.18848000000001
 ],
-  "geometry": {"coordinates":[21.79134,54.18848000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.79134,54.18848],"type":"Point"}
 }

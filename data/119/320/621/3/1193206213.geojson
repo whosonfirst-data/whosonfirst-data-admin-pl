@@ -54,7 +54,7 @@
         "wk:page":"Biskupice%2C_Busko_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1d4074e0db32c669c011258bc8e9ed07",
+    "wof:geomhash":"dcd714a2d557162c1d3ed6f89f9869ee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.10757000000001,
     50.40321
 ],
-  "geometry": {"coordinates":[21.10757000000001,50.40321],"type":"Point"}
+  "geometry": {"coordinates":[21.10757,50.40321],"type":"Point"}
 }

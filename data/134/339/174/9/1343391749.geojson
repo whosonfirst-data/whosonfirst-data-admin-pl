@@ -63,7 +63,7 @@
         "wk:page":"Nieznaszyn"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f5957076e50d6296d94fbbf3576fd0d6",
+    "wof:geomhash":"4be41fa8bb75f1a2edd2ed5261d0b3ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     18.18701,
     50.23699000000001
 ],
-  "geometry": {"coordinates":[18.18701,50.23699000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.18701,50.23699],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Kruszyn%2C_Podlaskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"56c0243d742764985ffd64757d1c83f5",
+    "wof:geomhash":"6c9e55ea03bbeea71bb1c12f38b4b3b7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.76446,
     53.25743000000001
 ],
-  "geometry": {"coordinates":[22.76446,53.25743000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.76446,53.25743],"type":"Point"}
 }

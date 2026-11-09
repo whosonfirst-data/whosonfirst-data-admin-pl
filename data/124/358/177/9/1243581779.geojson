@@ -54,7 +54,7 @@
         "wk:page":"D%C4%85br%C3%B3wka_Nag%C3%B3rna-Wie%C5%9B"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4970f873775e1a51ed8623dad4ef5211",
+    "wof:geomhash":"7bbacf739c661e008f271ff5290e9c38",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.07697000000001,
     51.46344000000001
 ],
-  "geometry": {"coordinates":[21.07697000000001,51.46344000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.07697,51.46344],"type":"Point"}
 }

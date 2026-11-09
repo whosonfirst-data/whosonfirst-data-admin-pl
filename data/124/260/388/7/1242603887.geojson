@@ -54,7 +54,7 @@
         "wk:page":"Zieleniewo%2C_Choszczno_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"cc766aba22f961033a786e4573dee78e",
+    "wof:geomhash":"0e1ad1aa5f89841be80bba2772f7affa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     15.62203,
     53.10888000000001
 ],
-  "geometry": {"coordinates":[15.62203,53.10888000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.62203,53.10888],"type":"Point"}
 }

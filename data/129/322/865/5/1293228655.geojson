@@ -63,7 +63,7 @@
         "wk:page":"Czerna%2C_G%C5%82og%C3%B3w_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"0e6f8e0cbea889fcee8c8af76b908e3d",
+    "wof:geomhash":"96529e4489883dd1062997114646f2e3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     15.90786,
     51.71129000000001
 ],
-  "geometry": {"coordinates":[15.90786,51.71129000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.90786,51.71129],"type":"Point"}
 }

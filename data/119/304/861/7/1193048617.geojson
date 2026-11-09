@@ -57,7 +57,7 @@
         "wk:page":"Emolinek"
     },
     "wof:country":"PL",
-    "wof:geomhash":"80532f1a9aea96aa1eb5d7042a424930",
+    "wof:geomhash":"7d771f4cece4b3fabcc359a4e32f1c1f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     20.51372000000001,
     52.44579
 ],
-  "geometry": {"coordinates":[20.51372000000001,52.44579],"type":"Point"}
+  "geometry": {"coordinates":[20.51372,52.44579],"type":"Point"}
 }

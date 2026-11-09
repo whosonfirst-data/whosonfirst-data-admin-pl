@@ -60,7 +60,7 @@
         "wk:page":"Milikowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e1f1e04a7763bb975b4a09c9e30ed7b8",
+    "wof:geomhash":"09ac88ea3ad4f888b105c6ae15e79376",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     19.48837,
     53.87773000000001
 ],
-  "geometry": {"coordinates":[19.48837,53.87773000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.48837,53.87773],"type":"Point"}
 }

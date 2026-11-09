@@ -51,7 +51,7 @@
         "wk:page":"Orze%C5%BCyn"
     },
     "wof:country":"PL",
-    "wof:geomhash":"693e0c140dab696d64fc2bb1f5238029",
+    "wof:geomhash":"7c46d221bca6f57279d6d87d648a9d94",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.52435,
     51.65864000000001
 ],
-  "geometry": {"coordinates":[18.52435,51.65864000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.52435,51.65864],"type":"Point"}
 }

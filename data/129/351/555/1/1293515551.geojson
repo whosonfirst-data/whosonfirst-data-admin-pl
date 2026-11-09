@@ -60,7 +60,7 @@
         "wk:page":"Kozio%C5%82%2C_Podlaskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"35313e2d792a4a6b3497c7441e4d283a",
+    "wof:geomhash":"b400acd91d157f9cdcbe7b10f1b7d527",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     21.83563,
     53.43176999999999
 ],
-  "geometry": {"coordinates":[21.83563,53.43176999999999],"type":"Point"}
+  "geometry": {"coordinates":[21.83563,53.43177],"type":"Point"}
 }

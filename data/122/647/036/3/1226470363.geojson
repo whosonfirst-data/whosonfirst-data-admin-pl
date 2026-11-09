@@ -63,7 +63,7 @@
         "wk:page":"Taw%C4%99cino"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6aa0ce541415c565ceb944a737850e70",
+    "wof:geomhash":"a0379f465c58393d9990f3771b662567",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     17.79497000000001,
     54.65618000000001
 ],
-  "geometry": {"coordinates":[17.79497000000001,54.65618000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.79497,54.65618],"type":"Point"}
 }

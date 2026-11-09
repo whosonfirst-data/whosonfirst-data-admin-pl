@@ -54,7 +54,7 @@
         "wk:page":"Nowe_Rumunki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c476579a3cc13f40eeb8375ccd071fe4",
+    "wof:geomhash":"8dcc5101f3e1502466cf73132aa5ef52",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.6602,
     52.46944000000001
 ],
-  "geometry": {"coordinates":[19.6602,52.46944000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.6602,52.46944],"type":"Point"}
 }

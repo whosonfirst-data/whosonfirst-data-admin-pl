@@ -57,7 +57,7 @@
         "wk:page":"Ma%C5%82owista"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a412a0df04c7a6035cf6a23460f4751d",
+    "wof:geomhash":"610bc2390db1f0803fea04e8244b8053",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     23.17,
     53.67498000000001
 ],
-  "geometry": {"coordinates":[23.17,53.67498000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.17,53.67498],"type":"Point"}
 }

@@ -69,7 +69,7 @@
         "wk:page":"Wo%C5%BAnawie%C5%9B"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ec64fb92ee359ed5728f5e31235ad67b",
+    "wof:geomhash":"eb7755cf68478c8ed2f90caffe825051",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     22.75189,
     53.67973000000001
 ],
-  "geometry": {"coordinates":[22.75189,53.67973000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.75189,53.67973],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Nowe_Prusy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c41f763db6842a331f3360fa7059b2fd",
+    "wof:geomhash":"ce4c17c950b948e51be83ab337558dbe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.02824,
     53.84614000000001
 ],
-  "geometry": {"coordinates":[18.02824,53.84614000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.02824,53.84614],"type":"Point"}
 }

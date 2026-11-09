@@ -57,7 +57,7 @@
         "wk:page":"Wilamowo%2C_Ostr%C3%B3da_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1082173c68af8a11e001d53b944d5992",
+    "wof:geomhash":"474f7233b3a520475ad78decdea27473",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     19.77458,
     53.90176999999999
 ],
-  "geometry": {"coordinates":[19.77458,53.90176999999999],"type":"Point"}
+  "geometry": {"coordinates":[19.77458,53.90177],"type":"Point"}
 }

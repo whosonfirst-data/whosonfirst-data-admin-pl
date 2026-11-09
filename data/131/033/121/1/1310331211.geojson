@@ -57,7 +57,7 @@
         "wk:page":"Unierzy%C5%BC"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c3cf48677c308243a246236eb3e4b138",
+    "wof:geomhash":"1c3504aafac8ceca254ff89db68b0fad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     20.29292,
     52.86268000000001
 ],
-  "geometry": {"coordinates":[20.29292,52.86268000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.29292,52.86268],"type":"Point"}
 }

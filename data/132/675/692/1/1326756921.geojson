@@ -66,7 +66,7 @@
         "wk:page":"Sitawka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"fcb2fcd8373455a0b0872e625afb61e3",
+    "wof:geomhash":"b81b5c2880c5f286574551d63790bc5f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     23.23915,
     53.44303000000001
 ],
-  "geometry": {"coordinates":[23.23915,53.44303000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.23915,53.44303],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Zwierzyniec%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a8ca36807a77b83af44461ea14fb7ed2",
+    "wof:geomhash":"82a5dd0b327a637eefdd94bbb842019e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.08391,
     53.71458000000001
 ],
-  "geometry": {"coordinates":[18.08391,53.71458000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.08391,53.71458],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Prosienica"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f3c5baabaf746aaf239ea65191cad414",
+    "wof:geomhash":"5bcc22669658cd73aff5b37046c42f4e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.02038,
     52.87068000000001
 ],
-  "geometry": {"coordinates":[22.02038,52.87068000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.02038,52.87068],"type":"Point"}
 }

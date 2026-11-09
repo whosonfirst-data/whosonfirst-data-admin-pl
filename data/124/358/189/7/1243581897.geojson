@@ -60,7 +60,7 @@
         "wk:page":"Pruska"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c1cf62e54e5176aed4bf38e1c0a7c8c6",
+    "wof:geomhash":"9bc1095c32385461a01b5ee5346a14c8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     22.80932,
     53.70916999999999
 ],
-  "geometry": {"coordinates":[22.80932,53.70916999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.80932,53.70917],"type":"Point"}
 }

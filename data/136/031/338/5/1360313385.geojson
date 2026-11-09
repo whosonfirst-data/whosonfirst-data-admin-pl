@@ -51,7 +51,7 @@
         "wk:page":"Dziewcza_Struga"
     },
     "wof:country":"PL",
-    "wof:geomhash":"366672c3873a6296f5e92cf8ea44b5b1",
+    "wof:geomhash":"f466c8bc778e4564ab210368f74876be",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     16.93643,
     52.73583000000001
 ],
-  "geometry": {"coordinates":[16.93643,52.73583000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.93643,52.73583],"type":"Point"}
 }

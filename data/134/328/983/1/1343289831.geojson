@@ -63,7 +63,7 @@
         "wk:page":"Buja%C5%82y-Mikosze"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3ae051d61006daedb59390ce09dd8eb0",
+    "wof:geomhash":"2d5060a902e0e4d7aa95ff500fdc5d89",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     22.37559,
     52.45923000000001
 ],
-  "geometry": {"coordinates":[22.37559,52.45923000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.37559,52.45923],"type":"Point"}
 }

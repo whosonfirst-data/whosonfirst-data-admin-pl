@@ -51,7 +51,7 @@
         "wk:page":"Chodacz%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e9cf05aaab846f360f22e754b824a4a2",
+    "wof:geomhash":"79183d7d44e0dced5ef66443eea00abd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     22.51837,
     50.14149000000001
 ],
-  "geometry": {"coordinates":[22.51837,50.14149000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.51837,50.14149],"type":"Point"}
 }

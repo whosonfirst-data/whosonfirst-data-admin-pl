@@ -51,7 +51,7 @@
         "wk:page":"Nadolce"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f797d24ab231a692be86ae462b5f7f69",
+    "wof:geomhash":"6b93c6608145cf88a35727cb87444949",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     23.71202000000001,
     50.53962
 ],
-  "geometry": {"coordinates":[23.71202000000001,50.53962],"type":"Point"}
+  "geometry": {"coordinates":[23.71202,50.53962],"type":"Point"}
 }

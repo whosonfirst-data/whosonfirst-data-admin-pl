@@ -57,7 +57,7 @@
         "wk:page":"Pstrowice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a59164500527b186deed15c8280a9bba",
+    "wof:geomhash":"4260f6360e39ac3557ce85324b86b2c0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     14.94577,
     53.09223000000001
 ],
-  "geometry": {"coordinates":[14.94577,53.09223000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.94577,53.09223],"type":"Point"}
 }

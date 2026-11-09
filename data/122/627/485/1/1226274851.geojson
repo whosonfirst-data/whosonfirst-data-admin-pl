@@ -63,7 +63,7 @@
         "wk:page":"Mingajny"
     },
     "wof:country":"PL",
-    "wof:geomhash":"996362bef7a47c2dad8898e11d96e36a",
+    "wof:geomhash":"c17c46170b035f8737a8adeb529f94b8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     20.25178,
     54.16119000000001
 ],
-  "geometry": {"coordinates":[20.25178,54.16119000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.25178,54.16119],"type":"Point"}
 }

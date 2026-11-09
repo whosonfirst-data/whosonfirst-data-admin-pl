@@ -51,7 +51,7 @@
         "wk:page":"Raczkowa%2C_Podkarpackie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"41fb6dd247459caf2386e091cb7033d4",
+    "wof:geomhash":"ebd399a73d800c0dd15a2908174839f4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     22.18467,
     49.63829000000001
 ],
-  "geometry": {"coordinates":[22.18467,49.63829000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.18467,49.63829],"type":"Point"}
 }

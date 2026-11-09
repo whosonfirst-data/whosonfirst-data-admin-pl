@@ -54,7 +54,7 @@
         "wk:page":"%C5%81ukaszewo%2C_Golub-Dobrzy%C5%84_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"34f42740758a6c3845f009b8d2722b94",
+    "wof:geomhash":"4e2c45858a3ef24241ba2b3f5e7d8297",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.13432,
     53.02381999999999
 ],
-  "geometry": {"coordinates":[19.13432,53.02381999999999],"type":"Point"}
+  "geometry": {"coordinates":[19.13432,53.02382],"type":"Point"}
 }

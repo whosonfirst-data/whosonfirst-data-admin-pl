@@ -54,7 +54,7 @@
         "wk:page":"Wierzbice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"db098b02cc2863c3e139bbc77c4c80e7",
+    "wof:geomhash":"31c4967f6fd23e2219b9abf0dd5b0d4b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     16.89182000000001,
     50.95529000000001
 ],
-  "geometry": {"coordinates":[16.89182000000001,50.95529000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.89182,50.95529],"type":"Point"}
 }

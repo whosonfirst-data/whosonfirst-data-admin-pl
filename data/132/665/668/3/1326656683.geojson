@@ -57,7 +57,7 @@
         "wk:page":"Sielu%C5%84"
     },
     "wof:country":"PL",
-    "wof:geomhash":"86f7ef9c24012aaa4c576f52c06404c1",
+    "wof:geomhash":"ee170052ecfcb27a6cb6757a3f1a4394",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.39965,
     52.95003000000001
 ],
-  "geometry": {"coordinates":[21.39965,52.95003000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.39965,52.95003],"type":"Point"}
 }

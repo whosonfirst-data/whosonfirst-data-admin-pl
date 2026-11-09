@@ -54,7 +54,7 @@
         "wk:page":"G%C3%B3zd%2C_%C5%81uk%C3%B3w_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"21b0dedaceabd15bd97ba51aa8399382",
+    "wof:geomhash":"bbbef273bdebbb7ed68c35d44552e610",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.15004,
     51.91354000000001
 ],
-  "geometry": {"coordinates":[22.15004,51.91354000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.15004,51.91354],"type":"Point"}
 }

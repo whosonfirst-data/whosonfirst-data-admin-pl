@@ -54,7 +54,7 @@
         "wk:page":"Sad%C5%82owo%2C_West_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"485df3e6147dfd9ea4fc422a807e0d44",
+    "wof:geomhash":"a84747ba99a4a82d7fb152573537dfd1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     15.27191,
     53.27871999999999
 ],
-  "geometry": {"coordinates":[15.27191,53.27871999999999],"type":"Point"}
+  "geometry": {"coordinates":[15.27191,53.27872],"type":"Point"}
 }

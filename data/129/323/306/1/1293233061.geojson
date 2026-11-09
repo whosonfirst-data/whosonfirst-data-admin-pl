@@ -51,7 +51,7 @@
         "wk:page":"Cisowy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e64fcec7085ce83b7bd7e9e9c74bccc4",
+    "wof:geomhash":"946c8a6d43f1082dc4194be6094f2497",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.5907,
     53.70108000000001
 ],
-  "geometry": {"coordinates":[18.5907,53.70108000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.5907,53.70108],"type":"Point"}
 }

@@ -66,7 +66,7 @@
         "wk:page":"Andrychy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9f147bbde8abd67879a5821b8eac6516",
+    "wof:geomhash":"1250d6c35a7f1dd6c67bd7f00039e77b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     22.14668,
     53.51253000000001
 ],
-  "geometry": {"coordinates":[22.14668,53.51253000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.14668,53.51253],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"B%C5%82%C4%99dnica"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6cd9dca63adae338fc0a8e9c6883a5a9",
+    "wof:geomhash":"3e8c697a8c6c4b4015744181d403db99",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.00682,
     52.72671999999999
 ],
-  "geometry": {"coordinates":[22.00682,52.72671999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.00682,52.72672],"type":"Point"}
 }

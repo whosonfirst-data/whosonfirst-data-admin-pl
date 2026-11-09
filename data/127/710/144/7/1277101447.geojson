@@ -57,7 +57,7 @@
         "wk:page":"%C5%81agiewniki%2C_West_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"adae8bc72a1d99923e61d38ca259b3af",
+    "wof:geomhash":"332f123c7d5a541548563358bc66d077",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     15.49559,
     53.74378000000001
 ],
-  "geometry": {"coordinates":[15.49559,53.74378000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.49559,53.74378],"type":"Point"}
 }

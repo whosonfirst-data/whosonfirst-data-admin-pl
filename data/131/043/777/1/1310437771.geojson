@@ -82,7 +82,7 @@
         "wk:page":"Machowinko"
     },
     "wof:country":"PL",
-    "wof:geomhash":"013cd994630d11d02e95707b24fb0454",
+    "wof:geomhash":"115b99eb2d1ab730b086282a2f5a90dd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -109,5 +109,5 @@
     17.00992999999999,
     54.59942
 ],
-  "geometry": {"coordinates":[17.00992999999999,54.59942],"type":"Point"}
+  "geometry": {"coordinates":[17.00993,54.59942],"type":"Point"}
 }

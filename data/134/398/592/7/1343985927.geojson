@@ -60,7 +60,7 @@
         "wk:page":"Brzoz%C3%B3wka%2C_Podlaskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"fad90030c332c82f60ea00033f64d07e",
+    "wof:geomhash":"ff5b53ddc4ee7e42b103d362e8563cc8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     22.84729,
     53.76153000000001
 ],
-  "geometry": {"coordinates":[22.84729,53.76153000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.84729,53.76153],"type":"Point"}
 }

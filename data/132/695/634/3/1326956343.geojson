@@ -54,7 +54,7 @@
         "wk:page":"%C5%81owiczek"
     },
     "wof:country":"PL",
-    "wof:geomhash":"78b8b38e742be644ec266921b777566e",
+    "wof:geomhash":"926edfc1f1b79178f288f7f6f6527171",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.7746,
     52.73733000000001
 ],
-  "geometry": {"coordinates":[18.7746,52.73733000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.7746,52.73733],"type":"Point"}
 }

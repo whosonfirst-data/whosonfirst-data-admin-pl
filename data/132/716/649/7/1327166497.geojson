@@ -60,7 +60,7 @@
         "wk:page":"G%C5%82odowo_Wielkie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"110318b45953aed9f5dabfd639305d43",
+    "wof:geomhash":"268402f3b465f51854b66b494a1c3fa9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     20.84279,
     52.60469000000001
 ],
-  "geometry": {"coordinates":[20.84279,52.60469000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.84279,52.60469],"type":"Point"}
 }

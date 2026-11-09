@@ -54,7 +54,7 @@
         "wk:page":"Ugoszcz%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"0893d5ec00d8622752beb4d087c9e8df",
+    "wof:geomhash":"805cafd49ffe01852b4451af3495ecfa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.22991,
     53.04123000000001
 ],
-  "geometry": {"coordinates":[19.22991,53.04123000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.22991,53.04123],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Pr%C3%B3ba%2C_%C5%81%C3%B3d%C5%BA_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ce6a644e62281148b2bb131373ecdc49",
+    "wof:geomhash":"25ed7a48832a3317ed616613688d48b0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.65167000000001,
     51.50818
 ],
-  "geometry": {"coordinates":[18.65167000000001,51.50818],"type":"Point"}
+  "geometry": {"coordinates":[18.65167,51.50818],"type":"Point"}
 }

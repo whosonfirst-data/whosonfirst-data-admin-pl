@@ -54,7 +54,7 @@
         "wk:page":"Motyka%2C_Podlaskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2a0a156147c9a1c90d71908885c888db",
+    "wof:geomhash":"7aabdec9e26740b3ef283edbbffc2343",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.19397,
     53.24628000000001
 ],
-  "geometry": {"coordinates":[22.19397,53.24628000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.19397,53.24628],"type":"Point"}
 }

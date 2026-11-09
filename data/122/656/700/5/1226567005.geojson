@@ -54,7 +54,7 @@
         "wk:page":"Modrzewo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2ef0c057d4d7fa06271155266030e2d8",
+    "wof:geomhash":"ecd1356e2e68e915ac1fbaa64c9a0354",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     15.39074,
     53.30433000000001
 ],
-  "geometry": {"coordinates":[15.39074,53.30433000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.39074,53.30433],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Lucin%2C_West_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"52109b9ca5f8ccfb228d5c473bab68c6",
+    "wof:geomhash":"cb8c555320898d2d15a7c9ea055f72dd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     15.08648,
     53.06908000000001
 ],
-  "geometry": {"coordinates":[15.08648,53.06908000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.08648,53.06908],"type":"Point"}
 }

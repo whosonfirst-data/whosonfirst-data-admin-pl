@@ -57,7 +57,7 @@
         "wk:page":"Nowe_%C5%81osienice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"0d388d764c8875ebc1717e20a7b4fe0e",
+    "wof:geomhash":"bbba2d9581499bc7549f174c03a18a3c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     17.88987999999999,
     54.27788
 ],
-  "geometry": {"coordinates":[17.88987999999999,54.27788],"type":"Point"}
+  "geometry": {"coordinates":[17.88988,54.27788],"type":"Point"}
 }

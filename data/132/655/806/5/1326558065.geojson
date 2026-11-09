@@ -54,7 +54,7 @@
         "wk:page":"Kowalewszczyzna"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ec218f2ad596ba10f0b3d4c9244f6aa0",
+    "wof:geomhash":"c5aa3768a62c8c2c2a65e757a785a2ea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.78127000000001,
     53.06198000000001
 ],
-  "geometry": {"coordinates":[22.78127000000001,53.06198000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.78127,53.06198],"type":"Point"}
 }

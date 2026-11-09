@@ -54,7 +54,7 @@
         "wk:page":"Kubrzany"
     },
     "wof:country":"PL",
-    "wof:geomhash":"304b024c10598f954aef93c7e9642c37",
+    "wof:geomhash":"8bc9c297cf35863bbd8699c2050edd3d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.30516,
     53.30719000000001
 ],
-  "geometry": {"coordinates":[22.30516,53.30719000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.30516,53.30719],"type":"Point"}
 }

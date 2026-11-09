@@ -66,7 +66,7 @@
         "wk:page":"Morszk%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4bf34d002bab14f93745417285eced2d",
+    "wof:geomhash":"997246f7ca1ec377f46fac4a785a5d29",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     22.40769,
     52.47193000000001
 ],
-  "geometry": {"coordinates":[22.40769,52.47193000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.40769,52.47193],"type":"Point"}
 }

@@ -48,7 +48,7 @@
         "wk:page":"Krzemieniec%2C_Opole_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4a890a0a94d5e27b0f6c57438554f320",
+    "wof:geomhash":"0974988d95cec098cd63c49e44df328a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     17.65273999999999,
     50.99478
 ],
-  "geometry": {"coordinates":[17.65273999999999,50.99478],"type":"Point"}
+  "geometry": {"coordinates":[17.65274,50.99478],"type":"Point"}
 }

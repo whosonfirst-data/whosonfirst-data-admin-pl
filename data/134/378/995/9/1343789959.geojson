@@ -57,7 +57,7 @@
         "wk:page":"Kosewo%2C_Ostr%C3%B3w_Mazowiecka_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5ac10667b2956b2140832c0dda4cec1a",
+    "wof:geomhash":"fe744e63603b9a838fbe94aa1b8ff78e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.90524,
     52.91578000000001
 ],
-  "geometry": {"coordinates":[21.90524,52.91578000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.90524,52.91578],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Wr%C3%B3ble%2C_Podlaskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c21759ff58722fcc87717afda93c95b9",
+    "wof:geomhash":"81400aaf774a4ec70c5b13344303de80",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.55469,
     52.94436999999999
 ],
-  "geometry": {"coordinates":[22.55469,52.94436999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.55469,52.94437],"type":"Point"}
 }

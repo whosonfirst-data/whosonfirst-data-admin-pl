@@ -57,7 +57,7 @@
         "wk:page":"Chojniki%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"bdb6a3f82379c9d7aa9b9f274bcf911f",
+    "wof:geomhash":"f1c7b994c0fc82e9a3980e06efddc520",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     16.12604,
     52.28234000000001
 ],
-  "geometry": {"coordinates":[16.12604,52.28234000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.12604,52.28234],"type":"Point"}
 }

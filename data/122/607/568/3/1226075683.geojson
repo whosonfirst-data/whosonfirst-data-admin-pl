@@ -57,7 +57,7 @@
         "wk:page":"Poganica"
     },
     "wof:country":"PL",
-    "wof:geomhash":"cc7f12bca4ac5558d23e38df0c6a2b7a",
+    "wof:geomhash":"9900420cbc2ae674c64eacdfe842d1c0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     23.45481,
     53.49778000000001
 ],
-  "geometry": {"coordinates":[23.45481,53.49778000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.45481,53.49778],"type":"Point"}
 }

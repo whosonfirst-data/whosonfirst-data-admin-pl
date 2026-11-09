@@ -61,7 +61,7 @@
         "wk:page":"Widzie%C5%84sko"
     },
     "wof:country":"PL",
-    "wof:geomhash":"285a06f233afe722c5abbfd48b4b8d31",
+    "wof:geomhash":"17c08f70bf73fe18aeb849d7a6ad1145",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     14.74098,
     53.66883000000001
 ],
-  "geometry": {"coordinates":[14.74098,53.66883000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.74098,53.66883],"type":"Point"}
 }

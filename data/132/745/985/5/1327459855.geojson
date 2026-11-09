@@ -54,7 +54,7 @@
         "wk:page":"Kruszewo%2C_Ostro%C5%82%C4%99ka_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4e6c4f88cd83f30f272c784a4d26bfbf",
+    "wof:geomhash":"fb86a196d068340dccf5dc752bd597fe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.48043,
     52.93861999999999
 ],
-  "geometry": {"coordinates":[21.48043,52.93861999999999],"type":"Point"}
+  "geometry": {"coordinates":[21.48043,52.93862],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"Faryny"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5a090b7c75ad00d0dcd6c5a90db7ee10",
+    "wof:geomhash":"6254b4c45bb058203ee6ae21dead9802",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.38751,
     53.52999000000001
 ],
-  "geometry": {"coordinates":[21.38751,53.52999000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.38751,53.52999],"type":"Point"}
 }

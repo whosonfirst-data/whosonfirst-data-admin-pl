@@ -54,7 +54,7 @@
         "wk:page":"Tworki%2C_Gr%C3%B3jec_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f34278ac3b25e8734cb3d4668b087286",
+    "wof:geomhash":"c0d371ea000365f0682dd4dd058f6e55",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.97487000000001,
     51.79436
 ],
-  "geometry": {"coordinates":[20.97487000000001,51.79436],"type":"Point"}
+  "geometry": {"coordinates":[20.97487,51.79436],"type":"Point"}
 }

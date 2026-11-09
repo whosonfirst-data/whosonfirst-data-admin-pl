@@ -79,7 +79,7 @@
         "wk:page":"Chobienia%2C_Lubin_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"72f1162e561c717bab0ec7f389139d31",
+    "wof:geomhash":"84510c2e7411766a2aa3b22976e840cf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -106,5 +106,5 @@
     16.44855,
     51.54349000000001
 ],
-  "geometry": {"coordinates":[16.44855,51.54349000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.44855,51.54349],"type":"Point"}
 }

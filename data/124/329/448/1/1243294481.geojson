@@ -54,7 +54,7 @@
         "wk:page":"Samsieczynek"
     },
     "wof:country":"PL",
-    "wof:geomhash":"0964b2ac56767c7952c93f822a5bb3a1",
+    "wof:geomhash":"9d38bc90e26a9ae3a24189ba02dbd3a9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.66896000000001,
     53.21924
 ],
-  "geometry": {"coordinates":[17.66896000000001,53.21924],"type":"Point"}
+  "geometry": {"coordinates":[17.66896,53.21924],"type":"Point"}
 }

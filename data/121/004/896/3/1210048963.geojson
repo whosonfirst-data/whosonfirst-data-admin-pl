@@ -66,7 +66,7 @@
         "wk:page":"Zielina"
     },
     "wof:country":"PL",
-    "wof:geomhash":"289fdcda906a455ee5ccc393cd7e2c68",
+    "wof:geomhash":"54187a256242f0456094c61a142877bb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     17.79407999999999,
     50.441
 ],
-  "geometry": {"coordinates":[17.79407999999999,50.441],"type":"Point"}
+  "geometry": {"coordinates":[17.79408,50.441],"type":"Point"}
 }

@@ -51,7 +51,7 @@
         "wk:page":"Konotopie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"586395f9bc70447dd2be85f6b7a2cbd7",
+    "wof:geomhash":"04850a5b6a715d905429569c5c0cf7e8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.11179,
     52.88829000000001
 ],
-  "geometry": {"coordinates":[19.11179,52.88829000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.11179,52.88829],"type":"Point"}
 }

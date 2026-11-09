@@ -54,7 +54,7 @@
         "wk:page":"Michr%C3%B3wek"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1db0de333d2aea41ef1d696cfc494912",
+    "wof:geomhash":"a3a3c0a2265e69963c30c55cf2c40dd6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.77891,
     51.94459000000001
 ],
-  "geometry": {"coordinates":[20.77891,51.94459000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.77891,51.94459],"type":"Point"}
 }

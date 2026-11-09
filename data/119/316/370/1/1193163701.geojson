@@ -54,7 +54,7 @@
         "wk:page":"%C5%BBelazkowo%2C_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6954a3a4491a25e168fb7ddb97148e9e",
+    "wof:geomhash":"d9b959201896dd517a4e59e2ef062ecb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.61107999999999,
     54.54996
 ],
-  "geometry": {"coordinates":[17.61107999999999,54.54996],"type":"Point"}
+  "geometry": {"coordinates":[17.61108,54.54996],"type":"Point"}
 }

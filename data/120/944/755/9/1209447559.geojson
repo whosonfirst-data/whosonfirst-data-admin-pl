@@ -61,7 +61,7 @@
         "wk:page":"Ba%C5%82amutowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a6542ff69b042b8dfebfcf1d681cf9f7",
+    "wof:geomhash":"89528119f4662a09888d1ca987182dd9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     22.24623,
     53.89686999999999
 ],
-  "geometry": {"coordinates":[22.24623,53.89686999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.24623,53.89687],"type":"Point"}
 }

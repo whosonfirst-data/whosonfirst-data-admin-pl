@@ -57,7 +57,7 @@
         "wk:page":"Wolawce"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5cadf4c31814a841304684741d17e4e8",
+    "wof:geomhash":"8377b08fff14658c4e04d932e0b8cd6f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     23.58267,
     51.06254000000001
 ],
-  "geometry": {"coordinates":[23.58267,51.06254000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.58267,51.06254],"type":"Point"}
 }

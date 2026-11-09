@@ -70,7 +70,7 @@
         "wk:page":"Borzymy%2C_Warmian-Masurian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"870591ddfe7f24b3cfffda0f5764719b",
+    "wof:geomhash":"72436eb77b7bb04ea03fb630f3e886e3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,5 +97,5 @@
     22.69415,
     53.81726999999999
 ],
-  "geometry": {"coordinates":[22.69415,53.81726999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.69415,53.81727],"type":"Point"}
 }

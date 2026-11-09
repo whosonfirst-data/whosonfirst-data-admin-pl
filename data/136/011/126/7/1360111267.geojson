@@ -54,7 +54,7 @@
         "wk:page":"Budy_Mszczonowskie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1f86d489f7d69a5a174d81c5f5fe4b29",
+    "wof:geomhash":"0c4634b8720e286eaa1f1318b3dc0d15",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.51594,
     51.99704000000001
 ],
-  "geometry": {"coordinates":[20.51594,51.99704000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.51594,51.99704],"type":"Point"}
 }

@@ -60,7 +60,7 @@
         "wk:page":"Jankowice%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9081ea40780edc20f565bf21b258e369",
+    "wof:geomhash":"f6adf0078304b231829d431043bc11a1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     16.62025,
     52.43958000000001
 ],
-  "geometry": {"coordinates":[16.62025,52.43958000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.62025,52.43958],"type":"Point"}
 }

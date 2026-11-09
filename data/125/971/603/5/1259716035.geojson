@@ -54,7 +54,7 @@
         "wk:page":"Stawy_Monowskie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"50c924f662b072be649c182d7cbccc70",
+    "wof:geomhash":"3cae95c981cd74c7818b1a64bb8a9011",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.33756,
     50.02437000000001
 ],
-  "geometry": {"coordinates":[19.33756,50.02437000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.33756,50.02437],"type":"Point"}
 }

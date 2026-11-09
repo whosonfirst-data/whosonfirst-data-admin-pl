@@ -57,7 +57,7 @@
         "wk:page":"P%C4%99chcin"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f2a9c0a06adbe838f1ec3c70f5e04b3b",
+    "wof:geomhash":"66c8bfba4ec07620c227d15780dc1206",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     20.57088,
     52.86183000000001
 ],
-  "geometry": {"coordinates":[20.57088,52.86183000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.57088,52.86183],"type":"Point"}
 }

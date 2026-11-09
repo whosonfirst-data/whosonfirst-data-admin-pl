@@ -58,7 +58,7 @@
         "wk:page":"Jurzec_Szlachecki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"91405a9c19981d956097ae9ba5a2d4a8",
+    "wof:geomhash":"d4eebb74a93133ce5f28dfe1ec71d244",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,5 +85,5 @@
     22.2147,
     53.32503000000001
 ],
-  "geometry": {"coordinates":[22.2147,53.32503000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.2147,53.32503],"type":"Point"}
 }

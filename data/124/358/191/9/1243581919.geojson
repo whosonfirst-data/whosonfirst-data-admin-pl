@@ -60,7 +60,7 @@
         "wk:page":"Zalas%2C_Ostro%C5%82%C4%99ka_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2244dd34152f4c8aadc0e040a2de2a63",
+    "wof:geomhash":"f4b21973779e8f645160595522034ec1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     21.56359,
     53.42498000000001
 ],
-  "geometry": {"coordinates":[21.56359,53.42498000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.56359,53.42498],"type":"Point"}
 }

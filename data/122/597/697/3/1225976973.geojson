@@ -63,7 +63,7 @@
         "wk:page":"Trynosy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f1ff97bae6f9bb15810c0abe442f3f93",
+    "wof:geomhash":"f63656bdb70494932ad639025fc5924e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     21.77603,
     52.87598000000001
 ],
-  "geometry": {"coordinates":[21.77603,52.87598000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.77603,52.87598],"type":"Point"}
 }

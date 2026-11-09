@@ -57,7 +57,7 @@
         "wk:page":"Wojeniec"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e7c61d84b941f730a38ae01ee1845896",
+    "wof:geomhash":"1ca1d37e678c71d83fcbf96db3338b1c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.93512,
     52.58691999999999
 ],
-  "geometry": {"coordinates":[22.93512,52.58691999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.93512,52.58692],"type":"Point"}
 }

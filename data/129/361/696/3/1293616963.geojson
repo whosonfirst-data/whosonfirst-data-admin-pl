@@ -60,7 +60,7 @@
         "wk:page":"Kozi%C5%84ce"
     },
     "wof:country":"PL",
-    "wof:geomhash":"207dbe25ea5bdfcc54e9e19683952114",
+    "wof:geomhash":"489f9f126cdc0df764134a2a491563c2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     22.9843,
     53.24463000000001
 ],
-  "geometry": {"coordinates":[22.9843,53.24463000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.9843,53.24463],"type":"Point"}
 }

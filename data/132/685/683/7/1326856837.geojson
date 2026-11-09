@@ -57,7 +57,7 @@
         "wk:page":"Wiekowo%2C_West_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d75fd47dc3dc351d9897719e41dedc99",
+    "wof:geomhash":"27d25c274399292d79bfbfee0c01249f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     16.38648,
     54.30368000000001
 ],
-  "geometry": {"coordinates":[16.38648,54.30368000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.38648,54.30368],"type":"Point"}
 }

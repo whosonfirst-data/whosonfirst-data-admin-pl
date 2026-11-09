@@ -75,7 +75,7 @@
         "wk:page":"Brze%C5%BAno_Szlacheckie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"82a20ae9bb65155211df2af92298fb6a",
+    "wof:geomhash":"b1e3a2f241a7d649a9242710a6e65839",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,5 +102,5 @@
     17.24465,
     54.01833000000001
 ],
-  "geometry": {"coordinates":[17.24465,54.01833000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.24465,54.01833],"type":"Point"}
 }

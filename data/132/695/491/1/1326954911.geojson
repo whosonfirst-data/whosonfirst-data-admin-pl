@@ -57,7 +57,7 @@
         "wk:page":"Janowo%2C_S%C5%82upca_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4e7003d3316e262dc8cd0e0f22c2def0",
+    "wof:geomhash":"73276a79d36f5b971b9c09885e73660b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     17.81441000000001,
     52.3656
 ],
-  "geometry": {"coordinates":[17.81441000000001,52.3656],"type":"Point"}
+  "geometry": {"coordinates":[17.81441,52.3656],"type":"Point"}
 }

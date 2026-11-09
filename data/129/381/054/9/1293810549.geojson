@@ -56,7 +56,7 @@
         "wk:page":"Karpa"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5f9d99051516718ff5ad3f8f3be03cf7",
+    "wof:geomhash":"3c91a314daa171ec19d0e6c2770a3ee4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,5 +83,5 @@
     21.55586,
     53.49203000000001
 ],
-  "geometry": {"coordinates":[21.55586,53.49203000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.55586,53.49203],"type":"Point"}
 }

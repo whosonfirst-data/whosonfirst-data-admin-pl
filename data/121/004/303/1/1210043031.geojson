@@ -54,7 +54,7 @@
         "wk:page":"%C5%BBuklin"
     },
     "wof:country":"PL",
-    "wof:geomhash":"10a496aa7cf965561a98a5c02b041342",
+    "wof:geomhash":"ad6de0b60b7df2c67a78e12eccef0652",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.43077000000001,
     49.98333
 ],
-  "geometry": {"coordinates":[22.43077000000001,49.98333],"type":"Point"}
+  "geometry": {"coordinates":[22.43077,49.98333],"type":"Point"}
 }

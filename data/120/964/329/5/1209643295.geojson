@@ -51,7 +51,7 @@
         "wk:page":"Elzanowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"823a8546d9a1e5440e249c2a17a2b0d0",
+    "wof:geomhash":"600306293a35e46a1de7f975778af719",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.85,
     53.13333000000001
 ],
-  "geometry": {"coordinates":[18.85,53.13333000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.85,53.13333],"type":"Point"}
 }

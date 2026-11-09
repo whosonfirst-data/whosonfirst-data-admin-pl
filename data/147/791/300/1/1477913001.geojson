@@ -58,7 +58,7 @@
         "wk:page":"Trzesieka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"362b6270d9fd6774c0b9ff1cdff3ca48",
+    "wof:geomhash":"1123fe8a1b8970c811d5c218ee81d41e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     16.64417000000001,
     53.7202
 ],
-  "geometry": {"coordinates":[16.64417000000001,53.7202],"type":"Point"}
+  "geometry": {"coordinates":[16.64417,53.7202],"type":"Point"}
 }

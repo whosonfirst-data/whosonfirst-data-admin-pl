@@ -54,7 +54,7 @@
         "wk:page":"Wo%C5%82ownia"
     },
     "wof:country":"PL",
-    "wof:geomhash":"07ea77d6cf0ae2b1539208f7ed035450",
+    "wof:geomhash":"401742b676953b9e8677e7af52558ddb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.94068,
     54.20953000000001
 ],
-  "geometry": {"coordinates":[22.94068,54.20953000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.94068,54.20953],"type":"Point"}
 }

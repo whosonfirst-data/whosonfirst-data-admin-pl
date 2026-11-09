@@ -57,7 +57,7 @@
         "wk:page":"Mata%C5%82y"
     },
     "wof:country":"PL",
-    "wof:geomhash":"31d2aad48827b176f67210f045905c02",
+    "wof:geomhash":"6dd3013def50427efbe6b35925a44070",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.83443,
     52.50953000000001
 ],
-  "geometry": {"coordinates":[21.83443,52.50953000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.83443,52.50953],"type":"Point"}
 }

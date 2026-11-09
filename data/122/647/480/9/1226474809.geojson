@@ -54,7 +54,7 @@
         "wk:page":"Karpowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3efe9825978387f67ba61dc1c5187a26",
+    "wof:geomhash":"49d1a0ab4977df1b371e64064f19f3bc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.64531,
     53.76329000000001
 ],
-  "geometry": {"coordinates":[19.64531,53.76329000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.64531,53.76329],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Krejwi%C5%84ce"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ab3e63ab9b7cc168422b4da2425c3d88",
+    "wof:geomhash":"d8026be115cd595349f9a844b3441ab1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     23.42743,
     54.09048000000001
 ],
-  "geometry": {"coordinates":[23.42743,54.09048000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.42743,54.09048],"type":"Point"}
 }

@@ -48,7 +48,7 @@
         "wk:page":"Porzecze%2C_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"63a41aad75d37576e709934882f2d71d",
+    "wof:geomhash":"352f63495b22e0d0281a7a6773841d10",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     19.46417000000001,
     53.93133
 ],
-  "geometry": {"coordinates":[19.46417000000001,53.93133],"type":"Point"}
+  "geometry": {"coordinates":[19.46417,53.93133],"type":"Point"}
 }

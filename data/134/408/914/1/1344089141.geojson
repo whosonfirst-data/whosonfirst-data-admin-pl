@@ -58,7 +58,7 @@
         "wk:page":"Osipy-Kolonia"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7a836198e6962519a717c4ef63292a9b",
+    "wof:geomhash":"cc6efd6bffcdba9f0315d783c931d894",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,5 +85,5 @@
     22.46655,
     52.93304000000001
 ],
-  "geometry": {"coordinates":[22.46655,52.93304000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.46655,52.93304],"type":"Point"}
 }

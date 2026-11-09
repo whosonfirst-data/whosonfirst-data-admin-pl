@@ -69,7 +69,7 @@
         "wk:page":"%C5%81ebie%C5%84%2C_L%C4%99bork_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"59755397f816eebdd6b3b334c8e65f3a",
+    "wof:geomhash":"aed6857254499bede06a6928132fd5f9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     17.71787999999999,
     54.64406
 ],
-  "geometry": {"coordinates":[17.71787999999999,54.64406],"type":"Point"}
+  "geometry": {"coordinates":[17.71788,54.64406],"type":"Point"}
 }

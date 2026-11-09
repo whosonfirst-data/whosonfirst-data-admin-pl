@@ -51,7 +51,7 @@
         "wk:page":"Balewko"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ab438d0e6ddf4b1ca05bac3b580913b8",
+    "wof:geomhash":"1458b68f308777f1a31bbf45ce25d787",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.25131,
     53.87493000000001
 ],
-  "geometry": {"coordinates":[19.25131,53.87493000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.25131,53.87493],"type":"Point"}
 }

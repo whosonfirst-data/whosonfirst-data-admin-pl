@@ -57,7 +57,7 @@
         "wk:page":"Ko%C5%82odziejewko"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3f85cfd2bc36a3db1b706a87fa0f3187",
+    "wof:geomhash":"e10954cb4eb7853a55edc927d8815331",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     18.03352000000001,
     52.71236999999999
 ],
-  "geometry": {"coordinates":[18.03352000000001,52.71236999999999],"type":"Point"}
+  "geometry": {"coordinates":[18.03352,52.71237],"type":"Point"}
 }

@@ -48,7 +48,7 @@
         "wk:page":"Mirkowiczki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4bf0b6bcd76068db1bdb4c943f406824",
+    "wof:geomhash":"ff21a13585f81bb74493a4d54cc3271d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     17.38332999999999,
     52.81667
 ],
-  "geometry": {"coordinates":[17.38332999999999,52.81667],"type":"Point"}
+  "geometry": {"coordinates":[17.38333,52.81667],"type":"Point"}
 }

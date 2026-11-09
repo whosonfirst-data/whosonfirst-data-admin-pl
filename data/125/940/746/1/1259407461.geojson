@@ -55,7 +55,7 @@
         "wk:page":"W%C5%82%C3%B3czyska"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2cafc214619fe98e03137eb76b772474",
+    "wof:geomhash":"ad239ddc2640f6810eba8ad42cb653cd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,5 +82,5 @@
     19.66124,
     54.26793000000001
 ],
-  "geometry": {"coordinates":[19.66124,54.26793000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.66124,54.26793],"type":"Point"}
 }

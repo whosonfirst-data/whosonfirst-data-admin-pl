@@ -69,7 +69,7 @@
         "wk:page":"N%C4%85dnia"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1e847b8f617ddcc1e212d6e702e96916",
+    "wof:geomhash":"d0956b72e9bd1d8819cca2565b41f026",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     15.88115,
     52.24724000000001
 ],
-  "geometry": {"coordinates":[15.88115,52.24724000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.88115,52.24724],"type":"Point"}
 }

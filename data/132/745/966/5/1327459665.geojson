@@ -57,7 +57,7 @@
         "wk:page":"Groch%C3%B3wek"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9ce3b3032df23560fe9d9fe8715e6c09",
+    "wof:geomhash":"135a1f81124eb9600eded8687bab635b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     19.27648,
     52.27894000000001
 ],
-  "geometry": {"coordinates":[19.27648,52.27894000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.27648,52.27894],"type":"Point"}
 }

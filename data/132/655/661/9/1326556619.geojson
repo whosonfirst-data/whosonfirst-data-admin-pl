@@ -54,7 +54,7 @@
         "wk:page":"Rozwory%2C_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"043315d11097f59a0907870d08a286c0",
+    "wof:geomhash":"422b9bf247dc88dca8f2255838eb441b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.0949,
     53.54969000000001
 ],
-  "geometry": {"coordinates":[17.0949,53.54969000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.0949,53.54969],"type":"Point"}
 }

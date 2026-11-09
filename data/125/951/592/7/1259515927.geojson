@@ -54,7 +54,7 @@
         "wk:page":"Lip%C3%B3wka%2C_Podlaskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"013e207ab8819e659aa5945fccd23c9a",
+    "wof:geomhash":"543131bd31c78f8aa2959ebf91868654",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.712,
     53.97154000000001
 ],
-  "geometry": {"coordinates":[22.712,53.97154000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.712,53.97154],"type":"Point"}
 }

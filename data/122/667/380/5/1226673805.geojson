@@ -54,7 +54,7 @@
         "wk:page":"Ma%C5%82a_Wie%C5%9B%2C_Bia%C5%82obrzegi_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2b17f7278e87c41558055e8113a909fe",
+    "wof:geomhash":"12380cd3e25d518b455695e2ad993bd6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.83083,
     51.67339000000001
 ],
-  "geometry": {"coordinates":[20.83083,51.67339000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.83083,51.67339],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"P%C5%82awanice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c03d42a607cb539165966091d2d8597d",
+    "wof:geomhash":"f9d2c370ca327f2c77ae97058aa524cf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     23.65511,
     51.12497000000001
 ],
-  "geometry": {"coordinates":[23.65511,51.12497000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.65511,51.12497],"type":"Point"}
 }

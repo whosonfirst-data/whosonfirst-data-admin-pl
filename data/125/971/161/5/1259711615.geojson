@@ -54,7 +54,7 @@
         "wk:page":"%C5%81azy%2C_Ostro%C5%82%C4%99ka_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9c7858776406a27c80c39aacdc5d64d7",
+    "wof:geomhash":"f53d6592f85bb6831f58bce7bc0b4089",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.5,
     53.11666999999999
 ],
-  "geometry": {"coordinates":[21.5,53.11666999999999],"type":"Point"}
+  "geometry": {"coordinates":[21.5,53.11667],"type":"Point"}
 }

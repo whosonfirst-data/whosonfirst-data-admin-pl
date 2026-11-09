@@ -54,7 +54,7 @@
         "wk:page":"Niedyszyna"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5d1d9df8210d4b843a2c00822f98749e",
+    "wof:geomhash":"28534cbc85709b14b4ad3f58a79a99ee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.44123,
     51.38894000000001
 ],
-  "geometry": {"coordinates":[19.44123,51.38894000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.44123,51.38894],"type":"Point"}
 }

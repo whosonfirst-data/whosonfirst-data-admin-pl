@@ -54,7 +54,7 @@
         "wk:page":"Ruska_Wie%C5%9B%2C_Lublin_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2cc74e0fdc6aafca63523b45f994b45d",
+    "wof:geomhash":"b720eabfb9d66aaa5bd2a687e56b4679",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.41397000000001,
     51.62046
 ],
-  "geometry": {"coordinates":[22.41397000000001,51.62046],"type":"Point"}
+  "geometry": {"coordinates":[22.41397,51.62046],"type":"Point"}
 }

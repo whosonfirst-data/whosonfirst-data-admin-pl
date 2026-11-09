@@ -51,7 +51,7 @@
         "wk:page":"Gorzuchowo%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"768c3eac9551c95587eaeb40190d1110",
+    "wof:geomhash":"f0ea7214f3755d89f6baef62746c908a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.68854,
     53.35514000000001
 ],
-  "geometry": {"coordinates":[18.68854,53.35514000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.68854,53.35514],"type":"Point"}
 }

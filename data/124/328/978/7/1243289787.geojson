@@ -69,7 +69,7 @@
         "wk:page":"Huta_Gruszczyno"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2db7efca8f69dea51a6aca26916083bd",
+    "wof:geomhash":"24ffc445fac711d93dce5a8e637fa878",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     21.90424,
     52.49724000000001
 ],
-  "geometry": {"coordinates":[21.90424,52.49724000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.90424,52.49724],"type":"Point"}
 }

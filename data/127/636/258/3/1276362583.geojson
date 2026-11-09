@@ -54,7 +54,7 @@
         "wk:page":"Wilam%C3%B3w%2C_Podd%C4%99bice_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"57f4b9907df332aaf20d3c894054efaa",
+    "wof:geomhash":"4967bf9ae2fae3434845a53fb9532391",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.75813,
     52.04584000000001
 ],
-  "geometry": {"coordinates":[18.75813,52.04584000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.75813,52.04584],"type":"Point"}
 }

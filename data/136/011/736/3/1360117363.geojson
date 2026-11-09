@@ -54,7 +54,7 @@
         "wk:page":"%C5%81azn%C3%B3w-Kolonia"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8472e38a1592d7424b6bbcfedbba17ab",
+    "wof:geomhash":"e08a136cbe106293c147a557b511a2c3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.79685,
     51.63464000000001
 ],
-  "geometry": {"coordinates":[19.79685,51.63464000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.79685,51.63464],"type":"Point"}
 }

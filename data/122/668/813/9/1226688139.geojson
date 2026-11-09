@@ -54,7 +54,7 @@
         "wk:page":"R%C4%85czki%2C_%C5%9Awi%C4%99tokrzyskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1dff82dba7125d75ef7b7ae430b3250b",
+    "wof:geomhash":"9a8b9210409b9026b12d256f7abaf978",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.8971,
     51.02137000000001
 ],
-  "geometry": {"coordinates":[19.8971,51.02137000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.8971,51.02137],"type":"Point"}
 }

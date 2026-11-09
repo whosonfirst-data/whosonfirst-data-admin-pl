@@ -54,7 +54,7 @@
         "wk:page":"Wola_Luborzycka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"164bb38c0086203cb748c9c12ee0105f",
+    "wof:geomhash":"ad4b559f248096aba72ea2205cdc5f14",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.11667000000001,
     50.16667
 ],
-  "geometry": {"coordinates":[20.11667000000001,50.16667],"type":"Point"}
+  "geometry": {"coordinates":[20.11667,50.16667],"type":"Point"}
 }

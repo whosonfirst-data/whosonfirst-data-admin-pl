@@ -63,7 +63,7 @@
         "wk:page":"Wr%C3%B3blin%2C_Opole_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5a1464cba67568790e10d082725860ca",
+    "wof:geomhash":"1cf4a6a42db28b33e9a69fbcc21c15e0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     17.93432,
     50.31554000000001
 ],
-  "geometry": {"coordinates":[17.93432,50.31554000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.93432,50.31554],"type":"Point"}
 }

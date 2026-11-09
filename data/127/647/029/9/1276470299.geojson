@@ -51,7 +51,7 @@
         "wk:page":"%C5%81%C4%99tkowice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ff164eb519c8737fbeda4aa26bf0e003",
+    "wof:geomhash":"8491070b75a74f0afc0a63e2ad96a223",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     20.17382000000001,
     50.25446
 ],
-  "geometry": {"coordinates":[20.17382000000001,50.25446],"type":"Point"}
+  "geometry": {"coordinates":[20.17382,50.25446],"type":"Point"}
 }

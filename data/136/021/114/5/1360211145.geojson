@@ -57,7 +57,7 @@
         "wk:page":"Czaplin_Ma%C5%82y"
     },
     "wof:country":"PL",
-    "wof:geomhash":"faf2adc752e78e89bb841d2035f00bc7",
+    "wof:geomhash":"f6879b36dcabd6a951ada600f6246738",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     15.15296,
     54.03723000000001
 ],
-  "geometry": {"coordinates":[15.15296,54.03723000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.15296,54.03723],"type":"Point"}
 }

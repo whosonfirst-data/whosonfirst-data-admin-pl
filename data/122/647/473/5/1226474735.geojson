@@ -57,7 +57,7 @@
         "wk:page":"Woroblin"
     },
     "wof:country":"PL",
-    "wof:geomhash":"69e771ad9da029a9148b39bc3969c958",
+    "wof:geomhash":"10de1b28a352fb93bf82b04922cebdb5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     23.35917,
     52.19204000000001
 ],
-  "geometry": {"coordinates":[23.35917,52.19204000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.35917,52.19204],"type":"Point"}
 }

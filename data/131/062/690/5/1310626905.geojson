@@ -54,7 +54,7 @@
         "wk:page":"Brzeziny%2C_Warmian-Masurian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"44b79f6cc4a113415d6d402c8973e5bd",
+    "wof:geomhash":"3686bf70ef3ef0445809e13121289057",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.64213,
     54.02908000000001
 ],
-  "geometry": {"coordinates":[19.64213,54.02908000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.64213,54.02908],"type":"Point"}
 }

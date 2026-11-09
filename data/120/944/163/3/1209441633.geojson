@@ -54,7 +54,7 @@
         "wk:page":"Przy%C5%82%C4%99ki%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ac5bb45dfb2f8ad6c23b26e6a15004ee",
+    "wof:geomhash":"11d564cbc3939826ed650330a654445e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.96763,
     53.03771999999999
 ],
-  "geometry": {"coordinates":[17.96763,53.03771999999999],"type":"Point"}
+  "geometry": {"coordinates":[17.96763,53.03772],"type":"Point"}
 }

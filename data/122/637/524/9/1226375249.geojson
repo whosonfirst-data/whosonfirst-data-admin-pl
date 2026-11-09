@@ -66,7 +66,7 @@
         "wk:page":"Hnisz%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"57ac444176a061e2db7ae8f59cfac5ed",
+    "wof:geomhash":"20bfca004ff359463921ff65309a44cd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     23.69974,
     51.25944000000001
 ],
-  "geometry": {"coordinates":[23.69974,51.25944000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.69974,51.25944],"type":"Point"}
 }

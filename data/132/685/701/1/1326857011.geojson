@@ -60,7 +60,7 @@
         "wk:page":"Stare_Krzywe"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ecd6ad7e4e757ffac517dfbe5d8b4661",
+    "wof:geomhash":"912b9c7457cf298c0f02c6a6dc3528f8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     22.11667000000001,
     53.9
 ],
-  "geometry": {"coordinates":[22.11667000000001,53.9],"type":"Point"}
+  "geometry": {"coordinates":[22.11667,53.9],"type":"Point"}
 }

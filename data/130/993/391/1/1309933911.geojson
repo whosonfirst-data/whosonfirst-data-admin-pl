@@ -51,7 +51,7 @@
         "wk:page":"Pocierzyn"
     },
     "wof:country":"PL",
-    "wof:geomhash":"64feb48c662e5183c53d6c604a9c89ef",
+    "wof:geomhash":"a47cba220fe57c94e2abb45484971e38",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.69533,
     52.69756999999999
 ],
-  "geometry": {"coordinates":[18.69533,52.69756999999999],"type":"Point"}
+  "geometry": {"coordinates":[18.69533,52.69757],"type":"Point"}
 }

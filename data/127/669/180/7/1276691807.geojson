@@ -54,7 +54,7 @@
         "wk:page":"Podwojponie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"82ecc705dfb02962f51fd56afb1b80e5",
+    "wof:geomhash":"6714804af496ad3f929119c51f99b1bb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     23.11669,
     54.30278000000001
 ],
-  "geometry": {"coordinates":[23.11669,54.30278000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.11669,54.30278],"type":"Point"}
 }

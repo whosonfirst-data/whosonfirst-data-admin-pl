@@ -51,7 +51,7 @@
         "wk:page":"Ciel%C4%99ta"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5f9930b8d639788debeb210ddff76dea",
+    "wof:geomhash":"da5c7e43ca99dd2aa1ee25e735f3444d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.46427000000001,
     53.24623
 ],
-  "geometry": {"coordinates":[19.46427000000001,53.24623],"type":"Point"}
+  "geometry": {"coordinates":[19.46427,53.24623],"type":"Point"}
 }

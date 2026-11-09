@@ -60,7 +60,7 @@
         "wk:page":"Baciki_Dalsze"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ca7adb8c37d09e8dd3b69583a963f32c",
+    "wof:geomhash":"d2e66e8ef64516b1197270250b098454",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     22.91576,
     52.46998000000001
 ],
-  "geometry": {"coordinates":[22.91576,52.46998000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.91576,52.46998],"type":"Point"}
 }

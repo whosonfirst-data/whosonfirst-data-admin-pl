@@ -57,7 +57,7 @@
         "wk:page":"Murowanka%2C_Pu%C5%82tusk_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c6169141ae9c3d556b69632eb3ec8bd1",
+    "wof:geomhash":"cb75ae00dc0f1ede7229b42100d93697",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.0587,
     52.56398000000001
 ],
-  "geometry": {"coordinates":[21.0587,52.56398000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.0587,52.56398],"type":"Point"}
 }

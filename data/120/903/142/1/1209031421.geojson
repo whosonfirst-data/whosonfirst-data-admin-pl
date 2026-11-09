@@ -61,7 +61,7 @@
         "wk:page":"B%C4%99d%C5%BAmierowice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d6c7e0b9b8f1f6896a1cb3c8a3ec19a7",
+    "wof:geomhash":"c3441a9468fe3f78b3f0b9a97b6b8c6d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     18.04951,
     53.80683000000001
 ],
-  "geometry": {"coordinates":[18.04951,53.80683000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.04951,53.80683],"type":"Point"}
 }

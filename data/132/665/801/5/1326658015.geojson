@@ -54,7 +54,7 @@
         "wk:page":"Pikulice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1e1c16347cfdfe02a4f3974c17e5045c",
+    "wof:geomhash":"1e43a0214c4d213e704685d2245040b0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.77191,
     49.74312000000001
 ],
-  "geometry": {"coordinates":[22.77191,49.74312000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.77191,49.74312],"type":"Point"}
 }

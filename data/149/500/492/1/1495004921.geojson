@@ -59,7 +59,7 @@
         "wk:page":"Stare_Koz%C5%82owice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f862dd2914d00674a401d93842642778",
+    "wof:geomhash":"56a7af51d3e0c25f55c67f83207fed9a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     20.41165,
     52.08199000000001
 ],
-  "geometry": {"coordinates":[20.41165,52.08199000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.41165,52.08199],"type":"Point"}
 }

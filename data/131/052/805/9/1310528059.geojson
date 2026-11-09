@@ -73,7 +73,7 @@
         "wk:page":"Jasionno"
     },
     "wof:country":"PL",
-    "wof:geomhash":"65132ae4aab3622adc3c9a7da28d3c0f",
+    "wof:geomhash":"b174890ebf734eb5c571f5aea3ea88c3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -100,5 +100,5 @@
     19.34641,
     54.09283000000001
 ],
-  "geometry": {"coordinates":[19.34641,54.09283000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.34641,54.09283],"type":"Point"}
 }

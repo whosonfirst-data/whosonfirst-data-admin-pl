@@ -59,7 +59,7 @@
         "wk:page":"Stare_Osieczno"
     },
     "wof:country":"PL",
-    "wof:geomhash":"da75a048a4168a88d6fd6579071d971a",
+    "wof:geomhash":"0a2e3d455e44f3d006b396765bdcacc5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,5 +86,5 @@
     15.94983,
     53.00013000000001
 ],
-  "geometry": {"coordinates":[15.94983,53.00013000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.94983,53.00013],"type":"Point"}
 }

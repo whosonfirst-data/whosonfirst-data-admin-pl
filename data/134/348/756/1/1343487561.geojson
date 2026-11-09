@@ -60,7 +60,7 @@
         "wk:page":"Kowalowce"
     },
     "wof:country":"PL",
-    "wof:geomhash":"40e66bb878859013b0f0ae54fbf0cf1b",
+    "wof:geomhash":"0ec197d6f87a72d61117ccc940d664b8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     23.2933,
     53.00983000000001
 ],
-  "geometry": {"coordinates":[23.2933,53.00983000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.2933,53.00983],"type":"Point"}
 }

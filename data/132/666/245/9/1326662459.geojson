@@ -57,7 +57,7 @@
         "wk:page":"Stare_Czaple%2C_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"97651f900b6f0a7ada1b83c44e2f7b9f",
+    "wof:geomhash":"ee462c7e8b4cc4b580afdd4e24d1df97",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     18.03277000000001,
     54.24733000000001
 ],
-  "geometry": {"coordinates":[18.03277000000001,54.24733000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.03277,54.24733],"type":"Point"}
 }

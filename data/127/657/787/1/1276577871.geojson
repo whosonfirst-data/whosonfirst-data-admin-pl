@@ -51,7 +51,7 @@
         "wk:page":"Krajewo-Kaw%C4%99czyno"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a92bab37e3ac64d2bd1bfa014fd4077a",
+    "wof:geomhash":"8bbcedd10ab7e3e29b1fa2280f1dd08a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     20.60493,
     53.28661999999999
 ],
-  "geometry": {"coordinates":[20.60493,53.28661999999999],"type":"Point"}
+  "geometry": {"coordinates":[20.60493,53.28662],"type":"Point"}
 }

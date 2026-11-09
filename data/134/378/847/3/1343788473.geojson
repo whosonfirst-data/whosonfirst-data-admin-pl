@@ -51,7 +51,7 @@
         "wk:page":"Kruszka%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6753de9c7bbca4c024cd11f673b6a1a2",
+    "wof:geomhash":"9397267f72f154397842fee61dc4e501",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.99869,
     53.55003000000001
 ],
-  "geometry": {"coordinates":[17.99869,53.55003000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.99869,53.55003],"type":"Point"}
 }

@@ -59,7 +59,7 @@
         "wk:page":"Nowa_Wie%C5%9B_I%C5%82awecka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"90d8989ab9e6587d94e9ab64e8430ac9",
+    "wof:geomhash":"db50fa2afca5c9433829919e8b9bfc8a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,5 +86,5 @@
     20.60486,
     54.32403000000001
 ],
-  "geometry": {"coordinates":[20.60486,54.32403000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.60486,54.32403],"type":"Point"}
 }

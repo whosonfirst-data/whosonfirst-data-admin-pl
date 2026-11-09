@@ -72,7 +72,7 @@
         "wk:page":"Achrymowce"
     },
     "wof:country":"PL",
-    "wof:geomhash":"55d5991b2f9a86a382fa9e11c0ea18e8",
+    "wof:geomhash":"149454a9fc53a840185fad0c154ab772",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,5 +99,5 @@
     23.54698,
     53.51374000000001
 ],
-  "geometry": {"coordinates":[23.54698,53.51374000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.54698,53.51374],"type":"Point"}
 }

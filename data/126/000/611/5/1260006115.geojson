@@ -54,7 +54,7 @@
         "wk:page":"Borki%2C_Lesser_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3ef23f1e4882cdb048290a06b10c7450",
+    "wof:geomhash":"886efb93e5870892cfa121cc745ac16a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.14182000000001,
     50.31927
 ],
-  "geometry": {"coordinates":[21.14182000000001,50.31927],"type":"Point"}
+  "geometry": {"coordinates":[21.14182,50.31927],"type":"Point"}
 }

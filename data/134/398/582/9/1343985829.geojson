@@ -54,7 +54,7 @@
         "wk:page":"Podnowinka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f9050a4c58a8993904b6896266eeeaf6",
+    "wof:geomhash":"5447d7907cbabab59dc8c2a82d50d2cf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     23.00044,
     53.95588000000001
 ],
-  "geometry": {"coordinates":[23.00044,53.95588000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.00044,53.95588],"type":"Point"}
 }

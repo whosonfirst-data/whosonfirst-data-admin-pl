@@ -67,7 +67,7 @@
         "wk:page":"Jamna_G%C3%B3rna"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e43b24812c4639a4cf7f17c526b86927",
+    "wof:geomhash":"46e773a5032a5d0135ddd15698746498",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,5 +94,5 @@
     22.61667000000001,
     49.6
 ],
-  "geometry": {"coordinates":[22.61667000000001,49.6],"type":"Point"}
+  "geometry": {"coordinates":[22.61667,49.6],"type":"Point"}
 }

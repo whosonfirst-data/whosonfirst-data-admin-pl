@@ -51,7 +51,7 @@
         "wk:page":"%C5%9Aniatowa"
     },
     "wof:country":"PL",
-    "wof:geomhash":"0eaa5922df5e76e722eef90c25d267a9",
+    "wof:geomhash":"95d86b122b772fb5b14398c9be961cf9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.15398,
     51.94354000000001
 ],
-  "geometry": {"coordinates":[19.15398,51.94354000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.15398,51.94354],"type":"Point"}
 }

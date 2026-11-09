@@ -54,7 +54,7 @@
         "wk:page":"Grodno%2C_W%C5%82oc%C5%82awek_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"596f155f957a865666b440a2b66555a9",
+    "wof:geomhash":"8c18969f29449975d29414fd62683e12",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.21732,
     52.47463000000001
 ],
-  "geometry": {"coordinates":[19.21732,52.47463000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.21732,52.47463],"type":"Point"}
 }

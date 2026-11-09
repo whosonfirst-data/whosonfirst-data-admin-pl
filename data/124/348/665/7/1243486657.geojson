@@ -54,7 +54,7 @@
         "wk:page":"Morak%C3%B3wko"
     },
     "wof:country":"PL",
-    "wof:geomhash":"48e65105eb99e0cde0e0601c1283d1fc",
+    "wof:geomhash":"d6729e108d2bb51ca366333e8253f678",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.32542999999999,
     52.93105
 ],
-  "geometry": {"coordinates":[17.32542999999999,52.93105],"type":"Point"}
+  "geometry": {"coordinates":[17.32543,52.93105],"type":"Point"}
 }

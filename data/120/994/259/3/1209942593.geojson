@@ -51,7 +51,7 @@
         "wk:page":"Nie%C5%BCych%C3%B3wko"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d3165ad6fc55972a97227c7bddec22ab",
+    "wof:geomhash":"549a1a5ccbe367745bb5ffbaa8b70ec9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.14712999999999,
     53.15577
 ],
-  "geometry": {"coordinates":[17.14712999999999,53.15577],"type":"Point"}
+  "geometry": {"coordinates":[17.14713,53.15577],"type":"Point"}
 }

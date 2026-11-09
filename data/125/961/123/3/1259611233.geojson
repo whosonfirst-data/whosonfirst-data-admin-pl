@@ -69,7 +69,7 @@
         "wk:page":"Lipowina"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6413b51ee2ca03115141f143635e0970",
+    "wof:geomhash":"575fd7c84c6e59fe6eea1113fc9e63e4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     19.98823,
     54.34314000000001
 ],
-  "geometry": {"coordinates":[19.98823,54.34314000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.98823,54.34314],"type":"Point"}
 }

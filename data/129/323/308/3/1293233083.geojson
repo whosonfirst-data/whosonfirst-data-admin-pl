@@ -54,7 +54,7 @@
         "wk:page":"Garbalin"
     },
     "wof:country":"PL",
-    "wof:geomhash":"45a6135f483c4a45d3024b692854e7b0",
+    "wof:geomhash":"02a3a58210621afef096f269ce181186",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.1668,
     52.10619000000001
 ],
-  "geometry": {"coordinates":[19.1668,52.10619000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.1668,52.10619],"type":"Point"}
 }

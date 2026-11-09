@@ -54,7 +54,7 @@
         "wk:page":"Bociany"
     },
     "wof:country":"PL",
-    "wof:geomhash":"047450b48b06f201b8bbaa7d593a5fb0",
+    "wof:geomhash":"ff85e4c96e6c22a04bcf9a351a0fff6b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.39688,
     52.29389000000001
 ],
-  "geometry": {"coordinates":[19.39688,52.29389000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.39688,52.29389],"type":"Point"}
 }

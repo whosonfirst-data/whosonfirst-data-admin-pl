@@ -63,7 +63,7 @@
         "wk:page":"Niemirki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5f8ce496d1ed562b06a58cd17fb856fd",
+    "wof:geomhash":"6fc451b2799f08882f984ed099cba25e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     22.47017,
     52.46256999999999
 ],
-  "geometry": {"coordinates":[22.47017,52.46256999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.47017,52.46257],"type":"Point"}
 }

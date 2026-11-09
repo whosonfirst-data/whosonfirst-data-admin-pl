@@ -54,7 +54,7 @@
         "wk:page":"Cieszewo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"08af9f5e7a6797c9ca0f7e0eefed73d4",
+    "wof:geomhash":"37b401cc90fba0399c0acb4cbfe8314d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.96708,
     52.68476999999999
 ],
-  "geometry": {"coordinates":[19.96708,52.68476999999999],"type":"Point"}
+  "geometry": {"coordinates":[19.96708,52.68477],"type":"Point"}
 }

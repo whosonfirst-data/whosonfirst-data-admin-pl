@@ -54,7 +54,7 @@
         "wk:page":"Brzozowiec%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3fed4cbfa3ba54653c8a9aaf02dc58a3",
+    "wof:geomhash":"bfb087fa76b10a3dee216e50d38080ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.02034,
     52.31482000000001
 ],
-  "geometry": {"coordinates":[20.02034,52.31482000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.02034,52.31482],"type":"Point"}
 }

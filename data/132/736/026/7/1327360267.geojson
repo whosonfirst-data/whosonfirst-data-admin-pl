@@ -54,7 +54,7 @@
         "wk:page":"Modrzew%2C_%C5%81%C3%B3d%C5%BA_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"259291963e69c670018d1b2cbdf35290",
+    "wof:geomhash":"f049b00c22600d8c82948dde057901a4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.22418,
     51.43709000000001
 ],
-  "geometry": {"coordinates":[20.22418,51.43709000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.22418,51.43709],"type":"Point"}
 }

@@ -63,7 +63,7 @@
         "wk:page":"Kownatki-Fal%C4%99cino"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f61a11b4c7d4baf262497cbb0b157a08",
+    "wof:geomhash":"519afcd006e5584937b3ecc6d87b8cca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     20.58889,
     53.23974000000001
 ],
-  "geometry": {"coordinates":[20.58889,53.23974000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.58889,53.23974],"type":"Point"}
 }

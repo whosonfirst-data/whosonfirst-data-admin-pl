@@ -63,7 +63,7 @@
         "wk:page":"Chrabo%C5%82y%2C_Bielsk_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"cfd30a6cdff4ac85aa1d182f20d8e436",
+    "wof:geomhash":"29b7b130b9c5c3c6f7d66c848d8a0fc8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     23.19503,
     52.85913000000001
 ],
-  "geometry": {"coordinates":[23.19503,52.85913000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.19503,52.85913],"type":"Point"}
 }

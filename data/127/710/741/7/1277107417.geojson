@@ -54,7 +54,7 @@
         "wk:page":"Koce_Borowe"
     },
     "wof:country":"PL",
-    "wof:geomhash":"56be5cdf27245c2bc57cdc615be58d82",
+    "wof:geomhash":"0fd07e50fc69c85dff9de74539c78814",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.66435,
     52.71576999999999
 ],
-  "geometry": {"coordinates":[22.66435,52.71576999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.66435,52.71577],"type":"Point"}
 }

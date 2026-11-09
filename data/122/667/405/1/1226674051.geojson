@@ -63,7 +63,7 @@
         "wk:page":"Ucieszk%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1d5fcee1c3f190121db428cd0e396039",
+    "wof:geomhash":"389be8d644a5cceba5934a3c8d73e81f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     17.99676000000001,
     50.23232
 ],
-  "geometry": {"coordinates":[17.99676000000001,50.23232],"type":"Point"}
+  "geometry": {"coordinates":[17.99676,50.23232],"type":"Point"}
 }

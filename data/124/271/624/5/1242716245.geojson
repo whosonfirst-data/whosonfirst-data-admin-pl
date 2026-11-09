@@ -51,7 +51,7 @@
         "wk:page":"R%C4%99b%C3%B3w%2C_%C5%9Awi%C4%99tokrzyskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"0f31ffb26b6d1186b13d3cd68d20f475",
+    "wof:geomhash":"5af664663ac2b9b55f1795224763636d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     20.51439,
     50.62954000000001
 ],
-  "geometry": {"coordinates":[20.51439,50.62954000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.51439,50.62954],"type":"Point"}
 }

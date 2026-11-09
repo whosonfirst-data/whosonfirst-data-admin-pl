@@ -66,7 +66,7 @@
         "wk:page":"Kujan"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2f9a6509a6b05ac7fc54a218e365479d",
+    "wof:geomhash":"4204adeeb540bb6c0cc24f66df913c01",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     17.2,
     53.36666999999999
 ],
-  "geometry": {"coordinates":[17.2,53.36666999999999],"type":"Point"}
+  "geometry": {"coordinates":[17.2,53.36667],"type":"Point"}
 }

@@ -58,7 +58,7 @@
         "wk:page":"Orzechowo%2C_Gmina_Dobre_Miasto"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8033c791bc18508ebb1ab518aef4bd9b",
+    "wof:geomhash":"e1f7dae7dd93a935d864dc08ec9d3a5a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,5 +85,5 @@
     20.54598,
     53.97496999999999
 ],
-  "geometry": {"coordinates":[20.54598,53.97496999999999],"type":"Point"}
+  "geometry": {"coordinates":[20.54598,53.97497],"type":"Point"}
 }

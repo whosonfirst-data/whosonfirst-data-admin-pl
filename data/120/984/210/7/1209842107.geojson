@@ -48,7 +48,7 @@
         "wk:page":"P%C5%82otkowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"26e81472abdcf43c306b9f74bcd30cd4",
+    "wof:geomhash":"752e45b5f3e9e4a0c3715231fea1aa18",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     14.97282,
     53.71093000000001
 ],
-  "geometry": {"coordinates":[14.97282,53.71093000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.97282,53.71093],"type":"Point"}
 }

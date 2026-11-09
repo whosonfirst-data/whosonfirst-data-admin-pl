@@ -57,7 +57,7 @@
         "wk:page":"%C5%81apy-Ko%C5%82paki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"70f955ff9c8f61802fc269541f61d9c2",
+    "wof:geomhash":"2a518cc3f3e4c0829ad53e1ac2ba9d66",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.86157,
     52.97148000000001
 ],
-  "geometry": {"coordinates":[22.86157,52.97148000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.86157,52.97148],"type":"Point"}
 }

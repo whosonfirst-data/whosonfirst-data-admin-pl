@@ -57,7 +57,7 @@
         "wk:page":"Zdbice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a93b77a4594735992c21ce6fc7ce946f",
+    "wof:geomhash":"f863523446ada8422e110df4ebe135da",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     16.49752,
     53.37903000000001
 ],
-  "geometry": {"coordinates":[16.49752,53.37903000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.49752,53.37903],"type":"Point"}
 }

@@ -48,7 +48,7 @@
         "wk:page":"Ostatni_Grosz%2C_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"59e965ce508dbe74fc186adb46010906",
+    "wof:geomhash":"a03959da35b13fed16e903cb89409c54",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     18.77958,
     54.31993000000001
 ],
-  "geometry": {"coordinates":[18.77958,54.31993000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.77958,54.31993],"type":"Point"}
 }

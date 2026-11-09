@@ -55,7 +55,7 @@
         "wk:page":"Nadrowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f0dfc20c866afe52da882e798d40b2b9",
+    "wof:geomhash":"6fc0520c6aff69ea9a2eed4c1ec60e70",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,5 +82,5 @@
     20.36667000000001,
     53.53333000000001
 ],
-  "geometry": {"coordinates":[20.36667000000001,53.53333000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.36667,53.53333],"type":"Point"}
 }

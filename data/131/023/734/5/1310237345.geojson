@@ -54,7 +54,7 @@
         "wk:page":"Strzembowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a36a1bac36372c2a9ea71c2023173f3c",
+    "wof:geomhash":"c95957212c9ff644219d1fada053f180",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.39991,
     52.50046999999999
 ],
-  "geometry": {"coordinates":[20.39991,52.50046999999999],"type":"Point"}
+  "geometry": {"coordinates":[20.39991,52.50047],"type":"Point"}
 }

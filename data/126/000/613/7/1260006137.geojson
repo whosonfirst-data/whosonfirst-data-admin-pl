@@ -48,7 +48,7 @@
         "wk:page":"%C5%9Awichowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d41512b2bc852949b238c23f02a3979e",
+    "wof:geomhash":"43a67efb92cdb6e493dd5f195c553346",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     17.84182000000001,
     54.65388000000001
 ],
-  "geometry": {"coordinates":[17.84182000000001,54.65388000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.84182,54.65388],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Wola_Osi%C5%84ska"
     },
     "wof:country":"PL",
-    "wof:geomhash":"106a60264fa0b424c9c594636d0660b6",
+    "wof:geomhash":"1e6d83a41933997a959fca31427d7723",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.10259,
     51.47219000000001
 ],
-  "geometry": {"coordinates":[22.10259,51.47219000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.10259,51.47219],"type":"Point"}
 }

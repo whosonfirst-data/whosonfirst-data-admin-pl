@@ -54,7 +54,7 @@
         "wk:page":"Por%C4%99ba%2C_Pszczyna_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8217dd728d4147dcc6abed04acb1fd95",
+    "wof:geomhash":"dbc4e5d84e55830b9200b62a949a3b30",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.87669,
     49.98869000000001
 ],
-  "geometry": {"coordinates":[18.87669,49.98869000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.87669,49.98869],"type":"Point"}
 }

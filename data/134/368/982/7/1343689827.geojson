@@ -48,7 +48,7 @@
         "wk:page":"Le%C5%9Bnicz%C3%B3wka%2C_Opole_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e8c46684d7af705d8baf3a094a0856d6",
+    "wof:geomhash":"e089665b59744efbd5bc48eb6b084d99",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     17.60112999999999,
     50.77913
 ],
-  "geometry": {"coordinates":[17.60112999999999,50.77913],"type":"Point"}
+  "geometry": {"coordinates":[17.60113,50.77913],"type":"Point"}
 }

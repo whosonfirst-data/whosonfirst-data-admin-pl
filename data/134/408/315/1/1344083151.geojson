@@ -51,7 +51,7 @@
         "wk:page":"Bia%C5%82e_B%C5%82ota%2C_Mogilno_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b5d9898a6a15bc7380728d40d6beade4",
+    "wof:geomhash":"3713d2b522d0b7bde79bd961f152512f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.96522000000001,
     52.80629
 ],
-  "geometry": {"coordinates":[17.96522000000001,52.80629],"type":"Point"}
+  "geometry": {"coordinates":[17.96522,52.80629],"type":"Point"}
 }

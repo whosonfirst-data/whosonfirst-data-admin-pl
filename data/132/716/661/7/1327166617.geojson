@@ -57,7 +57,7 @@
         "wk:page":"Prusinowo%2C_%C5%81obez_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"aa884efb7807cb4af26dc40c14642304",
+    "wof:geomhash":"d24730b35d3b0b22449c2ea2b1562247",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     15.62969,
     53.68743000000001
 ],
-  "geometry": {"coordinates":[15.62969,53.68743000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.62969,53.68743],"type":"Point"}
 }

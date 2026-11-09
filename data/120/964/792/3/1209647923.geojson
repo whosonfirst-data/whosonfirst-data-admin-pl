@@ -54,7 +54,7 @@
         "wk:page":"Kij%C3%B3w%2C_Opole_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"cc22d614b7ca8cb981f26a213c0d1dcb",
+    "wof:geomhash":"9b810eb339dd66935cf97c3ff21d643d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.25917999999999,
     50.37196
 ],
-  "geometry": {"coordinates":[17.25917999999999,50.37196],"type":"Point"}
+  "geometry": {"coordinates":[17.25918,50.37196],"type":"Point"}
 }

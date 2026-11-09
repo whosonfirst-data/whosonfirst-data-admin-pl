@@ -69,7 +69,7 @@
         "wk:page":"Janiki_Wielkie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c4e4d66c29d5446fb90873bbdc6e9fd7",
+    "wof:geomhash":"377e158c5766abee591b7e9412812722",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     19.70415,
     53.82978000000001
 ],
-  "geometry": {"coordinates":[19.70415,53.82978000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.70415,53.82978],"type":"Point"}
 }

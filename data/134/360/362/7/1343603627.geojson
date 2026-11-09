@@ -51,7 +51,7 @@
         "wk:page":"Zbrodzice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8561067d8652a76ffe93035fc0eecede",
+    "wof:geomhash":"fdfd8c33378d9095c0efc2297fd7f481",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     20.76708,
     50.49039000000001
 ],
-  "geometry": {"coordinates":[20.76708,50.49039000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.76708,50.49039],"type":"Point"}
 }

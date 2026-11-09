@@ -54,7 +54,7 @@
         "wk:page":"Wola_D%C4%99bska"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1a88b0f4c219208a2ff5c01dbd345e1a",
+    "wof:geomhash":"48c7519d6d2b8680e91fda75c05b5837",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.52967,
     53.12761999999999
 ],
-  "geometry": {"coordinates":[20.52967,53.12761999999999],"type":"Point"}
+  "geometry": {"coordinates":[20.52967,53.12762],"type":"Point"}
 }

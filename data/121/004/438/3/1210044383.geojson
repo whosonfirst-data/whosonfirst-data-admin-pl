@@ -51,7 +51,7 @@
         "wk:page":"B%C3%B3gwidze"
     },
     "wof:country":"PL",
-    "wof:geomhash":"45ce6eccb463176eac51f1c06ae1696d",
+    "wof:geomhash":"d8c2a450b52a7bc0d4bb0a741de946c1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.79117999999999,
     51.81643
 ],
-  "geometry": {"coordinates":[17.79117999999999,51.81643],"type":"Point"}
+  "geometry": {"coordinates":[17.79118,51.81643],"type":"Point"}
 }

@@ -73,7 +73,7 @@
         "wk:page":"Cisowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c33827d13edf58dc18ce703592ae1530",
+    "wof:geomhash":"0748d3f46009c55db7ef04559511d3fc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -100,5 +100,5 @@
     16.43623,
     54.44818000000001
 ],
-  "geometry": {"coordinates":[16.43623,54.44818000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.43623,54.44818],"type":"Point"}
 }

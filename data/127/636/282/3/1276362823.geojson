@@ -63,7 +63,7 @@
         "wk:page":"Glinno%2C_Lower_Silesian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5652f084ab560fa823d6efb1e1d9f649",
+    "wof:geomhash":"26bb892a809d99c2a42b261fdf2aee74",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     16.47572000000001,
     50.71885
 ],
-  "geometry": {"coordinates":[16.47572000000001,50.71885],"type":"Point"}
+  "geometry": {"coordinates":[16.47572,50.71885],"type":"Point"}
 }

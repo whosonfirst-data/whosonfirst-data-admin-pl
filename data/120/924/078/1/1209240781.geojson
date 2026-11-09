@@ -57,7 +57,7 @@
         "wk:page":"Tarda"
     },
     "wof:country":"PL",
-    "wof:geomhash":"651e569aeda857e520020107f6825807",
+    "wof:geomhash":"c8943b68bb5823bd1e236f0ed31b7482",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     19.88732000000001,
     53.79225
 ],
-  "geometry": {"coordinates":[19.88732000000001,53.79225],"type":"Point"}
+  "geometry": {"coordinates":[19.88732,53.79225],"type":"Point"}
 }

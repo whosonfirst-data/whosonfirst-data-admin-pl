@@ -54,7 +54,7 @@
         "wk:page":"Zacisze%2C_Gorz%C3%B3w_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"59982419e3fcab4ddd8f9d8f2fa5f548",
+    "wof:geomhash":"470cfcf0cc120f0bbae4a6e552c1141f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     14.90244,
     52.85633000000001
 ],
-  "geometry": {"coordinates":[14.90244,52.85633000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.90244,52.85633],"type":"Point"}
 }

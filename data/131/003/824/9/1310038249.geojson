@@ -54,7 +54,7 @@
         "wk:page":"Brzezie%2C_Pleszew_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"460d28191736a400398a1b22ef7ccbac",
+    "wof:geomhash":"ddabeef89f96e1d3b0a22766b9687778",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.86143999999999,
     51.88601
 ],
-  "geometry": {"coordinates":[17.86143999999999,51.88601],"type":"Point"}
+  "geometry": {"coordinates":[17.86144,51.88601],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Staw_Ujazdowski"
     },
     "wof:country":"PL",
-    "wof:geomhash":"76f5a3a770cbdce4e63e2600bafb5ff1",
+    "wof:geomhash":"f01a1ba5ce818941c6fdf43470bec35c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     23.02527000000001,
     50.81807
 ],
-  "geometry": {"coordinates":[23.02527000000001,50.81807],"type":"Point"}
+  "geometry": {"coordinates":[23.02527,50.81807],"type":"Point"}
 }

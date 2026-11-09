@@ -54,7 +54,7 @@
         "wk:page":"Suchorzew"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d793275f5d94e5f1acf2b06fb1a0512d",
+    "wof:geomhash":"574ab964280f480fd2e7e68bb400e1b2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.69158999999999,
     51.90065
 ],
-  "geometry": {"coordinates":[17.69158999999999,51.90065],"type":"Point"}
+  "geometry": {"coordinates":[17.69159,51.90065],"type":"Point"}
 }

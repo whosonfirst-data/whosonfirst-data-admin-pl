@@ -54,7 +54,7 @@
         "wk:page":"Wyszki%2C_Lower_Silesian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c935a0d56596bc737fa7f4d1749dbcc0",
+    "wof:geomhash":"d8fbe1a23730fe248cfba41735b3636a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     16.5988,
     50.27014000000001
 ],
-  "geometry": {"coordinates":[16.5988,50.27014000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.5988,50.27014],"type":"Point"}
 }

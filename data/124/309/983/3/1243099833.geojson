@@ -51,7 +51,7 @@
         "wk:page":"Rosocha%2C_%C5%81%C3%B3d%C5%BA_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d262ac6c1e4484c3d90d2668140f90d1",
+    "wof:geomhash":"ac29d98cadd0bc973cca37e4ef793d97",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.77667000000001,
     51.58646
 ],
-  "geometry": {"coordinates":[19.77667000000001,51.58646],"type":"Point"}
+  "geometry": {"coordinates":[19.77667,51.58646],"type":"Point"}
 }

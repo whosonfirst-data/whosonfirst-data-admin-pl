@@ -55,7 +55,7 @@
         "wk:page":"Wi%C5%9Bnicz_Ma%C5%82y"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f1a9aa988c9606eae73a9fcab046d720",
+    "wof:geomhash":"f03812b02103e78a22fa2e57d0a6f25a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,5 +82,5 @@
     20.47422000000001,
     49.94039
 ],
-  "geometry": {"coordinates":[20.47422000000001,49.94039],"type":"Point"}
+  "geometry": {"coordinates":[20.47422,49.94039],"type":"Point"}
 }

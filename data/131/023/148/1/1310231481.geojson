@@ -60,7 +60,7 @@
         "wk:page":"Wierzchlesie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a3f4967c97523c298a4e852906b23dd2",
+    "wof:geomhash":"4f8944b493fded13bcd1fd2f44d466c1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     23.52809,
     53.30983000000001
 ],
-  "geometry": {"coordinates":[23.52809,53.30983000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.52809,53.30983],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Lubie%C5%84%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"048e8719f7050cfba437a114e15c3f85",
+    "wof:geomhash":"0e2b605236871a09d8470b548e691f2f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     15.98462,
     52.40199000000001
 ],
-  "geometry": {"coordinates":[15.98462,52.40199000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.98462,52.40199],"type":"Point"}
 }

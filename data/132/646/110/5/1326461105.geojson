@@ -54,7 +54,7 @@
         "wk:page":"Pawlice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d6f581c4df3e26ab68df323efcdf18b6",
+    "wof:geomhash":"4bae5a29caad87b2b0fd82a27337d16d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.03437000000001,
     53.7107
 ],
-  "geometry": {"coordinates":[19.03437000000001,53.7107],"type":"Point"}
+  "geometry": {"coordinates":[19.03437,53.7107],"type":"Point"}
 }

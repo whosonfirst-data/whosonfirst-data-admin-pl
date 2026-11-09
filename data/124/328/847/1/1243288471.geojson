@@ -57,7 +57,7 @@
         "wk:page":"Brudki_Stare"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ac3e1ee9e21b648ec1a13462cf6a3d6e",
+    "wof:geomhash":"26678f32b579850bfb7ea7a64e18d71a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.66212,
     52.84721999999999
 ],
-  "geometry": {"coordinates":[21.66212,52.84721999999999],"type":"Point"}
+  "geometry": {"coordinates":[21.66212,52.84722],"type":"Point"}
 }

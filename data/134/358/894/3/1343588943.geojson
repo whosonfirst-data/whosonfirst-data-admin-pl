@@ -54,7 +54,7 @@
         "wk:page":"Widacz%2C_Krosno_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9f7e9567b3cd77c0710a8b86e4451c6b",
+    "wof:geomhash":"aa359e665c7fb018a7bc70d349814867",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.84237000000001,
     49.62584
 ],
-  "geometry": {"coordinates":[21.84237000000001,49.62584],"type":"Point"}
+  "geometry": {"coordinates":[21.84237,49.62584],"type":"Point"}
 }

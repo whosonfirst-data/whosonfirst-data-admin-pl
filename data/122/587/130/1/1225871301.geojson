@@ -63,7 +63,7 @@
         "wk:page":"Malanowo_Stare"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e0e974b0734ecec8e789b33e745ad625",
+    "wof:geomhash":"7b0fc63efaed4b5491a446b908f47a7f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     19.51722,
     52.78661999999999
 ],
-  "geometry": {"coordinates":[19.51722,52.78661999999999],"type":"Point"}
+  "geometry": {"coordinates":[19.51722,52.78662],"type":"Point"}
 }

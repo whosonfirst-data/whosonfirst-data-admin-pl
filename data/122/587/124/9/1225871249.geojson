@@ -51,7 +51,7 @@
         "wk:page":"Palmowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c800d4317545c030372f5f3318ff97de",
+    "wof:geomhash":"d05c9104e5058f9d890c0289c519dbea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.49308,
     52.47128000000001
 ],
-  "geometry": {"coordinates":[18.49308,52.47128000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.49308,52.47128],"type":"Point"}
 }

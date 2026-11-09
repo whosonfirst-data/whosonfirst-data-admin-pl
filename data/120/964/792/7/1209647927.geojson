@@ -54,7 +54,7 @@
         "wk:page":"Pietrzyk"
     },
     "wof:country":"PL",
-    "wof:geomhash":"71e8f666ed58dedf7c9a8af231003228",
+    "wof:geomhash":"321e51753ffc354be254c03b48733cef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.73728,
     53.04946999999999
 ],
-  "geometry": {"coordinates":[19.73728,53.04946999999999],"type":"Point"}
+  "geometry": {"coordinates":[19.73728,53.04947],"type":"Point"}
 }

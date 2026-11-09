@@ -54,7 +54,7 @@
         "wk:page":"Walentyn%C3%B3w%2C_Lipsko_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"028802e24f569d1829d9b56264d92c42",
+    "wof:geomhash":"305f1e57644eec758f8e72a1148953da",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.63311,
     51.10104000000001
 ],
-  "geometry": {"coordinates":[21.63311,51.10104000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.63311,51.10104],"type":"Point"}
 }

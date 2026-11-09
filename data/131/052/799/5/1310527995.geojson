@@ -51,7 +51,7 @@
         "wk:page":"Lutob%C3%B3rz"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e457bd0d68ca932f7cbdf61af3ec13ee",
+    "wof:geomhash":"9b3bd25abb4690d1c16cfcd752b1ffb1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.07972,
     52.46223000000001
 ],
-  "geometry": {"coordinates":[19.07972,52.46223000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.07972,52.46223],"type":"Point"}
 }

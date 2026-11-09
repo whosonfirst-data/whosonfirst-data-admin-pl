@@ -51,7 +51,7 @@
         "wk:page":"Podd%C4%99bowiec"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b03e6bdcc5638c7323d44f655bbf8322",
+    "wof:geomhash":"391bc7474b071f35b0e989f73a9a29e5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     21.1798,
     50.61600000000001
 ],
-  "geometry": {"coordinates":[21.1798,50.61600000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.1798,50.616],"type":"Point"}
 }

@@ -58,7 +58,7 @@
         "wk:page":"Dziadyk"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1ccf1b5e1a1ee57a3412df3fb390be56",
+    "wof:geomhash":"555627c1e778ba3ea6f5663b1815ed62",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,5 +85,5 @@
     19.98072,
     53.61398000000001
 ],
-  "geometry": {"coordinates":[19.98072,53.61398000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.98072,53.61398],"type":"Point"}
 }

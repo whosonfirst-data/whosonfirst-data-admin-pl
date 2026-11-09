@@ -57,7 +57,7 @@
         "wk:page":"Pasterzewo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"25f26876e59c758a96f6dd4862ad6b30",
+    "wof:geomhash":"6aca4062b901b88392e01ecf62e4797b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.1841,
     53.99381999999999
 ],
-  "geometry": {"coordinates":[21.1841,53.99381999999999],"type":"Point"}
+  "geometry": {"coordinates":[21.1841,53.99382],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Dytmar%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f0fa528fcd5d78dfdd5cd35574fae1b8",
+    "wof:geomhash":"2b8c578ccfe325ab1bda1953325863e0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.66532999999999,
     50.31215
 ],
-  "geometry": {"coordinates":[17.66532999999999,50.31215],"type":"Point"}
+  "geometry": {"coordinates":[17.66533,50.31215],"type":"Point"}
 }

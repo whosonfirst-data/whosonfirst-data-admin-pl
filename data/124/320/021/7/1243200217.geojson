@@ -63,7 +63,7 @@
         "wk:page":"Cieszki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d9967fc1ba2bef96c9c86827458534e0",
+    "wof:geomhash":"3746bce9fdbb4368ed4253227c863937",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     19.79497000000001,
     53.08091999999999
 ],
-  "geometry": {"coordinates":[19.79497000000001,53.08091999999999],"type":"Point"}
+  "geometry": {"coordinates":[19.79497,53.08092],"type":"Point"}
 }

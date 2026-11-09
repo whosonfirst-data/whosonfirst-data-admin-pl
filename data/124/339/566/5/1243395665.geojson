@@ -57,7 +57,7 @@
         "wk:page":"Benice%2C_West_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"37f3098f30c2138fa4b4e3d105e4c3bd",
+    "wof:geomhash":"54e7645705e9c0100ecf52c58c0ebc66",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     14.90933,
     53.89429000000001
 ],
-  "geometry": {"coordinates":[14.90933,53.89429000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.90933,53.89429],"type":"Point"}
 }

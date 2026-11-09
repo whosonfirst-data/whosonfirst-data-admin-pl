@@ -58,7 +58,7 @@
         "wk:page":"Rakowiec%2C_Tczew_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d7e0adf2eefd80dcbc580936a903812b",
+    "wof:geomhash":"bf364532589d6c8efe06e89051dc9727",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,5 +85,5 @@
     18.76774,
     53.76708000000001
 ],
-  "geometry": {"coordinates":[18.76774,53.76708000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.76774,53.76708],"type":"Point"}
 }

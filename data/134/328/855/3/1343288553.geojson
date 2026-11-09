@@ -54,7 +54,7 @@
         "wk:page":"Do%C5%82%C5%BCyca%2C_Lesko_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a26c7b911a30ed9cac90763b27c6835e",
+    "wof:geomhash":"621825fc2cbd755753aa8fde1f86e73c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.34877,
     49.22264000000001
 ],
-  "geometry": {"coordinates":[22.34877,49.22264000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.34877,49.22264],"type":"Point"}
 }

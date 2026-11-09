@@ -69,7 +69,7 @@
         "wk:page":"Be%C5%82tno"
     },
     "wof:country":"PL",
-    "wof:geomhash":"09a8ae2de5716ffdcd9f2ce9e260b6a2",
+    "wof:geomhash":"98eabdf674110af883092e9e4105bae0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     15.64589,
     53.79006999999999
 ],
-  "geometry": {"coordinates":[15.64589,53.79006999999999],"type":"Point"}
+  "geometry": {"coordinates":[15.64589,53.79007],"type":"Point"}
 }

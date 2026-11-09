@@ -57,7 +57,7 @@
         "wk:page":"Bart%C5%82omiejowice%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"669f65f959b501ab9ac5e1f6163c5324",
+    "wof:geomhash":"0e3dd366e0928a98373e2eec2ff4792d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     18.74851,
     52.64706999999999
 ],
-  "geometry": {"coordinates":[18.74851,52.64706999999999],"type":"Point"}
+  "geometry": {"coordinates":[18.74851,52.64707],"type":"Point"}
 }

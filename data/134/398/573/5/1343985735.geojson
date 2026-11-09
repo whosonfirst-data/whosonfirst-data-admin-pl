@@ -60,7 +60,7 @@
         "wk:page":"Malanowo_Nowe"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ed15a29ac7a269529e3786431b6764d7",
+    "wof:geomhash":"823d214142746a029c91eb67783a18e8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     19.51807,
     52.80328000000001
 ],
-  "geometry": {"coordinates":[19.51807,52.80328000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.51807,52.80328],"type":"Point"}
 }

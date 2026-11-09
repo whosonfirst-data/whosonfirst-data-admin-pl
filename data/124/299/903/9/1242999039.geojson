@@ -69,7 +69,7 @@
         "wk:page":"Magdalenowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e496fa7817d000037cdff05d217d67a2",
+    "wof:geomhash":"8e3b91f0e6cabe23db9b6548799e6903",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     23.10455,
     54.07483000000001
 ],
-  "geometry": {"coordinates":[23.10455,54.07483000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.10455,54.07483],"type":"Point"}
 }

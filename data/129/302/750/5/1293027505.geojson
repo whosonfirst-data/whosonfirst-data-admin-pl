@@ -57,7 +57,7 @@
         "wk:page":"Jareni%C3%B3wka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3dba81cacbac6abdd783bc3248946d54",
+    "wof:geomhash":"18e4bab7f610b95bb818ddab9a86c75f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.44258,
     49.75382000000001
 ],
-  "geometry": {"coordinates":[21.44258,49.75382000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.44258,49.75382],"type":"Point"}
 }

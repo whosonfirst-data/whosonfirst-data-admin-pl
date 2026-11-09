@@ -57,7 +57,7 @@
         "wk:page":"Chropy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f3d6647409d87ca5df61e395ba9a9bb4",
+    "wof:geomhash":"304c0fce7e61f622e5222b0059d570a0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     18.95038,
     51.92469000000001
 ],
-  "geometry": {"coordinates":[18.95038,51.92469000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.95038,51.92469],"type":"Point"}
 }

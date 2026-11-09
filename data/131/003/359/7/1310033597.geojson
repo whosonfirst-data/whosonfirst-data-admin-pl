@@ -54,7 +54,7 @@
         "wk:page":"Szczepankowo%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4bf95cfb36dc69bfb2d0ebd824b5d18b",
+    "wof:geomhash":"250e0b8dca8cae183f569d97330b55c0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     16.50467,
     52.62133000000001
 ],
-  "geometry": {"coordinates":[16.50467,52.62133000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.50467,52.62133],"type":"Point"}
 }

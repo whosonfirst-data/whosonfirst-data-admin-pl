@@ -52,7 +52,7 @@
         "wk:page":"Popity"
     },
     "wof:country":"PL",
-    "wof:geomhash":"652365479e92cb28a7479d7bd4b8f426",
+    "wof:geomhash":"10db00bbf3b7fa6f215dbb421fe6babb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,5 +79,5 @@
     19.55875,
     53.93496999999999
 ],
-  "geometry": {"coordinates":[19.55875,53.93496999999999],"type":"Point"}
+  "geometry": {"coordinates":[19.55875,53.93497],"type":"Point"}
 }

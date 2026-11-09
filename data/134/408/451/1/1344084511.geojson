@@ -57,7 +57,7 @@
         "wk:page":"Wielawino"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5f949e00bde15bc93b27b7c4b4e08379",
+    "wof:geomhash":"88691df06c65df1e91ca200b78e814bf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     16.4374,
     53.80233000000001
 ],
-  "geometry": {"coordinates":[16.4374,53.80233000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.4374,53.80233],"type":"Point"}
 }

@@ -60,7 +60,7 @@
         "wk:page":"Ostrowite_Prymasowskie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5416f1b7884ad54ee1587764161a08f4",
+    "wof:geomhash":"e77e19df98a7f622817386ba9038c3b7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     17.86667000000001,
     52.51667
 ],
-  "geometry": {"coordinates":[17.86667000000001,52.51667],"type":"Point"}
+  "geometry": {"coordinates":[17.86667,52.51667],"type":"Point"}
 }

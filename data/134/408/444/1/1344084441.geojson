@@ -57,7 +57,7 @@
         "wk:page":"Wierzchuca_Nag%C3%B3rna"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ae308fb0b5fe120b0582d241814a01e9",
+    "wof:geomhash":"2e9085b20e1af7bf97384476b70613e4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.56234,
     52.47858000000001
 ],
-  "geometry": {"coordinates":[22.56234,52.47858000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.56234,52.47858],"type":"Point"}
 }

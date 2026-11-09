@@ -51,7 +51,7 @@
         "wk:page":"Stare_Resko"
     },
     "wof:country":"PL",
-    "wof:geomhash":"24eb06108ee0f4fa15bfb0a717caa248",
+    "wof:geomhash":"85c262a1fc0e5b2a3bdcb4854a4a9cd5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     15.97439,
     53.67883000000001
 ],
-  "geometry": {"coordinates":[15.97439,53.67883000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.97439,53.67883],"type":"Point"}
 }

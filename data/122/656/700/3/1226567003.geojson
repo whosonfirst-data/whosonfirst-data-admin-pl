@@ -57,7 +57,7 @@
         "wk:page":"Kobyla_K%C4%99pa"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c4b58f5717d6d628f337796b5794cce5",
+    "wof:geomhash":"f0cc60912949f519742026734c640ee4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     19.22247,
     54.32223000000001
 ],
-  "geometry": {"coordinates":[19.22247,54.32223000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.22247,54.32223],"type":"Point"}
 }

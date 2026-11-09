@@ -51,7 +51,7 @@
         "wk:page":"Bor%C3%B3wki%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e1314a161fcfe75537067fa7c5b98546",
+    "wof:geomhash":"0abe3e4321fc9049d1a4506118b592e9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.16851,
     53.04581999999999
 ],
-  "geometry": {"coordinates":[17.16851,53.04581999999999],"type":"Point"}
+  "geometry": {"coordinates":[17.16851,53.04582],"type":"Point"}
 }

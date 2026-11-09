@@ -54,7 +54,7 @@
         "wk:page":"Rozwady%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"eafd2cd9561ea1eca92d9fd15b249116",
+    "wof:geomhash":"4a2f905dc08cfc5be733886c9674755b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.44014,
     51.37300000000001
 ],
-  "geometry": {"coordinates":[20.44014,51.37300000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.44014,51.373],"type":"Point"}
 }

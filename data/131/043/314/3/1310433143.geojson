@@ -63,7 +63,7 @@
         "wk:page":"Budziszewko"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b71336d451a2df69c830724238b56593",
+    "wof:geomhash":"40949c6c52868c83cc4c311da7ad4921",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     17.06692,
     52.69428000000001
 ],
-  "geometry": {"coordinates":[17.06692,52.69428000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.06692,52.69428],"type":"Point"}
 }

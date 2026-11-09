@@ -51,7 +51,7 @@
         "wk:page":"Widna_G%C3%B3ra%2C_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8600f7d1e436b3b8b8eba47ddf84ebee",
+    "wof:geomhash":"fe81c47083af9acb94b4a3f27291f5ab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.82051000000001,
     54.29789
 ],
-  "geometry": {"coordinates":[17.82051000000001,54.29789],"type":"Point"}
+  "geometry": {"coordinates":[17.82051,54.29789],"type":"Point"}
 }

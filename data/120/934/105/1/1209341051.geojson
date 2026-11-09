@@ -55,7 +55,7 @@
         "wk:page":"Wujaki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2abb8eec734a1da00f5f077f3aa49b67",
+    "wof:geomhash":"e81517c06407693d8ec90103b6156660",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,5 +82,5 @@
     21.27992,
     53.43208000000001
 ],
-  "geometry": {"coordinates":[21.27992,53.43208000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.27992,53.43208],"type":"Point"}
 }

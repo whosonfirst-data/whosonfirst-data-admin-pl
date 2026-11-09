@@ -57,7 +57,7 @@
         "wk:page":"Juszki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"298f9c379c841aa081c60a5949a3d59a",
+    "wof:geomhash":"3a75873a6706081c92ac373ecfe94de8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     17.97146,
     54.05181999999999
 ],
-  "geometry": {"coordinates":[17.97146,54.05181999999999],"type":"Point"}
+  "geometry": {"coordinates":[17.97146,54.05182],"type":"Point"}
 }

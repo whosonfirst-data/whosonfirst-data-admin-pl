@@ -57,7 +57,7 @@
         "wk:page":"Gorzyca%2C_West_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"31bd40c6895c41f39d25866396cd981b",
+    "wof:geomhash":"da48dd76a6a4986e10f4df9ce9961c4e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     16.48017999999999,
     54.30611
 ],
-  "geometry": {"coordinates":[16.48017999999999,54.30611],"type":"Point"}
+  "geometry": {"coordinates":[16.48018,54.30611],"type":"Point"}
 }

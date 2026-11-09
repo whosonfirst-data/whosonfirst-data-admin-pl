@@ -63,7 +63,7 @@
         "wk:page":"Bia%C5%82e_Jeziorki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a0c4db46dd112c97adf5eb89c15133d5",
+    "wof:geomhash":"367fc4a2543180d66a3caff0d09fdbad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     22.5457,
     54.26306999999999
 ],
-  "geometry": {"coordinates":[22.5457,54.26306999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.5457,54.26307],"type":"Point"}
 }

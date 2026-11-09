@@ -51,7 +51,7 @@
         "wk:page":"Sieros%C5%82awek"
     },
     "wof:country":"PL",
-    "wof:geomhash":"82eb2dacd29db095bca0ebb48baa3cc8",
+    "wof:geomhash":"f648450148c122672d364beed26b8315",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.3177,
     53.54346999999999
 ],
-  "geometry": {"coordinates":[18.3177,53.54346999999999],"type":"Point"}
+  "geometry": {"coordinates":[18.3177,53.54347],"type":"Point"}
 }

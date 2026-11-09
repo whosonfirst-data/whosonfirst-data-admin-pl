@@ -66,7 +66,7 @@
         "wk:page":"Stud%C5%BAce"
     },
     "wof:country":"PL",
-    "wof:geomhash":"22b95221c8748c9d36547fb70c84d0a9",
+    "wof:geomhash":"5927d048d339f96d2d5b8d7cfd0615b7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     17.03199,
     52.96038000000001
 ],
-  "geometry": {"coordinates":[17.03199,52.96038000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.03199,52.96038],"type":"Point"}
 }

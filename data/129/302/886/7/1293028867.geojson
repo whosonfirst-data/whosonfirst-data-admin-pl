@@ -57,7 +57,7 @@
         "wk:page":"%C5%81ukawska_Wola"
     },
     "wof:country":"PL",
-    "wof:geomhash":"be001ba18c1a47273a2887c33030e5b2",
+    "wof:geomhash":"79ebec99e7b082ad32ded4e52dcc4b8d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.27077,
     51.58159000000001
 ],
-  "geometry": {"coordinates":[21.27077,51.58159000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.27077,51.58159],"type":"Point"}
 }

@@ -67,7 +67,7 @@
         "wk:page":"D%C4%85br%C3%B3wka%2C_W%C4%99gorzewo_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4a5fa55e5dc20b4457109b7afbd33f2d",
+    "wof:geomhash":"037e92fdf41655e86de36e3ecce5428b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,5 +94,5 @@
     21.88391,
     54.32644000000001
 ],
-  "geometry": {"coordinates":[21.88391,54.32644000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.88391,54.32644],"type":"Point"}
 }

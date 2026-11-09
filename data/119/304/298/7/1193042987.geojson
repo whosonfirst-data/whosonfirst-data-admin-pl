@@ -63,7 +63,7 @@
         "wk:page":"Ja%C5%9Bkowo%2C_I%C5%82awa_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a96f08b707197b66520371de55466db4",
+    "wof:geomhash":"f373b25e4fdae3a5bd604ecb64c10a24",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     19.73596,
     53.80768000000001
 ],
-  "geometry": {"coordinates":[19.73596,53.80768000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.73596,53.80768],"type":"Point"}
 }

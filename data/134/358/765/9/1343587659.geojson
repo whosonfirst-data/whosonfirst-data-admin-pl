@@ -69,7 +69,7 @@
         "wk:page":"P%C4%99plino"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2aee9ececb5d0bfb68d07d4966b78fc7",
+    "wof:geomhash":"de4d2060165f6df71387d875646256a1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     16.86649,
     54.52863000000001
 ],
-  "geometry": {"coordinates":[16.86649,54.52863000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.86649,54.52863],"type":"Point"}
 }

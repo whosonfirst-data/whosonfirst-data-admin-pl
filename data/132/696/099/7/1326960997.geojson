@@ -60,7 +60,7 @@
         "wk:page":"Kobyle%2C_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"bcaf21d2cd59c804877d9fd8534c2f10",
+    "wof:geomhash":"74ad28a87e4452753f46d3d3ce11ec33",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     18.26842000000001,
     54.01329000000001
 ],
-  "geometry": {"coordinates":[18.26842000000001,54.01329000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.26842,54.01329],"type":"Point"}
 }

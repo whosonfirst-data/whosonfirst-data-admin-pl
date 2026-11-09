@@ -54,7 +54,7 @@
         "wk:page":"%C5%9Aliwiny%2C_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"780f03087969d14ee7177d047273ac95",
+    "wof:geomhash":"03696551d23cea0ceebe8201eef3bc8a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.7286,
     54.06453000000001
 ],
-  "geometry": {"coordinates":[18.7286,54.06453000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.7286,54.06453],"type":"Point"}
 }

@@ -61,7 +61,7 @@
         "wk:page":"Strachos%C5%82aw"
     },
     "wof:country":"PL",
-    "wof:geomhash":"49c52bd808bfd070c73e672a70c1bbc2",
+    "wof:geomhash":"b4449f19699c1bde26442e09778e4eee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     23.55417000000001,
     51.09274
 ],
-  "geometry": {"coordinates":[23.55417000000001,51.09274],"type":"Point"}
+  "geometry": {"coordinates":[23.55417,51.09274],"type":"Point"}
 }

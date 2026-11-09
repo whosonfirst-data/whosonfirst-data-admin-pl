@@ -54,7 +54,7 @@
         "wk:page":"Krajewo_Wielkie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ccd3041d082aa19640c232ef4aaef122",
+    "wof:geomhash":"92443e081586c33ea97d2c6f1910de0a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.79728,
     53.17978000000001
 ],
-  "geometry": {"coordinates":[20.79728,53.17978000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.79728,53.17978],"type":"Point"}
 }

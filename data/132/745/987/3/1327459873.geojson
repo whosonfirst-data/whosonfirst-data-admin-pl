@@ -54,7 +54,7 @@
         "wk:page":"S%C5%82oniawy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c3a804a9e7584aae7101a8a641ca96b9",
+    "wof:geomhash":"641037fe4ad7208a5f02d84c6014148c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.06249,
     52.86646999999999
 ],
-  "geometry": {"coordinates":[21.06249,52.86646999999999],"type":"Point"}
+  "geometry": {"coordinates":[21.06249,52.86647],"type":"Point"}
 }

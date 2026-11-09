@@ -61,7 +61,7 @@
         "wk:page":"%C5%81a%C5%BAnisko"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d4717114d8d904e87a9b77303a099a09",
+    "wof:geomhash":"2799319fc8bf4a4e590131e593a47a19",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     23.50402,
     53.29558000000001
 ],
-  "geometry": {"coordinates":[23.50402,53.29558000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.50402,53.29558],"type":"Point"}
 }

@@ -51,7 +51,7 @@
         "wk:page":"St%C4%85%C5%BCki%2C_Sztum_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9b48410da4885bfc88e9bbf35000b556",
+    "wof:geomhash":"780ea7a00235221f15e025e66906a2a1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.24108,
     53.83443000000001
 ],
-  "geometry": {"coordinates":[19.24108,53.83443000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.24108,53.83443],"type":"Point"}
 }

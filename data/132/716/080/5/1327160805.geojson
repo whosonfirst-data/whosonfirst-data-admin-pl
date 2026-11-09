@@ -51,7 +51,7 @@
         "wk:page":"Sienna%2C_Lesser_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"212583f1a28e4c9b33486c6d20290481",
+    "wof:geomhash":"a37eb8afc377c517c87eb46bef810091",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     20.70855,
     49.71234000000001
 ],
-  "geometry": {"coordinates":[20.70855,49.71234000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.70855,49.71234],"type":"Point"}
 }

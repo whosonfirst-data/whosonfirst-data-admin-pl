@@ -54,7 +54,7 @@
         "wk:page":"Jelenino%2C_Szczecinek_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"aa5ee652fbf8b900702b776925e3d3d5",
+    "wof:geomhash":"72752b150948355ad3b73b314cca358e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     16.63027,
     53.65221999999999
 ],
-  "geometry": {"coordinates":[16.63027,53.65221999999999],"type":"Point"}
+  "geometry": {"coordinates":[16.63027,53.65222],"type":"Point"}
 }

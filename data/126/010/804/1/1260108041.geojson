@@ -60,7 +60,7 @@
         "wk:page":"Witaszyn"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e777195739e783374310ba5313602d26",
+    "wof:geomhash":"27d6799f0eb22d031664efb584a86c89",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     20.88300000000001,
     51.61714
 ],
-  "geometry": {"coordinates":[20.88300000000001,51.61714],"type":"Point"}
+  "geometry": {"coordinates":[20.883,51.61714],"type":"Point"}
 }

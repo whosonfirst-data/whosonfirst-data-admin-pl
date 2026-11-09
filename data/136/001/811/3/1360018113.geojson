@@ -54,7 +54,7 @@
         "wk:page":"%C5%BBubrynek"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d6b6a26949658f6074546e35f5a68be0",
+    "wof:geomhash":"a7222a78f661a89b98daf98b059ee36c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.79654,
     54.01801999999999
 ],
-  "geometry": {"coordinates":[22.79654,54.01801999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.79654,54.01802],"type":"Point"}
 }

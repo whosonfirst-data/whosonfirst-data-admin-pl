@@ -51,7 +51,7 @@
         "wk:page":"Rogaczewo%2C_West_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c30cee7b79166d140897a19fe21315c4",
+    "wof:geomhash":"fdbee051585984ef3bbac9fb7c9db445",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     14.45003,
     52.76663000000001
 ],
-  "geometry": {"coordinates":[14.45003,52.76663000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.45003,52.76663],"type":"Point"}
 }

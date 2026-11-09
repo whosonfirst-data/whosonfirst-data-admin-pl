@@ -54,7 +54,7 @@
         "wk:page":"Baniewice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7122b0be554394e54f7f9e64aebb7f63",
+    "wof:geomhash":"0296ca7b71780adaa79c081514981741",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     14.61044,
     53.08391999999999
 ],
-  "geometry": {"coordinates":[14.61044,53.08391999999999],"type":"Point"}
+  "geometry": {"coordinates":[14.61044,53.08392],"type":"Point"}
 }

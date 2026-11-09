@@ -63,7 +63,7 @@
         "wk:page":"Ku%C5%9Bci%C5%84ce"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3bb878b5b3d11837b87e3f0f628661c3",
+    "wof:geomhash":"c4004584d610d458104c752e6ee786a7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     23.61817000000001,
     53.57339
 ],
-  "geometry": {"coordinates":[23.61817000000001,53.57339],"type":"Point"}
+  "geometry": {"coordinates":[23.61817,53.57339],"type":"Point"}
 }

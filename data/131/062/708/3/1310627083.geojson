@@ -57,7 +57,7 @@
         "wk:page":"Junkrowy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4c70b8cd264bd3f23ffbeadc41b9cd96",
+    "wof:geomhash":"ec58d29f28d9ff6721de2dc31c96e5db",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     18.36162,
     54.07409000000001
 ],
-  "geometry": {"coordinates":[18.36162,54.07409000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.36162,54.07409],"type":"Point"}
 }

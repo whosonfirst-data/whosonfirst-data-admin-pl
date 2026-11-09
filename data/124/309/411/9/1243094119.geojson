@@ -51,7 +51,7 @@
         "wk:page":"Zimotki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2e66274642fa152b6f17b2cacd7c9546",
+    "wof:geomhash":"27f07137b280997e74aaf7fb2cd4b321",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.63333,
     52.0
 ],
-  "geometry": {"coordinates":[18.63333,52.0],"type":"Point"}
+  "geometry": {"coordinates":[18.63333,52],"type":"Point"}
 }

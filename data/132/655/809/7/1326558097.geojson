@@ -60,7 +60,7 @@
         "wk:page":"Rasz%C4%85g"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d9ada8cc05900da84b37e75d104ffec2",
+    "wof:geomhash":"ce60c8954563be8d024f2892bfd985d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     20.90894,
     53.79593000000001
 ],
-  "geometry": {"coordinates":[20.90894,53.79593000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.90894,53.79593],"type":"Point"}
 }

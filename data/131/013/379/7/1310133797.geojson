@@ -60,7 +60,7 @@
         "wk:page":"Nowy_M%C5%82yn%2C_Opole_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b5f600aa6cd04f6fe750031cd42fc5cb",
+    "wof:geomhash":"aa441d53ed6d6635709a14f609f144c5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     17.93372999999999,
     50.44634
 ],
-  "geometry": {"coordinates":[17.93372999999999,50.44634],"type":"Point"}
+  "geometry": {"coordinates":[17.93373,50.44634],"type":"Point"}
 }

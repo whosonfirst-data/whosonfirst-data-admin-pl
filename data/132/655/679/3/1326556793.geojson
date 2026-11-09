@@ -58,7 +58,7 @@
         "wk:page":"Nowa_R%C3%B3%C5%BCanka%2C_Gmina_K%C4%99trzyn"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f3cc0bb54ebe0cd918afb41316d7b9bc",
+    "wof:geomhash":"7ce939567e0ad33655602816cdebcaa9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,5 +85,5 @@
     21.44181,
     54.11666999999999
 ],
-  "geometry": {"coordinates":[21.44181,54.11666999999999],"type":"Point"}
+  "geometry": {"coordinates":[21.44181,54.11667],"type":"Point"}
 }

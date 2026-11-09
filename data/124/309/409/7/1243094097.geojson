@@ -61,7 +61,7 @@
         "wk:page":"%C5%81ogdowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1f488d72155beb0ccad3a442c2552835",
+    "wof:geomhash":"24d0e24e4c082483cd3feab244852ae2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     20.14343,
     53.45401999999999
 ],
-  "geometry": {"coordinates":[20.14343,53.45401999999999],"type":"Point"}
+  "geometry": {"coordinates":[20.14343,53.45402],"type":"Point"}
 }

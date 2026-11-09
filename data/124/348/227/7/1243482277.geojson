@@ -54,7 +54,7 @@
         "wk:page":"Galominek"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6c4145f552100e43bdaec5d8c3cb583a",
+    "wof:geomhash":"054c914e0e982b9485d479e930c4fca5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.3,
     52.71666999999999
 ],
-  "geometry": {"coordinates":[20.3,52.71666999999999],"type":"Point"}
+  "geometry": {"coordinates":[20.3,52.71667],"type":"Point"}
 }

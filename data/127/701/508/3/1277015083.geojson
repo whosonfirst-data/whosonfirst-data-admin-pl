@@ -63,7 +63,7 @@
         "wk:page":"Bracisz%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"65d36dbefcdd43ba55260333a381d9ed",
+    "wof:geomhash":"56a04dbd1ff3208191cb890728f0ec16",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     17.72112000000001,
     50.13576
 ],
-  "geometry": {"coordinates":[17.72112000000001,50.13576],"type":"Point"}
+  "geometry": {"coordinates":[17.72112,50.13576],"type":"Point"}
 }

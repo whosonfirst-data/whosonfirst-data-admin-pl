@@ -54,7 +54,7 @@
         "wk:page":"Tr%C4%85bki%2C_West_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ce4c99119ee6786f56449f5d7c5d409a",
+    "wof:geomhash":"bb2ce935a6048c6c4ef135c91a482443",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     15.23941,
     53.39758000000001
 ],
-  "geometry": {"coordinates":[15.23941,53.39758000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.23941,53.39758],"type":"Point"}
 }

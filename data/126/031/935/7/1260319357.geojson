@@ -54,7 +54,7 @@
         "wk:page":"Borownica%2C_Lublin_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d0d486576f87322b29b60d779c8b87f0",
+    "wof:geomhash":"5138e2c7036446abc01ac06fcbee3c93",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.37512000000001,
     50.72179000000001
 ],
-  "geometry": {"coordinates":[22.37512000000001,50.72179000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.37512,50.72179],"type":"Point"}
 }

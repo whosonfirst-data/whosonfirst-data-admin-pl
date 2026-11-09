@@ -54,7 +54,7 @@
         "wk:page":"Kurowo_Braniewskie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6aa79aabd73d8ce3a29acdd871486cba",
+    "wof:geomhash":"30cb4a66cd1ef9a585835fe91effecc9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.75002000000001,
     54.22823
 ],
-  "geometry": {"coordinates":[19.75002000000001,54.22823],"type":"Point"}
+  "geometry": {"coordinates":[19.75002,54.22823],"type":"Point"}
 }

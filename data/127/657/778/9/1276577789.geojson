@@ -57,7 +57,7 @@
         "wk:page":"Gie%C5%82don"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6907c0088bd85b5ca948e492a45f48bd",
+    "wof:geomhash":"e101ca806074294ac7dde8fab7e44e9a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     17.72187000000001,
     53.81188
 ],
-  "geometry": {"coordinates":[17.72187000000001,53.81188],"type":"Point"}
+  "geometry": {"coordinates":[17.72187,53.81188],"type":"Point"}
 }

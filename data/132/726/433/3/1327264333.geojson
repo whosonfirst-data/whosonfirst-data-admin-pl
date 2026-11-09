@@ -51,7 +51,7 @@
         "wk:page":"Krak%C3%B3wek"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1ada7197b2f468c27fc639457a015932",
+    "wof:geomhash":"60ec79916a6affe4475742b9069512fd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.2852,
     53.49673000000001
 ],
-  "geometry": {"coordinates":[18.2852,53.49673000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.2852,53.49673],"type":"Point"}
 }

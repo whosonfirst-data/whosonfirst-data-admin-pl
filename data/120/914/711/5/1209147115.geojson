@@ -48,7 +48,7 @@
         "wk:page":"Ogrojce"
     },
     "wof:country":"PL",
-    "wof:geomhash":"389b55b1e9b357c6f5ba4b0175ff647e",
+    "wof:geomhash":"d50fa02402e6c88a72912b32245db1cd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     20.16922000000001,
     50.89186
 ],
-  "geometry": {"coordinates":[20.16922000000001,50.89186],"type":"Point"}
+  "geometry": {"coordinates":[20.16922,50.89186],"type":"Point"}
 }

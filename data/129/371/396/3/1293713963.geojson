@@ -54,7 +54,7 @@
         "wk:page":"%C5%BBal%C4%99cino"
     },
     "wof:country":"PL",
-    "wof:geomhash":"cef1efe7c398563e457cbb9afb131634",
+    "wof:geomhash":"d0bb86a000e636fc0afdfebd7ec9f6f3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     15.08428,
     53.19853000000001
 ],
-  "geometry": {"coordinates":[15.08428,53.19853000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.08428,53.19853],"type":"Point"}
 }

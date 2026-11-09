@@ -54,7 +54,7 @@
         "wk:page":"Zalesiczki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3f4eab532e6dd63a4a9de3c0e9ef282e",
+    "wof:geomhash":"3cfdb2b047d38f95d4ffbb733404feab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.42082000000001,
     51.15826
 ],
-  "geometry": {"coordinates":[19.42082000000001,51.15826],"type":"Point"}
+  "geometry": {"coordinates":[19.42082,51.15826],"type":"Point"}
 }

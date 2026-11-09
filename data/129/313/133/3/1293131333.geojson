@@ -60,7 +60,7 @@
         "wk:page":"Zar%C4%99by-Jartuzy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"68fca7255ca1595d1fbb270b9feb50a8",
+    "wof:geomhash":"94a72c257a3609d94c7acf43304207ce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     22.02218,
     52.91308000000001
 ],
-  "geometry": {"coordinates":[22.02218,52.91308000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.02218,52.91308],"type":"Point"}
 }

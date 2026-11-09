@@ -54,7 +54,7 @@
         "wk:page":"Starza"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1dd8bf5b84af39438e63d26514c1b6c8",
+    "wof:geomhash":"c9df864aad773979ba142eeefff03be0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     15.03771,
     53.94951999999999
 ],
-  "geometry": {"coordinates":[15.03771,53.94951999999999],"type":"Point"}
+  "geometry": {"coordinates":[15.03771,53.94952],"type":"Point"}
 }

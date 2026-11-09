@@ -54,7 +54,7 @@
         "wk:page":"Grab%C3%B3wka%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d764859cd494040ee2881ae513a53b06",
+    "wof:geomhash":"f9cf9dfce59523cedc9762b2b4357e35",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     16.85801,
     52.91014000000001
 ],
-  "geometry": {"coordinates":[16.85801,52.91014000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.85801,52.91014],"type":"Point"}
 }

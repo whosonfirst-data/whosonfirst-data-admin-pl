@@ -54,7 +54,7 @@
         "wk:page":"Unieszyno"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7411053e92da992e854012c53d16fa17",
+    "wof:geomhash":"331d1b58f58d10f44f5d736467675cf1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.63332999999999,
     54.45
 ],
-  "geometry": {"coordinates":[17.63332999999999,54.45],"type":"Point"}
+  "geometry": {"coordinates":[17.63333,54.45],"type":"Point"}
 }

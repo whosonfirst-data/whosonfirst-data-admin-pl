@@ -57,7 +57,7 @@
         "wk:page":"Grazymy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"fc6de1a7f9dc28d039be17103ac5ed9b",
+    "wof:geomhash":"a221336acdf4d8479e0526b11f1878e6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     20.13804,
     53.74693000000001
 ],
-  "geometry": {"coordinates":[20.13804,53.74693000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.13804,53.74693],"type":"Point"}
 }

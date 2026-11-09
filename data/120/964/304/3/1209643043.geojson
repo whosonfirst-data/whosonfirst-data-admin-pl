@@ -51,7 +51,7 @@
         "wk:page":"Baldwinowice%2C_Opole_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"eb1f3dd2f85a278dd78744a804b44d7f",
+    "wof:geomhash":"7247df6babadee79d2aa218311401080",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.80917999999999,
     51.11807
 ],
-  "geometry": {"coordinates":[17.80917999999999,51.11807],"type":"Point"}
+  "geometry": {"coordinates":[17.80918,51.11807],"type":"Point"}
 }

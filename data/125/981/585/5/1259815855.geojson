@@ -54,7 +54,7 @@
         "wk:page":"Dylew%2C_%C5%81%C3%B3d%C5%BA_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"621cb964ba13063780f0778cda540874",
+    "wof:geomhash":"e26eed2b9f81a2a65e5cb3c7bb860528",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.48397000000001,
     51.57943
 ],
-  "geometry": {"coordinates":[19.48397000000001,51.57943],"type":"Point"}
+  "geometry": {"coordinates":[19.48397,51.57943],"type":"Point"}
 }

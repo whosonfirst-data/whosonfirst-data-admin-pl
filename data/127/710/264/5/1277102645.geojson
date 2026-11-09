@@ -55,7 +55,7 @@
         "wk:page":"Huta_G%C3%B3rna"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1dcade721ab6b580735f49a04bb6305a",
+    "wof:geomhash":"4f19836299f9d88eb184ac824d30dfd0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,5 +82,5 @@
     18.33076,
     54.22371999999999
 ],
-  "geometry": {"coordinates":[18.33076,54.22371999999999],"type":"Point"}
+  "geometry": {"coordinates":[18.33076,54.22372],"type":"Point"}
 }

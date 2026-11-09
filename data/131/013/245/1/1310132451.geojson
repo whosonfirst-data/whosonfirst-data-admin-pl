@@ -60,7 +60,7 @@
         "wk:page":"Tarce"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1ef54a7567a438e967a841ceaf0c1de2",
+    "wof:geomhash":"6988c2aab1bdaeac26930dd20f7b8a26",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     17.59237000000001,
     52.002
 ],
-  "geometry": {"coordinates":[17.59237000000001,52.002],"type":"Point"}
+  "geometry": {"coordinates":[17.59237,52.002],"type":"Point"}
 }

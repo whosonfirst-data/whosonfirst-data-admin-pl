@@ -61,7 +61,7 @@
         "wk:page":"Prusinowo%2C_Mr%C4%85gowo_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9e0142ccf328d34927eae654fdff9cd3",
+    "wof:geomhash":"76fe82e064b797f0a09de8b321892526",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     21.29981,
     53.69983000000001
 ],
-  "geometry": {"coordinates":[21.29981,53.69983000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.29981,53.69983],"type":"Point"}
 }

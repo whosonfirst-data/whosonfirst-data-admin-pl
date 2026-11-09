@@ -66,7 +66,7 @@
         "wk:page":"Chwa%C5%82kowo_Ko%C5%9Bcielne"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c5d22b507efb3f050ae613c95073cae8",
+    "wof:geomhash":"d0a57bed98080f6634254615e8608376",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     17.29657000000001,
     52.01572
 ],
-  "geometry": {"coordinates":[17.29657000000001,52.01572],"type":"Point"}
+  "geometry": {"coordinates":[17.29657,52.01572],"type":"Point"}
 }

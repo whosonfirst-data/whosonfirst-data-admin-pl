@@ -51,7 +51,7 @@
         "wk:page":"Mroczki_Wielkie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6ae8c423623925d679d01f4ff023b41e",
+    "wof:geomhash":"463c60fed013b439580769fd9efb8004",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.41077,
     51.73569000000001
 ],
-  "geometry": {"coordinates":[18.41077,51.73569000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.41077,51.73569],"type":"Point"}
 }

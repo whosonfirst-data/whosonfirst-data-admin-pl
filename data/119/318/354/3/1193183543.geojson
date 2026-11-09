@@ -47,7 +47,7 @@
         "gn:id":768708
     },
     "wof:country":"PL",
-    "wof:geomhash":"85f4adfe3b52c3696cf4c4578b9e6543",
+    "wof:geomhash":"08d7c5f40f8169a1a8a08b810d16610e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,5 +74,5 @@
     21.41667,
     51.0
 ],
-  "geometry": {"coordinates":[21.41667,51.0],"type":"Point"}
+  "geometry": {"coordinates":[21.41667,51],"type":"Point"}
 }

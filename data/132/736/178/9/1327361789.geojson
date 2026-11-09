@@ -51,7 +51,7 @@
         "wk:page":"Grochowalsk"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f065383d27155fdf3e6e7367e481332e",
+    "wof:geomhash":"f2dfd67d4fbdbadc8b15efa952029dfd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.22589,
     52.68123000000001
 ],
-  "geometry": {"coordinates":[19.22589,52.68123000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.22589,52.68123],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Ustk%C3%B3w%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e8e1e45ce8f76ddc3f3f715ba7bbc626",
+    "wof:geomhash":"45335a6a6239abe68ac57aa449774b61",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.41372999999999,
     51.76573
 ],
-  "geometry": {"coordinates":[17.41372999999999,51.76573],"type":"Point"}
+  "geometry": {"coordinates":[17.41373,51.76573],"type":"Point"}
 }

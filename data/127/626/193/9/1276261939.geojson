@@ -51,7 +51,7 @@
         "wk:page":"Grabownica%2C_Gmina_Milicz"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8d681a210737c9628253d2f82cdc50ad",
+    "wof:geomhash":"8b8968a931f0eab086ed5bd618aaa2ea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.46429,
     51.46572000000001
 ],
-  "geometry": {"coordinates":[17.46429,51.46572000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.46429,51.46572],"type":"Point"}
 }

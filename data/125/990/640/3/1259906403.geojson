@@ -67,7 +67,7 @@
         "wk:page":"B%C4%85czal_Dolny"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c40ab3494f3f95772773bc5367d81b2c",
+    "wof:geomhash":"0da08e6365890cef4fbf921cd831ea80",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,5 +94,5 @@
     21.3806,
     49.76974000000001
 ],
-  "geometry": {"coordinates":[21.3806,49.76974000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.3806,49.76974],"type":"Point"}
 }

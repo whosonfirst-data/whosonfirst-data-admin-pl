@@ -54,7 +54,7 @@
         "wk:page":"Su%C5%82k%C3%B3w%2C_Lesser_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"acb1747b2feb7f4f8c802ec51ad974cc",
+    "wof:geomhash":"47acc22b425e1c75535c5e9fd42b0e2e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.10344,
     49.99019000000001
 ],
-  "geometry": {"coordinates":[20.10344,49.99019000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.10344,49.99019],"type":"Point"}
 }

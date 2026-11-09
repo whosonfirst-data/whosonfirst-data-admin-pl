@@ -57,7 +57,7 @@
         "wk:page":"Gozd%2C_West_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6846eacabb0e588bb2f95033f92d5ccc",
+    "wof:geomhash":"f6c145a27b9685c1721e5a404b224788",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     16.59227000000001,
     54.0045
 ],
-  "geometry": {"coordinates":[16.59227000000001,54.0045],"type":"Point"}
+  "geometry": {"coordinates":[16.59227,54.0045],"type":"Point"}
 }

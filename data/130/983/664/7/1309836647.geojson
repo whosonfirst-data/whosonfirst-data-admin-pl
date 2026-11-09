@@ -54,7 +54,7 @@
         "wk:page":"Ga%C5%82kowice_Nowe"
     },
     "wof:country":"PL",
-    "wof:geomhash":"28c58ff5211e5bb0740ab8d7531f00d3",
+    "wof:geomhash":"1d20ee635cd16d1c2c102be02b12bec2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.45022,
     51.24312000000001
 ],
-  "geometry": {"coordinates":[19.45022,51.24312000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.45022,51.24312],"type":"Point"}
 }

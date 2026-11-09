@@ -51,7 +51,7 @@
         "wk:page":"Prusinowice%2C_Zdu%C5%84ska_Wola_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"679c3eebfff5f57e63e12ea08c1df61e",
+    "wof:geomhash":"4db164557c85d9e1c1c839bba06fc8ed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.91371,
     51.72884000000001
 ],
-  "geometry": {"coordinates":[18.91371,51.72884000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.91371,51.72884],"type":"Point"}
 }

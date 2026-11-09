@@ -54,7 +54,7 @@
         "wk:page":"Olszaki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ade732e85f96dbcb929f5d9904327ef8",
+    "wof:geomhash":"ae0fbf84d531762fc34b62cbd81efd57",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.5077,
     52.75748000000001
 ],
-  "geometry": {"coordinates":[21.5077,52.75748000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.5077,52.75748],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"Bukowa_G%C3%B3ra%2C_Gmina_Sul%C4%99czyno"
     },
     "wof:country":"PL",
-    "wof:geomhash":"90034f9b118f2393700bd8353842cb8a",
+    "wof:geomhash":"77b8ad8216eadab3ccb8372f13346272",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     17.80897000000001,
     54.24549
 ],
-  "geometry": {"coordinates":[17.80897000000001,54.24549],"type":"Point"}
+  "geometry": {"coordinates":[17.80897,54.24549],"type":"Point"}
 }

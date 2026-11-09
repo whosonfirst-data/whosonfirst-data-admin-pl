@@ -73,7 +73,7 @@
         "wk:page":"Go%C5%82czewo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a5bc20e4bb6dbbf36e072beb9478848d",
+    "wof:geomhash":"97e6da6d257b6902528e33670b06719f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -100,5 +100,5 @@
     17.63872000000001,
     54.19308
 ],
-  "geometry": {"coordinates":[17.63872000000001,54.19308],"type":"Point"}
+  "geometry": {"coordinates":[17.63872,54.19308],"type":"Point"}
 }

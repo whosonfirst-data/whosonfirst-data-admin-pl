@@ -63,7 +63,7 @@
         "wk:page":"Kaki-Mroczki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ccaf715dd474dde2211165e21e35d1e6",
+    "wof:geomhash":"c75ee00c97fab0e01c679ec7335cf5d5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     20.88872000000001,
     53.13078
 ],
-  "geometry": {"coordinates":[20.88872000000001,53.13078],"type":"Point"}
+  "geometry": {"coordinates":[20.88872,53.13078],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Ry%C5%9B%2C_%C5%81%C3%B3d%C5%BA_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3f59892e82b05e32fe00973af1b2f92e",
+    "wof:geomhash":"f7e92099084a1a3c7717ca799befa584",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.40325,
     51.32100000000001
 ],
-  "geometry": {"coordinates":[18.40325,51.32100000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.40325,51.321],"type":"Point"}
 }

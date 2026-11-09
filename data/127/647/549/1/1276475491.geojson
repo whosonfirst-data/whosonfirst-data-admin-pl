@@ -48,7 +48,7 @@
         "wk:page":"Bojary%2C_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"054fde4b4b187526a01a40a38cf6fd0f",
+    "wof:geomhash":"baa82b6cc0d902a95219d023d9c5006f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     18.56228,
     54.05631999999999
 ],
-  "geometry": {"coordinates":[18.56228,54.05631999999999],"type":"Point"}
+  "geometry": {"coordinates":[18.56228,54.05632],"type":"Point"}
 }

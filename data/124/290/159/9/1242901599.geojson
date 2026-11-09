@@ -51,7 +51,7 @@
         "wk:page":"Dylewo%2C_Rypin_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f3944a10aab03424ab0b2f018282f878",
+    "wof:geomhash":"a11cbaa949d1fc40e76d3e241f8ac660",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.4474,
     53.04434000000001
 ],
-  "geometry": {"coordinates":[19.4474,53.04434000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.4474,53.04434],"type":"Point"}
 }

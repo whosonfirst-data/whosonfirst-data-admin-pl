@@ -54,7 +54,7 @@
         "wk:page":"Zdr%C3%B3jno%2C_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c6b1de907c76f3b4f52cb459dd43b1d6",
+    "wof:geomhash":"b7d5a7b867c8838a17cb91db806ac474",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.26185,
     53.74993000000001
 ],
-  "geometry": {"coordinates":[18.26185,53.74993000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.26185,53.74993],"type":"Point"}
 }

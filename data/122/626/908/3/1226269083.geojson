@@ -54,7 +54,7 @@
         "wk:page":"Droglowice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7230efc66d106b05c9a7b7d1b76cafdb",
+    "wof:geomhash":"68d4365829a88a97a4ca73805b8a09b2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     16.22715,
     51.66542000000001
 ],
-  "geometry": {"coordinates":[16.22715,51.66542000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.22715,51.66542],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"Starzno"
     },
     "wof:country":"PL",
-    "wof:geomhash":"15f75b594ca957b217233c751d83fcd5",
+    "wof:geomhash":"7efe99161c6f2eddefd6f7069da0bde0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     17.07307999999999,
     53.97089
 ],
-  "geometry": {"coordinates":[17.07307999999999,53.97089],"type":"Point"}
+  "geometry": {"coordinates":[17.07308,53.97089],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"Jonne"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a21c52451b4b5f290758567ff19fd55e",
+    "wof:geomhash":"1451078f8116a3cb0fcb358ebd06e2b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     19.81826,
     52.95498000000001
 ],
-  "geometry": {"coordinates":[19.81826,52.95498000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.81826,52.95498],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Byszki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"cb910c0824c1d00ebc686d9cb99f3b88",
+    "wof:geomhash":"0871b5337aa4a1ad378d08a5734113cb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     16.76606,
     53.08858000000001
 ],
-  "geometry": {"coordinates":[16.76606,53.08858000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.76606,53.08858],"type":"Point"}
 }

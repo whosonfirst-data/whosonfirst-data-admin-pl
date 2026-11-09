@@ -51,7 +51,7 @@
         "wk:page":"Ludowice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8f631a1827566086e4c4a0c96f413e39",
+    "wof:geomhash":"c7968488870c0e1cb9b7fb80f80a5322",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.85878,
     53.22728000000001
 ],
-  "geometry": {"coordinates":[18.85878,53.22728000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.85878,53.22728],"type":"Point"}
 }

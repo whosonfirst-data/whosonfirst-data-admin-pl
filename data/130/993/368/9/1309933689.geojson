@@ -57,7 +57,7 @@
         "wk:page":"Mieszczk"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d1cea8ac59c0a21f7e032ddae216a439",
+    "wof:geomhash":"f8871ef005f547d9ef624a9f2b168787",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     19.62112,
     52.86078000000001
 ],
-  "geometry": {"coordinates":[19.62112,52.86078000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.62112,52.86078],"type":"Point"}
 }

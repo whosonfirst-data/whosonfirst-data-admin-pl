@@ -60,7 +60,7 @@
         "wk:page":"Cieciory"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a90554cf8d352144d2a7f2c417ee73cf",
+    "wof:geomhash":"37e6f1fcda170675ea89a7091db4d9ea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     21.78194,
     53.33886999999999
 ],
-  "geometry": {"coordinates":[21.78194,53.33886999999999],"type":"Point"}
+  "geometry": {"coordinates":[21.78194,53.33887],"type":"Point"}
 }

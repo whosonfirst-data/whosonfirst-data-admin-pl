@@ -69,7 +69,7 @@
         "wk:page":"Adolf%C3%B3w%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"eeca7ee7148fd4cc54bdd02e7aac438f",
+    "wof:geomhash":"7afe0b16d5bfafe2a913ea1b47e51e55",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     22.29163,
     52.65051999999999
 ],
-  "geometry": {"coordinates":[22.29163,52.65051999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.29163,52.65052],"type":"Point"}
 }

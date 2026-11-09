@@ -57,7 +57,7 @@
         "wk:page":"Ga%C5%82%C4%99z%C3%B3w%2C_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7ec2d2b561ab9cf42eeaebd8456186c3",
+    "wof:geomhash":"90ca574126091cf4614640bce0e95197",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     17.39582,
     54.28888000000001
 ],
-  "geometry": {"coordinates":[17.39582,54.28888000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.39582,54.28888],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Kruszyn%2C_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f4c713212b569fe32effba3ba83be400",
+    "wof:geomhash":"eb00d1f6cbb7a0d33a6da339fd1b944e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.59802999999999,
     53.9807
 ],
-  "geometry": {"coordinates":[17.59802999999999,53.9807],"type":"Point"}
+  "geometry": {"coordinates":[17.59803,53.9807],"type":"Point"}
 }

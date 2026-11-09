@@ -51,7 +51,7 @@
         "wk:page":"Dalborowice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4adee470976be90974bda0b209fb713e",
+    "wof:geomhash":"9403e66c4abbfbd15f776a827bb160d1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.71682999999999,
     51.19914
 ],
-  "geometry": {"coordinates":[17.71682999999999,51.19914],"type":"Point"}
+  "geometry": {"coordinates":[17.71683,51.19914],"type":"Point"}
 }

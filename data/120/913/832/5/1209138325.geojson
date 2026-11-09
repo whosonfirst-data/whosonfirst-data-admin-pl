@@ -51,7 +51,7 @@
         "wk:page":"Wymys%C5%82aw"
     },
     "wof:country":"PL",
-    "wof:geomhash":"756bea3a120f41858e8018596ad9b810",
+    "wof:geomhash":"eca9293896a383051e72f4ff15cf8e90",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     16.98359,
     53.02121999999999
 ],
-  "geometry": {"coordinates":[16.98359,53.02121999999999],"type":"Point"}
+  "geometry": {"coordinates":[16.98359,53.02122],"type":"Point"}
 }

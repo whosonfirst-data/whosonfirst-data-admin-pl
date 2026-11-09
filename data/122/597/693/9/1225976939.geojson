@@ -54,7 +54,7 @@
         "wk:page":"Nadbory"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1cd16720bf415124b10515be145b4431",
+    "wof:geomhash":"9930cff51e416a8017637c54e086947d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.43906,
     53.31724000000001
 ],
-  "geometry": {"coordinates":[22.43906,53.31724000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.43906,53.31724],"type":"Point"}
 }

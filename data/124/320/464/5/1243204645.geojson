@@ -54,7 +54,7 @@
         "wk:page":"W%C3%B3lka_Policka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"974edfc158dd592f61b09021b47ca777",
+    "wof:geomhash":"128e5fdf775645a10232e431291b065d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.64924,
     51.45849000000001
 ],
-  "geometry": {"coordinates":[21.64924,51.45849000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.64924,51.45849],"type":"Point"}
 }

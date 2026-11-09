@@ -67,7 +67,7 @@
         "wk:page":"Grapice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"63d48c3bf7cd89243a512fdc8a833f9f",
+    "wof:geomhash":"ddbdcc2dbb2757233b3a055bcc1e4a33",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,5 +94,5 @@
     17.43238,
     54.50881999999999
 ],
-  "geometry": {"coordinates":[17.43238,54.50881999999999],"type":"Point"}
+  "geometry": {"coordinates":[17.43238,54.50882],"type":"Point"}
 }

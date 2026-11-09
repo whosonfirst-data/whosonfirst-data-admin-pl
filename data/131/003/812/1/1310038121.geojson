@@ -51,7 +51,7 @@
         "wk:page":"Kamienice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"746c485e72c5bd8cdd0399aefc623a1e",
+    "wof:geomhash":"4b9d2111333addfdf20ed1b4c7286922",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.09918,
     54.05589000000001
 ],
-  "geometry": {"coordinates":[19.09918,54.05589000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.09918,54.05589],"type":"Point"}
 }

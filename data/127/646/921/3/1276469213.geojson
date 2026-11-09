@@ -57,7 +57,7 @@
         "wk:page":"Jordan%C3%B3w%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"19f643bc30a9d4b82ab4184f11e09869",
+    "wof:geomhash":"ecca9715ef6abea03aea0e7c4dd154f8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     19.73544,
     52.48869000000001
 ],
-  "geometry": {"coordinates":[19.73544,52.48869000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.73544,52.48869],"type":"Point"}
 }

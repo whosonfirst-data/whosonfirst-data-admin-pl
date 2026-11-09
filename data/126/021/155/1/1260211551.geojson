@@ -54,7 +54,7 @@
         "wk:page":"Ra%C5%84sk"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b2393ee4ca32413fc2415662f42d9610",
+    "wof:geomhash":"8793acfe7ca0e5e4438d2719303637e4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.09452000000001,
     53.70764000000001
 ],
-  "geometry": {"coordinates":[21.09452000000001,53.70764000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.09452,53.70764],"type":"Point"}
 }

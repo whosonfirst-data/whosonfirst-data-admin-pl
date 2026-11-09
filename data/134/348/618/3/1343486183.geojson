@@ -54,7 +54,7 @@
         "wk:page":"Kuchary%2C_Silesian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e1f24d58895c77d4eb71414e845e3de6",
+    "wof:geomhash":"1783ad1aa1fdb7552d0a0e40b94eca87",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.30641,
     50.85749000000001
 ],
-  "geometry": {"coordinates":[19.30641,50.85749000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.30641,50.85749],"type":"Point"}
 }

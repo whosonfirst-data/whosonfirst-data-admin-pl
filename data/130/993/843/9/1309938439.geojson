@@ -57,7 +57,7 @@
         "wk:page":"%C5%81azarze"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a0633f65334a52bd92555a38269be65a",
+    "wof:geomhash":"ac05247a69d18d658c8e2a0b45f89e15",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.61106,
     53.69493000000001
 ],
-  "geometry": {"coordinates":[22.61106,53.69493000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.61106,53.69493],"type":"Point"}
 }

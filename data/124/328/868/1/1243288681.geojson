@@ -61,7 +61,7 @@
         "wk:page":"Zajdy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d22a021e1312005813aa18c5bf15690a",
+    "wof:geomhash":"7c6606b18f78a4a1e6d73030d715d766",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     22.42391,
     53.97626999999999
 ],
-  "geometry": {"coordinates":[22.42391,53.97626999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.42391,53.97627],"type":"Point"}
 }

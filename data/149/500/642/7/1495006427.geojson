@@ -71,7 +71,7 @@
         "wk:page":"Bystrzyca_Stara"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d2693fe4f5bad77c7076c417a46d0bf9",
+    "wof:geomhash":"9247f5f6fe4934cdbd43aa6b5199f211",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,5 +101,5 @@
     22.46747,
     51.07624000000001
 ],
-  "geometry": {"coordinates":[22.46747,51.07624000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.46747,51.07624],"type":"Point"}
 }

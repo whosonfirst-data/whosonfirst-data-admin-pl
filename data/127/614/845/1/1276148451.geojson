@@ -51,7 +51,7 @@
         "wk:page":"S%C3%B3jkowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9eb0b041f22aae1a096460d92e01e42f",
+    "wof:geomhash":"6ae840438a3df37867091edfce1138c7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.18673,
     52.82021999999999
 ],
-  "geometry": {"coordinates":[18.18673,52.82021999999999],"type":"Point"}
+  "geometry": {"coordinates":[18.18673,52.82022],"type":"Point"}
 }

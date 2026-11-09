@@ -54,7 +54,7 @@
         "wk:page":"Plecka_D%C4%85browa"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3a067a590515d28a046ff65d52373ed5",
+    "wof:geomhash":"ba17a62e218675e045679f5933f6f2a2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.64599,
     52.18389000000001
 ],
-  "geometry": {"coordinates":[19.64599,52.18389000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.64599,52.18389],"type":"Point"}
 }

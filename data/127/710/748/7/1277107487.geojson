@@ -58,7 +58,7 @@
         "wk:page":"P%C3%B3lka-Raci%C4%85%C5%BC"
     },
     "wof:country":"PL",
-    "wof:geomhash":"dc93685bb3c5921f11e1f86a564dec72",
+    "wof:geomhash":"6e86fc2a96008232439d2ffe5e262c4a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,5 +85,5 @@
     20.08986,
     52.81551999999999
 ],
-  "geometry": {"coordinates":[20.08986,52.81551999999999],"type":"Point"}
+  "geometry": {"coordinates":[20.08986,52.81552],"type":"Point"}
 }

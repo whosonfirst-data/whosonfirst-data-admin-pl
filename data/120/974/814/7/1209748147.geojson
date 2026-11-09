@@ -57,7 +57,7 @@
         "wk:page":"Golin%2C_Wa%C5%82cz_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2f22d94dfde0251be49cf427dc979668",
+    "wof:geomhash":"e21c61fc469c232e7cbd9f2ad63f556c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     16.08433,
     53.12473000000001
 ],
-  "geometry": {"coordinates":[16.08433,53.12473000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.08433,53.12473],"type":"Point"}
 }

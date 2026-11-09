@@ -54,7 +54,7 @@
         "wk:page":"%C5%81osiniec%2C_Podlaskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"0474356537d39c7a64ad8366ed6154b8",
+    "wof:geomhash":"077b5e40bb38bd42a44277ba99704e7e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     23.17328,
     53.38628000000001
 ],
-  "geometry": {"coordinates":[23.17328,53.38628000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.17328,53.38628],"type":"Point"}
 }

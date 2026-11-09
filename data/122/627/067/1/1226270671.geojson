@@ -54,7 +54,7 @@
         "wk:page":"W%C3%B3lka_Czu%C5%82czycka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3e56e91b86a2f3e00eed18ea91d59f79",
+    "wof:geomhash":"5c947ced0aa260e585009b99e69d83d9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     23.47787000000001,
     51.19201
 ],
-  "geometry": {"coordinates":[23.47787000000001,51.19201],"type":"Point"}
+  "geometry": {"coordinates":[23.47787,51.19201],"type":"Point"}
 }

@@ -72,7 +72,7 @@
         "wk:page":"Elgnowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"560ddaf5d2e91fac45ed44114c2b3eda",
+    "wof:geomhash":"562fd5ad706587fcf72b54a76c9ddec7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,5 +99,5 @@
     19.95269,
     53.45968000000001
 ],
-  "geometry": {"coordinates":[19.95269,53.45968000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.95269,53.45968],"type":"Point"}
 }

@@ -64,7 +64,7 @@
         "wk:page":"Suliszewo%2C_Choszczno_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"89d4f4073a5e834b97c45da06fcd7472",
+    "wof:geomhash":"7ee25604b6953c75c0f6615cc06448a1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,5 +91,5 @@
     15.58694,
     53.18601999999999
 ],
-  "geometry": {"coordinates":[15.58694,53.18601999999999],"type":"Point"}
+  "geometry": {"coordinates":[15.58694,53.18602],"type":"Point"}
 }

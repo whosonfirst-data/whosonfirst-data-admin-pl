@@ -63,7 +63,7 @@
         "wk:page":"Wiejce"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c8d6712a2bf666cf45b0259a70db5b6c",
+    "wof:geomhash":"cd72a31fca21979e36cb88afd143f99a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     15.75744,
     52.64644000000001
 ],
-  "geometry": {"coordinates":[15.75744,52.64644000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.75744,52.64644],"type":"Point"}
 }

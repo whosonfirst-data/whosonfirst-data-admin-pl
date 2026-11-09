@@ -54,7 +54,7 @@
         "wk:page":"G%C4%99sia_W%C3%B3lka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c122800dea7cc7c4183fe11b4022d616",
+    "wof:geomhash":"f7462d53d18ff65ae46ae11aa0b140ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.98877,
     51.76929000000001
 ],
-  "geometry": {"coordinates":[21.98877,51.76929000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.98877,51.76929],"type":"Point"}
 }

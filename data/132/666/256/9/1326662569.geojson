@@ -48,7 +48,7 @@
         "wk:page":"Dolina%2C_Warmian-Masurian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5226eabf1a7860fe9d5d57121edbea92",
+    "wof:geomhash":"7e3b29ee13e215b63450376909442c9a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     19.44717,
     53.78078000000001
 ],
-  "geometry": {"coordinates":[19.44717,53.78078000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.44717,53.78078],"type":"Point"}
 }

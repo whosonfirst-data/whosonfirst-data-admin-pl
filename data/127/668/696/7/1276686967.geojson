@@ -54,7 +54,7 @@
         "wk:page":"%C5%BBurawin%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"571bbe9b734add0d41107981d43753d5",
+    "wof:geomhash":"95fd33e01cf9459f5446192f66dc3b21",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.53963,
     52.78998000000001
 ],
-  "geometry": {"coordinates":[19.53963,52.78998000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.53963,52.78998],"type":"Point"}
 }

@@ -63,7 +63,7 @@
         "wk:page":"Jackowo_Dolne"
     },
     "wof:country":"PL",
-    "wof:geomhash":"71bd7eff69c90585347804c0c187334d",
+    "wof:geomhash":"4d8043ccaa033c7fc0c5325af4be5f00",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     21.24017000000001,
     52.53613000000001
 ],
-  "geometry": {"coordinates":[21.24017000000001,52.53613000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.24017,52.53613],"type":"Point"}
 }

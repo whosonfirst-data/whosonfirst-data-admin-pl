@@ -54,7 +54,7 @@
         "wk:page":"Maszk%C3%B3w%2C_Lesser_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3057eb89ff7ca03db2932660f4151de9",
+    "wof:geomhash":"0222128e6451ae399e70e5322fbb2074",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.97344,
     50.19374000000001
 ],
-  "geometry": {"coordinates":[19.97344,50.19374000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.97344,50.19374],"type":"Point"}
 }

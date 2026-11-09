@@ -51,7 +51,7 @@
         "wk:page":"Rzym%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"48e563e1293999ba008c3a879c6d73cd",
+    "wof:geomhash":"529a5e7482660514741e170d06d06402",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.61096000000001,
     52.71317
 ],
-  "geometry": {"coordinates":[17.61096000000001,52.71317],"type":"Point"}
+  "geometry": {"coordinates":[17.61096,52.71317],"type":"Point"}
 }

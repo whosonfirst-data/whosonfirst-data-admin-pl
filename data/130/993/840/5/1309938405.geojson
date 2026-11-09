@@ -54,7 +54,7 @@
         "wk:page":"%C5%81ukoszyn"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9cbb0dc3be800ef1269547f15ff27136",
+    "wof:geomhash":"d66f99c4cbe3eedd31a9624ec8dfc48e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.58395,
     52.69128000000001
 ],
-  "geometry": {"coordinates":[19.58395,52.69128000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.58395,52.69128],"type":"Point"}
 }

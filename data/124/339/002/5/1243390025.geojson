@@ -57,7 +57,7 @@
         "wk:page":"Jarczewo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"fcd273a551f4d203016a31f4f4e86be4",
+    "wof:geomhash":"5f581aa4b09d64b153b89ee878a7346a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     19.3,
     52.88333000000001
 ],
-  "geometry": {"coordinates":[19.3,52.88333000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.3,52.88333],"type":"Point"}
 }

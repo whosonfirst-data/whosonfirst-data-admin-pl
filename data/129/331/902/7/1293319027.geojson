@@ -60,7 +60,7 @@
         "wk:page":"Murawskie_Nadbu%C5%BCne"
     },
     "wof:country":"PL",
-    "wof:geomhash":"64e79fa1d09b9513531f792ed6ab5790",
+    "wof:geomhash":"b0e3bcf6bda34b9d6cde364dcc8f5804",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     22.37246,
     52.64066999999999
 ],
-  "geometry": {"coordinates":[22.37246,52.64066999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.37246,52.64067],"type":"Point"}
 }

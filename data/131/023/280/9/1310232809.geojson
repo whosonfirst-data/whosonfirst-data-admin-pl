@@ -54,7 +54,7 @@
         "wk:page":"Buda_Ruska"
     },
     "wof:country":"PL",
-    "wof:geomhash":"fb03aa67068bf750695d56b0e74ee4dc",
+    "wof:geomhash":"e624985d1658c1df4e67ad7cd2d312e3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     23.19542,
     54.06036999999999
 ],
-  "geometry": {"coordinates":[23.19542,54.06036999999999],"type":"Point"}
+  "geometry": {"coordinates":[23.19542,54.06037],"type":"Point"}
 }

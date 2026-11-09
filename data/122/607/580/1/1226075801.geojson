@@ -57,7 +57,7 @@
         "wk:page":"Nieczat%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"886ba96b026397dc70cc0a1097fd78ae",
+    "wof:geomhash":"50d042b98ef40ef3d2ee9d5160d573ed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.06054,
     51.44589000000001
 ],
-  "geometry": {"coordinates":[21.06054,51.44589000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.06054,51.44589],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Lubiewko"
     },
     "wof:country":"PL",
-    "wof:geomhash":"75da47a9e636d5e0842c82307aeaa0ef",
+    "wof:geomhash":"bce3271e6f8f41dac4a167c6f6f0cf52",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     15.65286,
     52.98343000000001
 ],
-  "geometry": {"coordinates":[15.65286,52.98343000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.65286,52.98343],"type":"Point"}
 }

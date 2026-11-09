@@ -54,7 +54,7 @@
         "wk:page":"D%C4%85br%C3%B3wki%2C_Podlaskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"109e6b7bf9f6826c33b5c33fa9b7c54b",
+    "wof:geomhash":"44e0bb9036eed31bdffe37c8a26b146a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     23.24853,
     53.21613000000001
 ],
-  "geometry": {"coordinates":[23.24853,53.21613000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.24853,53.21613],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Lach%C3%B3wka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"68f73c109b4c936bebb679d0dca06605",
+    "wof:geomhash":"69898bb1c5679ae32f56ddd5a049b73d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.82307,
     52.49639000000001
 ],
-  "geometry": {"coordinates":[22.82307,52.49639000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.82307,52.49639],"type":"Point"}
 }

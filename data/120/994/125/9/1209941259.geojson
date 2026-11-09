@@ -51,7 +51,7 @@
         "wk:page":"B%C4%99dlewo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6bf6ae72c785e0c93271707ed68a3bea",
+    "wof:geomhash":"9fe51960d7de3186678b46b78c8752b9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     16.7222,
     52.23419000000001
 ],
-  "geometry": {"coordinates":[16.7222,52.23419000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.7222,52.23419],"type":"Point"}
 }

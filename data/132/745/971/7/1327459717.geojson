@@ -54,7 +54,7 @@
         "wk:page":"Tarnawa%2C_Lubusz_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d54d3556b295b48e52f99e7a220d843a",
+    "wof:geomhash":"324f2177c17463a105e2087e06a2c5ce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     15.71933,
     51.96449000000001
 ],
-  "geometry": {"coordinates":[15.71933,51.96449000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.71933,51.96449],"type":"Point"}
 }

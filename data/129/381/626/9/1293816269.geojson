@@ -54,7 +54,7 @@
         "wk:page":"Lipki%2C_Chojnice_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"67a898d9ae1778d88e570b2c1aede193",
+    "wof:geomhash":"7ebb57e5fe70fa17d73094b70d89f00f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.08837,
     53.82471999999999
 ],
-  "geometry": {"coordinates":[18.08837,53.82471999999999],"type":"Point"}
+  "geometry": {"coordinates":[18.08837,53.82472],"type":"Point"}
 }

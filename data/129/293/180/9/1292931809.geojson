@@ -63,7 +63,7 @@
         "wk:page":"Zaborowie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"67adf6b21f944f566c124301db68fbf8",
+    "wof:geomhash":"97d1602127026037f0396c866c63bda6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     20.89182000000001,
     51.31305
 ],
-  "geometry": {"coordinates":[20.89182000000001,51.31305],"type":"Point"}
+  "geometry": {"coordinates":[20.89182,51.31305],"type":"Point"}
 }

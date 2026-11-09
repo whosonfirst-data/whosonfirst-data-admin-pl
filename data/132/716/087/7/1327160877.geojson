@@ -54,7 +54,7 @@
         "wk:page":"Majki-Tykiewki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d4863bddc2d40ca6f4d44ade0b714f8c",
+    "wof:geomhash":"9559c5e5313eb0e7bfaef2c6441c8ec2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.28786,
     53.01394000000001
 ],
-  "geometry": {"coordinates":[21.28786,53.01394000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.28786,53.01394],"type":"Point"}
 }

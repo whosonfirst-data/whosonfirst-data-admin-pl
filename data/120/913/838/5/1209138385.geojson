@@ -60,7 +60,7 @@
         "wk:page":"Zimnice_Ma%C5%82e"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ce2f76bcb5b89e4d80229e4ba9d9144f",
+    "wof:geomhash":"d81caa6edbd6976a50166cd852443ec5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     17.93783999999999,
     50.56863
 ],
-  "geometry": {"coordinates":[17.93783999999999,50.56863],"type":"Point"}
+  "geometry": {"coordinates":[17.93784,50.56863],"type":"Point"}
 }

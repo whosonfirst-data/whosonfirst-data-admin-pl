@@ -51,7 +51,7 @@
         "wk:page":"Szustek"
     },
     "wof:country":"PL",
-    "wof:geomhash":"845f36db74b5638ec9eb761e03b31721",
+    "wof:geomhash":"56708dfe0792608b926a38980bee9feb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.60888,
     53.03729000000001
 ],
-  "geometry": {"coordinates":[19.60888,53.03729000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.60888,53.03729],"type":"Point"}
 }

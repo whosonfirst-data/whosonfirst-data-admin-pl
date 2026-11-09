@@ -54,7 +54,7 @@
         "wk:page":"%C5%81%C4%99czno%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"230cab338da874b40b64cfbdf9600e12",
+    "wof:geomhash":"ed06ef142603592c56c7ea5329c3a27f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     15.95995,
     52.35599000000001
 ],
-  "geometry": {"coordinates":[15.95995,52.35599000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.95995,52.35599],"type":"Point"}
 }

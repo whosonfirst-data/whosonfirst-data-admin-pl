@@ -69,7 +69,7 @@
         "wk:page":"Cisse%2C_Poland"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5f87500b325e54a692f0e1acf587ae88",
+    "wof:geomhash":"43a2408dc743a0afa55ceda5337b651d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     19.56153,
     52.92296999999999
 ],
-  "geometry": {"coordinates":[19.56153,52.92296999999999],"type":"Point"}
+  "geometry": {"coordinates":[19.56153,52.92297],"type":"Point"}
 }

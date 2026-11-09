@@ -54,7 +54,7 @@
         "wk:page":"Kadziak"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6b89851414c21d2f69f5f5e54437fc36",
+    "wof:geomhash":"4b3aa8404eaf8b3238a00c5e380c50aa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.59923999999999,
     52.02295
 ],
-  "geometry": {"coordinates":[17.59923999999999,52.02295],"type":"Point"}
+  "geometry": {"coordinates":[17.59924,52.02295],"type":"Point"}
 }

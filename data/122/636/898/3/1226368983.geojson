@@ -57,7 +57,7 @@
         "wk:page":"St%C4%99%C5%BCycka_Huta"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c59e46a622633c4f36cb0ffeb7cad093",
+    "wof:geomhash":"78bfe02bcc228b264bff7144f6e77c80",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     17.90406,
     54.22473000000001
 ],
-  "geometry": {"coordinates":[17.90406,54.22473000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.90406,54.22473],"type":"Point"}
 }

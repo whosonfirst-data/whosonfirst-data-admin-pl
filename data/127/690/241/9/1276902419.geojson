@@ -66,7 +66,7 @@
         "wk:page":"Drgicz"
     },
     "wof:country":"PL",
-    "wof:geomhash":"efa4b94b4c8acc2bc6a649da5909a0cc",
+    "wof:geomhash":"aacd2bf52ee69265ce9d4d4e86dc495e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     21.88333,
     52.53333000000001
 ],
-  "geometry": {"coordinates":[21.88333,52.53333000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.88333,52.53333],"type":"Point"}
 }

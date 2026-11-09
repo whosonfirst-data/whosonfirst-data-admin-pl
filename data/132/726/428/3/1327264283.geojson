@@ -54,7 +54,7 @@
         "wk:page":"Suchy_Grunt%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9130678794bd4d9e1a33c0b94e841c8b",
+    "wof:geomhash":"7a93a81d3a6663151434f66ce9e326c1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.65755,
     53.04998000000001
 ],
-  "geometry": {"coordinates":[19.65755,53.04998000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.65755,53.04998],"type":"Point"}
 }

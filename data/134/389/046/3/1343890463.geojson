@@ -54,7 +54,7 @@
         "wk:page":"Komorze%2C_West_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"07ba0b641de0c16138973fab06459c69",
+    "wof:geomhash":"6e5df72cf61dc43979d9002d5792fef7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     16.34512999999999,
     53.62918000000001
 ],
-  "geometry": {"coordinates":[16.34512999999999,53.62918000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.34513,53.62918],"type":"Point"}
 }

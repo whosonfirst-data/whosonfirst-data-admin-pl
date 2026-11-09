@@ -54,7 +54,7 @@
         "wk:page":"Sycz%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"277fd418759d00b4c7402122c09ada42",
+    "wof:geomhash":"6cb27bbcee7b63d8014c91a1311295a1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     23.75793,
     51.00754000000001
 ],
-  "geometry": {"coordinates":[23.75793,51.00754000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.75793,51.00754],"type":"Point"}
 }

@@ -51,7 +51,7 @@
         "wk:page":"Kwieki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"39d09ecbe028491d9a1098e7c2ae4993",
+    "wof:geomhash":"4c554542c68defed945d5417e094fe1a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.86357000000001,
     53.81357
 ],
-  "geometry": {"coordinates":[17.86357000000001,53.81357],"type":"Point"}
+  "geometry": {"coordinates":[17.86357,53.81357],"type":"Point"}
 }

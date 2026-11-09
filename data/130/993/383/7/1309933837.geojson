@@ -54,7 +54,7 @@
         "wk:page":"Kania%2C_S%C5%82upca_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"fd45b46c91c9d820e047ba5079fa5107",
+    "wof:geomhash":"049214f45dbaa008d8358271ba2df469",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.02973,
     52.43143000000001
 ],
-  "geometry": {"coordinates":[18.02973,52.43143000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.02973,52.43143],"type":"Point"}
 }

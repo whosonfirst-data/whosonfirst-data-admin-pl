@@ -55,7 +55,7 @@
         "wk:page":"Bukowa_G%C3%B3ra%2C_Warmian-Masurian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"65e2c628a0ccdadfdadaa9d02b196553",
+    "wof:geomhash":"0bb3184985882bdc292e439180e17896",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,5 +82,5 @@
     20.93228,
     53.89723000000001
 ],
-  "geometry": {"coordinates":[20.93228,53.89723000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.93228,53.89723],"type":"Point"}
 }

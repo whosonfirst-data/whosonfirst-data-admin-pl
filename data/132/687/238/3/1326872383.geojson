@@ -57,7 +57,7 @@
         "wk:page":"Janowice%2C_Sandomierz_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f8c31196018eed5bfe8b7ba9d1a09e06",
+    "wof:geomhash":"4beaa690bbc84a6477be7c28ead9f655",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.53646,
     50.64859000000001
 ],
-  "geometry": {"coordinates":[21.53646,50.64859000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.53646,50.64859],"type":"Point"}
 }

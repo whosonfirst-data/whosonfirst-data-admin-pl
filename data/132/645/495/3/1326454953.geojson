@@ -54,7 +54,7 @@
         "wk:page":"Chyliny_Le%C5%9Bne"
     },
     "wof:country":"PL",
-    "wof:geomhash":"da0dcca738fa72caff532908054b6b31",
+    "wof:geomhash":"b26b70d8c944921130740bbc3d9071c1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.15196,
     52.85321999999999
 ],
-  "geometry": {"coordinates":[21.15196,52.85321999999999],"type":"Point"}
+  "geometry": {"coordinates":[21.15196,52.85322],"type":"Point"}
 }

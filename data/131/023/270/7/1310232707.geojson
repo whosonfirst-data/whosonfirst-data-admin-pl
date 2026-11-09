@@ -54,7 +54,7 @@
         "wk:page":"Kolnica%2C_Gmina_Brudzew"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1445c2bdc65e65c8bf9d67481099eee1",
+    "wof:geomhash":"fb6e1950219e05f37852d2cab6c90a89",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.59307,
     52.08884000000001
 ],
-  "geometry": {"coordinates":[18.59307,52.08884000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.59307,52.08884],"type":"Point"}
 }

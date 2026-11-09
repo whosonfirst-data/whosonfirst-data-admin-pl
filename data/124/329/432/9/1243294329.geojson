@@ -57,7 +57,7 @@
         "wk:page":"Bielawy%2C_Warmian-Masurian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1b4d2bc5174963c24593693944aa1287",
+    "wof:geomhash":"ba8394702d9382652f04d5e4f16212d1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     20.52787,
     53.24146999999999
 ],
-  "geometry": {"coordinates":[20.52787,53.24146999999999],"type":"Point"}
+  "geometry": {"coordinates":[20.52787,53.24147],"type":"Point"}
 }

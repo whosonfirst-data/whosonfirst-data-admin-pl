@@ -51,7 +51,7 @@
         "wk:page":"Mleczkowo%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ecac7d8fd90922d89359d3650b7825b1",
+    "wof:geomhash":"90de279436c3ca3e7b0eaaf6b08b474b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.56333,
     52.80278000000001
 ],
-  "geometry": {"coordinates":[18.56333,52.80278000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.56333,52.80278],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Jakubowo%2C_W%C4%85growiec_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3afe91d30c84453abd38ee7ccea1978b",
+    "wof:geomhash":"d4a4a39fc8916924f4394fae6b1182a5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.05714,
     52.77988000000001
 ],
-  "geometry": {"coordinates":[17.05714,52.77988000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.05714,52.77988],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Miniszewo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"343557ee33afbb9422d92bbea0329284",
+    "wof:geomhash":"6c877a7397fd48f58d577db67efa3f89",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.5219,
     52.71961999999999
 ],
-  "geometry": {"coordinates":[17.5219,52.71961999999999],"type":"Point"}
+  "geometry": {"coordinates":[17.5219,52.71962],"type":"Point"}
 }

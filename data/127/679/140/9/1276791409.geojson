@@ -57,7 +57,7 @@
         "wk:page":"Chabowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"0a4d80cb10766b7b1bcc78a04923d8cf",
+    "wof:geomhash":"e5e8f5274a4af0730d636c0c3029d955",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     14.76595,
     53.22904000000001
 ],
-  "geometry": {"coordinates":[14.76595,53.22904000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.76595,53.22904],"type":"Point"}
 }

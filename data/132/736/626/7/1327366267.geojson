@@ -54,7 +54,7 @@
         "wk:page":"Kazanie%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"af4864b7b1c018657276392d37178f8d",
+    "wof:geomhash":"0af26907f79cc81c17319eb85768b807",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.88979,
     52.56059000000001
 ],
-  "geometry": {"coordinates":[18.88979,52.56059000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.88979,52.56059],"type":"Point"}
 }

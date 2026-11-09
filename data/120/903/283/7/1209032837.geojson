@@ -66,7 +66,7 @@
         "wk:page":"Laska%2C_West_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ec14dcc0eedf134485cc5ebc5e662cbc",
+    "wof:geomhash":"d3a149c81c7a21ec56b255cce2553acc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     14.64978,
     53.86819000000001
 ],
-  "geometry": {"coordinates":[14.64978,53.86819000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.64978,53.86819],"type":"Point"}
 }

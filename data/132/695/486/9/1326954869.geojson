@@ -51,7 +51,7 @@
         "wk:page":"Go%C5%9Bciejew"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6bf493d1baf346d1e3ea98f286b9b005",
+    "wof:geomhash":"b4455f0a102b1e5ce10545a5632623e3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.35753,
     51.78769000000001
 ],
-  "geometry": {"coordinates":[17.35753,51.78769000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.35753,51.78769],"type":"Point"}
 }

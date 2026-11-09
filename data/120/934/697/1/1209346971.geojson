@@ -72,7 +72,7 @@
         "wk:page":"Jarz%C4%99bia_%C5%81%C4%85ka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"66300ed03d8adde2e3b13c351f9bec7c",
+    "wof:geomhash":"4aaecc195aee5eadfd12952aa822eeb1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,5 +99,5 @@
     21.44982000000001,
     52.45882
 ],
-  "geometry": {"coordinates":[21.44982000000001,52.45882],"type":"Point"}
+  "geometry": {"coordinates":[21.44982,52.45882],"type":"Point"}
 }

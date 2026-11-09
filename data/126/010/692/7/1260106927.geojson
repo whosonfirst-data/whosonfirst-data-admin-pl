@@ -57,7 +57,7 @@
         "wk:page":"Sokolna"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ecf9933b144b25740ec7dd8786ba3031",
+    "wof:geomhash":"25860e862c3189b60a02f76a5de23608",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     16.87987,
     53.30478000000001
 ],
-  "geometry": {"coordinates":[16.87987,53.30478000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.87987,53.30478],"type":"Point"}
 }

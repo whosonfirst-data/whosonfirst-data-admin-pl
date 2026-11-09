@@ -54,7 +54,7 @@
         "wk:page":"Tragamin"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5dc3247c04a790816b795e09d250b52c",
+    "wof:geomhash":"7e5d710156cde345f28a1bb0dc9c9659",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.04789,
     54.07828000000001
 ],
-  "geometry": {"coordinates":[19.04789,54.07828000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.04789,54.07828],"type":"Point"}
 }

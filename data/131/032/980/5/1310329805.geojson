@@ -54,7 +54,7 @@
         "wk:page":"Sanoczek%2C_Podkarpackie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2717371cdaa412a26d8ba8c8088e0196",
+    "wof:geomhash":"5f1f7af945d019a5deba24a8b14181be",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.14174,
     49.55027000000001
 ],
-  "geometry": {"coordinates":[22.14174,49.55027000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.14174,49.55027],"type":"Point"}
 }

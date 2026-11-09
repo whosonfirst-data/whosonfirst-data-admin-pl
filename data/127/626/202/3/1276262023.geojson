@@ -63,7 +63,7 @@
         "wk:page":"Gdakowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"de1a9357ee1667530f733fc3a7407259",
+    "wof:geomhash":"322d0d3adcd8de0b5389de4b6093e27a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     19.15777000000001,
     53.8201
 ],
-  "geometry": {"coordinates":[19.15777000000001,53.8201],"type":"Point"}
+  "geometry": {"coordinates":[19.15777,53.8201],"type":"Point"}
 }

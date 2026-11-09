@@ -54,7 +54,7 @@
         "wk:page":"Gozdowo%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"dc7978b93ec8fc0c99b28cd14fbea0a1",
+    "wof:geomhash":"6185abcedc726ef587e648ac7d2ba2bb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.64362000000001,
     52.28743
 ],
-  "geometry": {"coordinates":[17.64362000000001,52.28743],"type":"Point"}
+  "geometry": {"coordinates":[17.64362,52.28743],"type":"Point"}
 }

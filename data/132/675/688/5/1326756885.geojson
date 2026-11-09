@@ -51,7 +51,7 @@
         "wk:page":"Krosna%2C_Poland"
     },
     "wof:country":"PL",
-    "wof:geomhash":"350ba1d11cadd87fcd14f74b4d3deb14",
+    "wof:geomhash":"be9b17bccc192deae8bec05e89fa4bde",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     20.52827000000001,
     49.77067
 ],
-  "geometry": {"coordinates":[20.52827000000001,49.77067],"type":"Point"}
+  "geometry": {"coordinates":[20.52827,49.77067],"type":"Point"}
 }

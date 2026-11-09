@@ -69,7 +69,7 @@
         "wk:page":"Koterma%C5%84"
     },
     "wof:country":"PL",
-    "wof:geomhash":"256299af73549261082ecc0a84ead597",
+    "wof:geomhash":"abe459867651dea0454d11a195274849",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     20.66634,
     52.93723000000001
 ],
-  "geometry": {"coordinates":[20.66634,52.93723000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.66634,52.93723],"type":"Point"}
 }

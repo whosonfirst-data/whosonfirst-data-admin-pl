@@ -57,7 +57,7 @@
         "wk:page":"%C5%81%C4%85kie%2C_Gmina_Lipnica"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c1704aca6f072ea1be8d45f233391329",
+    "wof:geomhash":"89e09cd7bddbdf29423ea45b056bacca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     17.29156,
     54.02869000000001
 ],
-  "geometry": {"coordinates":[17.29156,54.02869000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.29156,54.02869],"type":"Point"}
 }

@@ -60,7 +60,7 @@
         "wk:page":"Orzesz%C3%B3wka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e051bd4c53b7766e82280d1b9185e7be",
+    "wof:geomhash":"7f23a90eee396b4f5033e9106166974a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     22.13051,
     52.47241999999999
 ],
-  "geometry": {"coordinates":[22.13051,52.47241999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.13051,52.47242],"type":"Point"}
 }

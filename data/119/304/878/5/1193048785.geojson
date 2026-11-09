@@ -73,7 +73,7 @@
         "wk:page":"Mierz%C4%99cin%2C_Lubusz_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8a9f4b3a21d8658a7792b4e4f2a19f5a",
+    "wof:geomhash":"45fd29069fa7228e62d68d89475f6d5e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -100,5 +100,5 @@
     15.8375,
     52.95464000000001
 ],
-  "geometry": {"coordinates":[15.8375,52.95464000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.8375,52.95464],"type":"Point"}
 }

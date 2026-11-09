@@ -48,7 +48,7 @@
         "wk:page":"Kr%C3%B3lewiec%2C_Lower_Silesian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"74e9398e83bb3209f398bc64ea4170d6",
+    "wof:geomhash":"57210f981b5d2789adc62a5dafa09529",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     17.21797999999999,
     50.70092
 ],
-  "geometry": {"coordinates":[17.21797999999999,50.70092],"type":"Point"}
+  "geometry": {"coordinates":[17.21798,50.70092],"type":"Point"}
 }

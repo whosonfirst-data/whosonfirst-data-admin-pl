@@ -60,7 +60,7 @@
         "wk:page":"Nowa_Bordzi%C5%82%C3%B3wka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"76844f28494e5a347ffc895ff962f276",
+    "wof:geomhash":"54e83ec8ccebd5dad8ccdb97567bcf0e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     23.02002,
     52.12439000000001
 ],
-  "geometry": {"coordinates":[23.02002,52.12439000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.02002,52.12439],"type":"Point"}
 }

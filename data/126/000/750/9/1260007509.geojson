@@ -63,7 +63,7 @@
         "wk:page":"Stebl%C3%B3w%2C_K%C4%99dzierzyn-Ko%C5%BAle_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"034f3dab733960cc6d2799d985a0c307",
+    "wof:geomhash":"df05afe12bea0eee126258aafb18df28",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     18.16795,
     50.25774000000001
 ],
-  "geometry": {"coordinates":[18.16795,50.25774000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.16795,50.25774],"type":"Point"}
 }

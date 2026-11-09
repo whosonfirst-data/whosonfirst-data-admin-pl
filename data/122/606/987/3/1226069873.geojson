@@ -60,7 +60,7 @@
         "wk:page":"Lubnia"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7a0fc9fb3b8edb85d5f23c8fb58a8495",
+    "wof:geomhash":"68d0810fb5e56950da5f116b785a7384",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     17.75372999999999,
     53.92748
 ],
-  "geometry": {"coordinates":[17.75372999999999,53.92748],"type":"Point"}
+  "geometry": {"coordinates":[17.75373,53.92748],"type":"Point"}
 }

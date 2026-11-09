@@ -49,7 +49,7 @@
         "wk:page":"G%C3%B3rki_Noteckie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"faea7d83b6e2998243510c35786e2671",
+    "wof:geomhash":"f3872062c8d53867474f8478cf18e14b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,5 +76,5 @@
     15.5,
     52.78333000000001
 ],
-  "geometry": {"coordinates":[15.5,52.78333000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.5,52.78333],"type":"Point"}
 }

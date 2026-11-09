@@ -61,7 +61,7 @@
         "wk:page":"Grom%2C_Warmian-Masurian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"af33b54c072fe6b2e2d0eb018d6219d3",
+    "wof:geomhash":"ad8efddc33e82c3af0c8491e24b00cc1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     20.85,
     53.61666999999999
 ],
-  "geometry": {"coordinates":[20.85,53.61666999999999],"type":"Point"}
+  "geometry": {"coordinates":[20.85,53.61667],"type":"Point"}
 }

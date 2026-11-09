@@ -51,7 +51,7 @@
         "wk:page":"Moczydlnica_Klasztorna"
     },
     "wof:country":"PL",
-    "wof:geomhash":"46304043f1a40425c1d05ab181bae425",
+    "wof:geomhash":"610405b2f8bbbce1c7bb01cd5f9a1358",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     16.58142999999999,
     51.40678
 ],
-  "geometry": {"coordinates":[16.58142999999999,51.40678],"type":"Point"}
+  "geometry": {"coordinates":[16.58143,51.40678],"type":"Point"}
 }

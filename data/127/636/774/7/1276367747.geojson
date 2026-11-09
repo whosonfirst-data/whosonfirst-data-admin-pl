@@ -75,7 +75,7 @@
         "wk:page":"Bogate"
     },
     "wof:country":"PL",
-    "wof:geomhash":"350fc37e6fa91c48b463f8904df042e1",
+    "wof:geomhash":"eecd58be3432084a4677c459e877d592",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,5 +102,5 @@
     20.98437,
     52.95688000000001
 ],
-  "geometry": {"coordinates":[20.98437,52.95688000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.98437,52.95688],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Wyszyna%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7ef795a8c7354d9d1d4c8a35bc358cb1",
+    "wof:geomhash":"be155c38aff6c1764671a1504ff943c0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.5976,
     52.60321999999999
 ],
-  "geometry": {"coordinates":[19.5976,52.60321999999999],"type":"Point"}
+  "geometry": {"coordinates":[19.5976,52.60322],"type":"Point"}
 }

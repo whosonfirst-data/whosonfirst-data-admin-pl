@@ -57,7 +57,7 @@
         "wk:page":"Mierzyn%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c107fc299d11a69f01e5b970ebdeb3cc",
+    "wof:geomhash":"af4cf4f8fb99e7cf74216191c74376e2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     15.83696,
     52.63068000000001
 ],
-  "geometry": {"coordinates":[15.83696,52.63068000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.83696,52.63068],"type":"Point"}
 }

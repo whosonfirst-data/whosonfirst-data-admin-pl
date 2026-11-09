@@ -63,7 +63,7 @@
         "wk:page":"Radomno"
     },
     "wof:country":"PL",
-    "wof:geomhash":"520ed20bae384b626e13c3cd3aa97391",
+    "wof:geomhash":"1f02255dc6f7e65abe3eb88d71613deb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     19.56893,
     53.51009000000001
 ],
-  "geometry": {"coordinates":[19.56893,53.51009000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.56893,53.51009],"type":"Point"}
 }

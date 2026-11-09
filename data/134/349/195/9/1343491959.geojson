@@ -68,7 +68,7 @@
         "wk:page":"Kownaty_%C5%BB%C4%99dowe"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8ef9ae91085d334a34f845b2000c8eeb",
+    "wof:geomhash":"5d1ea95d148277da96fa865abd4eedbc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     20.56515,
     52.83708000000001
 ],
-  "geometry": {"coordinates":[20.56515,52.83708000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.56515,52.83708],"type":"Point"}
 }

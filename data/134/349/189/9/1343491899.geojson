@@ -54,7 +54,7 @@
         "wk:page":"Sowno%2C_Gryfice_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"cb69d9bd6475d6fbfac6a8677b647918",
+    "wof:geomhash":"ee4ee93e9ef2866e8341984394874a03",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     15.20662,
     53.80591999999999
 ],
-  "geometry": {"coordinates":[15.20662,53.80591999999999],"type":"Point"}
+  "geometry": {"coordinates":[15.20662,53.80592],"type":"Point"}
 }

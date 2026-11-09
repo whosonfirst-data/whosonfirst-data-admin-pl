@@ -60,7 +60,7 @@
         "wk:page":"Stobna"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d3d528abf2d75cb8528a4b1d7d764827",
+    "wof:geomhash":"07b47658d234841cb2a0540a7ed8ca46",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     19.28015,
     54.20271999999999
 ],
-  "geometry": {"coordinates":[19.28015,54.20271999999999],"type":"Point"}
+  "geometry": {"coordinates":[19.28015,54.20272],"type":"Point"}
 }

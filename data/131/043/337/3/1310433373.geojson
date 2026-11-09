@@ -57,7 +57,7 @@
         "wk:page":"Nowa_Studnica"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ea6c10645ad3c4900822ec0db9963461",
+    "wof:geomhash":"fe17c0d9a383859fd8a2e9e169ee6420",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     16.02044,
     53.25044000000001
 ],
-  "geometry": {"coordinates":[16.02044,53.25044000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.02044,53.25044],"type":"Point"}
 }

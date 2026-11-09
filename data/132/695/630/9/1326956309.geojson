@@ -54,7 +54,7 @@
         "wk:page":"Pityny"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d6383fa94ca71f69bd61fa0b14f18c36",
+    "wof:geomhash":"139c2c930d985ab30ff2482a5d992544",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.14396,
     54.00853000000001
 ],
-  "geometry": {"coordinates":[20.14396,54.00853000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.14396,54.00853],"type":"Point"}
 }

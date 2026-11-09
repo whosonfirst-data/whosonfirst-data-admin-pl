@@ -48,7 +48,7 @@
         "wk:page":"Puszczka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5551bac9bf0f1e92ffb2c4dffdaf8f5d",
+    "wof:geomhash":"68e0fae75c5c0f7287ae771c637bbc32",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     17.40391,
     53.25476999999999
 ],
-  "geometry": {"coordinates":[17.40391,53.25476999999999],"type":"Point"}
+  "geometry": {"coordinates":[17.40391,53.25477],"type":"Point"}
 }

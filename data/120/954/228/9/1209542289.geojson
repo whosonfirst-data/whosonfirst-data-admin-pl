@@ -57,7 +57,7 @@
         "wk:page":"Wierzchowizna"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c47a8b64956f9381c69932b8ac1af95c",
+    "wof:geomhash":"116055e10ea149edf158b467d645b036",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.18231,
     53.27498000000001
 ],
-  "geometry": {"coordinates":[21.18231,53.27498000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.18231,53.27498],"type":"Point"}
 }

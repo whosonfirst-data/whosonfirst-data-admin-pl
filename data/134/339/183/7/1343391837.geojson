@@ -51,7 +51,7 @@
         "wk:page":"Ocin"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e3c4ba3cd4b48a0ec6a328dbd9bf6c4e",
+    "wof:geomhash":"f3362a06c0268902b4086909a0b0ec3f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.61598,
     51.61434000000001
 ],
-  "geometry": {"coordinates":[18.61598,51.61434000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.61598,51.61434],"type":"Point"}
 }

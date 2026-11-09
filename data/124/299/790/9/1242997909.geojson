@@ -54,7 +54,7 @@
         "wk:page":"Krusze%2C_Warmian-Masurian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f5b114cea8544114ba78106831920b3c",
+    "wof:geomhash":"73aaa5489d01788382005e6061bf4dbd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.58151,
     53.24641999999999
 ],
-  "geometry": {"coordinates":[20.58151,53.24641999999999],"type":"Point"}
+  "geometry": {"coordinates":[20.58151,53.24642],"type":"Point"}
 }

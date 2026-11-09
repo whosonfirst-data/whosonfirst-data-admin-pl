@@ -60,7 +60,7 @@
         "wk:page":"Strzy%C5%BCewo_Paczkowe"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b770947ae0719b1fff5b250c2f3052cf",
+    "wof:geomhash":"b45fb047bbf510c112c0109b4f32279a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     17.73147999999999,
     52.58875
 ],
-  "geometry": {"coordinates":[17.73147999999999,52.58875],"type":"Point"}
+  "geometry": {"coordinates":[17.73148,52.58875],"type":"Point"}
 }

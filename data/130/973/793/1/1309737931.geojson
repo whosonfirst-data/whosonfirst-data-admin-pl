@@ -63,7 +63,7 @@
         "wk:page":"Wapnik"
     },
     "wof:country":"PL",
-    "wof:geomhash":"26edb0b2ba78aaf1daba2c0c3b3cc6c1",
+    "wof:geomhash":"707ed828f182e95d18417d8ef44c952f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     20.15239,
     54.05068000000001
 ],
-  "geometry": {"coordinates":[20.15239,54.05068000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.15239,54.05068],"type":"Point"}
 }

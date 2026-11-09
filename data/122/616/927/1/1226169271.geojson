@@ -57,7 +57,7 @@
         "wk:page":"Zielona_Huta"
     },
     "wof:country":"PL",
-    "wof:geomhash":"024e37623eb1798c0e51e7aca0ab9d61",
+    "wof:geomhash":"82978e4b0cf902af90524506171331af",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     17.40552000000001,
     53.84068000000001
 ],
-  "geometry": {"coordinates":[17.40552000000001,53.84068000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.40552,53.84068],"type":"Point"}
 }

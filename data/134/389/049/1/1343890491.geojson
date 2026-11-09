@@ -54,7 +54,7 @@
         "wk:page":"Jaszkowo%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"fdc511189dbba1b838465ef09fb1afc4",
+    "wof:geomhash":"2b21ea328557abd389c7844b2b6d1b2f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.71081000000001,
     53.32639
 ],
-  "geometry": {"coordinates":[17.71081000000001,53.32639],"type":"Point"}
+  "geometry": {"coordinates":[17.71081,53.32639],"type":"Point"}
 }

@@ -72,7 +72,7 @@
         "wk:page":"Boboluszki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f72be4c6e93ad0b9fea769c7a64d464d",
+    "wof:geomhash":"6e57d369f7d9b0b67eef97bd06bf9375",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,5 +99,5 @@
     17.79527999999999,
     50.02484000000001
 ],
-  "geometry": {"coordinates":[17.79527999999999,50.02484000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.79528,50.02484],"type":"Point"}
 }

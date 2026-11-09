@@ -54,7 +54,7 @@
         "wk:page":"Przymuszewo%2C_Chojnice_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ae86c24f9a48133233e1c2df55d5c056",
+    "wof:geomhash":"ab17aa65252d812806ead1e8ce67a7e5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.66737999999999,
     54.00225
 ],
-  "geometry": {"coordinates":[17.66737999999999,54.00225],"type":"Point"}
+  "geometry": {"coordinates":[17.66738,54.00225],"type":"Point"}
 }

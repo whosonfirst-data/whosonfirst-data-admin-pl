@@ -63,7 +63,7 @@
         "wk:page":"Kulesze-Chobotki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"53a748dd5cf058faaa10c76064293f36",
+    "wof:geomhash":"b973bce4fbd9185b03663a9c3738b490",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     22.78333,
     53.25083000000001
 ],
-  "geometry": {"coordinates":[22.78333,53.25083000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.78333,53.25083],"type":"Point"}
 }

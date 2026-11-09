@@ -70,7 +70,7 @@
         "wk:page":"Dar%C5%BCynko"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c7822ec951bd175e8cb50f6f78982b5a",
+    "wof:geomhash":"e9bde3899cc654ed7fc11be2ea01a26a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,5 +97,5 @@
     17.48673,
     54.45388000000001
 ],
-  "geometry": {"coordinates":[17.48673,54.45388000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.48673,54.45388],"type":"Point"}
 }

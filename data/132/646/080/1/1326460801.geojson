@@ -59,7 +59,7 @@
         "wk:page":"Opawica"
     },
     "wof:country":"PL",
-    "wof:geomhash":"722ae83f3cebdf7328b410949c43bd63",
+    "wof:geomhash":"8a9347bdd1a193c7b5edb929270cc085",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,5 +86,5 @@
     17.60787000000001,
     50.14765
 ],
-  "geometry": {"coordinates":[17.60787000000001,50.14765],"type":"Point"}
+  "geometry": {"coordinates":[17.60787,50.14765],"type":"Point"}
 }

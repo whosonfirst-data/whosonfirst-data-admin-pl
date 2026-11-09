@@ -54,7 +54,7 @@
         "wk:page":"Katy%2C_Poland"
     },
     "wof:country":"PL",
-    "wof:geomhash":"df773f721d9a80dc53d4a45b99e344c2",
+    "wof:geomhash":"5f93ecc6fefe0ec38ba8f8c1a9aca886",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.28202000000001,
     50.59281
 ],
-  "geometry": {"coordinates":[22.28202000000001,50.59281],"type":"Point"}
+  "geometry": {"coordinates":[22.28202,50.59281],"type":"Point"}
 }

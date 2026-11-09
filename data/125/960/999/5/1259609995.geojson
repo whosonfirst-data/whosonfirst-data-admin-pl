@@ -57,7 +57,7 @@
         "wk:page":"Wrzeszczyna"
     },
     "wof:country":"PL",
-    "wof:geomhash":"dfbe9842d4ec892af9687caefe84f397",
+    "wof:geomhash":"50e6370d7b19bd29f9f10bf312732c78",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     16.23627999999999,
     52.8747
 ],
-  "geometry": {"coordinates":[16.23627999999999,52.8747],"type":"Point"}
+  "geometry": {"coordinates":[16.23628,52.8747],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Ostro%C5%BCanka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7020ee0795d523defaa78b761752f889",
+    "wof:geomhash":"2c68e5917b40f2a588119e3d817d2818",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.11761,
     51.11969000000001
 ],
-  "geometry": {"coordinates":[21.11761,51.11969000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.11761,51.11969],"type":"Point"}
 }

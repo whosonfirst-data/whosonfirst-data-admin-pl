@@ -60,7 +60,7 @@
         "wk:page":"Lewasz%C3%B3wka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"175c3712562b74f306e1661cb970908d",
+    "wof:geomhash":"bcdfae651d127255974e11b8d1dbf482",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     21.31969,
     51.54342000000001
 ],
-  "geometry": {"coordinates":[21.31969,51.54342000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.31969,51.54342],"type":"Point"}
 }

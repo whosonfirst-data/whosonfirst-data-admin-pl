@@ -51,7 +51,7 @@
         "wk:page":"Bron%C3%B3wko"
     },
     "wof:country":"PL",
-    "wof:geomhash":"edf4b57c0bd3e96a6e9ca52cd505a0dd",
+    "wof:geomhash":"3a91ca60e6382193fa50f667332ad4b3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     15.96667,
     53.71666999999999
 ],
-  "geometry": {"coordinates":[15.96667,53.71666999999999],"type":"Point"}
+  "geometry": {"coordinates":[15.96667,53.71667],"type":"Point"}
 }

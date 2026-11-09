@@ -61,7 +61,7 @@
         "wk:page":"Popowo%2C_Warmian-Masurian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"205b0a6d15e5a65f389b92657581809a",
+    "wof:geomhash":"a83dd4bd0e1e281fa4c735970684aa42",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     22.39632000000001,
     53.68329
 ],
-  "geometry": {"coordinates":[22.39632000000001,53.68329],"type":"Point"}
+  "geometry": {"coordinates":[22.39632,53.68329],"type":"Point"}
 }

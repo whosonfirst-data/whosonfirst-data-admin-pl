@@ -54,7 +54,7 @@
         "wk:page":"Dr%C4%85%C5%BCd%C5%BCewo_Nowe"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4841210d614552782f297a6b6bed985a",
+    "wof:geomhash":"280d121bffd673e8914a4b101a7781ab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.10501,
     53.11884000000001
 ],
-  "geometry": {"coordinates":[21.10501,53.11884000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.10501,53.11884],"type":"Point"}
 }

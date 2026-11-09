@@ -54,7 +54,7 @@
         "wk:page":"K%C5%82osy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5596b7e0cb6c46bfff01808bef40b62e",
+    "wof:geomhash":"796739cafcef18c83922af8221624d61",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.65709,
     54.32523000000001
 ],
-  "geometry": {"coordinates":[17.65709,54.32523000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.65709,54.32523],"type":"Point"}
 }

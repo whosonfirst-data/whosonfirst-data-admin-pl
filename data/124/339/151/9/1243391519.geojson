@@ -54,7 +54,7 @@
         "wk:page":"Siemo%C5%84"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1d1e4e3ea04eea5eff08c4cbae2eead1",
+    "wof:geomhash":"dead23c8f2cdebcc15ce9b70be8d7e81",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.39932,
     53.16393000000001
 ],
-  "geometry": {"coordinates":[18.39932,53.16393000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.39932,53.16393],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Stok%2C_%C5%81%C3%B3d%C5%BA_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a5692dabd68d8aa135141a7d5bea4d92",
+    "wof:geomhash":"209d3aba2fc2bcdf33c156fe6dd7e49d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.08627000000001,
     51.35247
 ],
-  "geometry": {"coordinates":[20.08627000000001,51.35247],"type":"Point"}
+  "geometry": {"coordinates":[20.08627,51.35247],"type":"Point"}
 }

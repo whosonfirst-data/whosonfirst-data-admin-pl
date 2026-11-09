@@ -55,7 +55,7 @@
         "wk:page":"Nowy_Harsz"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9138829e7935a0f84fa0d40ed01abe6f",
+    "wof:geomhash":"24f62c9b57f857e28752e20368ac4815",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,5 +82,5 @@
     21.78333,
     54.11666999999999
 ],
-  "geometry": {"coordinates":[21.78333,54.11666999999999],"type":"Point"}
+  "geometry": {"coordinates":[21.78333,54.11667],"type":"Point"}
 }

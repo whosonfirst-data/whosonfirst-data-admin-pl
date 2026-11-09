@@ -63,7 +63,7 @@
         "wk:page":"Odrow%C4%85%C5%BC%2C_Opole_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"159fe9bf40432ae9ae87b5b0b6c00867",
+    "wof:geomhash":"c9109cbe25b3f884a03133ff5ca9d5c4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     17.96016000000001,
     50.50608
 ],
-  "geometry": {"coordinates":[17.96016000000001,50.50608],"type":"Point"}
+  "geometry": {"coordinates":[17.96016,50.50608],"type":"Point"}
 }

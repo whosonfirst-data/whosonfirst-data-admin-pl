@@ -51,7 +51,7 @@
         "wk:page":"Kretkowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ff04b9af1795982650b9b2d8c7b5bb04",
+    "wof:geomhash":"1bd5e98abcfe6e0d09115aeee3cfbd48",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.18616,
     52.36349000000001
 ],
-  "geometry": {"coordinates":[19.18616,52.36349000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.18616,52.36349],"type":"Point"}
 }

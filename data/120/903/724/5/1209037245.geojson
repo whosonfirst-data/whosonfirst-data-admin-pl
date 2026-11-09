@@ -57,7 +57,7 @@
         "wk:page":"Zubole"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d09a6f49de7e657a4f5a75e30f107385",
+    "wof:geomhash":"6601dd4a9022622e9b031468fdf09612",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.66634,
     53.34316999999999
 ],
-  "geometry": {"coordinates":[22.66634,53.34316999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.66634,53.34317],"type":"Point"}
 }

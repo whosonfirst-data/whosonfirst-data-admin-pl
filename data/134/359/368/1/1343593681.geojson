@@ -54,7 +54,7 @@
         "wk:page":"Rawy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"305147381ca0b9c161ddf84fded08bad",
+    "wof:geomhash":"c59cfc193d383d38ae01e3c328739a9f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.25704,
     53.03378000000001
 ],
-  "geometry": {"coordinates":[21.25704,53.03378000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.25704,53.03378],"type":"Point"}
 }

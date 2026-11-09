@@ -60,7 +60,7 @@
         "wk:page":"Mion%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8fc0a93c4aa8ff0077870b1c3275868e",
+    "wof:geomhash":"51fb4fab6434c456af5bcc7350b1ffaf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     17.79012999999999,
     50.38072
 ],
-  "geometry": {"coordinates":[17.79012999999999,50.38072],"type":"Point"}
+  "geometry": {"coordinates":[17.79013,50.38072],"type":"Point"}
 }

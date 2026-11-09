@@ -63,7 +63,7 @@
         "wk:page":"E%C5%82dyty_Wielkie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"bcca62703f2c21a3ed5173e364c9907e",
+    "wof:geomhash":"222c13628bd6140b8d2709c4f2d0b45c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     20.16681,
     54.00118000000001
 ],
-  "geometry": {"coordinates":[20.16681,54.00118000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.16681,54.00118],"type":"Point"}
 }

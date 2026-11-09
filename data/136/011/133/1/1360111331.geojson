@@ -55,7 +55,7 @@
         "wk:page":"G%C3%B3rkowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d0d7724723ffd2aa6991214dfc9aff2d",
+    "wof:geomhash":"83c6cf81694a35f3e2af61b839ee7556",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,5 +82,5 @@
     20.90252000000001,
     53.98082
 ],
-  "geometry": {"coordinates":[20.90252000000001,53.98082],"type":"Point"}
+  "geometry": {"coordinates":[20.90252,53.98082],"type":"Point"}
 }

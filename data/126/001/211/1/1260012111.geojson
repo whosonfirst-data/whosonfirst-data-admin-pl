@@ -54,7 +54,7 @@
         "wk:page":"Olkowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"99bb46e9d28d47646f94f68e31654429",
+    "wof:geomhash":"65b5000734b6d675b681fb2a9b50cff5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.02629,
     54.10086999999999
 ],
-  "geometry": {"coordinates":[20.02629,54.10086999999999],"type":"Point"}
+  "geometry": {"coordinates":[20.02629,54.10087],"type":"Point"}
 }

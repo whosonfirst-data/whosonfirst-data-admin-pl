@@ -57,7 +57,7 @@
         "wk:page":"Knipy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"909900fe8f4228d6f29c7a00197bc9f3",
+    "wof:geomhash":"7694d946d00505658e8ccb31a84ab99e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     20.66067,
     54.14066999999999
 ],
-  "geometry": {"coordinates":[20.66067,54.14066999999999],"type":"Point"}
+  "geometry": {"coordinates":[20.66067,54.14067],"type":"Point"}
 }

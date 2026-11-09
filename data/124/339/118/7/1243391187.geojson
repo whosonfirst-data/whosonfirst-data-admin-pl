@@ -54,7 +54,7 @@
         "wk:page":"Szczytniki_Duchowne"
     },
     "wof:country":"PL",
-    "wof:geomhash":"0dc073ecbf370419e86be5f68a6e1146",
+    "wof:geomhash":"e165ce4c3c22f9f37bff26daadf1dce2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.67027999999999,
     52.51905
 ],
-  "geometry": {"coordinates":[17.67027999999999,52.51905],"type":"Point"}
+  "geometry": {"coordinates":[17.67028,52.51905],"type":"Point"}
 }

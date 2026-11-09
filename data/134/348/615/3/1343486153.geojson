@@ -66,7 +66,7 @@
         "wk:page":"Bukowina%2C_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5d270348fd72febefeb93a055c0fe2a7",
+    "wof:geomhash":"fe32efb6776335d9e9417057c1b19341",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     17.84266000000001,
     54.42341999999999
 ],
-  "geometry": {"coordinates":[17.84266000000001,54.42341999999999],"type":"Point"}
+  "geometry": {"coordinates":[17.84266,54.42342],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"%C5%9Aladk%C3%B3w_Du%C5%BCy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"eadd8ca672517e11a85a76a2c01298ce",
+    "wof:geomhash":"ad4a8dd7f8ea5ce332856bb8a2fb208c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.70657000000001,
     50.57819
 ],
-  "geometry": {"coordinates":[20.70657000000001,50.57819],"type":"Point"}
+  "geometry": {"coordinates":[20.70657,50.57819],"type":"Point"}
 }

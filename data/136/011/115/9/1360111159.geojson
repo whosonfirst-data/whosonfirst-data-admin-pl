@@ -51,7 +51,7 @@
         "wk:page":"Smarchowice_Ma%C5%82e"
     },
     "wof:country":"PL",
-    "wof:geomhash":"824fb8c91ffc5fc0e975b658b3c832d1",
+    "wof:geomhash":"afb536111ebb5e4457f89fa81784c0d9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.70652999999999,
     51.0949
 ],
-  "geometry": {"coordinates":[17.70652999999999,51.0949],"type":"Point"}
+  "geometry": {"coordinates":[17.70653,51.0949],"type":"Point"}
 }

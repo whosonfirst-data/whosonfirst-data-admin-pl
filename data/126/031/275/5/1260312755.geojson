@@ -54,7 +54,7 @@
         "wk:page":"Kolwiny"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e21245120a7e86aeb23f2efa7171f167",
+    "wof:geomhash":"46d72a85968cf20d53d05d19dde41cd1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.21962000000001,
     54.22715
 ],
-  "geometry": {"coordinates":[21.21962000000001,54.22715],"type":"Point"}
+  "geometry": {"coordinates":[21.21962,54.22715],"type":"Point"}
 }

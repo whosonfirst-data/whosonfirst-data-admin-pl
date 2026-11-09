@@ -65,7 +65,7 @@
         "wk:page":"Str%C3%B3%C5%BCewice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8c263dbef277798dec0ffb9137251319",
+    "wof:geomhash":"89ee00604baaf1026c73bb950f81afe2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     16.8623,
     52.92908000000001
 ],
-  "geometry": {"coordinates":[16.8623,52.92908000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.8623,52.92908],"type":"Point"}
 }

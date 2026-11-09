@@ -51,7 +51,7 @@
         "wk:page":"Kamionaczyk"
     },
     "wof:country":"PL",
-    "wof:geomhash":"755ef685e3ee3dcc303e034a76dc4ce8",
+    "wof:geomhash":"3125b9a8d3046caa71492e68f1d0668d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.72522,
     51.66269000000001
 ],
-  "geometry": {"coordinates":[18.72522,51.66269000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.72522,51.66269],"type":"Point"}
 }

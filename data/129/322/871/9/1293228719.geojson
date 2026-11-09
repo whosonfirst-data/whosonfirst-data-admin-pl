@@ -54,7 +54,7 @@
         "wk:page":"Mleczno"
     },
     "wof:country":"PL",
-    "wof:geomhash":"01f65e38bf28efb4274288712992b79a",
+    "wof:geomhash":"df5cbe255923a0a6a4f4ebdc0fcb231d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     16.26784,
     51.46579000000001
 ],
-  "geometry": {"coordinates":[16.26784,51.46579000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.26784,51.46579],"type":"Point"}
 }

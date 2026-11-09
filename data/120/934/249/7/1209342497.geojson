@@ -54,7 +54,7 @@
         "wk:page":"Stary_Dw%C3%B3r%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e8ea2cb50f5e1ed53673068939030c34",
+    "wof:geomhash":"453e968aeea1ec243210451c760785fa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.92178999999999,
     53.30595
 ],
-  "geometry": {"coordinates":[17.92178999999999,53.30595],"type":"Point"}
+  "geometry": {"coordinates":[17.92179,53.30595],"type":"Point"}
 }

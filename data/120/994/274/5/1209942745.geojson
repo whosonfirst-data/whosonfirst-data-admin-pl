@@ -52,7 +52,7 @@
         "wk:page":"Stare_Konopki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4d53ba5d6db06b05257724f419b2b613",
+    "wof:geomhash":"d98cdcbf9676b42d8e4b9f38699cedad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,5 +79,5 @@
     22.00836,
     53.08886999999999
 ],
-  "geometry": {"coordinates":[22.00836,53.08886999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.00836,53.08887],"type":"Point"}
 }

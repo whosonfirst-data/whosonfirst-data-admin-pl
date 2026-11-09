@@ -58,7 +58,7 @@
         "wk:page":"Kolonia_Lgota"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3f3b4251add354a87bad38ccb4e76ce6",
+    "wof:geomhash":"d418ff780f665f9691a95d70a2dae8be",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,5 +85,5 @@
     19.3071,
     51.14834000000001
 ],
-  "geometry": {"coordinates":[19.3071,51.14834000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.3071,51.14834],"type":"Point"}
 }

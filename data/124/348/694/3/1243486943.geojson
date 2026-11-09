@@ -51,7 +51,7 @@
         "wk:page":"Skobielice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"56e50785105707c7ec1c2eda6580e6d7",
+    "wof:geomhash":"1332b0f82554b572bef1dd75c900a04f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.70644,
     52.17554000000001
 ],
-  "geometry": {"coordinates":[18.70644,52.17554000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.70644,52.17554],"type":"Point"}
 }

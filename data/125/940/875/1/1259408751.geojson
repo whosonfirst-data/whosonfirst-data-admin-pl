@@ -51,7 +51,7 @@
         "wk:page":"D%C4%99by%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"145cf832299cf48bb2f8f223c6554798",
+    "wof:geomhash":"e4d7c65252f9a957595df7e94df57452",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.57776,
     52.70583000000001
 ],
-  "geometry": {"coordinates":[18.57776,52.70583000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.57776,52.70583],"type":"Point"}
 }

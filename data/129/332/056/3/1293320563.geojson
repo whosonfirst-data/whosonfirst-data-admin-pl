@@ -54,7 +54,7 @@
         "wk:page":"Herman%C3%B3wka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e38ef628233ba076fd898e28b0b90069",
+    "wof:geomhash":"5fb768c75074e34c96b82e5d50347b69",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     23.19169,
     53.03203000000001
 ],
-  "geometry": {"coordinates":[23.19169,53.03203000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.19169,53.03203],"type":"Point"}
 }

@@ -60,7 +60,7 @@
         "wk:page":"Sowno%2C_Koszalin_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"129d5fc4a46970c7bacaa9a89d37d178",
+    "wof:geomhash":"9a475ecba0fff46d27d582454d9034ac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     16.51773,
     54.18369000000001
 ],
-  "geometry": {"coordinates":[16.51773,54.18369000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.51773,54.18369],"type":"Point"}
 }

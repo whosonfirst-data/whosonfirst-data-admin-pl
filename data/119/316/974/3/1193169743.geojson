@@ -51,7 +51,7 @@
         "wk:page":"Ziewanice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"efcb30c1783e23cfc5cd0fef5c8671c7",
+    "wof:geomhash":"ee00f29fca08b3337132bcdfc05a12f0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.69214,
     51.98777000000001
 ],
-  "geometry": {"coordinates":[19.69214,51.98777000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.69214,51.98777],"type":"Point"}
 }

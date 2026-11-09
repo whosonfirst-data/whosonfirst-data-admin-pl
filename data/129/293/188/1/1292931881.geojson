@@ -54,7 +54,7 @@
         "wk:page":"Jamy%2C_Podkarpackie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b559bd969664870f9a1ecaf764d88bb8",
+    "wof:geomhash":"b575d4e7bf184b7223e20fe7f21167ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.20207000000001,
     50.24292
 ],
-  "geometry": {"coordinates":[21.20207000000001,50.24292],"type":"Point"}
+  "geometry": {"coordinates":[21.20207,50.24292],"type":"Point"}
 }

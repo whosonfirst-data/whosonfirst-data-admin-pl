@@ -57,7 +57,7 @@
         "wk:page":"Piechowice%2C_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b48e7714d42a4563d1d80a953599afee",
+    "wof:geomhash":"f2260931190cd62fb89da4d6e5d6ee53",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     17.81058999999999,
     54.01711
 ],
-  "geometry": {"coordinates":[17.81058999999999,54.01711],"type":"Point"}
+  "geometry": {"coordinates":[17.81059,54.01711],"type":"Point"}
 }

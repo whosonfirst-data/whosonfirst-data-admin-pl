@@ -54,7 +54,7 @@
         "wk:page":"Ko%C5%9Bcielna_Wie%C5%9B%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6502c8417af5227da993c75ad9790244",
+    "wof:geomhash":"6e31939c77215b9c6353ef380cc502f1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.71133,
     52.67163000000001
 ],
-  "geometry": {"coordinates":[18.71133,52.67163000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.71133,52.67163],"type":"Point"}
 }

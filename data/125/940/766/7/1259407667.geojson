@@ -54,7 +54,7 @@
         "wk:page":"Ksi%C4%99te"
     },
     "wof:country":"PL",
-    "wof:geomhash":"eb4d2fec73abaab9eb775c29fbcf67af",
+    "wof:geomhash":"ab6c4984f2a064ff353a77374b7ad01e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.58924,
     53.16934000000001
 ],
-  "geometry": {"coordinates":[19.58924,53.16934000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.58924,53.16934],"type":"Point"}
 }

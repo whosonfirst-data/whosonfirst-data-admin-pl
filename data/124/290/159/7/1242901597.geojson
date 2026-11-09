@@ -51,7 +51,7 @@
         "wk:page":"Gr%C3%B3jczyk"
     },
     "wof:country":"PL",
-    "wof:geomhash":"42529462c343c9fa5d5b545227e902b7",
+    "wof:geomhash":"38f1393b159afbbfafb21e0cd5403d04",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.84396,
     52.47553000000001
 ],
-  "geometry": {"coordinates":[18.84396,52.47553000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.84396,52.47553],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Wielowicz"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3178ba7479c2c0f73678bfbd1b39ab4d",
+    "wof:geomhash":"3858eae047f7b56645b7307cdf1520b0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.60759,
     53.38903000000001
 ],
-  "geometry": {"coordinates":[17.60759,53.38903000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.60759,53.38903],"type":"Point"}
 }

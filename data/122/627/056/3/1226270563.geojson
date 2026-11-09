@@ -54,7 +54,7 @@
         "wk:page":"Dyl%C3%B3w_Szlachecki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5bd28a3a9789f32f2503312091f3034d",
+    "wof:geomhash":"4cadc78587f0fda10b0030163ef0d98d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.97597,
     51.15434000000001
 ],
-  "geometry": {"coordinates":[18.97597,51.15434000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.97597,51.15434],"type":"Point"}
 }

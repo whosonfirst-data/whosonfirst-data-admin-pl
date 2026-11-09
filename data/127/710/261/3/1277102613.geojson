@@ -60,7 +60,7 @@
         "wk:page":"Suchynicze"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a72f591446d1006f9325319c6f4efc41",
+    "wof:geomhash":"651748746b47d0d36d5d319ae3224124",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     23.65772,
     53.36004000000001
 ],
-  "geometry": {"coordinates":[23.65772,53.36004000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.65772,53.36004],"type":"Point"}
 }

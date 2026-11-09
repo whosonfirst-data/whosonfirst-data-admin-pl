@@ -57,7 +57,7 @@
         "wk:page":"Wrocki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"26242db98e708835d4938a4e6c09e32e",
+    "wof:geomhash":"3c953acf446e70caa17d295a548ec008",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     19.17123,
     53.21364000000001
 ],
-  "geometry": {"coordinates":[19.17123,53.21364000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.17123,53.21364],"type":"Point"}
 }

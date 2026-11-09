@@ -63,7 +63,7 @@
         "wk:page":"Janczewko"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1521ea2ad811d9116ba49ce7deb746af",
+    "wof:geomhash":"b1d9ab39d29be65ea12513800c1ce710",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     22.26233,
     53.25983000000001
 ],
-  "geometry": {"coordinates":[22.26233,53.25983000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.26233,53.25983],"type":"Point"}
 }

@@ -61,7 +61,7 @@
         "wk:page":"Ko%C5%9Blinka%2C_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3e006dc58147f38dbd1f0908f46030eb",
+    "wof:geomhash":"006e9ecec8d6ec8769e299c8e193f636",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     19.07138,
     53.96726999999999
 ],
-  "geometry": {"coordinates":[19.07138,53.96726999999999],"type":"Point"}
+  "geometry": {"coordinates":[19.07138,53.96727],"type":"Point"}
 }

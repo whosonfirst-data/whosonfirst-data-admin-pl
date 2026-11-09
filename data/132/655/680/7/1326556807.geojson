@@ -51,7 +51,7 @@
         "wk:page":"Krzywos%C4%85d%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6d076d16c1fd63ed4991a65cd3548548",
+    "wof:geomhash":"8c746a6108c3b21cf6c109bd50df4eba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.85422999999999,
     51.8122
 ],
-  "geometry": {"coordinates":[17.85422999999999,51.8122],"type":"Point"}
+  "geometry": {"coordinates":[17.85423,51.8122],"type":"Point"}
 }

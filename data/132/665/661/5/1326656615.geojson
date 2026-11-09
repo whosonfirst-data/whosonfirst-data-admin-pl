@@ -63,7 +63,7 @@
         "wk:page":"Tarszewo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c95c8be97dcc051682fb8c736d3b1225",
+    "wof:geomhash":"0924efb40d80be5793520f0343eb3dc4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     18.02761,
     52.17639000000001
 ],
-  "geometry": {"coordinates":[18.02761,52.17639000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.02761,52.17639],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Niewino_Le%C5%9Bne"
     },
     "wof:country":"PL",
-    "wof:geomhash":"89fab3fea77410a17ad2a45efd4a124c",
+    "wof:geomhash":"f8bfd1323c55ae719a92ee9ca9927b15",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     23.04786,
     52.81948000000001
 ],
-  "geometry": {"coordinates":[23.04786,52.81948000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.04786,52.81948],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"Kierz%2C_Warmian-Masurian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e66ee7f61cd8a6846562f10048944eef",
+    "wof:geomhash":"146f6bf70354b8ac6daabfe5442ad39b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     20.56487000000001,
     54.03525
 ],
-  "geometry": {"coordinates":[20.56487000000001,54.03525],"type":"Point"}
+  "geometry": {"coordinates":[20.56487,54.03525],"type":"Point"}
 }

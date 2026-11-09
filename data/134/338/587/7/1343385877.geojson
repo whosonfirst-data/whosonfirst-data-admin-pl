@@ -54,7 +54,7 @@
         "wk:page":"Ignac%C3%B3w%2C_Lublin_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e14dd4c6fa4c00a67c6e19712df3fe42",
+    "wof:geomhash":"7e9f0bd54f79ff7516690114ef9ccc9f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.25847000000001,
     51.21065
 ],
-  "geometry": {"coordinates":[22.25847000000001,51.21065],"type":"Point"}
+  "geometry": {"coordinates":[22.25847,51.21065],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"Glinik%2C_Lubusz_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d2ba73e446e4813af05e6e1d56e36a68",
+    "wof:geomhash":"c751707904644b295b251a19002f0d2c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     15.31006,
     52.64693000000001
 ],
-  "geometry": {"coordinates":[15.31006,52.64693000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.31006,52.64693],"type":"Point"}
 }

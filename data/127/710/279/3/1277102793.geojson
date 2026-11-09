@@ -54,7 +54,7 @@
         "wk:page":"Podosie%2C_Podlaskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8df3e6f298ccaee593eb30db06941ae6",
+    "wof:geomhash":"b2d4178748c5f3280fbcc4aa44ab8440",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.84511,
     53.08578000000001
 ],
-  "geometry": {"coordinates":[21.84511,53.08578000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.84511,53.08578],"type":"Point"}
 }

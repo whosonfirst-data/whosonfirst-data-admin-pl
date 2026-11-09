@@ -58,7 +58,7 @@
         "wk:page":"Sulejki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2a1691d26c83bb755b8920b0da6e1f95",
+    "wof:geomhash":"c251ca685eb2c4334dc8d3c8420782a6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,5 +85,5 @@
     22.31699,
     53.99596999999999
 ],
-  "geometry": {"coordinates":[22.31699,53.99596999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.31699,53.99597],"type":"Point"}
 }

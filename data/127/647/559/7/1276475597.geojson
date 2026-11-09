@@ -60,7 +60,7 @@
         "wk:page":"Korabiewice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"88adc6505a7ec7167cf494084c1531f1",
+    "wof:geomhash":"b694bb29ef137a624bdf76f7294e9131",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     20.4174,
     51.95399999999999
 ],
-  "geometry": {"coordinates":[20.4174,51.95399999999999],"type":"Point"}
+  "geometry": {"coordinates":[20.4174,51.954],"type":"Point"}
 }

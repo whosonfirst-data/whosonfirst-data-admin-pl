@@ -61,7 +61,7 @@
         "wk:page":"Sad%C5%82uki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ef2eda28cede50b908a4ee238e158fe6",
+    "wof:geomhash":"0dbe7bef0e018182a48d6a45a95a3699",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     19.11977000000001,
     53.87198000000001
 ],
-  "geometry": {"coordinates":[19.11977000000001,53.87198000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.11977,53.87198],"type":"Point"}
 }

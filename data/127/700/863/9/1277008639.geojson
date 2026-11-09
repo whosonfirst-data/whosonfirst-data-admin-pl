@@ -60,7 +60,7 @@
         "wk:page":"Piwnice_Wielkie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d0888812f5e16b99c499cc0a0650b116",
+    "wof:geomhash":"059ad6c5c011c3df2ed59bf25ec0ff32",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     20.90097,
     53.35321999999999
 ],
-  "geometry": {"coordinates":[20.90097,53.35321999999999],"type":"Point"}
+  "geometry": {"coordinates":[20.90097,53.35322],"type":"Point"}
 }

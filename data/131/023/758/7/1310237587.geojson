@@ -57,7 +57,7 @@
         "wk:page":"Podolany%2C_Wadowice_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"aec6d77c828bf80ffc07cc5a34ed145b",
+    "wof:geomhash":"491ec6cd6e18013d03e840c19eeea74d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     19.7541,
     49.90779000000001
 ],
-  "geometry": {"coordinates":[19.7541,49.90779000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.7541,49.90779],"type":"Point"}
 }

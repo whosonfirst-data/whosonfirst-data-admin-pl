@@ -60,7 +60,7 @@
         "wk:page":"Nie%C4%87kowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"77509a57186edd0417bfbba7a5dbd4de",
+    "wof:geomhash":"cc116742d0b7abb2feba0ffd0c57e1f4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     22.33714,
     53.55631999999999
 ],
-  "geometry": {"coordinates":[22.33714,53.55631999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.33714,53.55632],"type":"Point"}
 }

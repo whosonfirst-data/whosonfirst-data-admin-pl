@@ -54,7 +54,7 @@
         "wk:page":"Korfowe"
     },
     "wof:country":"PL",
-    "wof:geomhash":"fef4492e6d9b02f9e99d04620da8dae4",
+    "wof:geomhash":"c15076259ecd6a8106e02ec6b63410a1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.52967,
     52.28129000000001
 ],
-  "geometry": {"coordinates":[20.52967,52.28129000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.52967,52.28129],"type":"Point"}
 }

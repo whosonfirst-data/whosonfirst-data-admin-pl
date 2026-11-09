@@ -57,7 +57,7 @@
         "wk:page":"Chodor%C3%B3wka_Stara"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b4fa2b41a56e4b4514666b375d317179",
+    "wof:geomhash":"55157af31262c92dc3233bd61b17038c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     23.12903,
     53.53151999999999
 ],
-  "geometry": {"coordinates":[23.12903,53.53151999999999],"type":"Point"}
+  "geometry": {"coordinates":[23.12903,53.53152],"type":"Point"}
 }

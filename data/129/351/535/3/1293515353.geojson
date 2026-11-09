@@ -54,7 +54,7 @@
         "wk:page":"Pierzchnia"
     },
     "wof:country":"PL",
-    "wof:geomhash":"0838e4fe6e28aac029e703e480a4006e",
+    "wof:geomhash":"41705f4198be96327b9252a5e8674c6f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.93002000000001,
     51.57196
 ],
-  "geometry": {"coordinates":[20.93002000000001,51.57196],"type":"Point"}
+  "geometry": {"coordinates":[20.93002,51.57196],"type":"Point"}
 }

@@ -60,7 +60,7 @@
         "wk:page":"Leszczynki%2C_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"37d5456e607e4a2560804b1d13440b7f",
+    "wof:geomhash":"168ef251b38113f4090bdf197c29d443",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     17.93679,
     54.29043000000001
 ],
-  "geometry": {"coordinates":[17.93679,54.29043000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.93679,54.29043],"type":"Point"}
 }

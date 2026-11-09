@@ -70,7 +70,7 @@
         "wk:page":"M%C4%85towy_Ma%C5%82e"
     },
     "wof:country":"PL",
-    "wof:geomhash":"752528087d501acca54e9c3cfb7665ca",
+    "wof:geomhash":"202e7b4d0c21e417c27246bbe9362f4d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,5 +97,5 @@
     18.8684,
     53.99823000000001
 ],
-  "geometry": {"coordinates":[18.8684,53.99823000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.8684,53.99823],"type":"Point"}
 }

@@ -61,7 +61,7 @@
         "wk:page":"Krasne%2C_Sok%C3%B3%C5%82ka_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ddf2a7b7ef667c935e0c75b555d017d6",
+    "wof:geomhash":"6be55a2b50c5146dec81ca74e03296f4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     23.24372,
     53.51841999999999
 ],
-  "geometry": {"coordinates":[23.24372,53.51841999999999],"type":"Point"}
+  "geometry": {"coordinates":[23.24372,53.51842],"type":"Point"}
 }

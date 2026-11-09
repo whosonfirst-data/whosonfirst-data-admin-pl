@@ -54,7 +54,7 @@
         "wk:page":"Rz%C4%99%C5%BCawy%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1f8b44f96d8c0ae283363f046df884bb",
+    "wof:geomhash":"96284fb23a48d4084341cc546fc7597a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.84217,
     53.06928000000001
 ],
-  "geometry": {"coordinates":[19.84217,53.06928000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.84217,53.06928],"type":"Point"}
 }

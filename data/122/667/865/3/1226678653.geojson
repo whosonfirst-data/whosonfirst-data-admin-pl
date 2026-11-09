@@ -54,7 +54,7 @@
         "wk:page":"Popielewo%2C_%C5%9Awidwin_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"48810d20bf8e8fb3c1b55108cd9afd3b",
+    "wof:geomhash":"84ae799791c377c175b48a502f075dd9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     16.17301,
     53.74498000000001
 ],
-  "geometry": {"coordinates":[16.17301,53.74498000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.17301,53.74498],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"Runowo%2C_W%C4%85growiec_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1591de3736c77f761cfd1e6ff43a3b52",
+    "wof:geomhash":"64173e0fe7eee45803bee0797cb454ba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     17.04752,
     52.79196999999999
 ],
-  "geometry": {"coordinates":[17.04752,52.79196999999999],"type":"Point"}
+  "geometry": {"coordinates":[17.04752,52.79197],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Jod%C5%82owice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3ad7071be209c6698216cb194cec8142",
+    "wof:geomhash":"71075f766adf077e6460391371115104",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     16.79346,
     51.28084000000001
 ],
-  "geometry": {"coordinates":[16.79346,51.28084000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.79346,51.28084],"type":"Point"}
 }

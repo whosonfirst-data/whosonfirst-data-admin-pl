@@ -57,7 +57,7 @@
         "wk:page":"Babice%2C_%C5%81%C3%B3d%C5%BA_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"bbccf649829c4b9c5bd9d3f1dbdeea0c",
+    "wof:geomhash":"5c2c7a3b290a9e097d251d2fdc59810d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     19.23946,
     51.77464000000001
 ],
-  "geometry": {"coordinates":[19.23946,51.77464000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.23946,51.77464],"type":"Point"}
 }

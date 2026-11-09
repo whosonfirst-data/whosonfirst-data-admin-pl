@@ -57,7 +57,7 @@
         "wk:page":"Miko%C5%82ajewo%2C_Warmian-Masurian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6d7ec2fc66e77959ec9729818a54c7a5",
+    "wof:geomhash":"bdd4cdb5bafcc5ad5674a20602f3f48c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     19.99677,
     54.32143000000001
 ],
-  "geometry": {"coordinates":[19.99677,54.32143000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.99677,54.32143],"type":"Point"}
 }

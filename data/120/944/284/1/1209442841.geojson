@@ -51,7 +51,7 @@
         "wk:page":"Czumsk_Du%C5%BCy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"34433cd47a733dc10eaf32de5a574b16",
+    "wof:geomhash":"1206485747a46c230103afc0dbdd29a9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.4985,
     52.95908000000001
 ],
-  "geometry": {"coordinates":[19.4985,52.95908000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.4985,52.95908],"type":"Point"}
 }

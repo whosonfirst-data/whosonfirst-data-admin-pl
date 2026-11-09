@@ -54,7 +54,7 @@
         "wk:page":"Godlewo_Mierniki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ef5a4dc5ffefae10bb799361fdc68b89",
+    "wof:geomhash":"d262a6ecbc844fa4ce95a8e948de224a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.29615,
     52.72261999999999
 ],
-  "geometry": {"coordinates":[22.29615,52.72261999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.29615,52.72262],"type":"Point"}
 }

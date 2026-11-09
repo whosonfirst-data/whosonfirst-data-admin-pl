@@ -54,7 +54,7 @@
         "wk:page":"Wolany%2C_Lower_Silesian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"17478bbc3650c49c570db2580bacbdb8",
+    "wof:geomhash":"83e7b410bae748607718f8109ace59ed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     16.51897,
     50.43747000000001
 ],
-  "geometry": {"coordinates":[16.51897,50.43747000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.51897,50.43747],"type":"Point"}
 }

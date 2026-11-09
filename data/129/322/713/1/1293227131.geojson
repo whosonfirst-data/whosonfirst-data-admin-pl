@@ -51,7 +51,7 @@
         "wk:page":"Lipy%2C_Lubusz_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1e61bccffcf9b66ea5c0580bc5958ad4",
+    "wof:geomhash":"9d2603bdd25f8f3824f3f562cf34fd92",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     15.28996,
     52.87918000000001
 ],
-  "geometry": {"coordinates":[15.28996,52.87918000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.28996,52.87918],"type":"Point"}
 }

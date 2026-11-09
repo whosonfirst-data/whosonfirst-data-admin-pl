@@ -54,7 +54,7 @@
         "wk:page":"Objezierze%2C_West_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d3191b9930bacd92f580e8a5c06ce7a7",
+    "wof:geomhash":"7392ceae2438350de79660f19b90e8e8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     15.55527,
     53.08168000000001
 ],
-  "geometry": {"coordinates":[15.55527,53.08168000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.55527,53.08168],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"K%C4%99drzyno"
     },
     "wof:country":"PL",
-    "wof:geomhash":"362c62f70342bbee6611028ea4e8e31c",
+    "wof:geomhash":"cfec12b61b41e02693cc1712c23803b9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     15.45287,
     54.06486999999999
 ],
-  "geometry": {"coordinates":[15.45287,54.06486999999999],"type":"Point"}
+  "geometry": {"coordinates":[15.45287,54.06487],"type":"Point"}
 }

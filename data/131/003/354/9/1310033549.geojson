@@ -54,7 +54,7 @@
         "wk:page":"Pi%C4%99tk%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d892d7a68b7dd02aa76828de1c336dd9",
+    "wof:geomhash":"039015abd608454780be12b23f594e3f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.44073,
     51.52849000000001
 ],
-  "geometry": {"coordinates":[19.44073,51.52849000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.44073,51.52849],"type":"Point"}
 }

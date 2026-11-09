@@ -51,7 +51,7 @@
         "wk:page":"Kamie%C5%84%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"63224e25d45b7dbd5c90e0fe5b973d35",
+    "wof:geomhash":"bf1064a55fc9a4e609fc2a2ef5e77a11",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.18797,
     53.36816999999999
 ],
-  "geometry": {"coordinates":[19.18797,53.36816999999999],"type":"Point"}
+  "geometry": {"coordinates":[19.18797,53.36817],"type":"Point"}
 }

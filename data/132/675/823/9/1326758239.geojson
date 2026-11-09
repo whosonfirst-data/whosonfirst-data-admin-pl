@@ -63,7 +63,7 @@
         "wk:page":"%C5%9Aciegnica"
     },
     "wof:country":"PL",
-    "wof:geomhash":"eee2062139e75380c45efe8b1f077c0b",
+    "wof:geomhash":"60f5ed5ecce728d015412a64ba2a74e3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     16.86039,
     54.34229000000001
 ],
-  "geometry": {"coordinates":[16.86039,54.34229000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.86039,54.34229],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Kaszewiec"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a3e4d6ded1aa83e1b73f9497ce4d4df5",
+    "wof:geomhash":"4b0cff5f6b71264884f554c87dc4773f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.42726,
     52.87918000000001
 ],
-  "geometry": {"coordinates":[21.42726,52.87918000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.42726,52.87918],"type":"Point"}
 }

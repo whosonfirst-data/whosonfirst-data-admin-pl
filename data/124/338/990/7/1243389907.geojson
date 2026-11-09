@@ -54,7 +54,7 @@
         "wk:page":"Poladowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7b12cda16f54cddd65f0d55e38c59aa4",
+    "wof:geomhash":"b285f64832d728d434d7783fcf1d93c1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     16.48,
     52.01029000000001
 ],
-  "geometry": {"coordinates":[16.48,52.01029000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.48,52.01029],"type":"Point"}
 }

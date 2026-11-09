@@ -54,7 +54,7 @@
         "wk:page":"Narty%2C_Warmian-Masurian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"77d8eec4bc9cf4da3da6b9156e16c2cb",
+    "wof:geomhash":"1910db8995197ec97ee63e0fc9b7fb1b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.78285,
     53.53941999999999
 ],
-  "geometry": {"coordinates":[20.78285,53.53941999999999],"type":"Point"}
+  "geometry": {"coordinates":[20.78285,53.53942],"type":"Point"}
 }

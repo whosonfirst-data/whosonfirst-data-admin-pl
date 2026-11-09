@@ -64,7 +64,7 @@
         "wk:page":"Nowiny_Brdowskie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"51d4c5935b2616bcf6f8e9862f6cd582",
+    "wof:geomhash":"64b6f0a53161de9349586088512db3db",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,5 +91,5 @@
     18.73322000000001,
     52.32346
 ],
-  "geometry": {"coordinates":[18.73322000000001,52.32346],"type":"Point"}
+  "geometry": {"coordinates":[18.73322,52.32346],"type":"Point"}
 }

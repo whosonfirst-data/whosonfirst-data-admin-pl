@@ -54,7 +54,7 @@
         "wk:page":"Kobylniki%2C_Pozna%C5%84_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"16c18a5725b2a0df2a7276152ef6cf04",
+    "wof:geomhash":"7679e19585e129e4e5c658b2829899cc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     16.72334,
     52.47128000000001
 ],
-  "geometry": {"coordinates":[16.72334,52.47128000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.72334,52.47128],"type":"Point"}
 }

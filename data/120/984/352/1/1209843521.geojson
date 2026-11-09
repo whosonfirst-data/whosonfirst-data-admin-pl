@@ -54,7 +54,7 @@
         "wk:page":"Dubasiewszczyzna"
     },
     "wof:country":"PL",
-    "wof:geomhash":"89576fb148cf039071e8b999eb43a018",
+    "wof:geomhash":"7d66efb0486299c776d7ff87b66cb446",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     23.14747,
     53.54598000000001
 ],
-  "geometry": {"coordinates":[23.14747,53.54598000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.14747,53.54598],"type":"Point"}
 }

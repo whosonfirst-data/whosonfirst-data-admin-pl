@@ -63,7 +63,7 @@
         "wk:page":"Henrykowo%2C_Lidzbark_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"fa5bef05c71b7a64600f18347f2e34d4",
+    "wof:geomhash":"4dad0fa883309bf99c2673f976bd7459",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     20.15936,
     54.17681999999999
 ],
-  "geometry": {"coordinates":[20.15936,54.17681999999999],"type":"Point"}
+  "geometry": {"coordinates":[20.15936,54.17682],"type":"Point"}
 }

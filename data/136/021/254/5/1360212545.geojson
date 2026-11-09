@@ -57,7 +57,7 @@
         "wk:page":"Strzelce%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"87ff045ce6da83b1502b7b96516a48e6",
+    "wof:geomhash":"0048d85f80d68b414dc650ac6af4ef12",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     16.95877,
     53.01788000000001
 ],
-  "geometry": {"coordinates":[16.95877,53.01788000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.95877,53.01788],"type":"Point"}
 }

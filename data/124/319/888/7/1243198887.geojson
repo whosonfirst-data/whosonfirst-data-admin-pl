@@ -54,7 +54,7 @@
         "wk:page":"Kopienica"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8de9c68366d73c19fa78c20604d91882",
+    "wof:geomhash":"f8903309d188d09d6f689ae0339f0a24",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.64792000000001,
     50.45346
 ],
-  "geometry": {"coordinates":[18.64792000000001,50.45346],"type":"Point"}
+  "geometry": {"coordinates":[18.64792,50.45346],"type":"Point"}
 }

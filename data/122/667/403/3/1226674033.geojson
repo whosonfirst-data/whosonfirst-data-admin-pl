@@ -54,7 +54,7 @@
         "wk:page":"Rogo%C5%BCajny_Wielkie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c247ee11d58efd0c6e8496dc9b88f8f4",
+    "wof:geomhash":"706c1dfa016683d9ff7e84389e45237c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.85362000000001,
     54.32854
 ],
-  "geometry": {"coordinates":[22.85362000000001,54.32854],"type":"Point"}
+  "geometry": {"coordinates":[22.85362,54.32854],"type":"Point"}
 }

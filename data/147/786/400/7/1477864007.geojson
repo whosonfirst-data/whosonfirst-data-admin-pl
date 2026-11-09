@@ -50,7 +50,7 @@
         1125288539
     ],
     "wof:country":"PL",
-    "wof:geomhash":"d3f0b9a0505d6e5856fe51d1ee1a7f85",
+    "wof:geomhash":"3a53e9c20e321ae37c176a2aec8ffc10",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,5 +77,5 @@
     19.2747753630696,
     52.3434808387423
 ],
-  "geometry": {"coordinates":[19.2747753630696,52.3434808387423],"type":"Point"}
+  "geometry": {"coordinates":[19.274775,52.343481],"type":"Point"}
 }

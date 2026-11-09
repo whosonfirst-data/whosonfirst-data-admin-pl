@@ -54,7 +54,7 @@
         "wk:page":"Sienno%2C_S%C5%82upca_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"63dd2a5a8a1def56b747eed5877f984d",
+    "wof:geomhash":"53dd96608eee611edd8c33e3e6f589f3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.99442999999999,
     52.38326
 ],
-  "geometry": {"coordinates":[17.99442999999999,52.38326],"type":"Point"}
+  "geometry": {"coordinates":[17.99443,52.38326],"type":"Point"}
 }

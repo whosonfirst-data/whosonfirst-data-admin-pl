@@ -54,7 +54,7 @@
         "wk:page":"Wit%C3%B3wka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5efa8367feeeeb93228e59a8642d0d32",
+    "wof:geomhash":"ab44e6e0ff2d5144b7597352e60e9f6f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.74822,
     53.95679000000001
 ],
-  "geometry": {"coordinates":[22.74822,53.95679000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.74822,53.95679],"type":"Point"}
 }

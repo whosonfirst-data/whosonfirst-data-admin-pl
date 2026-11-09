@@ -57,7 +57,7 @@
         "wk:page":"Osowy_Gr%C4%85d"
     },
     "wof:country":"PL",
-    "wof:geomhash":"94e5ee6a46c09f60d896ade7de46f3e1",
+    "wof:geomhash":"cf034b2c36ee86e9d08d5509b9757268",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.98333,
     53.78333000000001
 ],
-  "geometry": {"coordinates":[22.98333,53.78333000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.98333,53.78333],"type":"Point"}
 }

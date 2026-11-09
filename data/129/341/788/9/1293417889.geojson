@@ -63,7 +63,7 @@
         "wk:page":"Suchy_B%C3%B3r"
     },
     "wof:country":"PL",
-    "wof:geomhash":"379d43126d7bef14314a58e09198b3fd",
+    "wof:geomhash":"284ba8d24f378517c9caf02510ba13ba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     18.03887000000001,
     50.65393
 ],
-  "geometry": {"coordinates":[18.03887000000001,50.65393],"type":"Point"}
+  "geometry": {"coordinates":[18.03887,50.65393],"type":"Point"}
 }

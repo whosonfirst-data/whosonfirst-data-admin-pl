@@ -61,7 +61,7 @@
         "wk:page":"Rosochackie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ae39fe7aeda7ffd34e4864ae16be0c8c",
+    "wof:geomhash":"e7ce53fc4d79bdfb3a7028030fcc92ba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     22.43961,
     54.01566999999999
 ],
-  "geometry": {"coordinates":[22.43961,54.01566999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.43961,54.01567],"type":"Point"}
 }

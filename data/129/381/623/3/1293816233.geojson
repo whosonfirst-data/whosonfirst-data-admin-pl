@@ -64,7 +64,7 @@
         "wk:page":"Wyszkowo%2C_Poland"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d5d092db79f846dea92613036eb35c64",
+    "wof:geomhash":"2225d77f8509f13f90b47730b8f5dc24",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,5 +91,5 @@
     20.11442000000001,
     54.34145
 ],
-  "geometry": {"coordinates":[20.11442000000001,54.34145],"type":"Point"}
+  "geometry": {"coordinates":[20.11442,54.34145],"type":"Point"}
 }

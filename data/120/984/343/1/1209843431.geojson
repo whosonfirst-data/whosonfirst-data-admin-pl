@@ -57,7 +57,7 @@
         "wk:page":"Strumienno%2C_West_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"aecb769a3ea7289c9adcda38eb3b27c6",
+    "wof:geomhash":"737ee52e3b0d1407bffb3d3fe94ce9aa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     15.71431,
     53.03543000000001
 ],
-  "geometry": {"coordinates":[15.71431,53.03543000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.71431,53.03543],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Jeziory%2C_Lublin_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9917ef506f0690612b7e9b1dbc84a467",
+    "wof:geomhash":"18e803fdaa48aca0b5a9ab7743e57edd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.41411,
     51.89100000000001
 ],
-  "geometry": {"coordinates":[22.41411,51.89100000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.41411,51.891],"type":"Point"}
 }

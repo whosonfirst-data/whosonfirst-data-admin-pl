@@ -54,7 +54,7 @@
         "wk:page":"W%C3%B3jcin%2C_Opoczno_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7b0b103c6c55e7f30f6dd58cae49c02d",
+    "wof:geomhash":"5cc566b33db47dc3bb35af4ee68b3d5a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.03427000000001,
     51.32946
 ],
-  "geometry": {"coordinates":[20.03427000000001,51.32946],"type":"Point"}
+  "geometry": {"coordinates":[20.03427,51.32946],"type":"Point"}
 }

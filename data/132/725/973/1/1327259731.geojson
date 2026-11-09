@@ -57,7 +57,7 @@
         "wk:page":"Pierszczewo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"bf9ce3ff28878f2a07409fd864f543b0",
+    "wof:geomhash":"b519c890154b7ee3a6297b881d57aad7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     18.0482,
     54.22743000000001
 ],
-  "geometry": {"coordinates":[18.0482,54.22743000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.0482,54.22743],"type":"Point"}
 }

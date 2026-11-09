@@ -51,7 +51,7 @@
         "wk:page":"Gotelp"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2f0d4f4b102ff3907bf2eecb93935b96",
+    "wof:geomhash":"47841f69e8834c4b4b74580c282777ab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.01936,
     53.85769000000001
 ],
-  "geometry": {"coordinates":[18.01936,53.85769000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.01936,53.85769],"type":"Point"}
 }

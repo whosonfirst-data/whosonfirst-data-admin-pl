@@ -61,7 +61,7 @@
         "wk:page":"Osowo%2C_Warmian-Masurian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"195c62a95cbcc9e1ba6d46d3a586bf53",
+    "wof:geomhash":"47f463f2c54c3b86aaeb4ba0ad472a03",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     22.27776,
     54.23173000000001
 ],
-  "geometry": {"coordinates":[22.27776,54.23173000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.27776,54.23173],"type":"Point"}
 }

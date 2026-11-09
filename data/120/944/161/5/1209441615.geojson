@@ -54,7 +54,7 @@
         "wk:page":"Dziadk%C3%B3wko"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b4f40882971fab6cb3a687b754920800",
+    "wof:geomhash":"77bd0e1351fc31b3a2196d40c8e9bacc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.6035,
     52.69161999999999
 ],
-  "geometry": {"coordinates":[17.6035,52.69161999999999],"type":"Point"}
+  "geometry": {"coordinates":[17.6035,52.69162],"type":"Point"}
 }

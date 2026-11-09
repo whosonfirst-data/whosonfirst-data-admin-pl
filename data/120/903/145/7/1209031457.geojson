@@ -57,7 +57,7 @@
         "wk:page":"Leniwka%2C_Lubusz_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4dcfb4895fad98ef249a4ed799081968",
+    "wof:geomhash":"46a1a8098688c0d292bdf5bf1a90841a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     15.63259,
     52.26909000000001
 ],
-  "geometry": {"coordinates":[15.63259,52.26909000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.63259,52.26909],"type":"Point"}
 }

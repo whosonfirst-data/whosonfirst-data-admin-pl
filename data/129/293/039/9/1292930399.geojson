@@ -52,7 +52,7 @@
         "wk:page":"Mok%C5%82uczka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f2112699a8773035912b181191a1ff2f",
+    "wof:geomhash":"e8dee2395ac41264fd6813216b4e1960",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,5 +79,5 @@
     22.13124,
     49.90114000000001
 ],
-  "geometry": {"coordinates":[22.13124,49.90114000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.13124,49.90114],"type":"Point"}
 }

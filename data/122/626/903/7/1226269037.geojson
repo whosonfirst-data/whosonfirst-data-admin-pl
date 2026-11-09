@@ -60,7 +60,7 @@
         "wk:page":"Trzebnik"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5e884cf4ac80d76652de28dc52d8b70e",
+    "wof:geomhash":"3b70796c9a9f65cf9c8c484b5fa2159a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     16.86812999999999,
     50.82275
 ],
-  "geometry": {"coordinates":[16.86812999999999,50.82275],"type":"Point"}
+  "geometry": {"coordinates":[16.86813,50.82275],"type":"Point"}
 }

@@ -71,7 +71,7 @@
         "wk:page":"Idzbark"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a5d0095d51d14f5aabcf04e160776c25",
+    "wof:geomhash":"d4ff7789b6454eab0b812f7cdb294077",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,5 +98,5 @@
     20.04507000000001,
     53.67871
 ],
-  "geometry": {"coordinates":[20.04507000000001,53.67871],"type":"Point"}
+  "geometry": {"coordinates":[20.04507,53.67871],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"%C5%81%C4%85czna%2C_Wa%C5%82brzych_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d84cf8cd14dbf3e7993b4e7e13127d88",
+    "wof:geomhash":"cdc67de72efe52fe31391e2329e3fa4e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     16.13497000000001,
     50.66927
 ],
-  "geometry": {"coordinates":[16.13497000000001,50.66927],"type":"Point"}
+  "geometry": {"coordinates":[16.13497,50.66927],"type":"Point"}
 }

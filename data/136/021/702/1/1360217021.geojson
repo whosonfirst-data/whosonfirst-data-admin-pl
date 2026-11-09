@@ -59,7 +59,7 @@
         "wk:page":"Zato%C5%84_Dolna"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6f85326d01ea6dce1d7d0223c332470e",
+    "wof:geomhash":"98673c87e12a724d65b09edd1155fe4b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,5 +86,5 @@
     14.27605,
     53.01168000000001
 ],
-  "geometry": {"coordinates":[14.27605,53.01168000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.27605,53.01168],"type":"Point"}
 }

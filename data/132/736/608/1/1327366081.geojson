@@ -48,7 +48,7 @@
         "wk:page":"Smolnik-Jurk%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f5306299e661a719f35c8b41870b83c1",
+    "wof:geomhash":"a77acf63ec54f851f5cf2580b568ecf8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     15.23375,
     51.03664000000001
 ],
-  "geometry": {"coordinates":[15.23375,51.03664000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.23375,51.03664],"type":"Point"}
 }

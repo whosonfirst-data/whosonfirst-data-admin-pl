@@ -51,7 +51,7 @@
         "wk:page":"Ewina"
     },
     "wof:country":"PL",
-    "wof:geomhash":"45dacb4ef993f61f4d2304d504d41022",
+    "wof:geomhash":"2ce875c42002bf370b2a444568cf7387",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.56544,
     50.95959000000001
 ],
-  "geometry": {"coordinates":[19.56544,50.95959000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.56544,50.95959],"type":"Point"}
 }

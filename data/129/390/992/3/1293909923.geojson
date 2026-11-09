@@ -75,7 +75,7 @@
         "wk:page":"Ho%C5%82ubla"
     },
     "wof:country":"PL",
-    "wof:geomhash":"bcb40dbbced51dfa8353ab42c216ef3c",
+    "wof:geomhash":"75300b62a0640aec7cb8244525c34b65",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,5 +102,5 @@
     22.43726,
     52.27934000000001
 ],
-  "geometry": {"coordinates":[22.43726,52.27934000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.43726,52.27934],"type":"Point"}
 }

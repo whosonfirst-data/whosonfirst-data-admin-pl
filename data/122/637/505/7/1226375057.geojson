@@ -57,7 +57,7 @@
         "wk:page":"Swobodnia"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5fa5f21e62f84df1430d37c2d30065d3",
+    "wof:geomhash":"0703148f8241d63061bd1cfbb12da816",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     20.62609,
     52.48083000000001
 ],
-  "geometry": {"coordinates":[20.62609,52.48083000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.62609,52.48083],"type":"Point"}
 }

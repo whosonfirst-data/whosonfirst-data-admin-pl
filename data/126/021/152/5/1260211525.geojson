@@ -54,7 +54,7 @@
         "wk:page":"Wygoda%2C_Zwole%C5%84_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"880251eb8044e2529330903aafdc4f6c",
+    "wof:geomhash":"00fc6b79dfb1069587bf14169c2edf12",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.73182000000001,
     51.42383
 ],
-  "geometry": {"coordinates":[21.73182000000001,51.42383],"type":"Point"}
+  "geometry": {"coordinates":[21.73182,51.42383],"type":"Point"}
 }

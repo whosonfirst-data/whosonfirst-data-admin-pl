@@ -54,7 +54,7 @@
         "wk:page":"Bujny_Ksi%C4%99%C5%BCe"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c8fb6dff8715e435d78411a67ffd57ce",
+    "wof:geomhash":"99ea6621d5823b799cfb15eef78e0b12",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.26855,
     51.46344000000001
 ],
-  "geometry": {"coordinates":[19.26855,51.46344000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.26855,51.46344],"type":"Point"}
 }

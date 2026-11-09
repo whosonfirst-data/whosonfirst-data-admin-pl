@@ -57,7 +57,7 @@
         "wk:page":"Odwi%C5%9Ble"
     },
     "wof:country":"PL",
-    "wof:geomhash":"65322c0ff8d00f21123a70d089667ba8",
+    "wof:geomhash":"e7a5d7d7ca08feba0028a4588201911d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     20.25901,
     50.08199000000001
 ],
-  "geometry": {"coordinates":[20.25901,50.08199000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.25901,50.08199],"type":"Point"}
 }

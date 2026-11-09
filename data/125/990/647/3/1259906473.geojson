@@ -48,7 +48,7 @@
         "wk:page":"Koraczewko"
     },
     "wof:country":"PL",
-    "wof:geomhash":"25238fa0dc3e064b52cc0a5cf7b5e330",
+    "wof:geomhash":"da313a2e9e0deb993c63ea4196bbc3d1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     17.64437000000001,
     52.93063000000001
 ],
-  "geometry": {"coordinates":[17.64437000000001,52.93063000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.64437,52.93063],"type":"Point"}
 }

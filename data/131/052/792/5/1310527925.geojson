@@ -54,7 +54,7 @@
         "wk:page":"Minkowskie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"93c5f14be46dc8f975acf62b731f0545",
+    "wof:geomhash":"3d6b4f0ce30daf7a66b358c4e6e54067",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.61928,
     50.99744000000001
 ],
-  "geometry": {"coordinates":[17.61928,50.99744000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.61928,50.99744],"type":"Point"}
 }

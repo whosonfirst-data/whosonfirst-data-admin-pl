@@ -60,7 +60,7 @@
         "wk:page":"Zwiastowice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ccaeb445553be37a0a04c11985514da7",
+    "wof:geomhash":"caa708388b2eeb1b5a93007afd5e1c60",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     17.96728,
     50.33649000000001
 ],
-  "geometry": {"coordinates":[17.96728,50.33649000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.96728,50.33649],"type":"Point"}
 }

@@ -46,7 +46,7 @@
         "wk:page":"Berlinek%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"970d6f84370e3ca496a1b8e3ed58e6d7",
+    "wof:geomhash":"8a291eaaa28fef45efa61b7b6a0b4be3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,5 +76,5 @@
     16.35907000000001,
     51.9349
 ],
-  "geometry": {"coordinates":[16.35907000000001,51.9349],"type":"Point"}
+  "geometry": {"coordinates":[16.35907,51.9349],"type":"Point"}
 }

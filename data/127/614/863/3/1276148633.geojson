@@ -60,7 +60,7 @@
         "wk:page":"Wylatowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ad97e0a5fe3eb4ad7e9dc5d1da56320d",
+    "wof:geomhash":"e5826ebe9aabdda240c44c4cdaf3b532",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     17.93852,
     52.61046999999999
 ],
-  "geometry": {"coordinates":[17.93852,52.61046999999999],"type":"Point"}
+  "geometry": {"coordinates":[17.93852,52.61047],"type":"Point"}
 }

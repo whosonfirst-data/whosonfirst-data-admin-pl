@@ -57,7 +57,7 @@
         "wk:page":"Smardzewo%2C_West_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d0111f03d929b652a953d72a50c76f10",
+    "wof:geomhash":"a4d568378da254a3927a441db8778ec6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     16.62333,
     54.30533000000001
 ],
-  "geometry": {"coordinates":[16.62333,54.30533000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.62333,54.30533],"type":"Point"}
 }

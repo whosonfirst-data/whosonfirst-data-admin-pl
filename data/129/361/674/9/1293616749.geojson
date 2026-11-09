@@ -61,7 +61,7 @@
         "wk:page":"Wrze%C5%9Bcie%2C_L%C4%99bork_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1fec7ed1dfad578b2cb92425e2a74444",
+    "wof:geomhash":"09f0f3cdbdbcc91d665e9a2b4aa9407f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     17.63527000000001,
     54.68737
 ],
-  "geometry": {"coordinates":[17.63527000000001,54.68737],"type":"Point"}
+  "geometry": {"coordinates":[17.63527,54.68737],"type":"Point"}
 }

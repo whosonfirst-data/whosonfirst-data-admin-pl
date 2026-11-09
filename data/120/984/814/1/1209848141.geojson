@@ -57,7 +57,7 @@
         "wk:page":"Da%C5%84k%C3%B3w%2C_%C5%81%C3%B3d%C5%BA_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2e688a9f04a31c8e36dd261daa970fec",
+    "wof:geomhash":"6c5fbfa932ae24ccf8f71da0c7ee93b3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     20.52503,
     51.83434000000001
 ],
-  "geometry": {"coordinates":[20.52503,51.83434000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.52503,51.83434],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"Sosny%2C_Poland"
     },
     "wof:country":"PL",
-    "wof:geomhash":"426a48433aad20662e7112e902a52928",
+    "wof:geomhash":"70e5414f54ad9a9b8dad85c390e729de",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     14.95652,
     52.71908000000001
 ],
-  "geometry": {"coordinates":[14.95652,52.71908000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.95652,52.71908],"type":"Point"}
 }

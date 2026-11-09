@@ -54,7 +54,7 @@
         "wk:page":"Jeglijowiec"
     },
     "wof:country":"PL",
-    "wof:geomhash":"31a891c907a37def8a07e27dabc61f56",
+    "wof:geomhash":"a5d4972fc88149d8edd554f284beece3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.40981,
     53.20934000000001
 ],
-  "geometry": {"coordinates":[21.40981,53.20934000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.40981,53.20934],"type":"Point"}
 }

@@ -69,7 +69,7 @@
         "wk:page":"Borki_Siedleckie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"239cb33e595a9f6730c69217bb301731",
+    "wof:geomhash":"2446cf83e702e5183b5471e06b685d39",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     22.2865,
     52.23164000000001
 ],
-  "geometry": {"coordinates":[22.2865,52.23164000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.2865,52.23164],"type":"Point"}
 }

@@ -51,7 +51,7 @@
         "wk:page":"Stanomin"
     },
     "wof:country":"PL",
-    "wof:geomhash":"0392865bcf74645b61556f547019149e",
+    "wof:geomhash":"e2e5b2acf9a15d748338b2cf057dab60",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.52971,
     52.79763000000001
 ],
-  "geometry": {"coordinates":[18.52971,52.79763000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.52971,52.79763],"type":"Point"}
 }

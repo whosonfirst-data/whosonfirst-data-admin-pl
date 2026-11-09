@@ -60,7 +60,7 @@
         "wk:page":"Kowalewice%2C_West_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5da725e545e369714e234da3abc30b2c",
+    "wof:geomhash":"f886f184a14f4d8ee9d4467a75018c85",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     16.56214,
     54.44198000000001
 ],
-  "geometry": {"coordinates":[16.56214,54.44198000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.56214,54.44198],"type":"Point"}
 }

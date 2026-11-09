@@ -54,7 +54,7 @@
         "wk:page":"Gry%C5%BAliny%2C_Nowe_Miasto_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"51c54a24feda4bcd15bf083567bfa88f",
+    "wof:geomhash":"6819d3d0b2a020dc1a1b016fd77cdcc8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.53518,
     53.49733000000001
 ],
-  "geometry": {"coordinates":[19.53518,53.49733000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.53518,53.49733],"type":"Point"}
 }

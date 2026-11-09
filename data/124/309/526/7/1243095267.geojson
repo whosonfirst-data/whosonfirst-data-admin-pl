@@ -60,7 +60,7 @@
         "wk:page":"Czeberaki%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"dcf8a29b447e2a3ea7013dcb822f50bd",
+    "wof:geomhash":"d0d7bb3315f4fa0b33d167b336cf6748",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     22.85021,
     52.21194000000001
 ],
-  "geometry": {"coordinates":[22.85021,52.21194000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.85021,52.21194],"type":"Point"}
 }

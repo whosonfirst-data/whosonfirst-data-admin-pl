@@ -64,7 +64,7 @@
         "wk:page":"Bardy%2C_Poland"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a0d311af811bff9cd4f26a969ff57353",
+    "wof:geomhash":"d733b0a8ae4f30308e68a7c119314fd9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,5 +91,5 @@
     15.70599,
     54.10953000000001
 ],
-  "geometry": {"coordinates":[15.70599,54.10953000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.70599,54.10953],"type":"Point"}
 }

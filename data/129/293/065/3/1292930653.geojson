@@ -57,7 +57,7 @@
         "wk:page":"Kawice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"21f091763fd69a55de2309f03743cbf4",
+    "wof:geomhash":"29f21d92f0f64799db41ad39487b9d6d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     16.42267,
     51.23269000000001
 ],
-  "geometry": {"coordinates":[16.42267,51.23269000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.42267,51.23269],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"Kochan%C3%B3wka%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a1e2fd5f65cd3f45050f2f5913c6a9dd",
+    "wof:geomhash":"53e12fe2b944277e225d6086d73c9f00",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.40248,
     51.08609000000001
 ],
-  "geometry": {"coordinates":[21.40248,51.08609000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.40248,51.08609],"type":"Point"}
 }

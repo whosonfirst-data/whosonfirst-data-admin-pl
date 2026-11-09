@@ -64,7 +64,7 @@
         "wk:page":"Podr%C3%B3%C5%BCna"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c824c8807cb7df6cf596afcafe9c0d04",
+    "wof:geomhash":"ee690254d38c96d8ef8f1135378aa784",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,5 +91,5 @@
     17.05599999999999,
     53.24292
 ],
-  "geometry": {"coordinates":[17.05599999999999,53.24292],"type":"Point"}
+  "geometry": {"coordinates":[17.056,53.24292],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Naprusewo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"527391f53078001fcb2a56412415c818",
+    "wof:geomhash":"c514763cc732b20e062c62b9f311de81",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.99451000000001,
     52.40162
 ],
-  "geometry": {"coordinates":[17.99451000000001,52.40162],"type":"Point"}
+  "geometry": {"coordinates":[17.99451,52.40162],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Wygoda_%C5%81%C4%85czy%C5%84ska"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7983a003e470c24458c0a751ea3c89ef",
+    "wof:geomhash":"ed082b6ada92ccd1499fe2453b7600a5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.96667,
     54.28333000000001
 ],
-  "geometry": {"coordinates":[17.96667,54.28333000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.96667,54.28333],"type":"Point"}
 }

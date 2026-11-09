@@ -53,7 +53,7 @@
         "wk:page":"Nowe_Kamienice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ef7143315141b55940a18109fb084f1f",
+    "wof:geomhash":"3b74a99aedba74e4f970451cd57caa85",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     17.88332999999999,
     51.63238
 ],
-  "geometry": {"coordinates":[17.88332999999999,51.63238],"type":"Point"}
+  "geometry": {"coordinates":[17.88333,51.63238],"type":"Point"}
 }

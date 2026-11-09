@@ -57,7 +57,7 @@
         "wk:page":"Cedry"
     },
     "wof:country":"PL",
-    "wof:geomhash":"bbe43cde7de0a642f1e1fb98f0d75334",
+    "wof:geomhash":"0cf2eef92b9c1c9f9334f8bc1a69e31d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.18981,
     53.36428000000001
 ],
-  "geometry": {"coordinates":[22.18981,53.36428000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.18981,53.36428],"type":"Point"}
 }

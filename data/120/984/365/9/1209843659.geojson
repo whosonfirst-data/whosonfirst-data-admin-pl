@@ -48,7 +48,7 @@
         "wk:page":"Danielki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"369a7d0f874ce16ec19c445f5129f876",
+    "wof:geomhash":"ff145a2e6fb7da84b67f585602666adf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     19.75162000000001,
     49.52081
 ],
-  "geometry": {"coordinates":[19.75162000000001,49.52081],"type":"Point"}
+  "geometry": {"coordinates":[19.75162,49.52081],"type":"Point"}
 }

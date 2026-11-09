@@ -63,7 +63,7 @@
         "wk:page":"G%C3%B3rzyno"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ae483f3eb4a006237919db0cd4184c19",
+    "wof:geomhash":"c4081b93d38f9b25165f7dbf16b2ed6d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     17.49387999999999,
     54.55509
 ],
-  "geometry": {"coordinates":[17.49387999999999,54.55509],"type":"Point"}
+  "geometry": {"coordinates":[17.49388,54.55509],"type":"Point"}
 }

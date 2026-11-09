@@ -58,7 +58,7 @@
         "wk:page":"Stare_Kie%C5%82cze"
     },
     "wof:country":"PL",
-    "wof:geomhash":"38341b345a875ee6f4f031f292209ab1",
+    "wof:geomhash":"574bf0b6a1bf9abc2e746a89ade3cca5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,5 +85,5 @@
     21.984,
     53.47156999999999
 ],
-  "geometry": {"coordinates":[21.984,53.47156999999999],"type":"Point"}
+  "geometry": {"coordinates":[21.984,53.47157],"type":"Point"}
 }

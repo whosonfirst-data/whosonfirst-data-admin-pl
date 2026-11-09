@@ -54,7 +54,7 @@
         "wk:page":"Stara_Olszyna"
     },
     "wof:country":"PL",
-    "wof:geomhash":"433e11efff9ee78ed10ee1c658e0d63f",
+    "wof:geomhash":"905ff9ce34fff67a612b79fb8aa0a56b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.00257000000001,
     52.33038
 ],
-  "geometry": {"coordinates":[18.00257000000001,52.33038],"type":"Point"}
+  "geometry": {"coordinates":[18.00257,52.33038],"type":"Point"}
 }

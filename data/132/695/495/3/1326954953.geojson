@@ -57,7 +57,7 @@
         "wk:page":"Twarogi_Lackie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"028c4a566e9336ee4736e29c90f8c63c",
+    "wof:geomhash":"79a02bcb6bdaec1da5efe81c348cc572",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.61171,
     52.56511999999999
 ],
-  "geometry": {"coordinates":[22.61171,52.56511999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.61171,52.56512],"type":"Point"}
 }

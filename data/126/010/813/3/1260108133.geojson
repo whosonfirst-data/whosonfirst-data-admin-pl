@@ -54,7 +54,7 @@
         "wk:page":"Ciche%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"037b18bf0fd68b989da2da852189746a",
+    "wof:geomhash":"141fbd821743b1c63c412c0ce3906a62",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.37628,
     53.38118000000001
 ],
-  "geometry": {"coordinates":[19.37628,53.38118000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.37628,53.38118],"type":"Point"}
 }

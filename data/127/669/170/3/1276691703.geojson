@@ -63,7 +63,7 @@
         "wk:page":"Grotkowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8f954d788f1420b87ab005f9c06f706d",
+    "wof:geomhash":"2aaff85f29c985928a7a388fa176e179",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     17.63237999999999,
     52.432
 ],
-  "geometry": {"coordinates":[17.63237999999999,52.432],"type":"Point"}
+  "geometry": {"coordinates":[17.63238,52.432],"type":"Point"}
 }

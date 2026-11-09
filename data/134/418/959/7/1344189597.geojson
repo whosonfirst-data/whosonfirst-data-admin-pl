@@ -51,7 +51,7 @@
         "wk:page":"Stary_Folwark%2C_Podlaskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"895cee8cf12a438c126502bd7c4f09b0",
+    "wof:geomhash":"a8ea90b46a26b0e2da8c188f29e72ca6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     23.0,
     54.08333
 ],
-  "geometry": {"coordinates":[23.0,54.08333],"type":"Point"}
+  "geometry": {"coordinates":[23,54.08333],"type":"Point"}
 }

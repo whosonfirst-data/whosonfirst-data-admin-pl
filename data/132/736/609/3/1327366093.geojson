@@ -60,7 +60,7 @@
         "wk:page":"Wojt%C3%B3wce"
     },
     "wof:country":"PL",
-    "wof:geomhash":"583c4c027f4418d1d6272f639e814be6",
+    "wof:geomhash":"62b62eab2c33e4468e3e560df1fde268",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     22.93995,
     53.38981999999999
 ],
-  "geometry": {"coordinates":[22.93995,53.38981999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.93995,53.38982],"type":"Point"}
 }

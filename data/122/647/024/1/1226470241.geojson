@@ -63,7 +63,7 @@
         "wk:page":"Kodeniec"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ac0f04875c0599f4d9212db5424ffafb",
+    "wof:geomhash":"a567a5b5c321503165c8417021ab4cee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     23.12502000000001,
     51.60874
 ],
-  "geometry": {"coordinates":[23.12502000000001,51.60874],"type":"Point"}
+  "geometry": {"coordinates":[23.12502,51.60874],"type":"Point"}
 }

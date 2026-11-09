@@ -54,7 +54,7 @@
         "wk:page":"Kowalew%2C_%C5%81%C3%B3d%C5%BA_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"df50bfc680a9bdfab75aa4dd7c3663f9",
+    "wof:geomhash":"384f344b62b4293ad8d17d33bd22c6aa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.15371,
     51.49104000000001
 ],
-  "geometry": {"coordinates":[19.15371,51.49104000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.15371,51.49104],"type":"Point"}
 }

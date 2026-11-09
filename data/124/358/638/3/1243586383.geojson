@@ -64,7 +64,7 @@
         "wk:page":"Rec%C5%82aw"
     },
     "wof:country":"PL",
-    "wof:geomhash":"27e682dede5438e7067fb333f1cbed5c",
+    "wof:geomhash":"cc41c31d76151e75aa55e5c28fe7e1db",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,5 +91,5 @@
     14.62617,
     53.84016999999999
 ],
-  "geometry": {"coordinates":[14.62617,53.84016999999999],"type":"Point"}
+  "geometry": {"coordinates":[14.62617,53.84017],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"W%C5%82odki%2C_Podlaskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7fbd45aba8b05b21d3d9d3044572a50d",
+    "wof:geomhash":"c70d703d6a7a169d619d6660cd6b9842",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.0032,
     53.26051999999999
 ],
-  "geometry": {"coordinates":[22.0032,53.26051999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.0032,53.26052],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"Czarny_Kierz"
     },
     "wof:country":"PL",
-    "wof:geomhash":"559f71fa5adf8b1d4372c27fb22a1952",
+    "wof:geomhash":"2cba0a5c3cfe5a9a430418f9b2eb4e0d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     20.6579,
     54.07856999999999
 ],
-  "geometry": {"coordinates":[20.6579,54.07856999999999],"type":"Point"}
+  "geometry": {"coordinates":[20.6579,54.07857],"type":"Point"}
 }

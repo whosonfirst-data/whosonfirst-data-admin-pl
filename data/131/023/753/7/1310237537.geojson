@@ -66,7 +66,7 @@
         "wk:page":"Stani%C4%99cino"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b4f3f6232ba3b51fb22e84d05e20a553",
+    "wof:geomhash":"6fa64a673526fa4ae57bf000123b8678",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     17.11276,
     54.44488000000001
 ],
-  "geometry": {"coordinates":[17.11276,54.44488000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.11276,54.44488],"type":"Point"}
 }

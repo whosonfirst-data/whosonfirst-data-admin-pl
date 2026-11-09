@@ -51,7 +51,7 @@
         "wk:page":"S%C5%82utowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"cbbec14509b70fe2ff99eada0bfb79b6",
+    "wof:geomhash":"cadc6597dc18f88823e526aaec3a0501",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     15.60023,
     53.28386999999999
 ],
-  "geometry": {"coordinates":[15.60023,53.28386999999999],"type":"Point"}
+  "geometry": {"coordinates":[15.60023,53.28387],"type":"Point"}
 }

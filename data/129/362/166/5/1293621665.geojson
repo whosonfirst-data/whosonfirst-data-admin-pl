@@ -48,7 +48,7 @@
         "wk:page":"W%C4%99gierce%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b55274ff000a3f943ef4c3185ced5a48",
+    "wof:geomhash":"50abd6c5cee7345d2b24d3d3b002c0c5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     18.14997,
     52.76246999999999
 ],
-  "geometry": {"coordinates":[18.14997,52.76246999999999],"type":"Point"}
+  "geometry": {"coordinates":[18.14997,52.76247],"type":"Point"}
 }

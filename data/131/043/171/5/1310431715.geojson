@@ -54,7 +54,7 @@
         "wk:page":"Rzeszotary-Pszczele"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ce7025547276e84e4ac7677309972526",
+    "wof:geomhash":"6cafe01bfaa7c4d85f15843245c09157",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.81667,
     52.88333000000001
 ],
-  "geometry": {"coordinates":[19.81667,52.88333000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.81667,52.88333],"type":"Point"}
 }

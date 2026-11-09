@@ -54,7 +54,7 @@
         "wk:page":"Jaros%C5%82awice%2C_Lower_Silesian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5a862e6fbea9ba44515bd3965d66d4e5",
+    "wof:geomhash":"050f617e83d5338493707e2fb4589f33",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.15125,
     50.97264000000001
 ],
-  "geometry": {"coordinates":[17.15125,50.97264000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.15125,50.97264],"type":"Point"}
 }

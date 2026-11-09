@@ -57,7 +57,7 @@
         "wk:page":"Podlesie_Du%C5%BCe,_Lublin_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3eb3c9092d842618d85823f24eab1d41",
+    "wof:geomhash":"2399b81632ed7a6aedc58f6a6c7d6802",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.77527000000001,
     50.76296
 ],
-  "geometry": {"coordinates":[22.77527000000001,50.76296],"type":"Point"}
+  "geometry": {"coordinates":[22.77527,50.76296],"type":"Point"}
 }

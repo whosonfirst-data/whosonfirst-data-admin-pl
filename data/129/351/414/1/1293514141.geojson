@@ -51,7 +51,7 @@
         "wk:page":"Moszczonne"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b1e3e168ac8a6a6e67a39f166004fbbe",
+    "wof:geomhash":"fae43a205e85ca9326dfa0758ee7d1ee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.13556,
     52.94553000000001
 ],
-  "geometry": {"coordinates":[19.13556,52.94553000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.13556,52.94553],"type":"Point"}
 }

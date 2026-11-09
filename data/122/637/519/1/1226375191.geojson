@@ -72,7 +72,7 @@
         "wk:page":"Sadole%C5%9B"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7a8eb432f49a24c12f00399dad7cc108",
+    "wof:geomhash":"332ac51548e7338efa900415dbb92183",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,5 +99,5 @@
     21.86717,
     52.65499000000001
 ],
-  "geometry": {"coordinates":[21.86717,52.65499000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.86717,52.65499],"type":"Point"}
 }

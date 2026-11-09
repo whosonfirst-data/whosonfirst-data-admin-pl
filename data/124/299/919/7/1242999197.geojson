@@ -54,7 +54,7 @@
         "wk:page":"Karszewo%2C_K%C4%99trzyn_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"048f7d826cfdfced177674e546c93638",
+    "wof:geomhash":"a03da8a9c031de4a3a64fbe598781e26",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.14323,
     54.20473000000001
 ],
-  "geometry": {"coordinates":[21.14323,54.20473000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.14323,54.20473],"type":"Point"}
 }

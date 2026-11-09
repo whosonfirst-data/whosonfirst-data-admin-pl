@@ -51,7 +51,7 @@
         "wk:page":"Jurkowo%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"aa91679a044c298b643b6c62c82363df",
+    "wof:geomhash":"eb5d9adfc09227aadda5c7aefe708766",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.69569,
     52.48623000000001
 ],
-  "geometry": {"coordinates":[18.69569,52.48623000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.69569,52.48623],"type":"Point"}
 }

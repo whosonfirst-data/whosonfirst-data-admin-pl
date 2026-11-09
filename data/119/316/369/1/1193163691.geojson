@@ -60,7 +60,7 @@
         "wk:page":"Dobropole%2C_Kamie%C5%84_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"adf3fc207f01c7f336d97fecc5457e7e",
+    "wof:geomhash":"d4f26e629a56636267c7149e3d4b08d9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     14.7577,
     53.85868000000001
 ],
-  "geometry": {"coordinates":[14.7577,53.85868000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.7577,53.85868],"type":"Point"}
 }

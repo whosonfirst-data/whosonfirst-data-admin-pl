@@ -51,7 +51,7 @@
         "wk:page":"Zaszk%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3ee75c69b8468e6d539651963a3e89fb",
+    "wof:geomhash":"7ccfa74c93876def5f6ee56cc69318ac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     22.44627,
     52.64223000000001
 ],
-  "geometry": {"coordinates":[22.44627,52.64223000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.44627,52.64223],"type":"Point"}
 }

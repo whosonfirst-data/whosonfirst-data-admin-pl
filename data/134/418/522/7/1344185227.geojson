@@ -63,7 +63,7 @@
         "wk:page":"Pr%C4%99%C5%BCynka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d07f07cebf5b6daaf4ee3e32ce0ef42d",
+    "wof:geomhash":"5639dfd82fc0f8c536c0a07b5c69a9bd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     17.61452000000001,
     50.35751
 ],
-  "geometry": {"coordinates":[17.61452000000001,50.35751],"type":"Point"}
+  "geometry": {"coordinates":[17.61452,50.35751],"type":"Point"}
 }

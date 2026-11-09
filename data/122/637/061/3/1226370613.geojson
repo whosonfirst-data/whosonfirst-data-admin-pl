@@ -51,7 +51,7 @@
         "wk:page":"Popielewo%2C_Konin_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4637dc6fe08129fa9539578d206322f4",
+    "wof:geomhash":"d1910e4fa368cb28806e6572c2e39fe5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.28702,
     52.44631999999999
 ],
-  "geometry": {"coordinates":[18.28702,52.44631999999999],"type":"Point"}
+  "geometry": {"coordinates":[18.28702,52.44632],"type":"Point"}
 }

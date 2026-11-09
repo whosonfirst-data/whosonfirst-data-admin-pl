@@ -57,7 +57,7 @@
         "wk:page":"Sosnowo%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3a8bbadf1dea4287cedf8ab2c41e2794",
+    "wof:geomhash":"e62a509b55e349656f251caa87307ec4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     19.45755,
     52.97983000000001
 ],
-  "geometry": {"coordinates":[19.45755,52.97983000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.45755,52.97983],"type":"Point"}
 }

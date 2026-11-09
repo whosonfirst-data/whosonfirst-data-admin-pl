@@ -54,7 +54,7 @@
         "wk:page":"Linowo%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ff3ac906c9899ad75a73689414f337ee",
+    "wof:geomhash":"e3862d1ab563f22f8ee672febc2ab4ee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.04418,
     53.42443000000001
 ],
-  "geometry": {"coordinates":[19.04418,53.42443000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.04418,53.42443],"type":"Point"}
 }

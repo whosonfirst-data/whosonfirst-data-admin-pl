@@ -54,7 +54,7 @@
         "wk:page":"Komorze_Nowomiejskie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e0cf0fbb6249042e8cd22f9e22e094a1",
+    "wof:geomhash":"811386a977bac2a3abf0f55568ee319e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.38332999999999,
     52.08333
 ],
-  "geometry": {"coordinates":[17.38332999999999,52.08333],"type":"Point"}
+  "geometry": {"coordinates":[17.38333,52.08333],"type":"Point"}
 }

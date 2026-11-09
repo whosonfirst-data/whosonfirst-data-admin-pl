@@ -60,7 +60,7 @@
         "wk:page":"Golejewko"
     },
     "wof:country":"PL",
-    "wof:geomhash":"364b3f7c991a5dfa32a6eb6a0a2ed819",
+    "wof:geomhash":"d5bbcb2d042c47bb1def841f48d88ee2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     17.02786,
     51.61199000000001
 ],
-  "geometry": {"coordinates":[17.02786,51.61199000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.02786,51.61199],"type":"Point"}
 }

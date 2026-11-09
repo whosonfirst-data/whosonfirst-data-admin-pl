@@ -51,7 +51,7 @@
         "wk:page":"Zar%C4%99b%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d21f01e6f77fe8aab6d01e7a4873a555",
+    "wof:geomhash":"34bda3f0cf330bcb7a97a7669d5af68d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.69982000000001,
     52.2439
 ],
-  "geometry": {"coordinates":[19.69982000000001,52.2439],"type":"Point"}
+  "geometry": {"coordinates":[19.69982,52.2439],"type":"Point"}
 }

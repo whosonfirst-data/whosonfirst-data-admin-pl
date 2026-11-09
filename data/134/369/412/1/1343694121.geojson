@@ -57,7 +57,7 @@
         "wk:page":"Mochle"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9605eea9fc8153939121c114ec46bff3",
+    "wof:geomhash":"713a4f659a9fcb3996997bedbcd24dbb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     17.8631,
     53.20976999999999
 ],
-  "geometry": {"coordinates":[17.8631,53.20976999999999],"type":"Point"}
+  "geometry": {"coordinates":[17.8631,53.20977],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Ro%C5%9Bcimin"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8cabf3806a2d73fd9746786a29f64843",
+    "wof:geomhash":"2dd73531168bb7cfa5cdd9fe5cff9c5e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.49239,
     53.26258000000001
 ],
-  "geometry": {"coordinates":[17.49239,53.26258000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.49239,53.26258],"type":"Point"}
 }

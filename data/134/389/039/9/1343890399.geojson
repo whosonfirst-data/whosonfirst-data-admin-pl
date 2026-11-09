@@ -60,7 +60,7 @@
         "wk:page":"Wirwilty"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4338fe0f48979e1ac58a7c627530b9a2",
+    "wof:geomhash":"7bb55692fcdbbb488c3d43eabc06924b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     20.8575,
     54.26703000000001
 ],
-  "geometry": {"coordinates":[20.8575,54.26703000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.8575,54.26703],"type":"Point"}
 }

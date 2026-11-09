@@ -46,7 +46,7 @@
         "wk:page":"Szyliny"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f3da0f1e5bc6d566425f2cf13c4c9114",
+    "wof:geomhash":"f957734fa439dba43af8f854f7d35ae8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,5 +72,5 @@
     22.35168,
     54.33459000000001
 ],
-  "geometry": {"coordinates":[22.35168,54.33459000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.35168,54.33459],"type":"Point"}
 }

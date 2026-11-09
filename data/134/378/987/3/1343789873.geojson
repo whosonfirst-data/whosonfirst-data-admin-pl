@@ -51,7 +51,7 @@
         "wk:page":"Jeziorka%2C_S%C5%82upsk_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a8f2cd507e82cdeef10301047a84b67f",
+    "wof:geomhash":"02ebb19dc5937ef338296a2f880622dd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.41692999999999,
     54.53094
 ],
-  "geometry": {"coordinates":[17.41692999999999,54.53094],"type":"Point"}
+  "geometry": {"coordinates":[17.41693,54.53094],"type":"Point"}
 }

@@ -49,7 +49,7 @@
         "wk:page":"Podboles%C5%82awiec"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ce11c4aeab6f2ecf9249a1e6fe72a6dd",
+    "wof:geomhash":"5fd980646f41e385813264ab51c8cdf0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,5 +76,5 @@
     18.17997,
     51.20549000000001
 ],
-  "geometry": {"coordinates":[18.17997,51.20549000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.17997,51.20549],"type":"Point"}
 }

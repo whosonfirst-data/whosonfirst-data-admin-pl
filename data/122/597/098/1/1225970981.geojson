@@ -48,7 +48,7 @@
         "wk:page":"Zatocze"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c2a99883ad37e5fc5c607a1939b89a16",
+    "wof:geomhash":"a983c4661c2082f25313cda4416ea3a5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     15.13762,
     53.78503000000001
 ],
-  "geometry": {"coordinates":[15.13762,53.78503000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.13762,53.78503],"type":"Point"}
 }

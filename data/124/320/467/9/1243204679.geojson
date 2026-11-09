@@ -64,7 +64,7 @@
         "wk:page":"Tr%C4%99pnowy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7559dae6da454a48ef59bf55b546415d",
+    "wof:geomhash":"e47fe0aaed124a14b4d33a7b34efaaaa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,5 +91,5 @@
     18.9781,
     54.12448000000001
 ],
-  "geometry": {"coordinates":[18.9781,54.12448000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.9781,54.12448],"type":"Point"}
 }

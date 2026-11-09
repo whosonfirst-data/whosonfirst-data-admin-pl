@@ -57,7 +57,7 @@
         "wk:page":"Piotrowo-Trojany"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6754e23f6cfd4e47dcc32fa046ad464d",
+    "wof:geomhash":"3c80fcb407b1acdce97e4bf3dc09b31f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.94201,
     52.60138000000001
 ],
-  "geometry": {"coordinates":[22.94201,52.60138000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.94201,52.60138],"type":"Point"}
 }

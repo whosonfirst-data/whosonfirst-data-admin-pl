@@ -63,7 +63,7 @@
         "wk:page":"%C5%81osino"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2689577633396e328d667c64a3ce3bab",
+    "wof:geomhash":"e03aa9fb5ff93c6e31a7750542c4263d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     17.01131,
     54.41133000000001
 ],
-  "geometry": {"coordinates":[17.01131,54.41133000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.01131,54.41133],"type":"Point"}
 }

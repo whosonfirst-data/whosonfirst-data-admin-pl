@@ -54,7 +54,7 @@
         "wk:page":"Kruk%C3%B3wek"
     },
     "wof:country":"PL",
-    "wof:geomhash":"128fcc68cb1725d40918462bab486b6e",
+    "wof:geomhash":"d8d5050b0e7974f60fe3ba3a0d4127fb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.80671,
     54.02401999999999
 ],
-  "geometry": {"coordinates":[22.80671,54.02401999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.80671,54.02402],"type":"Point"}
 }

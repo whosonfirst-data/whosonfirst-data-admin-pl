@@ -51,7 +51,7 @@
         "wk:page":"Chru%C5%9Bcin%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ebe59d99e0eeb41f20c49dad0927aa56",
+    "wof:geomhash":"7cafdaa44f8cd604a845ad974e975b52",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.75469,
     52.09269000000001
 ],
-  "geometry": {"coordinates":[18.75469,52.09269000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.75469,52.09269],"type":"Point"}
 }

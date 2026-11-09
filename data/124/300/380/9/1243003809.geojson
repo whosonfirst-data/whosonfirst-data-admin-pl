@@ -54,7 +54,7 @@
         "wk:page":"Czachorowo%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a3acb3021f3a90c18ef38035e65cb3a2",
+    "wof:geomhash":"9b2ea9890bbcd8e2f289e17620d08706",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.61133,
     52.71001999999999
 ],
-  "geometry": {"coordinates":[19.61133,52.71001999999999],"type":"Point"}
+  "geometry": {"coordinates":[19.61133,52.71002],"type":"Point"}
 }

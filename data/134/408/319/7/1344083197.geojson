@@ -54,7 +54,7 @@
         "wk:page":"Ku%C5%BAnica%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"880e5aad712a28a7ba11c6d029e01cb9",
+    "wof:geomhash":"889b7a24651f68533a6caf686dfe2e0d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.60623,
     51.30889000000001
 ],
-  "geometry": {"coordinates":[20.60623,51.30889000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.60623,51.30889],"type":"Point"}
 }

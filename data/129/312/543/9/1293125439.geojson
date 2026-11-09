@@ -54,7 +54,7 @@
         "wk:page":"Surowica%2C_Podkarpackie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a1ec7b87046a35e75785937a79518ad7",
+    "wof:geomhash":"c58e22feda90049fcb9a5df400fc9328",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.90691,
     49.44224000000001
 ],
-  "geometry": {"coordinates":[21.90691,49.44224000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.90691,49.44224],"type":"Point"}
 }

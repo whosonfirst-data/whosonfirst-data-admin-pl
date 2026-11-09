@@ -57,7 +57,7 @@
         "wk:page":"Sokole%2C_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d971506c62be51ce0801ace30bcc742d",
+    "wof:geomhash":"cac64e04fa7a76c2a402a4bb248f0c34",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     16.97867999999999,
     53.65847
 ],
-  "geometry": {"coordinates":[16.97867999999999,53.65847],"type":"Point"}
+  "geometry": {"coordinates":[16.97868,53.65847],"type":"Point"}
 }

@@ -66,7 +66,7 @@
         "wk:page":"W%C5%82odzienin"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ca5ce6f20b5bec3a85710e26bd3ca26f",
+    "wof:geomhash":"806fcdc4a24a91569bd0745ea1ab9d90",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     17.84333999999999,
     50.11827
 ],
-  "geometry": {"coordinates":[17.84333999999999,50.11827],"type":"Point"}
+  "geometry": {"coordinates":[17.84334,50.11827],"type":"Point"}
 }

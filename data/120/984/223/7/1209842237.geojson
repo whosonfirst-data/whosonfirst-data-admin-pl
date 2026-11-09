@@ -51,7 +51,7 @@
         "wk:page":"Grodzisko%2C_Podkarpackie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6ce1621448f27ca69afff7d7c5eee6c5",
+    "wof:geomhash":"b154403a171565b077520a8f9de30666",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     21.71771,
     49.91334000000001
 ],
-  "geometry": {"coordinates":[21.71771,49.91334000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.71771,49.91334],"type":"Point"}
 }

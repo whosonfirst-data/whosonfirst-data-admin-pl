@@ -55,7 +55,7 @@
         "wk:page":"Wielewo%2C_Braniewo_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f53a687766a423c2bcc7c43bca9ccdae",
+    "wof:geomhash":"53159c86f6cf4fa36f545c428c86df5e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,5 +82,5 @@
     19.83135,
     54.31953000000001
 ],
-  "geometry": {"coordinates":[19.83135,54.31953000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.83135,54.31953],"type":"Point"}
 }

@@ -51,7 +51,7 @@
         "wk:page":"Wola_Ota%C5%82%C4%99ska"
     },
     "wof:country":"PL",
-    "wof:geomhash":"cf57fce680eee8313db477e9ab893d64",
+    "wof:geomhash":"064301adc380593f9c4adce6b6924f17",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     21.25992,
     50.35554000000001
 ],
-  "geometry": {"coordinates":[21.25992,50.35554000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.25992,50.35554],"type":"Point"}
 }

@@ -60,7 +60,7 @@
         "wk:page":"%C5%BBodzie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"58ec3e16ac3cddd52e15c45ac2287f9c",
+    "wof:geomhash":"2dcd9bafd5976917d34539a2c3d7ca00",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     22.73272,
     53.44009000000001
 ],
-  "geometry": {"coordinates":[22.73272,53.44009000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.73272,53.44009],"type":"Point"}
 }

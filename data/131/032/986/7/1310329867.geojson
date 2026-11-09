@@ -54,7 +54,7 @@
         "wk:page":"Dro%C5%82towice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"201847e5797012a731add4813ffdab38",
+    "wof:geomhash":"8ed7ba2a7e26bbaa9ec9c2cdafc8f9a6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.59266000000001,
     51.33657
 ],
-  "geometry": {"coordinates":[17.59266000000001,51.33657],"type":"Point"}
+  "geometry": {"coordinates":[17.59266,51.33657],"type":"Point"}
 }

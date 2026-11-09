@@ -60,7 +60,7 @@
         "wk:page":"Parciaki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b9c9ce36671ca1264922a3f0715848c7",
+    "wof:geomhash":"59f3f3375920c0676be25bacbf83513e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     21.11732,
     53.20101999999999
 ],
-  "geometry": {"coordinates":[21.11732,53.20101999999999],"type":"Point"}
+  "geometry": {"coordinates":[21.11732,53.20102],"type":"Point"}
 }

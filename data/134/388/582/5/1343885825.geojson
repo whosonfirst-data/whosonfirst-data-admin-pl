@@ -57,7 +57,7 @@
         "wk:page":"%C5%81uszkowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d48eafe6aaf3dbea71fe9bf8931452b6",
+    "wof:geomhash":"4620f5c70d6b50de429414c06199ed3f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     16.85972000000001,
     52.02229000000001
 ],
-  "geometry": {"coordinates":[16.85972000000001,52.02229000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.85972,52.02229],"type":"Point"}
 }

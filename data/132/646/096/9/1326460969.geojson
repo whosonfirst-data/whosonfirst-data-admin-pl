@@ -60,7 +60,7 @@
         "wk:page":"Wardomy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"80dae92cbc77453dd6ba3b156bdab0d0",
+    "wof:geomhash":"931862021d9a38601bca88d100a0b9bf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     20.90089,
     54.20659000000001
 ],
-  "geometry": {"coordinates":[20.90089,54.20659000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.90089,54.20659],"type":"Point"}
 }

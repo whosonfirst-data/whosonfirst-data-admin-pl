@@ -69,7 +69,7 @@
         "wk:page":"Jankowo-M%C5%82odzianowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"16e37a2efdfae1da9a80be57d98891ba",
+    "wof:geomhash":"f06ba04a6f21681235a593d5759e951b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     21.82453,
     53.20283000000001
 ],
-  "geometry": {"coordinates":[21.82453,53.20283000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.82453,53.20283],"type":"Point"}
 }

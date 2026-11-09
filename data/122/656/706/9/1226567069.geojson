@@ -57,7 +57,7 @@
         "wk:page":"Grzymalin"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b8d14051b07ea0ff800b2c87cb21358f",
+    "wof:geomhash":"8e6c697244b5e1de578fe6dfe485579f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     16.10982000000001,
     51.27314000000001
 ],
-  "geometry": {"coordinates":[16.10982000000001,51.27314000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.10982,51.27314],"type":"Point"}
 }

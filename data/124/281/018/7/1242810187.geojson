@@ -61,7 +61,7 @@
         "wk:page":"Baran%C3%B3wka%2C_Warmian-Masurian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ddde72bd4ee6b9d90adbf4a33298b390",
+    "wof:geomhash":"7a989f743de272d95f6acc9e764e3313",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     19.70655,
     54.31823000000001
 ],
-  "geometry": {"coordinates":[19.70655,54.31823000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.70655,54.31823],"type":"Point"}
 }

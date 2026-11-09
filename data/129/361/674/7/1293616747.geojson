@@ -60,7 +60,7 @@
         "wk:page":"Trzcianka%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"413b78b7d82185296636c354a314f4b9",
+    "wof:geomhash":"841a50890d8fcef466c91a2664a706e0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     19.43361,
     52.71633000000001
 ],
-  "geometry": {"coordinates":[19.43361,52.71633000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.43361,52.71633],"type":"Point"}
 }

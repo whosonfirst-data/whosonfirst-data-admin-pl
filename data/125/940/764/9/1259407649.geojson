@@ -54,7 +54,7 @@
         "wk:page":"Bruchwa%C5%82d"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7e23e4452b695bef591b4e1f644586fe",
+    "wof:geomhash":"f489ab42bc850ee671fcd26b7dabfa86",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.58328,
     53.68638000000001
 ],
-  "geometry": {"coordinates":[20.58328,53.68638000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.58328,53.68638],"type":"Point"}
 }

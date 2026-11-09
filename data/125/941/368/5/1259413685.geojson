@@ -58,7 +58,7 @@
         "wk:page":"Op%C4%99chowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1463d4205ea5862468bda124e73fdd0a",
+    "wof:geomhash":"10eb9cc73540c0963ed43f8792357867",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,5 +85,5 @@
     21.79254,
     53.05974000000001
 ],
-  "geometry": {"coordinates":[21.79254,53.05974000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.79254,53.05974],"type":"Point"}
 }

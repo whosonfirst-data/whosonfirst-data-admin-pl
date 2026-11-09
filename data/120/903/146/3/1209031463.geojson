@@ -55,7 +55,7 @@
         "wk:page":"Stare_Kale%C5%84sko"
     },
     "wof:country":"PL",
-    "wof:geomhash":"03075ee45af3297fb21d9312194d1c7e",
+    "wof:geomhash":"4640a333e4ce7e65ed5a22750ab748bb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     16.15265,
     53.52571999999999
 ],
-  "geometry": {"coordinates":[16.15265,53.52571999999999],"type":"Point"}
+  "geometry": {"coordinates":[16.15265,53.52572],"type":"Point"}
 }

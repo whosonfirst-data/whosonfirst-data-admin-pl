@@ -57,7 +57,7 @@
         "wk:page":"K%C4%99dzierzawice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"268bda4a24a255161d435fd5ab852273",
+    "wof:geomhash":"dac361a7f6eef08ef833bb15df976691",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     20.83727,
     52.63133000000001
 ],
-  "geometry": {"coordinates":[20.83727,52.63133000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.83727,52.63133],"type":"Point"}
 }

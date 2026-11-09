@@ -63,7 +63,7 @@
         "wk:page":"Zucielec"
     },
     "wof:country":"PL",
-    "wof:geomhash":"82b6d6b59407af8705c4197bbd36cd89",
+    "wof:geomhash":"dbff0cb83c9d733f4bc325cca47326c1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     22.69037,
     53.34778000000001
 ],
-  "geometry": {"coordinates":[22.69037,53.34778000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.69037,53.34778],"type":"Point"}
 }

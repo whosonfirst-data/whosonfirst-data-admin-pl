@@ -60,7 +60,7 @@
         "wk:page":"Barwino"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3f8885a1977778055febb552c3aff323",
+    "wof:geomhash":"faa6179ddc9febab5ffd2e257baf8aeb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     16.91307999999999,
     54.28949
 ],
-  "geometry": {"coordinates":[16.91307999999999,54.28949],"type":"Point"}
+  "geometry": {"coordinates":[16.91308,54.28949],"type":"Point"}
 }

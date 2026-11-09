@@ -66,7 +66,7 @@
         "wk:page":"Cisie-Zagrudzie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"251248b649761ce9019dc0bd485817fa",
+    "wof:geomhash":"e955c76850358b0d1530366f1fc97ac8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     22.11968,
     52.14787000000001
 ],
-  "geometry": {"coordinates":[22.11968,52.14787000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.11968,52.14787],"type":"Point"}
 }

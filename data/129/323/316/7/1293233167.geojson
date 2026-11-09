@@ -61,7 +61,7 @@
         "wk:page":"Lubiatowo%2C_West_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5c0b27a9144792ab7d99dc3f5ff6b183",
+    "wof:geomhash":"d8659ca86b5ea5abc00756b80b811110",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     15.04586,
     53.17019000000001
 ],
-  "geometry": {"coordinates":[15.04586,53.17019000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.04586,53.17019],"type":"Point"}
 }

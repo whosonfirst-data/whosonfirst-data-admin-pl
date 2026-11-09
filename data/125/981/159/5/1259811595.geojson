@@ -60,7 +60,7 @@
         "wk:page":"D%C5%82u%C5%BCec%2C_W%C4%99gorzewo_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"658f09dc3cf5dd4070e9c17724a75b4e",
+    "wof:geomhash":"cb525e2efe1b98bc99e5681fc2ff88d3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     21.54282000000001,
     54.12161
 ],
-  "geometry": {"coordinates":[21.54282000000001,54.12161],"type":"Point"}
+  "geometry": {"coordinates":[21.54282,54.12161],"type":"Point"}
 }

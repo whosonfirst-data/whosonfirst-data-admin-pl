@@ -57,7 +57,7 @@
         "wk:page":"%C5%81opatno"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9753bd0e7b77fe5db10601bbc5c5dc71",
+    "wof:geomhash":"1a8cf3b05d41844e6de350a93c974006",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.2594,
     50.69374000000001
 ],
-  "geometry": {"coordinates":[21.2594,50.69374000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.2594,50.69374],"type":"Point"}
 }

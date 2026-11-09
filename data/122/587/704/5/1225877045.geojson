@@ -54,7 +54,7 @@
         "wk:page":"%C5%9Aliwniki%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"33de4e7e51648537f36bbd810e226679",
+    "wof:geomhash":"c528a777db53955e6795491f960aec3b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.98878999999999,
     51.69294
 ],
-  "geometry": {"coordinates":[17.98878999999999,51.69294],"type":"Point"}
+  "geometry": {"coordinates":[17.98879,51.69294],"type":"Point"}
 }

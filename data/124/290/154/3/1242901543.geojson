@@ -57,7 +57,7 @@
         "wk:page":"Zakrzewo%2C_Dzia%C5%82dowo_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"56ac43049f040ad3b058ce6629015006",
+    "wof:geomhash":"5180bca66175c360f6e06fc7f3092769",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     20.1533,
     53.18768000000001
 ],
-  "geometry": {"coordinates":[20.1533,53.18768000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.1533,53.18768],"type":"Point"}
 }

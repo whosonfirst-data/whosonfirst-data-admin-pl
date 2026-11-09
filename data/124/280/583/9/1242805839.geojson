@@ -56,7 +56,7 @@
         "wk:page":"Wysoki_Gr%C4%85d"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d75690f2f3c4c6ceedef59b0f76297b1",
+    "wof:geomhash":"093a8b44a32d3a9b948eee6d14164438",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,5 +83,5 @@
     21.36308,
     53.52871999999999
 ],
-  "geometry": {"coordinates":[21.36308,53.52871999999999],"type":"Point"}
+  "geometry": {"coordinates":[21.36308,53.52872],"type":"Point"}
 }

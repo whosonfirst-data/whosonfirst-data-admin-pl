@@ -51,7 +51,7 @@
         "wk:page":"Marcjan%C3%B3w%2C_Kalisz_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3399ad6bcc635b773639c8377a1ebc12",
+    "wof:geomhash":"c003e176f88817feb8f0627a8cc0dbd7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.30182000000001,
     51.69183
 ],
-  "geometry": {"coordinates":[18.30182000000001,51.69183],"type":"Point"}
+  "geometry": {"coordinates":[18.30182,51.69183],"type":"Point"}
 }

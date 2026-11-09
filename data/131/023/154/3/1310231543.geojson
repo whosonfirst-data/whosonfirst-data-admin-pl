@@ -57,7 +57,7 @@
         "wk:page":"Jeleniec%2C_Lublin_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"159663ce8b50db81ac7314074f74231e",
+    "wof:geomhash":"4818ceda48d3f37e68d2800e53834675",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.26447000000001,
     51.86311
 ],
-  "geometry": {"coordinates":[22.26447000000001,51.86311],"type":"Point"}
+  "geometry": {"coordinates":[22.26447,51.86311],"type":"Point"}
 }

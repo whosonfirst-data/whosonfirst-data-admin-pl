@@ -52,7 +52,7 @@
         "wk:page":"%C5%81%C4%99ka_Mrocze%C5%84ska"
     },
     "wof:country":"PL",
-    "wof:geomhash":"53670eacf4a58e6aab9da9152d372659",
+    "wof:geomhash":"70db6f32976444cc13448bc02ff9531d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,5 +82,5 @@
     17.96327999999999,
     51.22539
 ],
-  "geometry": {"coordinates":[17.96327999999999,51.22539],"type":"Point"}
+  "geometry": {"coordinates":[17.96328,51.22539],"type":"Point"}
 }

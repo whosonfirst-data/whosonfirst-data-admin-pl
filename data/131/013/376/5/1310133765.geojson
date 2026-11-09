@@ -54,7 +54,7 @@
         "wk:page":"Gromadno%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"510335355ef7dfab3d339dd27e701fa6",
+    "wof:geomhash":"a73858c3c9401a6050c381831d459c95",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.41153,
     53.05238000000001
 ],
-  "geometry": {"coordinates":[17.41153,53.05238000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.41153,53.05238],"type":"Point"}
 }

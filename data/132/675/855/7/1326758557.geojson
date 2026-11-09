@@ -58,7 +58,7 @@
         "wk:page":"Piecuchy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ee7a9658cbbb4af20d039ae509eb1f2f",
+    "wof:geomhash":"e8e5853c692c4dec5187d20e577d6e4c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,5 +85,5 @@
     21.06653,
     53.48178000000001
 ],
-  "geometry": {"coordinates":[21.06653,53.48178000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.06653,53.48178],"type":"Point"}
 }

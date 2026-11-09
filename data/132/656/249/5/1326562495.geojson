@@ -63,7 +63,7 @@
         "wk:page":"Tr%C4%85binek"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5a827569e201eea187698f59fb5b6041",
+    "wof:geomhash":"6d998b2d29043a3c5dd33c14679c450e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     17.09715,
     51.99800000000001
 ],
-  "geometry": {"coordinates":[17.09715,51.99800000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.09715,51.998],"type":"Point"}
 }

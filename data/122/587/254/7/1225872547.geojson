@@ -51,7 +51,7 @@
         "wk:page":"Sopel%2C_%C5%81%C3%B3d%C5%BA_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6240af436718fb989c4e889d85364fc9",
+    "wof:geomhash":"c04e5aa03cede0ae2f85fd62c74de270",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.17156,
     51.32729000000001
 ],
-  "geometry": {"coordinates":[18.17156,51.32729000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.17156,51.32729],"type":"Point"}
 }

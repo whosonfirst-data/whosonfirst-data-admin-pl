@@ -57,7 +57,7 @@
         "wk:page":"Kretki_Du%C5%BCe"
     },
     "wof:country":"PL",
-    "wof:geomhash":"0d2d6edb1611e0d9919a08de23f9e597",
+    "wof:geomhash":"5a166b397cd9852f0e7fa27edc3f1f32",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     19.43442000000001,
     53.18162
 ],
-  "geometry": {"coordinates":[19.43442000000001,53.18162],"type":"Point"}
+  "geometry": {"coordinates":[19.43442,53.18162],"type":"Point"}
 }

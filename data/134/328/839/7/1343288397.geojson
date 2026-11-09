@@ -51,7 +51,7 @@
         "wk:page":"Szk%C3%B3%C5%82ki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"20784f34881f700c2ccb010194325e97",
+    "wof:geomhash":"00c6d75b4da8ecbae7d6c26487b9ff25",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.61227000000001,
     52.74759
 ],
-  "geometry": {"coordinates":[17.61227000000001,52.74759],"type":"Point"}
+  "geometry": {"coordinates":[17.61227,52.74759],"type":"Point"}
 }

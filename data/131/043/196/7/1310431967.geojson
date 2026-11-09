@@ -57,7 +57,7 @@
         "wk:page":"Lisnowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"32db41a9824ee30b8880c34fc9b4aa78",
+    "wof:geomhash":"82d1a3de17331dce6021df8f99014258",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     19.1642,
     53.46579000000001
 ],
-  "geometry": {"coordinates":[19.1642,53.46579000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.1642,53.46579],"type":"Point"}
 }

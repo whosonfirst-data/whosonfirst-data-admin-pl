@@ -79,7 +79,7 @@
         "wk:page":"Dmusy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ca0e535e2f432bb3a76a51568c470c45",
+    "wof:geomhash":"bca4aa953f569289529ede8c548aaded",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -106,5 +106,5 @@
     22.19237,
     53.64293000000001
 ],
-  "geometry": {"coordinates":[22.19237,53.64293000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.19237,53.64293],"type":"Point"}
 }

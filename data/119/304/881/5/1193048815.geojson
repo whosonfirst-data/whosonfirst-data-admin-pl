@@ -54,7 +54,7 @@
         "wk:page":"Terpentyna%2C_Lublin_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d63d76fd0c736abc5545ceb4d0461ddd",
+    "wof:geomhash":"b4b0245ac82ca93cdfda32537ec1ecba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.08321,
     50.96794000000001
 ],
-  "geometry": {"coordinates":[22.08321,50.96794000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.08321,50.96794],"type":"Point"}
 }

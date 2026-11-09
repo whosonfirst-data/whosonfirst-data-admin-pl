@@ -59,7 +59,7 @@
         "wk:page":"Jurki%2C_Olecko_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"568c1dd0e4182de4528e8ed396ee2ad9",
+    "wof:geomhash":"688195311abd918a57dcb62b0e04fc3d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,5 +86,5 @@
     22.34962,
     54.07073000000001
 ],
-  "geometry": {"coordinates":[22.34962,54.07073000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.34962,54.07073],"type":"Point"}
 }

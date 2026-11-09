@@ -48,7 +48,7 @@
         "wk:page":"Ska%C5%82y%2C_Silesian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e96541c7881dca1b7dc2896c376cfe44",
+    "wof:geomhash":"50287079eef09d6a62e9de91f241c8f2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     18.38957000000001,
     50.4763
 ],
-  "geometry": {"coordinates":[18.38957000000001,50.4763],"type":"Point"}
+  "geometry": {"coordinates":[18.38957,50.4763],"type":"Point"}
 }

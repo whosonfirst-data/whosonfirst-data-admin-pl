@@ -55,7 +55,7 @@
         "wk:page":"Piasty_Wielkie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"681536166deab802c39dcd0701d98ae1",
+    "wof:geomhash":"c2347957ce4524312d479f552c5591b6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,5 +82,5 @@
     20.52722,
     54.27444000000001
 ],
-  "geometry": {"coordinates":[20.52722,54.27444000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.52722,54.27444],"type":"Point"}
 }

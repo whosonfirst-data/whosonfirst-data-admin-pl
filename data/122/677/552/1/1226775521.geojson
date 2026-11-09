@@ -66,7 +66,7 @@
         "wk:page":"Kanigowo%2C_Warmian-Masurian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e7617d773405a6e9c550ecc59a4dbdb4",
+    "wof:geomhash":"dea970fb85d36089c382d59f455236d7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     20.43137,
     53.31701999999999
 ],
-  "geometry": {"coordinates":[20.43137,53.31701999999999],"type":"Point"}
+  "geometry": {"coordinates":[20.43137,53.31702],"type":"Point"}
 }

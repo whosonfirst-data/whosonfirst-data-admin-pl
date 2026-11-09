@@ -54,7 +54,7 @@
         "wk:page":"Fornetka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"0a25fd733123b5d42828ccceb7f4dd53",
+    "wof:geomhash":"e38079c1990ac3e2cf7c6a58fdc89622",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     23.03066,
     54.24158000000001
 ],
-  "geometry": {"coordinates":[23.03066,54.24158000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.03066,54.24158],"type":"Point"}
 }

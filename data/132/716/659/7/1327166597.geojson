@@ -63,7 +63,7 @@
         "wk:page":"Chomice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f8ac189e9ad6cd67c8687144215003ab",
+    "wof:geomhash":"09699229e4f9f1fe490a84740de04fe9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     22.77204,
     53.06773000000001
 ],
-  "geometry": {"coordinates":[22.77204,53.06773000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.77204,53.06773],"type":"Point"}
 }

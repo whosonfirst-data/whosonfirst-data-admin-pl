@@ -66,7 +66,7 @@
         "wk:page":"Jab%C5%82o%C5%84-%C5%9Aliwowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"143330aa6ecc9c136fe573078779d487",
+    "wof:geomhash":"a4e4382f4457e79cf7b68a63185f9618",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     22.68762000000001,
     52.90241
 ],
-  "geometry": {"coordinates":[22.68762000000001,52.90241],"type":"Point"}
+  "geometry": {"coordinates":[22.68762,52.90241],"type":"Point"}
 }

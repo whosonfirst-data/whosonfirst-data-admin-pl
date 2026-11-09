@@ -51,7 +51,7 @@
         "wk:page":"Skrzypkowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9798f05f75a6a879c458578fdbfc376f",
+    "wof:geomhash":"b999fa7139ef8b33e17a49f03851299c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.93963,
     52.98036999999999
 ],
-  "geometry": {"coordinates":[18.93963,52.98036999999999],"type":"Point"}
+  "geometry": {"coordinates":[18.93963,52.98037],"type":"Point"}
 }

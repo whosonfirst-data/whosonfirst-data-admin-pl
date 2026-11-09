@@ -57,7 +57,7 @@
         "wk:page":"%C5%81%C4%85ki%2C_Garwolin_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"af8b2547246330c421b9c69269f37f2b",
+    "wof:geomhash":"341c36fee039df3332df81708b2753d2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.74126,
     51.85704000000001
 ],
-  "geometry": {"coordinates":[21.74126,51.85704000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.74126,51.85704],"type":"Point"}
 }

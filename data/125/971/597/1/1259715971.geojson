@@ -67,7 +67,7 @@
         "wk:page":"Kupientyn"
     },
     "wof:country":"PL",
-    "wof:geomhash":"fb634bd1f425eb8932e158e54106ae86",
+    "wof:geomhash":"dcd4647eafb5c95511986c117675f400",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,5 +94,5 @@
     22.26161,
     52.45506999999999
 ],
-  "geometry": {"coordinates":[22.26161,52.45506999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.26161,52.45507],"type":"Point"}
 }

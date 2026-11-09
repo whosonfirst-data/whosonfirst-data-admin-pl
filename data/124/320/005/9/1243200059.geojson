@@ -54,7 +54,7 @@
         "wk:page":"Kiedrowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1b473b2d97fdcc4ce1817acb9b764a4b",
+    "wof:geomhash":"18367f2ab90ab472b952cc175716500b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.32172000000001,
     52.82781
 ],
-  "geometry": {"coordinates":[17.32172000000001,52.82781],"type":"Point"}
+  "geometry": {"coordinates":[17.32172,52.82781],"type":"Point"}
 }

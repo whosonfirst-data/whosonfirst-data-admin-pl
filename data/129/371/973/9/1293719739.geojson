@@ -54,7 +54,7 @@
         "wk:page":"%C5%81ubna%2C_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c07e116e134ecccb28f1461352f2f733",
+    "wof:geomhash":"15c6b9705f9ecc822e5b0d0297c15135",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.99237999999999,
     53.81589
 ],
-  "geometry": {"coordinates":[17.99237999999999,53.81589],"type":"Point"}
+  "geometry": {"coordinates":[17.99238,53.81589],"type":"Point"}
 }

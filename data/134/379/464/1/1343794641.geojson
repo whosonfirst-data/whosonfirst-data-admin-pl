@@ -54,7 +54,7 @@
         "wk:page":"Wielkie_Budziska"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5c23c04e41eb1ac3a9c3a98abf5258f5",
+    "wof:geomhash":"07ef87ed76e49fab89b2462cc02cebfc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.07675,
     53.60856999999999
 ],
-  "geometry": {"coordinates":[18.07675,53.60856999999999],"type":"Point"}
+  "geometry": {"coordinates":[18.07675,53.60857],"type":"Point"}
 }

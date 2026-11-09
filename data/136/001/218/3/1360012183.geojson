@@ -51,7 +51,7 @@
         "wk:page":"Pieruszyce"
     },
     "wof:country":"PL",
-    "wof:geomhash":"49a29e84869deb4cef7b3a8bfc7046f8",
+    "wof:geomhash":"d1f2b05fea55b423fb7f4458d50955c1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.74412000000001,
     51.99069
 ],
-  "geometry": {"coordinates":[17.74412000000001,51.99069],"type":"Point"}
+  "geometry": {"coordinates":[17.74412,51.99069],"type":"Point"}
 }

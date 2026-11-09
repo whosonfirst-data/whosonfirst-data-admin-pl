@@ -60,7 +60,7 @@
         "wk:page":"Bronis%C5%82awowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b77dfd7b3eeae92bbdcce4fe7876de6f",
+    "wof:geomhash":"6de20f96f014fc3e226278863b920393",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     18.82097000000001,
     53.65046
 ],
-  "geometry": {"coordinates":[18.82097000000001,53.65046],"type":"Point"}
+  "geometry": {"coordinates":[18.82097,53.65046],"type":"Point"}
 }

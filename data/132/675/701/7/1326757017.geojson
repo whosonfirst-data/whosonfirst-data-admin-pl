@@ -54,7 +54,7 @@
         "wk:page":"Macharce"
     },
     "wof:country":"PL",
-    "wof:geomhash":"57c015fbab8b94c99ecea9bcc71abc9b",
+    "wof:geomhash":"a3c674bf20c264396bb0bb9b2470f099",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     23.2177,
     53.95531999999999
 ],
-  "geometry": {"coordinates":[23.2177,53.95531999999999],"type":"Point"}
+  "geometry": {"coordinates":[23.2177,53.95532],"type":"Point"}
 }

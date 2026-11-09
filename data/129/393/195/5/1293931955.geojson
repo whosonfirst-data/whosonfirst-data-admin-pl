@@ -54,7 +54,7 @@
         "wk:page":"Kozia_Wola%2C_%C5%9Awi%C4%99tokrzyskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"413f3a54dff397a67e6641260c8587eb",
+    "wof:geomhash":"6099485affb1ddd78602c134d22c059c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.51808,
     51.17077000000001
 ],
-  "geometry": {"coordinates":[20.51808,51.17077000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.51808,51.17077],"type":"Point"}
 }

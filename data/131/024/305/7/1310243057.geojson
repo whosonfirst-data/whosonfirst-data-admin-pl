@@ -51,7 +51,7 @@
         "wk:page":"Kozub%C3%B3w%2C_%C5%9Awi%C4%99tokrzyskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"da862df83deb8eb19622161e3b965630",
+    "wof:geomhash":"ea95a7be7d38a2e575e11aad65c98ba9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     20.4847,
     50.43324000000001
 ],
-  "geometry": {"coordinates":[20.4847,50.43324000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.4847,50.43324],"type":"Point"}
 }

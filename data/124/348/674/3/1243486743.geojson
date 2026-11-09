@@ -72,7 +72,7 @@
         "wk:page":"Turowo%2C_Pisz_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e72773675289e92bff2ac4cb7552d725",
+    "wof:geomhash":"2f5400135fe8b37cc20caeebf6a285c7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,5 +99,5 @@
     21.88915,
     53.51818000000001
 ],
-  "geometry": {"coordinates":[21.88915,53.51818000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.88915,53.51818],"type":"Point"}
 }

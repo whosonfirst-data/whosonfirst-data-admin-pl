@@ -54,7 +54,7 @@
         "wk:page":"Kowalewo%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7d18f2022e267c853bc6851f61d33b32",
+    "wof:geomhash":"7477ad98a5a896e4d2bf26e855192c02",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.72641,
     52.97176999999999
 ],
-  "geometry": {"coordinates":[17.72641,52.97176999999999],"type":"Point"}
+  "geometry": {"coordinates":[17.72641,52.97177],"type":"Point"}
 }

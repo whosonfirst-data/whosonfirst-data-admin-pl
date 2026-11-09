@@ -63,7 +63,7 @@
         "wk:page":"Dziedzice%2C_Krapkowice_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"908db968a1ca6c98998472dc9165a149",
+    "wof:geomhash":"7b8d70bf2232727b7fb5711ed6d58c5c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     17.78232000000001,
     50.47632
 ],
-  "geometry": {"coordinates":[17.78232000000001,50.47632],"type":"Point"}
+  "geometry": {"coordinates":[17.78232,50.47632],"type":"Point"}
 }

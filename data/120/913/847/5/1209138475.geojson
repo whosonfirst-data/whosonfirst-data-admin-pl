@@ -54,7 +54,7 @@
         "wk:page":"Krery%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"89fbb911f77c57bd2bdb37034b1b7f2f",
+    "wof:geomhash":"50e5dc88b37b15e0beae4ebe0ceac0e9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.62359,
     53.14228000000001
 ],
-  "geometry": {"coordinates":[20.62359,53.14228000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.62359,53.14228],"type":"Point"}
 }

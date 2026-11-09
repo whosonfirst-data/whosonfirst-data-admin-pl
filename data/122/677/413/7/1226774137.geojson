@@ -54,7 +54,7 @@
         "wk:page":"Zalesice%2C_Silesian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"af5f201377d036bc165cd64fdef2d3d3",
+    "wof:geomhash":"665480720c990e9805af72238d388091",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.49524,
     50.76909000000001
 ],
-  "geometry": {"coordinates":[19.49524,50.76909000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.49524,50.76909],"type":"Point"}
 }

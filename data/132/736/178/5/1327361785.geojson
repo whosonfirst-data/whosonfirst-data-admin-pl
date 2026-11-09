@@ -57,7 +57,7 @@
         "wk:page":"Pr%C4%85dzona"
     },
     "wof:country":"PL",
-    "wof:geomhash":"72099f30cffde1fb2cf0417de4748621",
+    "wof:geomhash":"02759f3ddd0d7c3a6d3887a104b17655",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     17.33289,
     54.00333000000001
 ],
-  "geometry": {"coordinates":[17.33289,54.00333000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.33289,54.00333],"type":"Point"}
 }

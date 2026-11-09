@@ -54,7 +54,7 @@
         "wk:page":"Do%C5%82gie%2C_Drawsko_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9749b42a02396ebf9d7a160b93f7d275",
+    "wof:geomhash":"6db4eac1af9313547f2927cb0f7c4938",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     15.89858,
     53.60211999999999
 ],
-  "geometry": {"coordinates":[15.89858,53.60211999999999],"type":"Point"}
+  "geometry": {"coordinates":[15.89858,53.60212],"type":"Point"}
 }

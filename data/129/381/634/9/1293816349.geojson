@@ -63,7 +63,7 @@
         "wk:page":"Pustniki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"042287cd5a1469ff20628276ca8bcb4c",
+    "wof:geomhash":"394f7761db80088c306952af7f8680cf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     21.14898,
     53.87428000000001
 ],
-  "geometry": {"coordinates":[21.14898,53.87428000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.14898,53.87428],"type":"Point"}
 }

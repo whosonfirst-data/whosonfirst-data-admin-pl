@@ -54,7 +54,7 @@
         "wk:page":"Podolany%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2c1aad55773438fd460c12749034cc47",
+    "wof:geomhash":"90a43ba8bdd4b94850310a0699358b7c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.47705,
     51.18924000000001
 ],
-  "geometry": {"coordinates":[21.47705,51.18924000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.47705,51.18924],"type":"Point"}
 }

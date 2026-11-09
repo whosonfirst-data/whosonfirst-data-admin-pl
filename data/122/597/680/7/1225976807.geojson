@@ -51,7 +51,7 @@
         "wk:page":"Be%C5%82szewo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"baadae2cb512f7cff5e68db88ac3b2e8",
+    "wof:geomhash":"87be5674a8e586c7d991ade57c8a4f76",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.7,
     52.63333000000001
 ],
-  "geometry": {"coordinates":[18.7,52.63333000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.7,52.63333],"type":"Point"}
 }

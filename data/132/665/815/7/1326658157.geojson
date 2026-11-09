@@ -54,7 +54,7 @@
         "wk:page":"Silice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"72e8921ec7e8c21af89130a8de82a323",
+    "wof:geomhash":"eb3c1567a77980cad8c6edbd6281b529",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.63262000000001,
     53.75496
 ],
-  "geometry": {"coordinates":[20.63262000000001,53.75496],"type":"Point"}
+  "geometry": {"coordinates":[20.63262,53.75496],"type":"Point"}
 }

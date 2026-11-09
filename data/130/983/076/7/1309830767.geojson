@@ -51,7 +51,7 @@
         "wk:page":"Glinno_Wielkie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d8c49a885c48d9447d4ba194d71926da",
+    "wof:geomhash":"a07dab6e2a9992659f31973bf1b3579d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.34231,
     52.96814000000001
 ],
-  "geometry": {"coordinates":[18.34231,52.96814000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.34231,52.96814],"type":"Point"}
 }

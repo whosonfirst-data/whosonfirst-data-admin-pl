@@ -63,7 +63,7 @@
         "wk:page":"%C5%81oknica"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c3dca3e398f18f470823edc9f977c2ea",
+    "wof:geomhash":"f6d9093120ee35486818089690d7203f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     23.35903,
     52.78534000000001
 ],
-  "geometry": {"coordinates":[23.35903,52.78534000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.35903,52.78534],"type":"Point"}
 }

@@ -51,7 +51,7 @@
         "wk:page":"Pturek"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b751cc6d6af1e770817ceeb3b8095b03",
+    "wof:geomhash":"d402ff66a49d17aa4c7306272a5aa4fb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.87819,
     52.88198000000001
 ],
-  "geometry": {"coordinates":[17.87819,52.88198000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.87819,52.88198],"type":"Point"}
 }

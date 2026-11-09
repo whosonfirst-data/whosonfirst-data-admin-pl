@@ -60,7 +60,7 @@
         "wk:page":"Tward%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"395901559d3e3d4efb42060fe6c4672a",
+    "wof:geomhash":"f45e68eaad552d4c25b32211b00268b5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     17.62156000000001,
     51.94797
 ],
-  "geometry": {"coordinates":[17.62156000000001,51.94797],"type":"Point"}
+  "geometry": {"coordinates":[17.62156,51.94797],"type":"Point"}
 }

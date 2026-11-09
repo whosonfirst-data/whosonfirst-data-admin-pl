@@ -51,7 +51,7 @@
         "wk:page":"Dobros%C5%82aw%2C_%C5%81%C3%B3d%C5%BA_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"89a9e09f10f6ad414c91c7f346039fd1",
+    "wof:geomhash":"5e5079dbe65a4ab08bf53bfbeff7fd01",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.47229,
     51.35169000000001
 ],
-  "geometry": {"coordinates":[18.47229,51.35169000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.47229,51.35169],"type":"Point"}
 }

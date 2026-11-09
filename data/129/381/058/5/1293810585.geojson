@@ -51,7 +51,7 @@
         "wk:page":"Gogolice%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"aa92684b423addf2e4a8eb18a27bd3af",
+    "wof:geomhash":"9c272782dd5204f3ca53cfbbdddd400d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     16.13044,
     52.75973000000001
 ],
-  "geometry": {"coordinates":[16.13044,52.75973000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.13044,52.75973],"type":"Point"}
 }

@@ -51,7 +51,7 @@
         "wk:page":"Chwastnica%2C_Lower_Silesian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"08d6666072e6858cfb6d8515db23a1e1",
+    "wof:geomhash":"d1b8bfde17d6032bebcb1be2ee176ba2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.11977000000001,
     50.92541
 ],
-  "geometry": {"coordinates":[17.11977000000001,50.92541],"type":"Point"}
+  "geometry": {"coordinates":[17.11977,50.92541],"type":"Point"}
 }

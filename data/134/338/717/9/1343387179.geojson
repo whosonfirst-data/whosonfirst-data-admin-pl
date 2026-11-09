@@ -48,7 +48,7 @@
         "wk:page":"R%C3%B3%C5%BCa_Ma%C5%82a"
     },
     "wof:country":"PL",
-    "wof:geomhash":"29a254128b7f539c0c3a21648dbebe37",
+    "wof:geomhash":"45d77baf4a15107858dcf357cede0398",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     16.48317999999999,
     53.15871
 ],
-  "geometry": {"coordinates":[16.48317999999999,53.15871],"type":"Point"}
+  "geometry": {"coordinates":[16.48318,53.15871],"type":"Point"}
 }

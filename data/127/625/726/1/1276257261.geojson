@@ -60,7 +60,7 @@
         "wk:page":"Kosiorowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"cef9e87e5c2787ee848538075bef1dc9",
+    "wof:geomhash":"3d1e12883f7e8dc341fa953d10e5ce6c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     20.86229,
     52.69600000000001
 ],
-  "geometry": {"coordinates":[20.86229,52.69600000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.86229,52.696],"type":"Point"}
 }

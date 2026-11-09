@@ -61,7 +61,7 @@
         "wk:page":"Emilian%C3%B3w%2C_Gostynin_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a7b3b0c00f963627c0169761bedb5e4a",
+    "wof:geomhash":"3cbfb4c4996f26d9da6c04d61cab22ad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     19.54674,
     52.47023000000001
 ],
-  "geometry": {"coordinates":[19.54674,52.47023000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.54674,52.47023],"type":"Point"}
 }

@@ -61,7 +61,7 @@
         "wk:page":"W%C5%82o%C5%9Bcib%C3%B3rz%2C_West_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5a1e42287381e21f7e1439a498636f8e",
+    "wof:geomhash":"8e6f04966c02e86a08f72d8041d631e0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     15.74095,
     54.08793000000001
 ],
-  "geometry": {"coordinates":[15.74095,54.08793000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.74095,54.08793],"type":"Point"}
 }

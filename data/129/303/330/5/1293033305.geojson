@@ -54,7 +54,7 @@
         "wk:page":"Bia%C5%82kowo%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3eec33eee9116ec613949e617220a62f",
+    "wof:geomhash":"c205a60a638d32870c1af6085f1c6412",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.83925,
     52.54938000000001
 ],
-  "geometry": {"coordinates":[19.83925,52.54938000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.83925,52.54938],"type":"Point"}
 }

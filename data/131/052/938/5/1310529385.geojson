@@ -54,7 +54,7 @@
         "wk:page":"Trzebni%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"47fe09da4bd7e689ce9422e150ef76a1",
+    "wof:geomhash":"2470e90d27c52ea9675bc330432aeef3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.43524,
     50.66334000000001
 ],
-  "geometry": {"coordinates":[19.43524,50.66334000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.43524,50.66334],"type":"Point"}
 }

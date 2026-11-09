@@ -54,7 +54,7 @@
         "wk:page":"Pogrzymie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"947e34ceb7c15fbd2c6e395a08cddaa9",
+    "wof:geomhash":"267dd1a509b02c79f13de61175bafb62",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     14.98363,
     53.53888000000001
 ],
-  "geometry": {"coordinates":[14.98363,53.53888000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.98363,53.53888],"type":"Point"}
 }

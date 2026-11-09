@@ -51,7 +51,7 @@
         "wk:page":"Kliny%2C_Opoczno_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"91404c3cecc2f66e00452e0663feb00d",
+    "wof:geomhash":"795d7a703ad7651e200e63a1962bc078",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     20.21608,
     51.37054000000001
 ],
-  "geometry": {"coordinates":[20.21608,51.37054000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.21608,51.37054],"type":"Point"}
 }

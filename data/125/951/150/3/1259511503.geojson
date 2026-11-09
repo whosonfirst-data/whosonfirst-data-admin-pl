@@ -60,7 +60,7 @@
         "wk:page":"Barszcze"
     },
     "wof:country":"PL",
-    "wof:geomhash":"cac657e073faba1299c45379ad3474f8",
+    "wof:geomhash":"7c3f31ca8bcd24783bd7e1e3a70b4d87",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     22.75607,
     53.74283000000001
 ],
-  "geometry": {"coordinates":[22.75607,53.74283000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.75607,53.74283],"type":"Point"}
 }

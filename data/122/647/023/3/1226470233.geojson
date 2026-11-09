@@ -54,7 +54,7 @@
         "wk:page":"Ochenki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"dc2b6215023f4c54aebbf9a969fe96eb",
+    "wof:geomhash":"3926eba7d12e62f94d2c072c2608df23",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.37962000000001,
     52.97237
 ],
-  "geometry": {"coordinates":[21.37962000000001,52.97237],"type":"Point"}
+  "geometry": {"coordinates":[21.37962,52.97237],"type":"Point"}
 }

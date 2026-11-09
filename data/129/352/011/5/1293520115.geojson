@@ -54,7 +54,7 @@
         "wk:page":"Kazn%C3%B3w%2C_%C5%81%C3%B3d%C5%BA_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"0c5e13ac49aa5d8f8912d328350f7867",
+    "wof:geomhash":"2c0bc1ef9518fc4de92237dbdf8a9bc2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.89786,
     52.07729000000001
 ],
-  "geometry": {"coordinates":[18.89786,52.07729000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.89786,52.07729],"type":"Point"}
 }

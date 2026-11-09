@@ -51,7 +51,7 @@
         "wk:page":"Gozdanin%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ae8929df3fe3272ac709df285095580d",
+    "wof:geomhash":"e33defdd80bd386801edfcc36af9b8d4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.98574,
     52.60248000000001
 ],
-  "geometry": {"coordinates":[17.98574,52.60248000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.98574,52.60248],"type":"Point"}
 }

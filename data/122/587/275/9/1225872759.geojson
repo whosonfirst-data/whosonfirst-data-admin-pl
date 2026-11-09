@@ -54,7 +54,7 @@
         "wk:page":"Suszyna"
     },
     "wof:country":"PL",
-    "wof:geomhash":"68d1cee71f3dd979609a2f3013d0db52",
+    "wof:geomhash":"297441f3119b466eecd8d131bc00fbd7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     16.52395,
     50.47564000000001
 ],
-  "geometry": {"coordinates":[16.52395,50.47564000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.52395,50.47564],"type":"Point"}
 }

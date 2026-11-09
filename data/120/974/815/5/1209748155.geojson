@@ -54,7 +54,7 @@
         "wk:page":"Rokitnica%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f0ca06743817a5dbf4a0c5f86cb33d2a",
+    "wof:geomhash":"1a079e9f062b83c062c5da5b894df649",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.49431,
     51.67724000000001
 ],
-  "geometry": {"coordinates":[20.49431,51.67724000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.49431,51.67724],"type":"Point"}
 }

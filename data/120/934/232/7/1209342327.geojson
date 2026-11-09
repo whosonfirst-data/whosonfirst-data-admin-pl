@@ -57,7 +57,7 @@
         "wk:page":"Brodowe_%C5%81%C4%85ki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"50e12d7d712c3758587c8ee61f57ad2a",
+    "wof:geomhash":"80c1294e303c52d2c781f3cff4fc7cde",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.22641,
     53.26448000000001
 ],
-  "geometry": {"coordinates":[21.22641,53.26448000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.22641,53.26448],"type":"Point"}
 }

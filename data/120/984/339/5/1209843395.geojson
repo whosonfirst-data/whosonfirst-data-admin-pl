@@ -54,7 +54,7 @@
         "wk:page":"G%C3%B3rnowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d5496564d77d93e2007ff3a3cee10b7b",
+    "wof:geomhash":"6a9758750fa99daeb43227f44b2bd0ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     14.675,
     53.04783000000001
 ],
-  "geometry": {"coordinates":[14.675,53.04783000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.675,53.04783],"type":"Point"}
 }

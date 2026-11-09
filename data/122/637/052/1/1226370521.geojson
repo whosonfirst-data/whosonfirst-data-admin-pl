@@ -55,7 +55,7 @@
         "wk:page":"Grochowa%2C_Z%C4%85bkowice_%C5%9Al%C4%85skie_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"415f62f4453cfb34800af3cb2448f7a1",
+    "wof:geomhash":"5eae41a151a6dc95a5a0c47d601831f6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,5 +82,5 @@
     16.75607999999999,
     50.55418
 ],
-  "geometry": {"coordinates":[16.75607999999999,50.55418],"type":"Point"}
+  "geometry": {"coordinates":[16.75608,50.55418],"type":"Point"}
 }

@@ -51,7 +51,7 @@
         "wk:page":"Oss%C3%B3wka%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f12b74f955b2e948deece2975df0ec7c",
+    "wof:geomhash":"9018558a649389f2b09534dae022fe0d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.78729,
     52.81153000000001
 ],
-  "geometry": {"coordinates":[18.78729,52.81153000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.78729,52.81153],"type":"Point"}
 }

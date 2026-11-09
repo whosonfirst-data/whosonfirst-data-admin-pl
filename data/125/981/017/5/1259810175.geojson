@@ -59,7 +59,7 @@
         "wk:page":"Piotrkowo%2C_I%C5%82awa_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"731049a212ea5733be70cd7cf6e9d864",
+    "wof:geomhash":"a9f34a289fdd728f200b075889905461",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,5 +86,5 @@
     19.50091,
     53.68091999999999
 ],
-  "geometry": {"coordinates":[19.50091,53.68091999999999],"type":"Point"}
+  "geometry": {"coordinates":[19.50091,53.68092],"type":"Point"}
 }

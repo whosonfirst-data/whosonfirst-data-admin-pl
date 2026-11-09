@@ -55,7 +55,7 @@
         "wk:page":"Okole%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f2f15dacf350123dad1adab9b55c19fc",
+    "wof:geomhash":"9b9ab03a5f31f2b6344680d1d055cb14",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,5 +85,5 @@
     17.94993999999999,
     53.29995
 ],
-  "geometry": {"coordinates":[17.94993999999999,53.29995],"type":"Point"}
+  "geometry": {"coordinates":[17.94994,53.29995],"type":"Point"}
 }

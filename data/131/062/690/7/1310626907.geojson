@@ -54,7 +54,7 @@
         "wk:page":"Krykajny"
     },
     "wof:country":"PL",
-    "wof:geomhash":"63dfab564f9db7b28da163fdc8f8ff43",
+    "wof:geomhash":"4f08a5c4c23b6ff59f98b95fa678759a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.97204,
     54.08273000000001
 ],
-  "geometry": {"coordinates":[19.97204,54.08273000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.97204,54.08273],"type":"Point"}
 }

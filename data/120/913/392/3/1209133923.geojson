@@ -54,7 +54,7 @@
         "wk:page":"Przymuszewo%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b14d237b208219687b11716b07993a41",
+    "wof:geomhash":"3eaf326d67b4fba73d53d086c9484489",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.65487000000001,
     53.55041
 ],
-  "geometry": {"coordinates":[17.65487000000001,53.55041],"type":"Point"}
+  "geometry": {"coordinates":[17.65487,53.55041],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"U%C5%9Bcikowiec"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a04fcc474ab51aac3c4bcd58f6158142",
+    "wof:geomhash":"a815d7f748e2189a59e9180ffd81fe7c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     16.75077000000001,
     52.66143
 ],
-  "geometry": {"coordinates":[16.75077000000001,52.66143],"type":"Point"}
+  "geometry": {"coordinates":[16.75077,52.66143],"type":"Point"}
 }

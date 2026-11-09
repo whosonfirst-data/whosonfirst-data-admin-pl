@@ -63,7 +63,7 @@
         "wk:page":"Krzeszna"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9846ed73ce40cc9b9ffee180458cb4bd",
+    "wof:geomhash":"3ecf006b103812f31c84622bf347331b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     18.08926,
     54.23533000000001
 ],
-  "geometry": {"coordinates":[18.08926,54.23533000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.08926,54.23533],"type":"Point"}
 }

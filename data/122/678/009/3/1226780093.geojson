@@ -59,7 +59,7 @@
         "wk:page":"Szkudaj"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9470f70d22a29e9dd36bf6a5e7a236eb",
+    "wof:geomhash":"8619029935101ff62f344748a70985c3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,5 +86,5 @@
     20.40779,
     53.26736999999999
 ],
-  "geometry": {"coordinates":[20.40779,53.26736999999999],"type":"Point"}
+  "geometry": {"coordinates":[20.40779,53.26737],"type":"Point"}
 }

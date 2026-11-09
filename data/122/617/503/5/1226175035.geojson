@@ -60,7 +60,7 @@
         "wk:page":"Pieni%C4%99%C5%BCnica"
     },
     "wof:country":"PL",
-    "wof:geomhash":"584060674431fbf1d08a73f1bde6efcb",
+    "wof:geomhash":"4ebb90429f0dbceab50d55999848d089",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     16.96231,
     53.85763000000001
 ],
-  "geometry": {"coordinates":[16.96231,53.85763000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.96231,53.85763],"type":"Point"}
 }

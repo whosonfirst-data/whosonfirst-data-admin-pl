@@ -57,7 +57,7 @@
         "wk:page":"Radkowice%2C_Kielce_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"360342f85cf1441c3ab3f509674b14c6",
+    "wof:geomhash":"dc8a19869e99b8b10cc2f20ad0c2ac6a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     20.50495,
     50.78814000000001
 ],
-  "geometry": {"coordinates":[20.50495,50.78814000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.50495,50.78814],"type":"Point"}
 }

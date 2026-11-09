@@ -54,7 +54,7 @@
         "wk:page":"Drzonowo%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"772a3e4c7d36497fc2dd6460c36b0386",
+    "wof:geomhash":"1a5e477ff8687acf4a4efdd1a7a98302",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.69794,
     53.25861999999999
 ],
-  "geometry": {"coordinates":[18.69794,53.25861999999999],"type":"Point"}
+  "geometry": {"coordinates":[18.69794,53.25862],"type":"Point"}
 }

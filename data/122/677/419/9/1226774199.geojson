@@ -60,7 +60,7 @@
         "wk:page":"Bracholin"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f7f05645269494442270fcc24913f103",
+    "wof:geomhash":"08e67610a6101e4fb60afe532a099bc0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     17.29524,
     52.81738000000001
 ],
-  "geometry": {"coordinates":[17.29524,52.81738000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.29524,52.81738],"type":"Point"}
 }

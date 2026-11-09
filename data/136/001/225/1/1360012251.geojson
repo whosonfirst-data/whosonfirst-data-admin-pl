@@ -54,7 +54,7 @@
         "wk:page":"Rycerzewo%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9f8cc20a837718ad577b2eea6ea1389a",
+    "wof:geomhash":"5bee57e569627a2943737b198c831d85",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.16968,
     52.81968000000001
 ],
-  "geometry": {"coordinates":[18.16968,52.81968000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.16968,52.81968],"type":"Point"}
 }

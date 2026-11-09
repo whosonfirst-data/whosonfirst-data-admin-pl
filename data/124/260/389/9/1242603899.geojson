@@ -69,7 +69,7 @@
         "wk:page":"Motarzyno"
     },
     "wof:country":"PL",
-    "wof:geomhash":"dbe7d4932ab528151218f4303ff3b5bd",
+    "wof:geomhash":"5eae90a0d9e0116108bff0285fd7c646",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     17.33522,
     54.32533000000001
 ],
-  "geometry": {"coordinates":[17.33522,54.32533000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.33522,54.32533],"type":"Point"}
 }

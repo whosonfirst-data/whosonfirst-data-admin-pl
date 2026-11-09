@@ -55,7 +55,7 @@
         "wk:page":"Golenice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5384b69939e8a8f77e69a15653391dbd",
+    "wof:geomhash":"722081c5ca8dd5a972af0914a1794db5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,5 +82,5 @@
     14.78931,
     52.94864000000001
 ],
-  "geometry": {"coordinates":[14.78931,52.94864000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.78931,52.94864],"type":"Point"}
 }

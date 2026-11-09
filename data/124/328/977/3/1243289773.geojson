@@ -51,7 +51,7 @@
         "wk:page":"Strzydzew"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3ede3e4457874c376514ef46a3861e72",
+    "wof:geomhash":"e97fb231324371e938959eaf082ff277",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.71502000000001,
     51.96394
 ],
-  "geometry": {"coordinates":[17.71502000000001,51.96394],"type":"Point"}
+  "geometry": {"coordinates":[17.71502,51.96394],"type":"Point"}
 }

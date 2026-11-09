@@ -54,7 +54,7 @@
         "wk:page":"Ma%C5%82achowo%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ee574b85dce896671d496510263ac6c9",
+    "wof:geomhash":"6fbe8240d3fdcebd71f313b42a98d23c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.03602,
     52.67968000000001
 ],
-  "geometry": {"coordinates":[20.03602,52.67968000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.03602,52.67968],"type":"Point"}
 }

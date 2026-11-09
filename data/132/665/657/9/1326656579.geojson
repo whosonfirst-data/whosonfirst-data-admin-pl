@@ -51,7 +51,7 @@
         "wk:page":"Kielminek"
     },
     "wof:country":"PL",
-    "wof:geomhash":"48b975dfdfb65bff28c199bd5808475f",
+    "wof:geomhash":"5304c9ec5546ae3306900dfb84ae9f22",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.70811,
     54.01009000000001
 ],
-  "geometry": {"coordinates":[19.70811,54.01009000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.70811,54.01009],"type":"Point"}
 }

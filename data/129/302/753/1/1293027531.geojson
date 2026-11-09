@@ -57,7 +57,7 @@
         "wk:page":"Bogucin%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c0c68ef83872b9b32dc0b4ded35efea1",
+    "wof:geomhash":"bdf6589a39ad5f007026fa6271fb798b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     17.02508,
     52.43203000000001
 ],
-  "geometry": {"coordinates":[17.02508,52.43203000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.02508,52.43203],"type":"Point"}
 }

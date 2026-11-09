@@ -57,7 +57,7 @@
         "wk:page":"Poda%C5%84sko"
     },
     "wof:country":"PL",
-    "wof:geomhash":"05336f57b2bbc6febbe5271d0f8aa7e7",
+    "wof:geomhash":"0c81bfc2feb101694a8f9dc89137b931",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     14.88534,
     53.53263000000001
 ],
-  "geometry": {"coordinates":[14.88534,53.53263000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.88534,53.53263],"type":"Point"}
 }

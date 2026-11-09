@@ -51,7 +51,7 @@
         "wk:page":"Konstantowo%2C_%C5%9Awiecie_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"30b2f47b74801e212c5b83d66db2617f",
+    "wof:geomhash":"df8afb6c285b29ac4dba80148f2176e2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.27493,
     53.28986999999999
 ],
-  "geometry": {"coordinates":[18.27493,53.28986999999999],"type":"Point"}
+  "geometry": {"coordinates":[18.27493,53.28987],"type":"Point"}
 }

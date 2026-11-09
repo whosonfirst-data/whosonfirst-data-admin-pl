@@ -54,7 +54,7 @@
         "wk:page":"Topolina"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ef1d5c4099ce4bc2228472506079c5c9",
+    "wof:geomhash":"46904749cf29e0a3e0abacb401ff9825",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.87893,
     52.47841999999999
 ],
-  "geometry": {"coordinates":[20.87893,52.47841999999999],"type":"Point"}
+  "geometry": {"coordinates":[20.87893,52.47842],"type":"Point"}
 }

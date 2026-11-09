@@ -63,7 +63,7 @@
         "wk:page":"Muszkowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d8b868c802903cc008b19564d421690b",
+    "wof:geomhash":"2415c2cf8be29579e756552b45920552",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     14.98015,
     52.53758000000001
 ],
-  "geometry": {"coordinates":[14.98015,52.53758000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.98015,52.53758],"type":"Point"}
 }

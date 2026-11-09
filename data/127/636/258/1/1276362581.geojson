@@ -51,7 +51,7 @@
         "wk:page":"Chorzyna"
     },
     "wof:country":"PL",
-    "wof:geomhash":"98e38e7a7bfffcf7be0b18cba8c585d2",
+    "wof:geomhash":"4290a659a0bbf378ce022c40b61b9039",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.84377000000001,
     51.30172
 ],
-  "geometry": {"coordinates":[18.84377000000001,51.30172],"type":"Point"}
+  "geometry": {"coordinates":[18.84377,51.30172],"type":"Point"}
 }

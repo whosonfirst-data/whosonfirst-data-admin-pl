@@ -69,7 +69,7 @@
         "wk:page":"Bi%C4%99cino"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1f5d6d62adb0f42b35468df47654cddd",
+    "wof:geomhash":"4d73cbe2c0537db65699cb8603b3791c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     17.21812000000001,
     54.52188
 ],
-  "geometry": {"coordinates":[17.21812000000001,54.52188],"type":"Point"}
+  "geometry": {"coordinates":[17.21812,54.52188],"type":"Point"}
 }

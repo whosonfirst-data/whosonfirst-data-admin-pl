@@ -48,7 +48,7 @@
         "wk:page":"Przy%C5%82ap"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6cc6328cea46c77d9eb2c6f451362aa2",
+    "wof:geomhash":"bb29f9f6bf41047329590b0a16dda777",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     19.24247,
     54.32438000000001
 ],
-  "geometry": {"coordinates":[19.24247,54.32438000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.24247,54.32438],"type":"Point"}
 }

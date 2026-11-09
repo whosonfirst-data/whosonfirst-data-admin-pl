@@ -54,7 +54,7 @@
         "wk:page":"Chy%C5%BCe%2C_West_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"0943880dcb245d4615acc9dc3935fe62",
+    "wof:geomhash":"b3dc722d21c8a54b85cc9ab447b6ffcd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     15.80091,
     53.08748000000001
 ],
-  "geometry": {"coordinates":[15.80091,53.08748000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.80091,53.08748],"type":"Point"}
 }

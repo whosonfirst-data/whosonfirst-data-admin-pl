@@ -57,7 +57,7 @@
         "wk:page":"D%C5%82ugob%C3%B3r"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d8e29f64f63a11887a5b38045eb2b67b",
+    "wof:geomhash":"f29cabfc7f2da05558280a4479e8becc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     19.98571,
     54.22134000000001
 ],
-  "geometry": {"coordinates":[19.98571,54.22134000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.98571,54.22134],"type":"Point"}
 }

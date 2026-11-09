@@ -69,7 +69,7 @@
         "wk:page":"Bierkowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"26b062e77a598005c73ba5c962150261",
+    "wof:geomhash":"4f35c17f0d7b3e5fa7fdd2c0a0cfa804",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     16.93212999999999,
     54.47687
 ],
-  "geometry": {"coordinates":[16.93212999999999,54.47687],"type":"Point"}
+  "geometry": {"coordinates":[16.93213,54.47687],"type":"Point"}
 }

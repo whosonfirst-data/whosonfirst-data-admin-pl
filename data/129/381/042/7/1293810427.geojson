@@ -57,7 +57,7 @@
         "wk:page":"Sw%C4%99d%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d71e65ee2c6c40183b684607c69735de",
+    "wof:geomhash":"70616cfd131e98505ed972f8190c3e5e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     19.54511,
     51.90472000000001
 ],
-  "geometry": {"coordinates":[19.54511,51.90472000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.54511,51.90472],"type":"Point"}
 }

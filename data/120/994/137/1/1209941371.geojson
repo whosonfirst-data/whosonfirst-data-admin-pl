@@ -66,7 +66,7 @@
         "wk:page":"Wola_Starogrodzka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ba54336b4f7c32e43bf51151954865c2",
+    "wof:geomhash":"8baa5c7ca34c597a9bcbf153ebd7f92c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     21.61132000000001,
     52.00415
 ],
-  "geometry": {"coordinates":[21.61132000000001,52.00415],"type":"Point"}
+  "geometry": {"coordinates":[21.61132,52.00415],"type":"Point"}
 }

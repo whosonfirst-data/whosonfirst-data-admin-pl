@@ -57,7 +57,7 @@
         "wk:page":"U%C5%9Bcianek%2C_Podlaskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"cc0b88eeb6d75a995ed80edcbe304f9e",
+    "wof:geomhash":"b9cb7b729335faa86388c86cb86257a7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.61091,
     53.42449000000001
 ],
-  "geometry": {"coordinates":[22.61091,53.42449000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.61091,53.42449],"type":"Point"}
 }

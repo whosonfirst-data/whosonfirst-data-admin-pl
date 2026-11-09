@@ -54,7 +54,7 @@
         "wk:page":"Kocina%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"47176ce93885f81d41c95325033882a4",
+    "wof:geomhash":"d6e32f2c37e77a723c299ae2552ed499",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.63142999999999,
     51.43933
 ],
-  "geometry": {"coordinates":[17.63142999999999,51.43933],"type":"Point"}
+  "geometry": {"coordinates":[17.63143,51.43933],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"Odmy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"526bf181fc964a8b51db7c404416eb5c",
+    "wof:geomhash":"edae772644718fd1b2afa7b683c6235e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     19.95548,
     53.43813000000001
 ],
-  "geometry": {"coordinates":[19.95548,53.43813000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.95548,53.43813],"type":"Point"}
 }

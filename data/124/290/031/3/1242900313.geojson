@@ -57,7 +57,7 @@
         "wk:page":"Bryski%2C_%C5%81%C3%B3d%C5%BA_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1c3ea9532cfb0cca5a511e8138bc0d75",
+    "wof:geomhash":"8d2b404f103255aca39f5f8a6d94060b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     19.36667000000001,
     52.05
 ],
-  "geometry": {"coordinates":[19.36667000000001,52.05],"type":"Point"}
+  "geometry": {"coordinates":[19.36667,52.05],"type":"Point"}
 }

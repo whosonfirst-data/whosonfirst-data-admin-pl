@@ -57,7 +57,7 @@
         "wk:page":"Bo%C5%BCacin%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"da6f481c6128543c0580b498b844cb12",
+    "wof:geomhash":"3d45ed079e602b0b72514c8d9ba64cf0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     17.43227000000001,
     51.73448
 ],
-  "geometry": {"coordinates":[17.43227000000001,51.73448],"type":"Point"}
+  "geometry": {"coordinates":[17.43227,51.73448],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"D%C4%85browa%2C_W%C4%85growiec_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b0afb2f3231bdb0e1899cba3e8e62498",
+    "wof:geomhash":"2278de48374b7f78f31789d15b2bf2cb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.48929,
     52.80716999999999
 ],
-  "geometry": {"coordinates":[17.48929,52.80716999999999],"type":"Point"}
+  "geometry": {"coordinates":[17.48929,52.80717],"type":"Point"}
 }

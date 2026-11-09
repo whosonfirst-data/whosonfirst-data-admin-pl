@@ -57,7 +57,7 @@
         "wk:page":"Chromiec%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8328864155a5572f84b74ec1ba3b083f",
+    "wof:geomhash":"e2a12e46db34c07f276e254e1628c1c7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     17.28427000000001,
     52.04248
 ],
-  "geometry": {"coordinates":[17.28427000000001,52.04248],"type":"Point"}
+  "geometry": {"coordinates":[17.28427,52.04248],"type":"Point"}
 }

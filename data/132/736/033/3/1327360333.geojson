@@ -54,7 +54,7 @@
         "wk:page":"Rydzewo%2C_West_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4be1531937d0fbdc87db812c9d91edb1",
+    "wof:geomhash":"e7c0ab558f4942e55b798311166b42a4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     15.82509,
     53.61559000000001
 ],
-  "geometry": {"coordinates":[15.82509,53.61559000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.82509,53.61559],"type":"Point"}
 }

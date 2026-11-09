@@ -63,7 +63,7 @@
         "wk:page":"Jasiona%2C_Silesian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"852f184d9808352be687df3d40c0cc7b",
+    "wof:geomhash":"d79cd93d31f0369690b2bca912cbb7d7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     18.67778,
     50.46919000000001
 ],
-  "geometry": {"coordinates":[18.67778,50.46919000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.67778,50.46919],"type":"Point"}
 }

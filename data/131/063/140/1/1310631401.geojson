@@ -66,7 +66,7 @@
         "wk:page":"Jambrzyki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f618f34884bd68c628b711700cab6012",
+    "wof:geomhash":"0140f3211e74d53a213d84c3a6b1ceb3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     22.2493,
     53.54989000000001
 ],
-  "geometry": {"coordinates":[22.2493,53.54989000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.2493,53.54989],"type":"Point"}
 }

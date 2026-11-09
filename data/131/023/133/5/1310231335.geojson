@@ -51,7 +51,7 @@
         "wk:page":"Godzi%C4%99ba"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f84570a6885d25a1c1c1698195b415d2",
+    "wof:geomhash":"18f37a94e2d346a26370b69a8cdb451f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.36244,
     52.91079000000001
 ],
-  "geometry": {"coordinates":[18.36244,52.91079000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.36244,52.91079],"type":"Point"}
 }

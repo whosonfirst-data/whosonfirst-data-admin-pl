@@ -69,7 +69,7 @@
         "wk:page":"Olmonty"
     },
     "wof:country":"PL",
-    "wof:geomhash":"25ff3f6c6963fa6207ec9a484d93eb1b",
+    "wof:geomhash":"e11bff0455125d7d973b1b68b3e3a51c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     23.16606,
     53.08371999999999
 ],
-  "geometry": {"coordinates":[23.16606,53.08371999999999],"type":"Point"}
+  "geometry": {"coordinates":[23.16606,53.08372],"type":"Point"}
 }

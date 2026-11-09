@@ -66,7 +66,7 @@
         "wk:page":"Markowice%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"72ceb86989b438b58d551080cde60e04",
+    "wof:geomhash":"ac90cd07f3443a653bbc4f8d429c99b6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     18.21629,
     52.70724000000001
 ],
-  "geometry": {"coordinates":[18.21629,52.70724000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.21629,52.70724],"type":"Point"}
 }

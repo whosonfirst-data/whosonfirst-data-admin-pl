@@ -55,7 +55,7 @@
         "wk:page":"Ka%C5%82my"
     },
     "wof:country":"PL",
-    "wof:geomhash":"fb1591747ca86565ad6c88a2f0e2e4c3",
+    "wof:geomhash":"2ac8ac963645e39338eb2adbd2a35908",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,5 +82,5 @@
     21.15,
     54.18333000000001
 ],
-  "geometry": {"coordinates":[21.15,54.18333000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.15,54.18333],"type":"Point"}
 }

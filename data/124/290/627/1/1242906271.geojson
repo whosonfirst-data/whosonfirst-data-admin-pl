@@ -57,7 +57,7 @@
         "wk:page":"Bierzewice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4fc541ecbfac2826dc3057d33857796e",
+    "wof:geomhash":"7f81d3a2a167e63c307fe7850dbf4b43",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     19.48225,
     52.44733000000001
 ],
-  "geometry": {"coordinates":[19.48225,52.44733000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.48225,52.44733],"type":"Point"}
 }

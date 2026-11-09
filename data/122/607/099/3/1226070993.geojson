@@ -54,7 +54,7 @@
         "wk:page":"Os%C5%82owo%2C_Podlaskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"aa94b994f93e0798bce9487ecf12bd48",
+    "wof:geomhash":"be45b734d607dcadd6b39826961c7821",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.99317000000001,
     52.34721
 ],
-  "geometry": {"coordinates":[22.99317000000001,52.34721],"type":"Point"}
+  "geometry": {"coordinates":[22.99317,52.34721],"type":"Point"}
 }

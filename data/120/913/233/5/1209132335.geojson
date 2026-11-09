@@ -69,7 +69,7 @@
         "wk:page":"Borsuk%C3%B3wka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"da8cc8a881f8327067347055b9abdc71",
+    "wof:geomhash":"d5ad5582992b06a535bbeb5377a73bf6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     23.0,
     53.25
 ],
-  "geometry": {"coordinates":[23.0,53.25],"type":"Point"}
+  "geometry": {"coordinates":[23,53.25],"type":"Point"}
 }

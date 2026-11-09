@@ -54,7 +54,7 @@
         "wk:page":"Nowe_Zambrzyce"
     },
     "wof:country":"PL",
-    "wof:geomhash":"793b9982b364260b5df99bb731e24140",
+    "wof:geomhash":"897dd9aef52146fc2a92425edfbca714",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.54458,
     53.10098000000001
 ],
-  "geometry": {"coordinates":[22.54458,53.10098000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.54458,53.10098],"type":"Point"}
 }

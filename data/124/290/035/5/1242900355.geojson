@@ -54,7 +54,7 @@
         "wk:page":"Andrzej%C3%B3wka%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"0de3397410d1c162d5f75a908009bd87",
+    "wof:geomhash":"3a69faf1ff03e12806a3a458d8f19c03",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.60677,
     51.41229000000001
 ],
-  "geometry": {"coordinates":[21.60677,51.41229000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.60677,51.41229],"type":"Point"}
 }

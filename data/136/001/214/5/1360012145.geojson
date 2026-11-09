@@ -51,7 +51,7 @@
         "wk:page":"Wola_Ro%C5%BAwienicka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"94225058e19c75afad5d0cc1f8952ca2",
+    "wof:geomhash":"8be813264bcf03b1e3ef8c7667b0eb30",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     22.56712000000001,
     49.96248
 ],
-  "geometry": {"coordinates":[22.56712000000001,49.96248],"type":"Point"}
+  "geometry": {"coordinates":[22.56712,49.96248],"type":"Point"}
 }

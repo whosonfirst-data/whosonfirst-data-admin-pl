@@ -54,7 +54,7 @@
         "wk:page":"M%C4%85kownica"
     },
     "wof:country":"PL",
-    "wof:geomhash":"72297668acc5d8afb7e753b1df1816e2",
+    "wof:geomhash":"42a78ccc408bb8d56683c70a00d3b8f5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.77452000000001,
     52.41466
 ],
-  "geometry": {"coordinates":[17.77452000000001,52.41466],"type":"Point"}
+  "geometry": {"coordinates":[17.77452,52.41466],"type":"Point"}
 }

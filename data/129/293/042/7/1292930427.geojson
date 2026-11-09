@@ -54,7 +54,7 @@
         "wk:page":"Piotrk%C3%B3wek%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"0bf4af45b4b2f71f95b27bfb1a056a83",
+    "wof:geomhash":"90111ac93aa026677d3272c10a7b59e4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.96267000000001,
     52.40326
 ],
-  "geometry": {"coordinates":[19.96267000000001,52.40326],"type":"Point"}
+  "geometry": {"coordinates":[19.96267,52.40326],"type":"Point"}
 }

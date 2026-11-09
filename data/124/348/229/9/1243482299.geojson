@@ -60,7 +60,7 @@
         "wk:page":"Mojusz"
     },
     "wof:country":"PL",
-    "wof:geomhash":"0863486dbfd73cf49ce42b7d0fd783ef",
+    "wof:geomhash":"a6a444ca08f4de1aead00d5b1195f6cd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     17.96702999999999,
     54.346
 ],
-  "geometry": {"coordinates":[17.96702999999999,54.346],"type":"Point"}
+  "geometry": {"coordinates":[17.96703,54.346],"type":"Point"}
 }

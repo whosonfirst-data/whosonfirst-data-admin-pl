@@ -57,7 +57,7 @@
         "wk:page":"Stadniki%2C_Podlaskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ff7bbac0b165035c1c6da16ed3eb7db7",
+    "wof:geomhash":"ed00e05eed886270e249d0fa0d9554aa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.71567000000001,
     52.52526
 ],
-  "geometry": {"coordinates":[22.71567000000001,52.52526],"type":"Point"}
+  "geometry": {"coordinates":[22.71567,52.52526],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Czarna_Buchta"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1b9bcfb8d5d0e8159409c8f1ab2fbb90",
+    "wof:geomhash":"ca8f7b2f8cd9d183da5563e4be84c468",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     23.16142,
     54.13933000000001
 ],
-  "geometry": {"coordinates":[23.16142,54.13933000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.16142,54.13933],"type":"Point"}
 }

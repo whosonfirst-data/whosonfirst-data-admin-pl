@@ -54,7 +54,7 @@
         "wk:page":"Bzowo%2C_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8594f32b19842ee17cc66e3e09b26e15",
+    "wof:geomhash":"4a9d9d9a7766334eee258faf90ad7fc7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     16.84265,
     54.36293000000001
 ],
-  "geometry": {"coordinates":[16.84265,54.36293000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.84265,54.36293],"type":"Point"}
 }

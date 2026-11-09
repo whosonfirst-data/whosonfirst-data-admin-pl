@@ -54,7 +54,7 @@
         "wk:page":"Ojcewo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"565235f2208c9c4dd9f0fc097af14367",
+    "wof:geomhash":"c8a6288af9712e9f23f72ba9ecbf6203",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.80735,
     53.04333000000001
 ],
-  "geometry": {"coordinates":[21.80735,53.04333000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.80735,53.04333],"type":"Point"}
 }

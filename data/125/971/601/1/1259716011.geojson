@@ -54,7 +54,7 @@
         "wk:page":"Przytyki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"282e444540096446f52c04a81d9a6395",
+    "wof:geomhash":"0f75ab9d90804e006a20e59533ab6bb4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.10372000000001,
     51.10953
 ],
-  "geometry": {"coordinates":[22.10372000000001,51.10953],"type":"Point"}
+  "geometry": {"coordinates":[22.10372,51.10953],"type":"Point"}
 }

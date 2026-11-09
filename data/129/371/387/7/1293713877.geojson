@@ -63,7 +63,7 @@
         "wk:page":"Gwda_Wielka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2d60567fc9a9c8ff0154944a6f10e084",
+    "wof:geomhash":"f6c94f1e0d5b2f94164203349abf2e91",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     16.79854,
     53.73741999999999
 ],
-  "geometry": {"coordinates":[16.79854,53.73741999999999],"type":"Point"}
+  "geometry": {"coordinates":[16.79854,53.73742],"type":"Point"}
 }

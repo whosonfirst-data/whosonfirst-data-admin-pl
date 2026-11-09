@@ -54,7 +54,7 @@
         "wk:page":"Blichowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b6a16b230b3a8bc6b56e9ca2dceae64b",
+    "wof:geomhash":"43b8e681e82d127af2d7fa10482d0d4c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.00219,
     52.56036999999999
 ],
-  "geometry": {"coordinates":[20.00219,52.56036999999999],"type":"Point"}
+  "geometry": {"coordinates":[20.00219,52.56037],"type":"Point"}
 }

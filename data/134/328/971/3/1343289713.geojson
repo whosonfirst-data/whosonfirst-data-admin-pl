@@ -51,7 +51,7 @@
         "wk:page":"%C5%9Awi%C4%99te%2C_Grudzi%C4%85dz_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c61b33f128719fe49610c736d1e347b7",
+    "wof:geomhash":"54a7b2d4eb58e743e2e643b8d7051048",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.18882,
     53.52591999999999
 ],
-  "geometry": {"coordinates":[19.18882,53.52591999999999],"type":"Point"}
+  "geometry": {"coordinates":[19.18882,53.52592],"type":"Point"}
 }

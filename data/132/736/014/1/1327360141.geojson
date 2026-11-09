@@ -51,7 +51,7 @@
         "wk:page":"Dzi%C4%99giel%2C_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"cc940b4807ce5d7db93f29e613e812a6",
+    "wof:geomhash":"295bb5332deba1d5fe1d1e04e2b05a2f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.45,
     53.88333000000001
 ],
-  "geometry": {"coordinates":[17.45,53.88333000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.45,53.88333],"type":"Point"}
 }

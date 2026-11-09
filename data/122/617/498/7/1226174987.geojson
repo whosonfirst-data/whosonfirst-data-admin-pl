@@ -60,7 +60,7 @@
         "wk:page":"Dramin"
     },
     "wof:country":"PL",
-    "wof:geomhash":"82385bebe379e72e6aa17ff4b3f3a15d",
+    "wof:geomhash":"ef3d7239826d5e7900d3d5aae045dcf0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     20.22637000000001,
     52.76839
 ],
-  "geometry": {"coordinates":[20.22637000000001,52.76839],"type":"Point"}
+  "geometry": {"coordinates":[20.22637,52.76839],"type":"Point"}
 }

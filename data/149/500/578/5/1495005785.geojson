@@ -58,7 +58,7 @@
         "wk:page":"Wielowie%C5%9B%2C_Ostr%C3%B3w_Wielkopolski_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9d3127bcca08e4ab3faa490a0b055bc7",
+    "wof:geomhash":"93b9c3a9b85049c5b4abd8c175ccae2e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     18.08927000000001,
     51.60058
 ],
-  "geometry": {"coordinates":[18.08927000000001,51.60058],"type":"Point"}
+  "geometry": {"coordinates":[18.08927,51.60058],"type":"Point"}
 }

@@ -55,7 +55,7 @@
         "wk:page":"Liplas"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4c98f4a81d1287ce94992d466097baec",
+    "wof:geomhash":"0f3737e3753e29b4bc6bef608de46ace",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,5 +82,5 @@
     20.20695,
     49.93089000000001
 ],
-  "geometry": {"coordinates":[20.20695,49.93089000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.20695,49.93089],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Wakij%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a44238a30769eebda27606b1e6131ee1",
+    "wof:geomhash":"0d911c26389a29b82d343ddc9dc69ce6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     23.68302000000001,
     50.68588
 ],
-  "geometry": {"coordinates":[23.68302000000001,50.68588],"type":"Point"}
+  "geometry": {"coordinates":[23.68302,50.68588],"type":"Point"}
 }

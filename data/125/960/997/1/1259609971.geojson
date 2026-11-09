@@ -60,7 +60,7 @@
         "wk:page":"Karwice%2C_S%C5%82awno_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4a0ef5cd677e2091cd96a93754e83198",
+    "wof:geomhash":"5114dbf8c7264ed166f90a6b1092e336",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     16.56172999999999,
     54.33236
 ],
-  "geometry": {"coordinates":[16.56172999999999,54.33236],"type":"Point"}
+  "geometry": {"coordinates":[16.56173,54.33236],"type":"Point"}
 }

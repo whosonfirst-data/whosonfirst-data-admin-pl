@@ -51,7 +51,7 @@
         "wk:page":"Oporowo%2C_Szamotu%C5%82y_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"28e2a7532c3b0b364c14df19453449c5",
+    "wof:geomhash":"76a7538250703080a602f0bf6bdbc3f3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     16.42341,
     52.66486999999999
 ],
-  "geometry": {"coordinates":[16.42341,52.66486999999999],"type":"Point"}
+  "geometry": {"coordinates":[16.42341,52.66487],"type":"Point"}
 }

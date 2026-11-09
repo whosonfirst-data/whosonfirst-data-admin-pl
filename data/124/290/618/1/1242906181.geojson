@@ -69,7 +69,7 @@
         "wk:page":"Zacharzyn"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9d6e3cdd10b8f23c3f1c7c1dd1491c55",
+    "wof:geomhash":"535baa8d481c702ec3f6067fa13f7d99",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     17.00532999999999,
     53.02427
 ],
-  "geometry": {"coordinates":[17.00532999999999,53.02427],"type":"Point"}
+  "geometry": {"coordinates":[17.00533,53.02427],"type":"Point"}
 }

@@ -63,7 +63,7 @@
         "wk:page":"Niek%C5%82onice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c7b9b47cbf2930692290e15d9c838b15",
+    "wof:geomhash":"5b646692f3fe35b241b7e14a00a8e7ad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     16.14588,
     54.15813000000001
 ],
-  "geometry": {"coordinates":[16.14588,54.15813000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.14588,54.15813],"type":"Point"}
 }

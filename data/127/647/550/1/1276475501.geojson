@@ -66,7 +66,7 @@
         "wk:page":"Garbas"
     },
     "wof:country":"PL",
-    "wof:geomhash":"35fd77621db60fcc97070b6dccae283b",
+    "wof:geomhash":"3ff1f8e6b7e7a1f56b892eb507623db4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     22.60883,
     54.14986999999999
 ],
-  "geometry": {"coordinates":[22.60883,54.14986999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.60883,54.14987],"type":"Point"}
 }

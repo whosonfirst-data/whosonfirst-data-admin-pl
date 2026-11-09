@@ -54,7 +54,7 @@
         "wk:page":"Marysin%2C_Wo%C5%82omin_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9bfee2ab9e262c7b68a4c34450a2afc2",
+    "wof:geomhash":"b071befed56d3a105003109ed0941110",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.70955,
     52.41204000000001
 ],
-  "geometry": {"coordinates":[21.70955,52.41204000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.70955,52.41204],"type":"Point"}
 }

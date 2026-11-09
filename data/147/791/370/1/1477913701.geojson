@@ -61,7 +61,7 @@
         "wk:page":"Ferma%2C_Poland"
     },
     "wof:country":"PL",
-    "wof:geomhash":"fa1b871215a9034b8f10be4706492d46",
+    "wof:geomhash":"38dffbad5238ccbe80fc97facd09448f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,5 +91,5 @@
     22.9937,
     52.92243000000001
 ],
-  "geometry": {"coordinates":[22.9937,52.92243000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.9937,52.92243],"type":"Point"}
 }

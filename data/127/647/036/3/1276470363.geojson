@@ -54,7 +54,7 @@
         "wk:page":"Cwaliny%2C_Podlaskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a6dbc269d0249eb53d23444a80e7ae98",
+    "wof:geomhash":"87b3b610a0cff7995d16feb019a16a61",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.20526,
     53.33476999999999
 ],
-  "geometry": {"coordinates":[22.20526,53.33476999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.20526,53.33477],"type":"Point"}
 }

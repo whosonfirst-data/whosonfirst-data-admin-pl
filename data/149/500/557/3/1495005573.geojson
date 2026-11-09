@@ -61,7 +61,7 @@
         "wk:page":"Szare"
     },
     "wof:country":"PL",
-    "wof:geomhash":"af4c2024dae0b9b96b1dd0da53c93b05",
+    "wof:geomhash":"7360fe25c9b99dc0242b75a0fa51e669",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,5 +91,5 @@
     19.05359,
     49.56100000000001
 ],
-  "geometry": {"coordinates":[19.05359,49.56100000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.05359,49.561],"type":"Point"}
 }

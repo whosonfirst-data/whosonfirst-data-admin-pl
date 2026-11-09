@@ -62,7 +62,7 @@
         "wk:page":"Wrotkowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3d5c5063c982d72d3b25e06045322b30",
+    "wof:geomhash":"baf4ad0701c35cc3a10f940adb56c013",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     22.34703,
     54.24398000000001
 ],
-  "geometry": {"coordinates":[22.34703,54.24398000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.34703,54.24398],"type":"Point"}
 }

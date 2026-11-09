@@ -63,7 +63,7 @@
         "wk:page":"Trudna"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9b009f1111317ba687ed9cb86dfe74d0",
+    "wof:geomhash":"94fecc96d877a5ad70623668180e2c56",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     17.09146,
     53.53856999999999
 ],
-  "geometry": {"coordinates":[17.09146,53.53856999999999],"type":"Point"}
+  "geometry": {"coordinates":[17.09146,53.53857],"type":"Point"}
 }

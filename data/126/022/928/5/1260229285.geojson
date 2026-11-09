@@ -51,7 +51,7 @@
         "wk:page":"D%C4%99biany%2C_Kazimierza_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f72283949ab1aa9df4dc138b382421aa",
+    "wof:geomhash":"937ce3a96ececa930f844ec00efe1d5d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     20.56529,
     50.31209000000001
 ],
-  "geometry": {"coordinates":[20.56529,50.31209000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.56529,50.31209],"type":"Point"}
 }

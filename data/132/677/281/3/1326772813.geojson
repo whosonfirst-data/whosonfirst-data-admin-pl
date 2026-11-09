@@ -57,7 +57,7 @@
         "wk:page":"Nieczulice%2C_%C5%9Awi%C4%99tokrzyskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"01b2ef9d5ac9331d632e218b3e8db681",
+    "wof:geomhash":"bd14baa2cc8f0f453296b008a9e660fb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.10757000000001,
     50.91332
 ],
-  "geometry": {"coordinates":[21.10757000000001,50.91332],"type":"Point"}
+  "geometry": {"coordinates":[21.10757,50.91332],"type":"Point"}
 }

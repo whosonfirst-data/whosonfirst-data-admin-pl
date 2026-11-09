@@ -58,7 +58,7 @@
         "wk:page":"Tupad%C5%82y%2C_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"641df798e2f1b3c68be40db772706f42",
+    "wof:geomhash":"b27e0e0e21503d83ba62aa7cebabc298",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,5 +85,5 @@
     18.31326,
     54.82403000000001
 ],
-  "geometry": {"coordinates":[18.31326,54.82403000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.31326,54.82403],"type":"Point"}
 }

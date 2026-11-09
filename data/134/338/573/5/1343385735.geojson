@@ -63,7 +63,7 @@
         "wk:page":"Falenty_Nowe"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e22584af9802b2bbd93ca4c19a3e81a5",
+    "wof:geomhash":"cf2cd8df1e6832822ae34ac3d15d9ef9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     20.93788,
     52.13744000000001
 ],
-  "geometry": {"coordinates":[20.93788,52.13744000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.93788,52.13744],"type":"Point"}
 }

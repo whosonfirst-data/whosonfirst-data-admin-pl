@@ -60,7 +60,7 @@
         "wk:page":"Bratowice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"fdd1949126a5ca7814821cb0897f818b",
+    "wof:geomhash":"8f4ee0d521dbede858cbc867fe62d864",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     17.13128,
     50.98654000000001
 ],
-  "geometry": {"coordinates":[17.13128,50.98654000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.13128,50.98654],"type":"Point"}
 }

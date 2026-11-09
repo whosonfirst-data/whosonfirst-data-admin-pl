@@ -54,7 +54,7 @@
         "wk:page":"Tomaryny"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a48ce0045b6f7c504823e07b493bccbd",
+    "wof:geomhash":"db95f8a2a5344d90dbbdf254f43f95f8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.21606,
     53.72646999999999
 ],
-  "geometry": {"coordinates":[20.21606,53.72646999999999],"type":"Point"}
+  "geometry": {"coordinates":[20.21606,53.72647],"type":"Point"}
 }

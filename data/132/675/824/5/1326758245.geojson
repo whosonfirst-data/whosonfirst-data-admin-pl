@@ -54,7 +54,7 @@
         "wk:page":"Bia%C5%82owie%C5%BCyn"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5494c103af50d472ebf2b4ef224f39ca",
+    "wof:geomhash":"223f8ea7aa7bf8b5a0eabdbaedb434f8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.16372,
     52.81789000000001
 ],
-  "geometry": {"coordinates":[19.16372,52.81789000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.16372,52.81789],"type":"Point"}
 }

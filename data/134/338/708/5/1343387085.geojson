@@ -61,7 +61,7 @@
         "wk:page":"Bia%C5%82ojany"
     },
     "wof:country":"PL",
-    "wof:geomhash":"0a9420a1e1c4e265a458d1d798cb0c88",
+    "wof:geomhash":"1063eb604fdbc7a5331e70c8b416ea95",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     22.22181,
     53.75109000000001
 ],
-  "geometry": {"coordinates":[22.22181,53.75109000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.22181,53.75109],"type":"Point"}
 }

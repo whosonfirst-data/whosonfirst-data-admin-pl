@@ -54,7 +54,7 @@
         "wk:page":"Pstr%C4%85g%C3%B3wka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"32bbf4d555e9239752a4b8409e69e6be",
+    "wof:geomhash":"d562b30de235c7687ea0e4e9051f0f5d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.60822000000001,
     49.88302
 ],
-  "geometry": {"coordinates":[21.60822000000001,49.88302],"type":"Point"}
+  "geometry": {"coordinates":[21.60822,49.88302],"type":"Point"}
 }

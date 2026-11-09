@@ -51,7 +51,7 @@
         "wk:page":"P%C3%B3%C5%82sierak%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5ed3ef420973c334eca5670d21414443",
+    "wof:geomhash":"4267f577f858af191ea6c3083e9ca18e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     22.39717000000001,
     50.47113
 ],
-  "geometry": {"coordinates":[22.39717000000001,50.47113],"type":"Point"}
+  "geometry": {"coordinates":[22.39717,50.47113],"type":"Point"}
 }

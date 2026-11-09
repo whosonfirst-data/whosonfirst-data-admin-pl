@@ -54,7 +54,7 @@
         "wk:page":"Mi%C5%82ach%C3%B3wek"
     },
     "wof:country":"PL",
-    "wof:geomhash":"0c056a2da2fd796ddccef5701ec1ffe5",
+    "wof:geomhash":"b0c1eb27f2de29c94b11240f85568789",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.65514,
     52.52858000000001
 ],
-  "geometry": {"coordinates":[18.65514,52.52858000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.65514,52.52858],"type":"Point"}
 }

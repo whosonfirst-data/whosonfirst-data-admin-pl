@@ -54,7 +54,7 @@
         "wk:page":"Pruskie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"fc4be1351e20613b33157c249f5ad9f0",
+    "wof:geomhash":"2026e6f46c5db677c5d8329488377637",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.2081,
     53.60236999999999
 ],
-  "geometry": {"coordinates":[18.2081,53.60236999999999],"type":"Point"}
+  "geometry": {"coordinates":[18.2081,53.60237],"type":"Point"}
 }

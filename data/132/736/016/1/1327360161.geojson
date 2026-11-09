@@ -60,7 +60,7 @@
         "wk:page":"Prochy%2C_Grodzisk_Wielkopolski_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3d5cd4e4266a85af7ce4866495ce2ead",
+    "wof:geomhash":"a8138be42d7757c8e26f5cb9648a4fbf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     16.30267000000001,
     52.10948
 ],
-  "geometry": {"coordinates":[16.30267000000001,52.10948],"type":"Point"}
+  "geometry": {"coordinates":[16.30267,52.10948],"type":"Point"}
 }

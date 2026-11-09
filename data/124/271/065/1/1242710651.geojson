@@ -57,7 +57,7 @@
         "wk:page":"Mamino"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7124afcb90b50fe573d54add582a534c",
+    "wof:geomhash":"0af560444845b5667c1ffd127a98d0a0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.31652,
     53.04408000000001
 ],
-  "geometry": {"coordinates":[21.31652,53.04408000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.31652,53.04408],"type":"Point"}
 }

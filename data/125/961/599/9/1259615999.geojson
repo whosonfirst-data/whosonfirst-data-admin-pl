@@ -57,7 +57,7 @@
         "wk:page":"Reszki%2C_Podlaskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4a44cfbfd05ad5e1c355ddd7951a1d2a",
+    "wof:geomhash":"fb53cc139b49fa474e2d09f053237f8d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.74239,
     53.81726999999999
 ],
-  "geometry": {"coordinates":[22.74239,53.81726999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.74239,53.81727],"type":"Point"}
 }

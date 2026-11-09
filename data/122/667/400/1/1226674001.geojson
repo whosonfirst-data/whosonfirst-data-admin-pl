@@ -72,7 +72,7 @@
         "wk:page":"%C5%81%C4%99czycki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ff9e0a3c0238d47dceee80620c1e740c",
+    "wof:geomhash":"a94283ff403fe0a824fde935c8cfca4b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,5 +99,5 @@
     22.51313,
     52.28769000000001
 ],
-  "geometry": {"coordinates":[22.51313,52.28769000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.51313,52.28769],"type":"Point"}
 }

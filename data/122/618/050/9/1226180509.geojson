@@ -57,7 +57,7 @@
         "wk:page":"Brynica%2C_%C5%9Awi%C4%99tokrzyskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7b64be8afb934dbe3be36a7fe1ba181e",
+    "wof:geomhash":"db979f113f67c7d59b4f81b91f6cb036",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     20.50681,
     50.90329000000001
 ],
-  "geometry": {"coordinates":[20.50681,50.90329000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.50681,50.90329],"type":"Point"}
 }

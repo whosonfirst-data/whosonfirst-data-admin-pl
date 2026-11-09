@@ -57,7 +57,7 @@
         "wk:page":"Rychn%C3%B3w%2C_West_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"423162b15719bb6dc04f5a907d8d64a5",
+    "wof:geomhash":"69d0e906da6115961e61097e909619ce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     15.12054,
     52.95943000000001
 ],
-  "geometry": {"coordinates":[15.12054,52.95943000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.12054,52.95943],"type":"Point"}
 }

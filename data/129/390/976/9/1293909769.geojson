@@ -57,7 +57,7 @@
         "wk:page":"R%C4%99bowo%2C_Gosty%C5%84_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"be4765cd015b46f66c9ae3e10aebcf07",
+    "wof:geomhash":"8cf6d264d6a40655de73961eed7047ea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     17.07992999999999,
     51.82131
 ],
-  "geometry": {"coordinates":[17.07992999999999,51.82131],"type":"Point"}
+  "geometry": {"coordinates":[17.07993,51.82131],"type":"Point"}
 }

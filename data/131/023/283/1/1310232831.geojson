@@ -69,7 +69,7 @@
         "wk:page":"Izbiszcze"
     },
     "wof:country":"PL",
-    "wof:geomhash":"0ffe6590e6748a12f8cc600cec56d426",
+    "wof:geomhash":"2fa24967c2660582804e19c26cdd672f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     22.87042000000001,
     53.084
 ],
-  "geometry": {"coordinates":[22.87042000000001,53.084],"type":"Point"}
+  "geometry": {"coordinates":[22.87042,53.084],"type":"Point"}
 }

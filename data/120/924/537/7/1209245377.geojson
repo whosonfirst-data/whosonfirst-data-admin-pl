@@ -66,7 +66,7 @@
         "wk:page":"Rogacze"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3300dad8af3a2bc157816566dfc000a0",
+    "wof:geomhash":"52cdbe7e93274562172214804dd5d8bc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     23.22562000000001,
     52.50718000000001
 ],
-  "geometry": {"coordinates":[23.22562000000001,52.50718000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.22562,52.50718],"type":"Point"}
 }

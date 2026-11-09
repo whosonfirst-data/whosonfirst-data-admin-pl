@@ -54,7 +54,7 @@
         "wk:page":"Szulbory"
     },
     "wof:country":"PL",
-    "wof:geomhash":"eafd506a33054851f9f7618237a66a90",
+    "wof:geomhash":"babdcf8226d09c449ea8f181bdc84d33",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.05354,
     52.59988000000001
 ],
-  "geometry": {"coordinates":[20.05354,52.59988000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.05354,52.59988],"type":"Point"}
 }

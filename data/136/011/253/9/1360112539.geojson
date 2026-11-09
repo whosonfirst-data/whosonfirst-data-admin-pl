@@ -67,7 +67,7 @@
         "wk:page":"Biech%C3%B3w%2C_Opole_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1f74cd4adc1eda3898c8e06ac81615c4",
+    "wof:geomhash":"e83d7e96213f3f1e7ede58143585eabf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,5 +94,5 @@
     17.26072000000001,
     50.55707
 ],
-  "geometry": {"coordinates":[17.26072000000001,50.55707],"type":"Point"}
+  "geometry": {"coordinates":[17.26072,50.55707],"type":"Point"}
 }

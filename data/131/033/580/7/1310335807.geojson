@@ -51,7 +51,7 @@
         "wk:page":"Grabowiec%2C_Grudzi%C4%85dz_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7921fa599dd3e04eb360624ab39158dd",
+    "wof:geomhash":"e09b51ff08ef19c5e6987c9a56c78deb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.86891,
     53.49061999999999
 ],
-  "geometry": {"coordinates":[18.86891,53.49061999999999],"type":"Point"}
+  "geometry": {"coordinates":[18.86891,53.49062],"type":"Point"}
 }

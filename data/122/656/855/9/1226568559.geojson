@@ -60,7 +60,7 @@
         "wk:page":"Krawara"
     },
     "wof:country":"PL",
-    "wof:geomhash":"69da5d8342b833117685ccb58d09627e",
+    "wof:geomhash":"0e178fec84f4a178190b34b05ad6af17",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     20.82115,
     51.27334000000001
 ],
-  "geometry": {"coordinates":[20.82115,51.27334000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.82115,51.27334],"type":"Point"}
 }

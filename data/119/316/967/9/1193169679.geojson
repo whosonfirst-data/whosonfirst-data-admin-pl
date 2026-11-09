@@ -54,7 +54,7 @@
         "wk:page":"Wrzel%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"79702b2398f49ee84125c36b2d4351e4",
+    "wof:geomhash":"4868a981f136592ef36bd8774a7b82a8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.8585,
     51.20549000000001
 ],
-  "geometry": {"coordinates":[21.8585,51.20549000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.8585,51.20549],"type":"Point"}
 }

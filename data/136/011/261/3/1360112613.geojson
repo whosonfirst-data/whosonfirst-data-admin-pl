@@ -54,7 +54,7 @@
         "wk:page":"Wola_Ucha%C5%84ska"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2ccbc7fb0a9593a30cfc9e50cf127827",
+    "wof:geomhash":"05b772a7f72326834572fb3e31366889",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     23.63797000000001,
     50.91069
 ],
-  "geometry": {"coordinates":[23.63797000000001,50.91069],"type":"Point"}
+  "geometry": {"coordinates":[23.63797,50.91069],"type":"Point"}
 }

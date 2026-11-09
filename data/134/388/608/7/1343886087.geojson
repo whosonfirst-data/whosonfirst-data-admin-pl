@@ -60,7 +60,7 @@
         "wk:page":"Kluk%C3%B3wek"
     },
     "wof:country":"PL",
-    "wof:geomhash":"13891aecbd20936e97f6b8a354473275",
+    "wof:geomhash":"9e55ef22e0007260242d9e6ef2b95e3b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     20.72112000000001,
     52.67016
 ],
-  "geometry": {"coordinates":[20.72112000000001,52.67016],"type":"Point"}
+  "geometry": {"coordinates":[20.72112,52.67016],"type":"Point"}
 }

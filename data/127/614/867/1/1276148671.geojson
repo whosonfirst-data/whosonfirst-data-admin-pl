@@ -54,7 +54,7 @@
         "wk:page":"D%C4%99biny%2C_Przasnysz_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"59bc75727f699b44160d38bbdb12c16d",
+    "wof:geomhash":"75bba61d8fdc9585cfde822357a13fac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.99596,
     53.05628000000001
 ],
-  "geometry": {"coordinates":[20.99596,53.05628000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.99596,53.05628],"type":"Point"}
 }

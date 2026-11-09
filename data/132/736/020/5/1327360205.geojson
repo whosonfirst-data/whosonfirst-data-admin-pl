@@ -54,7 +54,7 @@
         "wk:page":"Pu%C5%82kowice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2385248afcd958feaa875fd7c2e5d045",
+    "wof:geomhash":"e3da47386991e3099caa3178ae335c54",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.03092,
     53.85713000000001
 ],
-  "geometry": {"coordinates":[19.03092,53.85713000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.03092,53.85713],"type":"Point"}
 }

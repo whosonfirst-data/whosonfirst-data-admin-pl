@@ -54,7 +54,7 @@
         "wk:page":"Stoczki%2C_Podlaskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"03f9f62170362bf5052cd24f1f4e6c36",
+    "wof:geomhash":"09cf0b2e98afc1a5ebe87d73568a55ad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.98333,
     53.03333000000001
 ],
-  "geometry": {"coordinates":[22.98333,53.03333000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.98333,53.03333],"type":"Point"}
 }

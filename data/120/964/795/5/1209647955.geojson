@@ -54,7 +54,7 @@
         "wk:page":"D%C4%85bie%2C_Opoczno_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"06ab0da11d161fec51f17811bf3bb756",
+    "wof:geomhash":"bcfe1eb68b5cf78cb54e79ed1ba592b0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.07571,
     51.21344000000001
 ],
-  "geometry": {"coordinates":[20.07571,51.21344000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.07571,51.21344],"type":"Point"}
 }

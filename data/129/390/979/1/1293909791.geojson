@@ -60,7 +60,7 @@
         "wk:page":"Ma%C5%82e_Che%C5%82my"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f6ab934bddd1ab84a9f4b70512ec3093",
+    "wof:geomhash":"e636b51ae16215ca0794a4245097bd41",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     17.62973999999999,
     53.89483000000001
 ],
-  "geometry": {"coordinates":[17.62973999999999,53.89483000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.62974,53.89483],"type":"Point"}
 }

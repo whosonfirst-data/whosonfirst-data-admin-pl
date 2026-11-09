@@ -66,7 +66,7 @@
         "wk:page":"Bodz%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c721b7a1838fc08bca6052384f2a0aca",
+    "wof:geomhash":"4ca25a2eb29de6b950ce1fc5df9c7d7f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     15.85705,
     51.70294000000001
 ],
-  "geometry": {"coordinates":[15.85705,51.70294000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.85705,51.70294],"type":"Point"}
 }

@@ -51,7 +51,7 @@
         "wk:page":"Przec%C5%82awka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f4bfd2b7051cd640c898e07e6b7f6035",
+    "wof:geomhash":"74a3508261a9cf3ee96c98a83e7e2c9c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     20.38337000000001,
     50.43266
 ],
-  "geometry": {"coordinates":[20.38337000000001,50.43266],"type":"Point"}
+  "geometry": {"coordinates":[20.38337,50.43266],"type":"Point"}
 }

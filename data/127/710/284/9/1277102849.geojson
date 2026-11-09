@@ -54,7 +54,7 @@
         "wk:page":"Damaszka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e6d280daee50abede7b9a5cacca21603",
+    "wof:geomhash":"a182fe8b50981fe88c521bc6a2292803",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.60362000000001,
     54.1
 ],
-  "geometry": {"coordinates":[18.60362000000001,54.1],"type":"Point"}
+  "geometry": {"coordinates":[18.60362,54.1],"type":"Point"}
 }

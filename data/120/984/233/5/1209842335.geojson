@@ -54,7 +54,7 @@
         "wk:page":"Witu%C5%82ty"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6049093d1a4e2a4f83dbc079fb5f61ac",
+    "wof:geomhash":"2d7184fdfbbe8b14396686db80cb215a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.30222,
     53.65338000000001
 ],
-  "geometry": {"coordinates":[20.30222,53.65338000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.30222,53.65338],"type":"Point"}
 }

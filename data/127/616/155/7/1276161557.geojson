@@ -51,7 +51,7 @@
         "wk:page":"Ruczyn%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"14434f637002b8f6bf60dff4fec09c7e",
+    "wof:geomhash":"27a4a8e32bc324b24e56cd553aa488b7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     20.83317000000001,
     50.47903
 ],
-  "geometry": {"coordinates":[20.83317000000001,50.47903],"type":"Point"}
+  "geometry": {"coordinates":[20.83317,50.47903],"type":"Point"}
 }

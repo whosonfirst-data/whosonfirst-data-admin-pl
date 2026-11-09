@@ -60,7 +60,7 @@
         "wk:page":"Kruczy_Borek"
     },
     "wof:country":"PL",
-    "wof:geomhash":"48bbbe234ffe800c2791aba0b1587519",
+    "wof:geomhash":"1dcf9d6e7d4edf4a1fee71ed6fd08e5a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     21.13147,
     52.62363000000001
 ],
-  "geometry": {"coordinates":[21.13147,52.62363000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.13147,52.62363],"type":"Point"}
 }

@@ -48,7 +48,7 @@
         "wk:page":"Piaseckie_Pola"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d547ea4dd23b5942a4029c687c8041fb",
+    "wof:geomhash":"f8d2d4d99e97ffcdddb42a8f64157af5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     18.74594,
     53.80278000000001
 ],
-  "geometry": {"coordinates":[18.74594,53.80278000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.74594,53.80278],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"%C5%81%C4%85czka%2C_Wyszk%C3%B3w_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d4ae6bba64329cea080bac9fbe687061",
+    "wof:geomhash":"099620344a5b4d7fb89bdfd59b2a8a00",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.62165,
     52.74359000000001
 ],
-  "geometry": {"coordinates":[21.62165,52.74359000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.62165,52.74359],"type":"Point"}
 }

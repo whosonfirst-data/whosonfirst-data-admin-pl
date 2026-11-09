@@ -54,7 +54,7 @@
         "wk:page":"Ksawer%C3%B3w%2C_Konin_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3f9aba51a40b2e9d5fa0e0d14816ad96",
+    "wof:geomhash":"bfb632ac224a1e7179f28ade9894fa14",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.46522,
     52.21422000000001
 ],
-  "geometry": {"coordinates":[18.46522,52.21422000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.46522,52.21422],"type":"Point"}
 }

@@ -63,7 +63,7 @@
         "wk:page":"Kaplonosy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4b237646a0f3c9365498ccf2f5d29750",
+    "wof:geomhash":"8ff6958eaaa1951c8423053b85859b7e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     23.33753,
     51.60169000000001
 ],
-  "geometry": {"coordinates":[23.33753,51.60169000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.33753,51.60169],"type":"Point"}
 }

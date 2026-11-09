@@ -54,7 +54,7 @@
         "wk:page":"Myszkowo%2C_Greater_Poland_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d2254e1cddaea94c4d861239b6429aaa",
+    "wof:geomhash":"16cd7963e1472326b0921e60cb4d12f6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     16.59039,
     52.55631999999999
 ],
-  "geometry": {"coordinates":[16.59039,52.55631999999999],"type":"Point"}
+  "geometry": {"coordinates":[16.59039,52.55632],"type":"Point"}
 }

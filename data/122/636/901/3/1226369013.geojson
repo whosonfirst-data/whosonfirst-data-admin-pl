@@ -58,7 +58,7 @@
         "wk:page":"Kiwajny"
     },
     "wof:country":"PL",
-    "wof:geomhash":"4e8a0339fe5a0b9968a890c7a4215b2a",
+    "wof:geomhash":"870421d8709322cd8d3d14fc6b24fc96",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,5 +85,5 @@
     20.39097000000001,
     54.37296
 ],
-  "geometry": {"coordinates":[20.39097000000001,54.37296],"type":"Point"}
+  "geometry": {"coordinates":[20.39097,54.37296],"type":"Point"}
 }

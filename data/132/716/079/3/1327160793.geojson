@@ -63,7 +63,7 @@
         "wk:page":"Habkowce"
     },
     "wof:country":"PL",
-    "wof:geomhash":"041cb787f134e42678c56027f64c45b3",
+    "wof:geomhash":"ed18b40118c03a95c833e0fb3435a54c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     22.30173,
     49.23139000000001
 ],
-  "geometry": {"coordinates":[22.30173,49.23139000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.30173,49.23139],"type":"Point"}
 }

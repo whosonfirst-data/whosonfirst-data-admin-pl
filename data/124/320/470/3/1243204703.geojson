@@ -66,7 +66,7 @@
         "wk:page":"Jastrowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8f5e633c5e329e5bc01cd1f9ef775d77",
+    "wof:geomhash":"cae09de47fc12f2b08d5c1385b004cfc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     16.52999,
     52.59334000000001
 ],
-  "geometry": {"coordinates":[16.52999,52.59334000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.52999,52.59334],"type":"Point"}
 }

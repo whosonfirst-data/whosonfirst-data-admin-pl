@@ -47,7 +47,7 @@
         "gn:id":776598
     },
     "wof:country":"PL",
-    "wof:geomhash":"8b6ff82c1ec7ee616f3f0ccd59e9e261",
+    "wof:geomhash":"c644c46742ebb1bbbcc0e5ea99eecc9b",
     "wof:hierarchy":[
         {
             "borough_id":1477921669,
@@ -78,5 +78,5 @@
     21.08236,
     52.33694000000001
 ],
-  "geometry": {"coordinates":[21.08236,52.33694000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.08236,52.33694],"type":"Point"}
 }

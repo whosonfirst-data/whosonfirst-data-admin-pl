@@ -51,7 +51,7 @@
         "wk:page":"Pa%C5%82atyki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f87577fabddc5a791639d5a4b34bd86b",
+    "wof:geomhash":"98b487a635d7bacf69cfd2e4e03d6525",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.25423,
     53.72971999999999
 ],
-  "geometry": {"coordinates":[19.25423,53.72971999999999],"type":"Point"}
+  "geometry": {"coordinates":[19.25423,53.72972],"type":"Point"}
 }

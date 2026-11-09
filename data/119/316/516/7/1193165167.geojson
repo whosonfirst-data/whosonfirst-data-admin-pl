@@ -54,7 +54,7 @@
         "wk:page":"To%C5%82win"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ec7ae74cc5d7a0911d5f44ef31445e58",
+    "wof:geomhash":"1ea1e9f474016dbe1612d06e0b710fe8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.95048,
     52.49668000000001
 ],
-  "geometry": {"coordinates":[22.95048,52.49668000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.95048,52.49668],"type":"Point"}
 }

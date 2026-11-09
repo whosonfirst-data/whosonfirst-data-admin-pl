@@ -56,7 +56,7 @@
         "wk:page":"%C5%81atana_Ma%C5%82a"
     },
     "wof:country":"PL",
-    "wof:geomhash":"64c559abdbc329165ab5c39c0fb753fd",
+    "wof:geomhash":"4b973152e67ef421e41dff89fb1870b0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,5 +83,5 @@
     21.0825,
     53.39836999999999
 ],
-  "geometry": {"coordinates":[21.0825,53.39836999999999],"type":"Point"}
+  "geometry": {"coordinates":[21.0825,53.39837],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"%C5%81%C4%99ka%2C_Lublin_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"422be75d992d35ae55be2717bd774c08",
+    "wof:geomhash":"353d7779e62c0605a69f71fcb6fa04ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.92596,
     51.44844000000001
 ],
-  "geometry": {"coordinates":[21.92596,51.44844000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.92596,51.44844],"type":"Point"}
 }

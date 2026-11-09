@@ -62,7 +62,7 @@
         "wk:page":"Barcin-Wie%C5%9B"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a7e078b1368810bffaaa3c2b4c3548c4",
+    "wof:geomhash":"3dcade5b90cf2fc2d36244c4484b2fbd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     17.95388999999999,
     52.89296
 ],
-  "geometry": {"coordinates":[17.95388999999999,52.89296],"type":"Point"}
+  "geometry": {"coordinates":[17.95389,52.89296],"type":"Point"}
 }

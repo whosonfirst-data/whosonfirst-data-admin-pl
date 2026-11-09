@@ -54,7 +54,7 @@
         "wk:page":"Roj%C4%99czyn"
     },
     "wof:country":"PL",
-    "wof:geomhash":"60f36d798d417a66754b8d52178b2e9e",
+    "wof:geomhash":"878f2fbdb7fb325d7b65c337491662bb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     16.70404,
     51.73804000000001
 ],
-  "geometry": {"coordinates":[16.70404,51.73804000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.70404,51.73804],"type":"Point"}
 }

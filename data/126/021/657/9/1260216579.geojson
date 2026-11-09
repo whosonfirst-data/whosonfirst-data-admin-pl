@@ -52,7 +52,7 @@
         "wk:page":"Wigwa%C5%82d"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e6dcd816a23b0a92531b8fbb63de421d",
+    "wof:geomhash":"ceb9191cb8f974d7c49eba9b62963fec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,5 +79,5 @@
     20.01667,
     53.63333000000001
 ],
-  "geometry": {"coordinates":[20.01667,53.63333000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.01667,53.63333],"type":"Point"}
 }

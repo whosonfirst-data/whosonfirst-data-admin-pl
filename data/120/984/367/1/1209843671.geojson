@@ -57,7 +57,7 @@
         "wk:page":"S%C5%82upeczno"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d6d13f8f517e3fd3ec003670e1376290",
+    "wof:geomhash":"a15ff69d3b2eae2c52e7fee867500fe5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.72898,
     50.91634000000001
 ],
-  "geometry": {"coordinates":[22.72898,50.91634000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.72898,50.91634],"type":"Point"}
 }

@@ -61,7 +61,7 @@
         "wk:page":"Ruda%2C_Pisz_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f2a66ccac5ca09c33925d30f91350f67",
+    "wof:geomhash":"a0d7af99aeffd1d7b8448835b8579567",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     22.00302000000001,
     53.66441999999999
 ],
-  "geometry": {"coordinates":[22.00302000000001,53.66441999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.00302,53.66442],"type":"Point"}
 }

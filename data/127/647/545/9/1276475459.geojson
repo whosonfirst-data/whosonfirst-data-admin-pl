@@ -60,7 +60,7 @@
         "wk:page":"Prej%C5%82owo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8ff53601ad9a49569689714e0cf00d9f",
+    "wof:geomhash":"346ec3233369602290d5faf13df1d244",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     20.72497000000001,
     53.74712
 ],
-  "geometry": {"coordinates":[20.72497000000001,53.74712],"type":"Point"}
+  "geometry": {"coordinates":[20.72497,53.74712],"type":"Point"}
 }

@@ -61,7 +61,7 @@
         "wk:page":"Spytajny"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1075a023c98fbe4f7fcbd202ecf0f151",
+    "wof:geomhash":"57bd5b4f857c5df810e336481eca242c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     20.75778,
     54.25083000000001
 ],
-  "geometry": {"coordinates":[20.75778,54.25083000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.75778,54.25083],"type":"Point"}
 }

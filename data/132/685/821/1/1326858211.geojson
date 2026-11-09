@@ -48,7 +48,7 @@
         "wk:page":"Raczkowice-Kolonia"
     },
     "wof:country":"PL",
-    "wof:geomhash":"86cc4e0c677997776abfcdfaacb0c63e",
+    "wof:geomhash":"fc879b30d754c199c54a152aa49edde0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     19.55379,
     50.87054000000001
 ],
-  "geometry": {"coordinates":[19.55379,50.87054000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.55379,50.87054],"type":"Point"}
 }

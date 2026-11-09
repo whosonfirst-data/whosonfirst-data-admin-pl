@@ -51,7 +51,7 @@
         "wk:page":"Gogo%C5%82owice%2C_Milicz_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"99f23d81261a29c3ba3e220a5a781e84",
+    "wof:geomhash":"3a8e4889ced94a56fee0c39a302166b8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.24595,
     51.56679000000001
 ],
-  "geometry": {"coordinates":[17.24595,51.56679000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.24595,51.56679],"type":"Point"}
 }

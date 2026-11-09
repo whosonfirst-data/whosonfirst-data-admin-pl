@@ -51,7 +51,7 @@
         "wk:page":"Suchor%C4%85czek"
     },
     "wof:country":"PL",
-    "wof:geomhash":"44dadeb3852038abc0c44a95acee77a4",
+    "wof:geomhash":"6c65cd53c49e76def50b9566d8858535",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.53029,
     53.36638000000001
 ],
-  "geometry": {"coordinates":[17.53029,53.36638000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.53029,53.36638],"type":"Point"}
 }

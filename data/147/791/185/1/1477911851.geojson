@@ -49,7 +49,7 @@
         "wk:page":"Glinki_%28Bydgoszcz_district%29"
     },
     "wof:country":"PL",
-    "wof:geomhash":"59929ddc7c8617975fda6638d409846b",
+    "wof:geomhash":"796d7e8a96558e05b1a90f04b605a869",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,5 +79,5 @@
     18.02007,
     53.10073000000001
 ],
-  "geometry": {"coordinates":[18.02007,53.10073000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.02007,53.10073],"type":"Point"}
 }

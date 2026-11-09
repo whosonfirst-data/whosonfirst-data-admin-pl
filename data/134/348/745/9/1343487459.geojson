@@ -69,7 +69,7 @@
         "wk:page":"Papowo_Toru%C5%84skie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6919f16d503d8d0af6b40bf83881dfa6",
+    "wof:geomhash":"a8f75562952c6fee031f8c4b9a0754c3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     18.6604,
     53.07686999999999
 ],
-  "geometry": {"coordinates":[18.6604,53.07686999999999],"type":"Point"}
+  "geometry": {"coordinates":[18.6604,53.07687],"type":"Point"}
 }

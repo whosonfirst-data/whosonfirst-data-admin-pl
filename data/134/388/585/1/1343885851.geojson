@@ -51,7 +51,7 @@
         "wk:page":"G%C5%82owaczewo%2C_Ko%C5%82obrzeg_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8a16d77b625291ed99b49ae8d5b5d7b3",
+    "wof:geomhash":"c8de0bd0c6b8b76897cb5aa986f18c7f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     15.43648,
     54.13308000000001
 ],
-  "geometry": {"coordinates":[15.43648,54.13308000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.43648,54.13308],"type":"Point"}
 }

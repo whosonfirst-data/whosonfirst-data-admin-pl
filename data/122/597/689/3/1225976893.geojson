@@ -57,7 +57,7 @@
         "wk:page":"Poniaty"
     },
     "wof:country":"PL",
-    "wof:geomhash":"0fbc634ce6bf66da67c28f749d4a9b70",
+    "wof:geomhash":"c269e1d023f40a93611d4c5dbe864afd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.55279,
     52.60664000000001
 ],
-  "geometry": {"coordinates":[22.55279,52.60664000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.55279,52.60664],"type":"Point"}
 }

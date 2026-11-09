@@ -51,7 +51,7 @@
         "wk:page":"Imno%2C_Goleni%C3%B3w_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1288fcab82b81f5c118c9b1153da5c5a",
+    "wof:geomhash":"9cc6448a6f3a53033fc3a06d40f41d53",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     14.93384,
     53.55663000000001
 ],
-  "geometry": {"coordinates":[14.93384,53.55663000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.93384,53.55663],"type":"Point"}
 }

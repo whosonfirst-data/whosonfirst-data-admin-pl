@@ -69,7 +69,7 @@
         "wk:page":"Straszewo%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ad59896bd5fbf0d08e433a9fbaece57b",
+    "wof:geomhash":"8edd9bced8969c742b14336eb095fc8f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     18.65221,
     52.79768000000001
 ],
-  "geometry": {"coordinates":[18.65221,52.79768000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.65221,52.79768],"type":"Point"}
 }

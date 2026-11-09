@@ -57,7 +57,7 @@
         "wk:page":"Zdr%C4%99by"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d48f581a51253bb758543a01baba1b5d",
+    "wof:geomhash":"f379c5861754b10450cfd55d6d2690e2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.71406,
     54.11463000000001
 ],
-  "geometry": {"coordinates":[22.71406,54.11463000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.71406,54.11463],"type":"Point"}
 }

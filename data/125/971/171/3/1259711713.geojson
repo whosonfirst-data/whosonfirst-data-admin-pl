@@ -54,7 +54,7 @@
         "wk:page":"Gumowo%2C_Ostr%C3%B3w_Mazowiecka_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3cfc83c1cdd9d44964111cef8c6e4ac0",
+    "wof:geomhash":"923384ba1876c21b4995d21e1720c979",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.95395,
     52.91376999999999
 ],
-  "geometry": {"coordinates":[21.95395,52.91376999999999],"type":"Point"}
+  "geometry": {"coordinates":[21.95395,52.91377],"type":"Point"}
 }

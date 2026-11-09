@@ -54,7 +54,7 @@
         "wk:page":"Majk%C3%B3w%2C_%C5%9Awi%C4%99tokrzyskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6f77859821029893b57f57fd552919e1",
+    "wof:geomhash":"c374d1253a559332e7fffacfe71eedbe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.91172000000001,
     51.09391
 ],
-  "geometry": {"coordinates":[20.91172000000001,51.09391],"type":"Point"}
+  "geometry": {"coordinates":[20.91172,51.09391],"type":"Point"}
 }

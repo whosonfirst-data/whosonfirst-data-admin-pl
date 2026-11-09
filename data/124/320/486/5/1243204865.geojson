@@ -54,7 +54,7 @@
         "wk:page":"Zdzi%C4%99tawy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2f63aa3d9d2e5141dc1c456cc0820402",
+    "wof:geomhash":"be195ba0495e2dfa2264c560e75fa878",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.14552999999999,
     51.69639
 ],
-  "geometry": {"coordinates":[17.14552999999999,51.69639],"type":"Point"}
+  "geometry": {"coordinates":[17.14553,51.69639],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Sobolewo%2C_Wysokie_Mazowieckie_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b3f93291678661d33ec44f45a25d3030",
+    "wof:geomhash":"71c527f42e2b1801c1a03da66e0356a8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.49348,
     52.79913000000001
 ],
-  "geometry": {"coordinates":[22.49348,52.79913000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.49348,52.79913],"type":"Point"}
 }

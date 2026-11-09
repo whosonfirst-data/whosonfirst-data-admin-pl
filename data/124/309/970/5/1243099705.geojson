@@ -57,7 +57,7 @@
         "wk:page":"Bruszczewo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ad075fdd390463d2df0e33861af9d5cd",
+    "wof:geomhash":"d68f7926fd879b50dabafdacd6e0214a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     16.57391,
     52.00924000000001
 ],
-  "geometry": {"coordinates":[16.57391,52.00924000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.57391,52.00924],"type":"Point"}
 }

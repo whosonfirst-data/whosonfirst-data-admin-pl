@@ -63,7 +63,7 @@
         "wk:page":"Kowalewskie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"0cae476aa681c9b7855583fd3d3fa29f",
+    "wof:geomhash":"39c711361821adcb7c5443360acb42ed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     22.13333,
     54.03333000000001
 ],
-  "geometry": {"coordinates":[22.13333,54.03333000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.13333,54.03333],"type":"Point"}
 }

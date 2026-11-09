@@ -51,7 +51,7 @@
         "wk:page":"Franklin%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f2deccfc0bfb121ec2965964b1b7cb33",
+    "wof:geomhash":"47e90c025cd937f6f4703d3a379ba810",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.81102000000001,
     51.69118
 ],
-  "geometry": {"coordinates":[17.81102000000001,51.69118],"type":"Point"}
+  "geometry": {"coordinates":[17.81102,51.69118],"type":"Point"}
 }

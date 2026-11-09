@@ -51,7 +51,7 @@
         "wk:page":"Mrowina-Kolonia"
     },
     "wof:country":"PL",
-    "wof:geomhash":"eaa4a024f4b74a7faf6765556b8dce12",
+    "wof:geomhash":"4964ccd6a0c173ea2610563425202f13",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     19.88122000000001,
     50.9861
 ],
-  "geometry": {"coordinates":[19.88122000000001,50.9861],"type":"Point"}
+  "geometry": {"coordinates":[19.88122,50.9861],"type":"Point"}
 }

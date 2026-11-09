@@ -62,7 +62,7 @@
         "wk:page":"Bogatka%2C_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5db4888663434308acea9c92c7129d9c",
+    "wof:geomhash":"04255014e921b14be56cbe2f74aa660b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     18.77546,
     54.32253000000001
 ],
-  "geometry": {"coordinates":[18.77546,54.32253000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.77546,54.32253],"type":"Point"}
 }

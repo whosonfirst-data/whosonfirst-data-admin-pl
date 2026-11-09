@@ -69,7 +69,7 @@
         "wk:page":"Napachanie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e2236a9bd84226f5c58d4c4426057b00",
+    "wof:geomhash":"aa8769a88c3aadfba29ae0e7007e11d9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     16.72617,
     52.48518000000001
 ],
-  "geometry": {"coordinates":[16.72617,52.48518000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.72617,52.48518],"type":"Point"}
 }

@@ -63,7 +63,7 @@
         "wk:page":"Podmacharce"
     },
     "wof:country":"PL",
-    "wof:geomhash":"10d74eab3d92d2e7c1268b8760938f1f",
+    "wof:geomhash":"b51372eee4bacc5e798d3e861a122b9f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     23.21056,
     53.94396999999999
 ],
-  "geometry": {"coordinates":[23.21056,53.94396999999999],"type":"Point"}
+  "geometry": {"coordinates":[23.21056,53.94397],"type":"Point"}
 }

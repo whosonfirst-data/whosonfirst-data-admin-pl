@@ -57,7 +57,7 @@
         "wk:page":"Brzozowo_Stare"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b8b4d61ab6902837f96a9b5e946e9dd7",
+    "wof:geomhash":"2b626c7ebc90187130d253582638c010",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.77811,
     52.89731999999999
 ],
-  "geometry": {"coordinates":[22.77811,52.89731999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.77811,52.89732],"type":"Point"}
 }

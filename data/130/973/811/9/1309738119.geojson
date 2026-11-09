@@ -54,7 +54,7 @@
         "wk:page":"Kijanka%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"30d53a5cfa7f8405d1a87f571dcae6c7",
+    "wof:geomhash":"77424f377b067ac2fc44e47e5561f329",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.73782000000001,
     51.2704
 ],
-  "geometry": {"coordinates":[21.73782000000001,51.2704],"type":"Point"}
+  "geometry": {"coordinates":[21.73782,51.2704],"type":"Point"}
 }

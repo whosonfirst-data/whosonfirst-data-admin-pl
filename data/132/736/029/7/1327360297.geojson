@@ -58,7 +58,7 @@
         "wk:page":"Kocudza_Pierwsza"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ece78dc30b71c9002c8466b91a458481",
+    "wof:geomhash":"1a4c9b7d5f6df31402cf18e1c39ac242",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,5 +85,5 @@
     22.61667000000001,
     50.68333
 ],
-  "geometry": {"coordinates":[22.61667000000001,50.68333],"type":"Point"}
+  "geometry": {"coordinates":[22.61667,50.68333],"type":"Point"}
 }

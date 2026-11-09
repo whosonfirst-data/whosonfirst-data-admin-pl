@@ -60,7 +60,7 @@
         "wk:page":"Pasieczniki_Ma%C5%82e"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b42cc2e440913786e2b278d83f1266eb",
+    "wof:geomhash":"01502c56b568a27d18846d19eb37134f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     23.50302000000001,
     52.6266
 ],
-  "geometry": {"coordinates":[23.50302000000001,52.6266],"type":"Point"}
+  "geometry": {"coordinates":[23.50302,52.6266],"type":"Point"}
 }

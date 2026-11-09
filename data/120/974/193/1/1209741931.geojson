@@ -57,7 +57,7 @@
         "wk:page":"Stary_Kraszew"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6df3c6157215f85896ddc52d3183a308",
+    "wof:geomhash":"2b4cd810b30bf7ea98cee89ac29dea09",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.26484,
     52.40172000000001
 ],
-  "geometry": {"coordinates":[21.26484,52.40172000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.26484,52.40172],"type":"Point"}
 }

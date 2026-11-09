@@ -57,7 +57,7 @@
         "wk:page":"%C5%81ucznica"
     },
     "wof:country":"PL",
-    "wof:geomhash":"74fd09b601e7b6163ea8e52c93f804ac",
+    "wof:geomhash":"6908f721513b59bc969da8b5078e2f51",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.48746,
     51.94179000000001
 ],
-  "geometry": {"coordinates":[21.48746,51.94179000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.48746,51.94179],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Szenajda"
     },
     "wof:country":"PL",
-    "wof:geomhash":"a8e4ebc50b7c8191d14483efe948e3dd",
+    "wof:geomhash":"84df4576c8e057894d15de285b775877",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.00763,
     54.03771999999999
 ],
-  "geometry": {"coordinates":[18.00763,54.03771999999999],"type":"Point"}
+  "geometry": {"coordinates":[18.00763,54.03772],"type":"Point"}
 }

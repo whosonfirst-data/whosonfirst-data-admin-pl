@@ -58,7 +58,7 @@
         "wk:page":"Ruda%2C_Gi%C5%BCycko_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9671c7db0f36bb8ac21bb6f5264d4f21",
+    "wof:geomhash":"23ade7811b8909fb7fec4e66bb4ae43b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,5 +85,5 @@
     21.84104,
     53.98011999999999
 ],
-  "geometry": {"coordinates":[21.84104,53.98011999999999],"type":"Point"}
+  "geometry": {"coordinates":[21.84104,53.98012],"type":"Point"}
 }

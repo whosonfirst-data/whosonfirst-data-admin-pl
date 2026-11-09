@@ -72,7 +72,7 @@
         "wk:page":"Kumelsk"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ad4d24a055fb2a271bae9afbf61c7e50",
+    "wof:geomhash":"c167c5fcc19e8a654a0e284f4bd0a760",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,5 +99,5 @@
     22.07047,
     53.49378000000001
 ],
-  "geometry": {"coordinates":[22.07047,53.49378000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.07047,53.49378],"type":"Point"}
 }

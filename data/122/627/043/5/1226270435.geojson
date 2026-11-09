@@ -54,7 +54,7 @@
         "wk:page":"Za%C5%82szyn"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c7c49d67ddbfb7d50a4cd72a540bd6a6",
+    "wof:geomhash":"60e6e1dba4a84abb33fab43807175cb9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.60416,
     52.74913000000001
 ],
-  "geometry": {"coordinates":[19.60416,52.74913000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.60416,52.74913],"type":"Point"}
 }

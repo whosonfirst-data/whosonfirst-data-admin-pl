@@ -54,7 +54,7 @@
         "wk:page":"Zusienko"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8f2e3bb0a9ac59dc0d9faa784bf4f931",
+    "wof:geomhash":"5761bc18998612f3e6d8ee745a8f3f36",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.70104,
     54.21256999999999
 ],
-  "geometry": {"coordinates":[22.70104,54.21256999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.70104,54.21257],"type":"Point"}
 }

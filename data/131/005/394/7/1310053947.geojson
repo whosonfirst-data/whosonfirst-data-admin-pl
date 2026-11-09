@@ -57,7 +57,7 @@
         "wk:page":"Niem%C5%9Bcice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"44a32fa422c3732df8e2f76efe84666d",
+    "wof:geomhash":"8d1f8171c424ad7ac84639486e26b286",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     21.108,
     50.57364000000001
 ],
-  "geometry": {"coordinates":[21.108,50.57364000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.108,50.57364],"type":"Point"}
 }

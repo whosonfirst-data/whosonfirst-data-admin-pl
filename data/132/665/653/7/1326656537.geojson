@@ -54,7 +54,7 @@
         "wk:page":"Tybory_Uszy%C5%84skie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f47755a387e9978251486fb69a99978b",
+    "wof:geomhash":"3560dd76dfe97ae32bacd4c86e5d85d6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.42121,
     52.97989000000001
 ],
-  "geometry": {"coordinates":[22.42121,52.97989000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.42121,52.97989],"type":"Point"}
 }

@@ -51,7 +51,7 @@
         "wk:page":"Lipniki%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1ec899913d197696dbfac81e82c52b46",
+    "wof:geomhash":"a123a0f3b95c0ce5b7d23140a19e3e50",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.87337999999999,
     53.08905
 ],
-  "geometry": {"coordinates":[17.87337999999999,53.08905],"type":"Point"}
+  "geometry": {"coordinates":[17.87338,53.08905],"type":"Point"}
 }

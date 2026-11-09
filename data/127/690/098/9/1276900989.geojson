@@ -63,7 +63,7 @@
         "wk:page":"%C5%81ebieniec"
     },
     "wof:country":"PL",
-    "wof:geomhash":"36b76a482ceafcfe1e5d46c0539a4a71",
+    "wof:geomhash":"8dd2738d981c96d55fb383bf566f2ac4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     17.60592999999999,
     54.72075
 ],
-  "geometry": {"coordinates":[17.60592999999999,54.72075],"type":"Point"}
+  "geometry": {"coordinates":[17.60593,54.72075],"type":"Point"}
 }

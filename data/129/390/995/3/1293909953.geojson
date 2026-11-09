@@ -51,7 +51,7 @@
         "wk:page":"Bielawy%2C_Chojnice_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"f895aee02f717e7678dffc1344a79c0f",
+    "wof:geomhash":"11ca2f829fd9328ca81c5ffc73df1c87",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.85861000000001,
     53.8298
 ],
-  "geometry": {"coordinates":[17.85861000000001,53.8298],"type":"Point"}
+  "geometry": {"coordinates":[17.85861,53.8298],"type":"Point"}
 }

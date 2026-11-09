@@ -51,7 +51,7 @@
         "wk:page":"Wietrzno%2C_Podkarpackie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"94d07d0a165dfd81eb7d8215294281ad",
+    "wof:geomhash":"0a905ac13b7a0fb570a2d5bb5a276598",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     21.70582000000001,
     49.60257
 ],
-  "geometry": {"coordinates":[21.70582000000001,49.60257],"type":"Point"}
+  "geometry": {"coordinates":[21.70582,49.60257],"type":"Point"}
 }

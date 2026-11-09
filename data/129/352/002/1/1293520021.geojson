@@ -54,7 +54,7 @@
         "wk:page":"Je%C5%BCewice%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"de2484cd3cfd968e146549b6f24b1351",
+    "wof:geomhash":"b451131e8f52c8f6d42735f9b6b36246",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.75539,
     51.96944000000001
 ],
-  "geometry": {"coordinates":[20.75539,51.96944000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.75539,51.96944],"type":"Point"}
 }

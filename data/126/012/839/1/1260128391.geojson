@@ -54,7 +54,7 @@
         "wk:page":"Sich%C3%B3w_Du%C5%BCy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"15cd6135327ab2149520ce116e25c21b",
+    "wof:geomhash":"af91633a4e76854156db8f7241775ddd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.14748,
     50.49312000000001
 ],
-  "geometry": {"coordinates":[21.14748,50.49312000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.14748,50.49312],"type":"Point"}
 }

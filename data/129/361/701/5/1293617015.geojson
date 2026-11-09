@@ -51,7 +51,7 @@
         "wk:page":"Pieczenia"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5f786bdfec8d03e1179625214f7f3478",
+    "wof:geomhash":"e03e3eafaa8f00d11f320dd1f81c28b0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.63247,
     52.89378000000001
 ],
-  "geometry": {"coordinates":[18.63247,52.89378000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.63247,52.89378],"type":"Point"}
 }

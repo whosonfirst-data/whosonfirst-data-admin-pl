@@ -51,7 +51,7 @@
         "wk:page":"Kowalowice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6a6918d20c24eae168ed8697ddd2a7f5",
+    "wof:geomhash":"625c3ba44693b0ada73b545fc9f5ab14",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.76797999999999,
     51.13173
 ],
-  "geometry": {"coordinates":[17.76797999999999,51.13173],"type":"Point"}
+  "geometry": {"coordinates":[17.76798,51.13173],"type":"Point"}
 }

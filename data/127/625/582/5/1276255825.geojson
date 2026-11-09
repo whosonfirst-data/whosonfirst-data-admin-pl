@@ -63,7 +63,7 @@
         "wk:page":"Brwice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ca96deb70e62088bba63aca858d5a9e0",
+    "wof:geomhash":"2b9fed70128551daecbd624683f6feee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     14.53632,
     52.91931999999999
 ],
-  "geometry": {"coordinates":[14.53632,52.91931999999999],"type":"Point"}
+  "geometry": {"coordinates":[14.53632,52.91932],"type":"Point"}
 }

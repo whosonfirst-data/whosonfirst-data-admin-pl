@@ -58,7 +58,7 @@
         "wk:page":"Wola_Paw%C5%82owska%2C_Lipsko_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5932005f640226c9653a5edd2b42ef21",
+    "wof:geomhash":"d81a9cacc5d72ba22f40fdeac289232c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,5 +85,5 @@
     21.75808,
     51.05974000000001
 ],
-  "geometry": {"coordinates":[21.75808,51.05974000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.75808,51.05974],"type":"Point"}
 }

@@ -60,7 +60,7 @@
         "wk:page":"Uniejewo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b193313a3898312312c0d34e33ae0404",
+    "wof:geomhash":"6c0f7ebda1ee89759d4f9f7e5e02c08e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     19.48288,
     52.60534000000001
 ],
-  "geometry": {"coordinates":[19.48288,52.60534000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.48288,52.60534],"type":"Point"}
 }

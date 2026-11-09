@@ -54,7 +54,7 @@
         "wk:page":"Charbielin%2C_Opole_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b1f7386e8cd82de2588768a00110c85e",
+    "wof:geomhash":"afc12b3fd67a0c0a70a58517f398fec8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.43067000000001,
     50.32103
 ],
-  "geometry": {"coordinates":[17.43067000000001,50.32103],"type":"Point"}
+  "geometry": {"coordinates":[17.43067,50.32103],"type":"Point"}
 }

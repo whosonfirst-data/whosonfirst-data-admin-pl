@@ -57,7 +57,7 @@
         "wk:page":"Podpniewki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6f1873786c7cfcce15ae23090beceb41",
+    "wof:geomhash":"f5979209f1119124d5c43fe9d2ae8e8a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     16.28202000000001,
     52.53571
 ],
-  "geometry": {"coordinates":[16.28202000000001,52.53571],"type":"Point"}
+  "geometry": {"coordinates":[16.28202,52.53571],"type":"Point"}
 }

@@ -48,7 +48,7 @@
         "wk:page":"P%C4%99klewo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d7b1ed542cd52da388b93c68158fd3a4",
+    "wof:geomhash":"6469ca6db32db95363a7b234551f75c9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     19.4652,
     54.29248000000001
 ],
-  "geometry": {"coordinates":[19.4652,54.29248000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.4652,54.29248],"type":"Point"}
 }

@@ -58,7 +58,7 @@
         "wk:page":"Kominki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"0c20fd671ca1e723d36bcdc947f3b5f3",
+    "wof:geomhash":"c79654392b29e8d5be8278b97a2791a7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,5 +85,5 @@
     21.0704,
     54.02118000000001
 ],
-  "geometry": {"coordinates":[21.0704,54.02118000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.0704,54.02118],"type":"Point"}
 }

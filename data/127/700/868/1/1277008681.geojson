@@ -60,7 +60,7 @@
         "wk:page":"Starnin"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ba5c344dc1d56ca8891162c96c11625c",
+    "wof:geomhash":"f4f4f618f0529b172c1e00f8ed786291",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     15.45335,
     53.96908000000001
 ],
-  "geometry": {"coordinates":[15.45335,53.96908000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.45335,53.96908],"type":"Point"}
 }

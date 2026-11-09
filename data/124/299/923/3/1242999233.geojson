@@ -57,7 +57,7 @@
         "wk:page":"Soko%C5%82owo%2C_Podlaskie_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"efef86dd466ec159120c5acb434a6215",
+    "wof:geomhash":"f53aafd84b3f5e2da12ac05d7e974787",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.78112,
     54.11298000000001
 ],
-  "geometry": {"coordinates":[22.78112,54.11298000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.78112,54.11298],"type":"Point"}
 }

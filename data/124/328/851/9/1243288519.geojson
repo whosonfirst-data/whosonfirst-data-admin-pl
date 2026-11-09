@@ -54,7 +54,7 @@
         "wk:page":"Nowe_P%C5%82udy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1fc244effdf2817dfd4ce9a7e4461c30",
+    "wof:geomhash":"ce959fa1eb94440a24c8df732fe22097",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.25923,
     52.56138000000001
 ],
-  "geometry": {"coordinates":[21.25923,52.56138000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.25923,52.56138],"type":"Point"}
 }

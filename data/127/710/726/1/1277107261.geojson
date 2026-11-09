@@ -64,7 +64,7 @@
         "wk:page":"G%C5%82omno"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6f914d9f6c2840c822c9c775d5f73ecd",
+    "wof:geomhash":"03623b84cd3a3a29c3ebf3d9bb8457bd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,5 +91,5 @@
     20.76833,
     54.32528000000001
 ],
-  "geometry": {"coordinates":[20.76833,54.32528000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.76833,54.32528],"type":"Point"}
 }

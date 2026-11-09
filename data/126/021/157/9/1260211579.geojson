@@ -57,7 +57,7 @@
         "wk:page":"Palczewo%2C_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b084a06edddcaa5618863f2712881bb8",
+    "wof:geomhash":"597b38086fc6cfb70712c93a2acb7379",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     18.85696,
     54.16914000000001
 ],
-  "geometry": {"coordinates":[18.85696,54.16914000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.85696,54.16914],"type":"Point"}
 }

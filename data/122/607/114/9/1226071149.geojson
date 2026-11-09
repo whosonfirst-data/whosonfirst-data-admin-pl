@@ -57,7 +57,7 @@
         "wk:page":"Krzy%C5%BC%2C_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"dd2ced7dd998760b789c38b4ae05d0bf",
+    "wof:geomhash":"db453c0f29b338114d900d1b4122b22c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     17.87251000000001,
     53.79521
 ],
-  "geometry": {"coordinates":[17.87251000000001,53.79521],"type":"Point"}
+  "geometry": {"coordinates":[17.87251,53.79521],"type":"Point"}
 }

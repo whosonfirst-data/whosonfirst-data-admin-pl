@@ -51,7 +51,7 @@
         "wk:page":"Kr%C3%B3lewskie%2C_Ostrzesz%C3%B3w_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"bb23e44cf9864aa9a568837495c288c6",
+    "wof:geomhash":"c529d48a861e7c46387051c13db4f30d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     17.97237999999999,
     51.39715
 ],
-  "geometry": {"coordinates":[17.97237999999999,51.39715],"type":"Point"}
+  "geometry": {"coordinates":[17.97238,51.39715],"type":"Point"}
 }

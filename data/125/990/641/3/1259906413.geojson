@@ -67,7 +67,7 @@
         "wk:page":"D%C4%85br%C3%B3wka_Tczewska"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e5aab94ab808f06b05d031596584f141",
+    "wof:geomhash":"8d4f2531315074f54910065e1dc62008",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,5 +94,5 @@
     18.72757,
     54.11004000000001
 ],
-  "geometry": {"coordinates":[18.72757,54.11004000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.72757,54.11004],"type":"Point"}
 }

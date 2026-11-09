@@ -57,7 +57,7 @@
         "wk:page":"Pogreby"
     },
     "wof:country":"PL",
-    "wof:geomhash":"80227485858abe743ddafe11dd18566d",
+    "wof:geomhash":"0feec4b437707359543d2f79fb6fb360",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     23.26265,
     52.57503000000001
 ],
-  "geometry": {"coordinates":[23.26265,52.57503000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.26265,52.57503],"type":"Point"}
 }

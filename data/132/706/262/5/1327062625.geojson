@@ -57,7 +57,7 @@
         "wk:page":"Za%C5%82akowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9c377b637174a2f58fafffe8c80886fc",
+    "wof:geomhash":"6d70667ab804c146f2c9b0d06cc1db77",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     17.84612000000001,
     54.38296999999999
 ],
-  "geometry": {"coordinates":[17.84612000000001,54.38296999999999],"type":"Point"}
+  "geometry": {"coordinates":[17.84612,54.38297],"type":"Point"}
 }

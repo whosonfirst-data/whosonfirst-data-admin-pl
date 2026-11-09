@@ -54,7 +54,7 @@
         "wk:page":"Majdan%2C_Wo%C5%82omin_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"bd07f0cc4dfcfdd5c46b69c7a6d8f818",
+    "wof:geomhash":"59a9181762695aed35d3babcad79fe55",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.29357000000001,
     52.32474000000001
 ],
-  "geometry": {"coordinates":[21.29357000000001,52.32474000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.29357,52.32474],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"Posto%C5%82owo%2C_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"8e0071e5fefe416ca273c4737a4af92d",
+    "wof:geomhash":"536ca236676da8097102e5a28a9a6bd5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     18.46487,
     54.13153000000001
 ],
-  "geometry": {"coordinates":[18.46487,54.13153000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.46487,54.13153],"type":"Point"}
 }

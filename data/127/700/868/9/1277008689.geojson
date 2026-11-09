@@ -57,7 +57,7 @@
         "wk:page":"Wronowy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"89133ea8dc1deb16a64b26ba9c97acf8",
+    "wof:geomhash":"ed7aa0f42b400dbde837baaaae4eef13",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     18.22978,
     52.58003000000001
 ],
-  "geometry": {"coordinates":[18.22978,52.58003000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.22978,52.58003],"type":"Point"}
 }

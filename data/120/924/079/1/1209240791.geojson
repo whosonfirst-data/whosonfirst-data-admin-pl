@@ -51,7 +51,7 @@
         "wk:page":"Rzepiczna"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2563e1b8bff76c05a11c625c2abcc8ee",
+    "wof:geomhash":"377bcaa5bc15ab39efd2d6a493bcfd6f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.00992999999999,
     53.71555
 ],
-  "geometry": {"coordinates":[18.00992999999999,53.71555],"type":"Point"}
+  "geometry": {"coordinates":[18.00993,53.71555],"type":"Point"}
 }

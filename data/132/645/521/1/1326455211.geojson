@@ -49,7 +49,7 @@
         "wk:page":"Gunice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"3a0388916899b0dd018da86dd761d3a1",
+    "wof:geomhash":"df06b201f102476b6d7648bfa8c22458",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,5 +76,5 @@
     14.44917,
     53.54833000000001
 ],
-  "geometry": {"coordinates":[14.44917,53.54833000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.44917,53.54833],"type":"Point"}
 }

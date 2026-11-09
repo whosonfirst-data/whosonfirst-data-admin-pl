@@ -54,7 +54,7 @@
         "wk:page":"Gu%C5%BAlin"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c5b6dace7d8eb8277e4262eba6780b1c",
+    "wof:geomhash":"6c6d823bf9b03335ae6ad960e0ed9d6e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.93167,
     52.59636999999999
 ],
-  "geometry": {"coordinates":[18.93167,52.59636999999999],"type":"Point"}
+  "geometry": {"coordinates":[18.93167,52.59637],"type":"Point"}
 }

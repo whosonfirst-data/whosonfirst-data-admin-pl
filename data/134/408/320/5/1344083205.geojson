@@ -58,7 +58,7 @@
         "wk:page":"Ba%C5%82dzki_Piec"
     },
     "wof:country":"PL",
-    "wof:geomhash":"dea38f4348c6001989626fcf5c531669",
+    "wof:geomhash":"afa14666cf59f579e48996b301129140",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,5 +85,5 @@
     20.65,
     53.61666999999999
 ],
-  "geometry": {"coordinates":[20.65,53.61666999999999],"type":"Point"}
+  "geometry": {"coordinates":[20.65,53.61667],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Wiskitno"
     },
     "wof:country":"PL",
-    "wof:geomhash":"38e6ab83bd008c3845f9672243e021a7",
+    "wof:geomhash":"f12d90fc859c28261dd4ab54b020126f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.76217,
     53.32794000000001
 ],
-  "geometry": {"coordinates":[17.76217,53.32794000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.76217,53.32794],"type":"Point"}
 }

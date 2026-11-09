@@ -51,7 +51,7 @@
         "wk:page":"%C5%9Awi%C4%99te%2C_Lower_Silesian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"728e5352d8968177308b53aa6dc9f70a",
+    "wof:geomhash":"23382952d861c3cc92f9637a69cb9a02",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     16.66007999999999,
     51.18236
 ],
-  "geometry": {"coordinates":[16.66007999999999,51.18236],"type":"Point"}
+  "geometry": {"coordinates":[16.66008,51.18236],"type":"Point"}
 }

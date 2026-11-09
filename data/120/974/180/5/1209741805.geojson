@@ -54,7 +54,7 @@
         "wk:page":"Siemys%C5%82%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b8c7d8c28d69bdee871dab5c0b631461",
+    "wof:geomhash":"0429e0af29e673450e08b81e8cfd0dea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     17.82522999999999,
     51.02095
 ],
-  "geometry": {"coordinates":[17.82522999999999,51.02095],"type":"Point"}
+  "geometry": {"coordinates":[17.82523,51.02095],"type":"Point"}
 }

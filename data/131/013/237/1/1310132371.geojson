@@ -57,7 +57,7 @@
         "wk:page":"Cieszyno%2C_%C5%9Awidwin_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c2a5171b5f8f5c2f7ace05b658bcd1d5",
+    "wof:geomhash":"5af585511fb30835308b6778d2990b9e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     15.71673,
     53.80243000000001
 ],
-  "geometry": {"coordinates":[15.71673,53.80243000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.71673,53.80243],"type":"Point"}
 }

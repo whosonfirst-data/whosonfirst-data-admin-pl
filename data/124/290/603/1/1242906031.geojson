@@ -48,7 +48,7 @@
         "wk:page":"Mogiel"
     },
     "wof:country":"PL",
-    "wof:geomhash":"55edf2d14b135cf3eadbf06baa64c333",
+    "wof:geomhash":"f3598e2efdbddb632b085f3616fd18ea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     17.48675,
     53.92968000000001
 ],
-  "geometry": {"coordinates":[17.48675,53.92968000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.48675,53.92968],"type":"Point"}
 }

@@ -67,7 +67,7 @@
         "wk:page":"Kumia%C5%82a"
     },
     "wof:country":"PL",
-    "wof:geomhash":"763a27808589d4bef0cf7660936682a2",
+    "wof:geomhash":"cd3ebe42ebb1de5ae506f66ca62312c6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,5 +94,5 @@
     23.08949,
     53.46556999999999
 ],
-  "geometry": {"coordinates":[23.08949,53.46556999999999],"type":"Point"}
+  "geometry": {"coordinates":[23.08949,53.46557],"type":"Point"}
 }

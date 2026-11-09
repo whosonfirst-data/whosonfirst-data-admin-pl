@@ -54,7 +54,7 @@
         "wk:page":"Moszyn"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7ecbcbcbabad6cb7316ac4e77d3d1c7f",
+    "wof:geomhash":"56b7d818eec38aa26a269f71661c9942",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.0366,
     52.71808000000001
 ],
-  "geometry": {"coordinates":[21.0366,52.71808000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.0366,52.71808],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Kowalki%2C_Kuyavian-Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"dbf1b6f9fb03c2296eaca92248a0dbc1",
+    "wof:geomhash":"a7f887b0a9cb313adcae7a6b632a2751",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.39877000000001,
     53.04233000000001
 ],
-  "geometry": {"coordinates":[19.39877000000001,53.04233000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.39877,53.04233],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Rajsko_Ma%C5%82e"
     },
     "wof:country":"PL",
-    "wof:geomhash":"743ab54db14946cd535759b8cc13eb2e",
+    "wof:geomhash":"303f19f43ab5482d9261b2775866d1f3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     19.69982000000001,
     51.27001
 ],
-  "geometry": {"coordinates":[19.69982000000001,51.27001],"type":"Point"}
+  "geometry": {"coordinates":[19.69982,51.27001],"type":"Point"}
 }

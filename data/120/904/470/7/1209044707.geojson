@@ -51,7 +51,7 @@
         "wk:page":"Donosy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"66ef6f223ab257b7cad65a53959c41de",
+    "wof:geomhash":"8f8dda2c7ccfe2534922a3d1ebf21889",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     20.47412000000001,
     50.25435
 ],
-  "geometry": {"coordinates":[20.47412000000001,50.25435],"type":"Point"}
+  "geometry": {"coordinates":[20.47412,50.25435],"type":"Point"}
 }

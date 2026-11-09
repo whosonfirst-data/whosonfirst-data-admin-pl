@@ -51,7 +51,7 @@
         "wk:page":"Dzwonowa"
     },
     "wof:country":"PL",
-    "wof:geomhash":"350166dc9f4d3845d28fa6da85c665a7",
+    "wof:geomhash":"de26ddd205828460f80aa85ae35253ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     21.2958,
     49.90779000000001
 ],
-  "geometry": {"coordinates":[21.2958,49.90779000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.2958,49.90779],"type":"Point"}
 }

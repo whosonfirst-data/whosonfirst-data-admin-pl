@@ -54,7 +54,7 @@
         "wk:page":"Katarzynowo%2C_Warmian-Masurian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"afbae7742c6a9dc9d212aebaba6fbb16",
+    "wof:geomhash":"a19a3e596d8774652ab6b5706e160c94",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.566,
     53.74276999999999
 ],
-  "geometry": {"coordinates":[22.566,53.74276999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.566,53.74277],"type":"Point"}
 }

@@ -63,7 +63,7 @@
         "wk:page":"K%C5%82anino%2C_West_Pomeranian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"bda56ccc8d65b1dd1939139cce568993",
+    "wof:geomhash":"3310b0bf32bbce9ef2185734a573c12d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     16.46397,
     54.03093000000001
 ],
-  "geometry": {"coordinates":[16.46397,54.03093000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.46397,54.03093],"type":"Point"}
 }

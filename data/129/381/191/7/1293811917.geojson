@@ -57,7 +57,7 @@
         "wk:page":"%C5%81y%C5%9Bniewo_Sierakowickie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"39740df79dc47ee1bce9769d23f207db",
+    "wof:geomhash":"b92259620818d83aac52c9bd0c89c40b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     17.84127999999999,
     54.35366
 ],
-  "geometry": {"coordinates":[17.84127999999999,54.35366],"type":"Point"}
+  "geometry": {"coordinates":[17.84128,54.35366],"type":"Point"}
 }

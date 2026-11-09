@@ -57,7 +57,7 @@
         "wk:page":"Nowosi%C3%B3%C5%82ki_Kardynalskie"
     },
     "wof:country":"PL",
-    "wof:geomhash":"30567960ea611e6e32237bdcda7e8cad",
+    "wof:geomhash":"784506e1aa798e8ffd5cfb9280f72ce2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     23.63807000000001,
     50.38847
 ],
-  "geometry": {"coordinates":[23.63807000000001,50.38847],"type":"Point"}
+  "geometry": {"coordinates":[23.63807,50.38847],"type":"Point"}
 }

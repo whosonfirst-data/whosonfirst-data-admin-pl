@@ -54,7 +54,7 @@
         "wk:page":"Bystrzyca_Dolna"
     },
     "wof:country":"PL",
-    "wof:geomhash":"9da0ee5e4048027f666ab083297b0baf",
+    "wof:geomhash":"d0ad5f6cf258ce7cd69fa605939da12b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     16.47622999999999,
     50.81109
 ],
-  "geometry": {"coordinates":[16.47622999999999,50.81109],"type":"Point"}
+  "geometry": {"coordinates":[16.47623,50.81109],"type":"Point"}
 }

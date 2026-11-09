@@ -54,7 +54,7 @@
         "wk:page":"Karwin%2C_Lubusz_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"fa4cc847a280a66c4e7f746726957a08",
+    "wof:geomhash":"9487c5af7d193bd0ba16613ebe9468fc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     15.91618,
     52.79338000000001
 ],
-  "geometry": {"coordinates":[15.91618,52.79338000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.91618,52.79338],"type":"Point"}
 }

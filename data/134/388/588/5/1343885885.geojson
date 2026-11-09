@@ -69,7 +69,7 @@
         "wk:page":"Papro%C4%87_Du%C5%BCa"
     },
     "wof:country":"PL",
-    "wof:geomhash":"292a1584c4a879793c7aad5431b1054a",
+    "wof:geomhash":"c6be642ddba514ad5ea267f1601ac666",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     22.13797000000001,
     52.8625
 ],
-  "geometry": {"coordinates":[22.13797000000001,52.8625],"type":"Point"}
+  "geometry": {"coordinates":[22.13797,52.8625],"type":"Point"}
 }

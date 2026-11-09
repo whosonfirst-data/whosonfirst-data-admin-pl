@@ -54,7 +54,7 @@
         "wk:page":"Perki-Lachy"
     },
     "wof:country":"PL",
-    "wof:geomhash":"602811ee63867eb717e82416631be8c3",
+    "wof:geomhash":"6c3110e13104a4c9de53dc28f42acff2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     22.76434,
     52.97114000000001
 ],
-  "geometry": {"coordinates":[22.76434,52.97114000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.76434,52.97114],"type":"Point"}
 }

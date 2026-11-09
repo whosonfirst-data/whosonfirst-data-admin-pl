@@ -51,7 +51,7 @@
         "wk:page":"B%C5%82ota%2C_Sieradz_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"64eb018a9677ecfeba63d06938305f4c",
+    "wof:geomhash":"01598667d747865153757abec23db97b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     18.40862000000001,
     51.4847
 ],
-  "geometry": {"coordinates":[18.40862000000001,51.4847],"type":"Point"}
+  "geometry": {"coordinates":[18.40862,51.4847],"type":"Point"}
 }

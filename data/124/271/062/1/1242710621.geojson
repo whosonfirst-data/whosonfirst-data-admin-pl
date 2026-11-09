@@ -57,7 +57,7 @@
         "wk:page":"W%C5%82adys%C5%82aw%C3%B3w%2C_Parczew_County"
     },
     "wof:country":"PL",
-    "wof:geomhash":"267a4c01bec3af5afe58ffd21bc72c4c",
+    "wof:geomhash":"fac5379da1843237339fb1a0545af2eb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     22.78737000000001,
     51.59239
 ],
-  "geometry": {"coordinates":[22.78737000000001,51.59239],"type":"Point"}
+  "geometry": {"coordinates":[22.78737,51.59239],"type":"Point"}
 }

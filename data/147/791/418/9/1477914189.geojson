@@ -61,7 +61,7 @@
         "wk:page":"Gosz%C3%B3w"
     },
     "wof:country":"PL",
-    "wof:geomhash":"255d988d2762fac5f61034b01fdbc55e",
+    "wof:geomhash":"42aa1682562811129596e2f3d790236e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,5 +91,5 @@
     16.88332999999999,
     50.28333
 ],
-  "geometry": {"coordinates":[16.88332999999999,50.28333],"type":"Point"}
+  "geometry": {"coordinates":[16.88333,50.28333],"type":"Point"}
 }

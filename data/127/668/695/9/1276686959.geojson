@@ -54,7 +54,7 @@
         "wk:page":"%C5%81%C3%B3wkowice"
     },
     "wof:country":"PL",
-    "wof:geomhash":"22c75931fbb9326781b90a4b59c3d812",
+    "wof:geomhash":"f07aa5a1bffe2e79d85b080c27285fcc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.81271,
     52.75468000000001
 ],
-  "geometry": {"coordinates":[18.81271,52.75468000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.81271,52.75468],"type":"Point"}
 }

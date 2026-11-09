@@ -54,7 +54,7 @@
         "wk:page":"Dzielin"
     },
     "wof:country":"PL",
-    "wof:geomhash":"13d3e6d6ac922929699f31054becd964",
+    "wof:geomhash":"133e6481bda9f4a5dfd16ce2bedaca0d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     20.7358,
     53.01518000000001
 ],
-  "geometry": {"coordinates":[20.7358,53.01518000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.7358,53.01518],"type":"Point"}
 }

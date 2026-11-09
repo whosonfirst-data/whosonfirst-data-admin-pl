@@ -62,7 +62,7 @@
         "wk:page":"%C5%81ukszty"
     },
     "wof:country":"PL",
-    "wof:geomhash":"bf3cbf96afa129e9950f56cfcb7d7ccc",
+    "wof:geomhash":"c2d254e50a06222055f0d212d0b36a10",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     19.73648,
     54.10771999999999
 ],
-  "geometry": {"coordinates":[19.73648,54.10771999999999],"type":"Point"}
+  "geometry": {"coordinates":[19.73648,54.10772],"type":"Point"}
 }

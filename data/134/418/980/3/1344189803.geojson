@@ -54,7 +54,7 @@
         "wk:page":"Podg%C3%B3rki%2C_Masovian_Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"37a627347c63d89778660a11625a10ae",
+    "wof:geomhash":"4f37bc6a621a5186720a1e450f35fb82",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     21.17772,
     51.25429000000001
 ],
-  "geometry": {"coordinates":[21.17772,51.25429000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.17772,51.25429],"type":"Point"}
 }
