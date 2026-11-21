@@ -10,8 +10,8 @@
     "geom:latitude":52.361805,
     "geom:longitude":21.15806,
     "iso:country":"PL",
-    "lbl:latitude":52.360447,
-    "lbl:longitude":21.135689,
+    "lbl:latitude":52.360728,
+    "lbl:longitude":21.163358,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mps:latitude":52.360496,
@@ -75,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"whosonfirst",
     "wd:wordcount":90,
     "wof:belongsto":[
         85687257,

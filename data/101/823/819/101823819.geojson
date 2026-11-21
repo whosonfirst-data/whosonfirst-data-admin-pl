@@ -11,8 +11,8 @@
     "geom:longitude":17.852707,
     "gn:population":4500,
     "iso:country":"PL",
-    "lbl:latitude":50.753817,
-    "lbl:longitude":17.878095,
+    "lbl:latitude":50.757478,
+    "lbl:longitude":17.843384,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":50.772634,
@@ -105,7 +105,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"whosonfirst",
     "src:population":"geonames",
     "wd:wordcount":155,
     "wof:belongsto":[

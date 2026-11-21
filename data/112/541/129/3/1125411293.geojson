@@ -32,8 +32,8 @@
     "label:pol_x_preferred_placetype":[
         "gmina"
     ],
-    "lbl:latitude":51.757215,
-    "lbl:longitude":18.125724,
+    "lbl:latitude":51.73777,
+    "lbl:longitude":18.206131,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mps:latitude":51.738953,
@@ -119,7 +119,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"whosonfirst",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "woe:adm0_id":23424923,
