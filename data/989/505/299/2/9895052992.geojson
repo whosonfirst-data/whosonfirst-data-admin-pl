@@ -1,0 +1,76 @@
+{
+  "id": 9895052992,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.1859,50.91402,22.1859,50.91402",
+    "geom:latitude":50.91402,
+    "geom:longitude":22.1859,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11704214: name \"Sp\u0142awy Pierwsze\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11704214"
+        },
+        {
+            "citation":"GeoNames populated place 11704214: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11704214"
+        },
+        {
+            "citation":"GeoNames populated place 11704214: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11704214"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477752259 (Gmina Kra\u015bnik), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687309,
+        102079721,
+        102191581,
+        1477752259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11704214
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"2fe3a55478c36816198a2928a1e80f20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079721,
+            "localadmin_id":1477752259,
+            "locality_id":9895052992,
+            "region_id":85687309
+        }
+    ],
+    "wof:id":9895052992,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Sp\u0142awy Pierwsze",
+    "wof:parent_id":1477752259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.1859,
+    50.91402,
+    22.1859,
+    50.91402
+],
+  "geometry": {"coordinates":[22.1859,50.91402],"type":"Point"}
+}

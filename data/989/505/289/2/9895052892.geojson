@@ -1,0 +1,76 @@
+{
+  "id": 9895052892,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.47581,50.85757,20.47581,50.85757",
+    "geom:latitude":50.85757,
+    "geom:longitude":20.47581,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11703989: name \"Zag\u00f3rze\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11703989"
+        },
+        {
+            "citation":"GeoNames populated place 11703989: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11703989"
+        },
+        {
+            "citation":"GeoNames populated place 11703989: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11703989"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125371299 (Piekosz\u00f3w), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687287,
+        102079693,
+        102191581,
+        1125371299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11703989
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"26fa368d4928fef44f19687973cf636e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079693,
+            "localadmin_id":1125371299,
+            "locality_id":9895052892,
+            "region_id":85687287
+        }
+    ],
+    "wof:id":9895052892,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Zag\u00f3rze",
+    "wof:parent_id":1125371299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.47581,
+    50.85757,
+    20.47581,
+    50.85757
+],
+  "geometry": {"coordinates":[20.47581,50.85757],"type":"Point"}
+}

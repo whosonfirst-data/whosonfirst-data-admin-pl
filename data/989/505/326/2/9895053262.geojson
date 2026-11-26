@@ -1,0 +1,76 @@
+{
+  "id": 9895053262,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.3035,53.84251,16.3035,53.84251",
+    "geom:latitude":53.84251,
+    "geom:longitude":16.3035,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12451018: name \"Krosino\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12451018"
+        },
+        {
+            "citation":"GeoNames populated place 12451018: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12451018"
+        },
+        {
+            "citation":"GeoNames populated place 12451018: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12451018"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477752135 (Grzmi\u0105ca), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687271,
+        102080155,
+        102191581,
+        1477752135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12451018
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"cc32214e51380ef967632518892ef255",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080155,
+            "localadmin_id":1477752135,
+            "locality_id":9895053262,
+            "region_id":85687271
+        }
+    ],
+    "wof:id":9895053262,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Krosino",
+    "wof:parent_id":1477752135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.3035,
+    53.84251,
+    16.3035,
+    53.84251
+],
+  "geometry": {"coordinates":[16.3035,53.84251],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 9895052552,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.88977,51.14535,20.88977,51.14535",
+    "geom:latitude":51.14535,
+    "geom:longitude":20.88977,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695695: name \"Lipowe Pole Skarbowe\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695695"
+        },
+        {
+            "citation":"GeoNames populated place 11695695: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695695"
+        },
+        {
+            "citation":"GeoNames populated place 11695695: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695695"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125324807 (Skar\u017cysko Ko\u015bcielne), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687287,
+        102079723,
+        102191581,
+        1125324807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695695
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"303363b3252fe6adba66a2e47f6c8826",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079723,
+            "localadmin_id":1125324807,
+            "locality_id":9895052552,
+            "region_id":85687287
+        }
+    ],
+    "wof:id":9895052552,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Lipowe Pole Skarbowe",
+    "wof:parent_id":1125324807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.88977,
+    51.14535,
+    20.88977,
+    51.14535
+],
+  "geometry": {"coordinates":[20.88977,51.14535],"type":"Point"}
+}

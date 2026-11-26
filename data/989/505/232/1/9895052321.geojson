@@ -1,0 +1,76 @@
+{
+  "id": 9895052321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.26066,51.84379,19.26066,51.84379",
+    "geom:latitude":51.84379,
+    "geom:longitude":19.26066,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11694665: name \"Ruda-Bugaj\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11694665"
+        },
+        {
+            "citation":"GeoNames populated place 11694665: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11694665"
+        },
+        {
+            "citation":"GeoNames populated place 11694665: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11694665"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125310711 (Gmina Aleksandr\u00f3w \u0141\u00f3dzki), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687261,
+        102079873,
+        102191581,
+        1125310711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11694665
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"1d7aff4e370a359881ad31ff9ba37ba5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079873,
+            "localadmin_id":1125310711,
+            "locality_id":9895052321,
+            "region_id":85687261
+        }
+    ],
+    "wof:id":9895052321,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Ruda-Bugaj",
+    "wof:parent_id":1125310711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.26066,
+    51.84379,
+    19.26066,
+    51.84379
+],
+  "geometry": {"coordinates":[19.26066,51.84379],"type":"Point"}
+}

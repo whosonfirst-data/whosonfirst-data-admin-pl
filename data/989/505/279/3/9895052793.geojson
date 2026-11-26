@@ -1,0 +1,76 @@
+{
+  "id": 9895052793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.34104,50.75508,22.34104,50.75508",
+    "geom:latitude":50.75508,
+    "geom:longitude":22.34104,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11703545: name \"Kolonia Zamek\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11703545"
+        },
+        {
+            "citation":"GeoNames populated place 11703545: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11703545"
+        },
+        {
+            "citation":"GeoNames populated place 11703545: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11703545"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125350353 (Gmina Modliborzyce), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687309,
+        102079697,
+        102191581,
+        1125350353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11703545
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"8b1717d96d0813855d9761a71036ed1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079697,
+            "localadmin_id":1125350353,
+            "locality_id":9895052793,
+            "region_id":85687309
+        }
+    ],
+    "wof:id":9895052793,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Kolonia Zamek",
+    "wof:parent_id":1125350353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.34104,
+    50.75508,
+    22.34104,
+    50.75508
+],
+  "geometry": {"coordinates":[22.34104,50.75508],"type":"Point"}
+}

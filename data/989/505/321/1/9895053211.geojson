@@ -1,0 +1,76 @@
+{
+  "id": 9895053211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.49508,52.4597,17.49508,52.4597",
+    "geom:latitude":52.4597,
+    "geom:longitude":17.49508,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12175898: name \"Goranin\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12175898"
+        },
+        {
+            "citation":"GeoNames populated place 12175898: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12175898"
+        },
+        {
+            "citation":"GeoNames populated place 12175898: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12175898"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125400867 (Gmina Czerniejewo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687323,
+        102079967,
+        102191581,
+        1125400867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12175898
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"d5ab3829cfb0b829318d3eb7a1075f2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079967,
+            "localadmin_id":1125400867,
+            "locality_id":9895053211,
+            "region_id":85687323
+        }
+    ],
+    "wof:id":9895053211,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Goranin",
+    "wof:parent_id":1125400867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.49508,
+    52.4597,
+    17.49508,
+    52.4597
+],
+  "geometry": {"coordinates":[17.49508,52.4597],"type":"Point"}
+}

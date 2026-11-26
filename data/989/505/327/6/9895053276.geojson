@@ -1,0 +1,76 @@
+{
+  "id": 9895053276,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.06309,53.24227,18.06309,53.24227",
+    "geom:latitude":53.24227,
+    "geom:longitude":18.06309,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12534455: name \"Strzelce Le\u015bne\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12534455"
+        },
+        {
+            "citation":"GeoNames populated place 12534455: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12534455"
+        },
+        {
+            "citation":"GeoNames populated place 12534455: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12534455"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477751583 (Osielsko), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687319,
+        102080085,
+        102191581,
+        1477751583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12534455
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"63396a7ab5a19daf6a2d9de7389c2862",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080085,
+            "localadmin_id":1477751583,
+            "locality_id":9895053276,
+            "region_id":85687319
+        }
+    ],
+    "wof:id":9895053276,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Strzelce Le\u015bne",
+    "wof:parent_id":1477751583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.06309,
+    53.24227,
+    18.06309,
+    53.24227
+],
+  "geometry": {"coordinates":[18.06309,53.24227],"type":"Point"}
+}

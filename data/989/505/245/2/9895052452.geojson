@@ -1,0 +1,76 @@
+{
+  "id": 9895052452,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.28304,51.54815,17.28304,51.54815",
+    "geom:latitude":51.54815,
+    "geom:longitude":17.28304,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695106: name \"Wszewilki\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695106"
+        },
+        {
+            "citation":"GeoNames populated place 11695106: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695106"
+        },
+        {
+            "citation":"GeoNames populated place 11695106: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695106"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125303695 (Gmina Milicz), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687301,
+        102079753,
+        102191581,
+        1125303695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695106
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"49ba66c9d0ce54eb8312aeffbacba897",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079753,
+            "localadmin_id":1125303695,
+            "locality_id":9895052452,
+            "region_id":85687301
+        }
+    ],
+    "wof:id":9895052452,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Wszewilki",
+    "wof:parent_id":1125303695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.28304,
+    51.54815,
+    17.28304,
+    51.54815
+],
+  "geometry": {"coordinates":[17.28304,51.54815],"type":"Point"}
+}

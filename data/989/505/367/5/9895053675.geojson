@@ -1,0 +1,76 @@
+{
+  "id": 9895053675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.7609,50.24717,16.7609,50.24717",
+    "geom:latitude":50.24717,
+    "geom:longitude":16.7609,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13512445: name \"Szklary\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13512445"
+        },
+        {
+            "citation":"GeoNames populated place 13512445: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13512445"
+        },
+        {
+            "citation":"GeoNames populated place 13512445: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13512445"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125414763 (Gmina Bystrzyca K\u0142odzka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687301,
+        102079559,
+        102191581,
+        1125414763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13512445
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"1767a13fc727ba2cf2032143c52fb4ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079559,
+            "localadmin_id":1125414763,
+            "locality_id":9895053675,
+            "region_id":85687301
+        }
+    ],
+    "wof:id":9895053675,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Szklary",
+    "wof:parent_id":1125414763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.7609,
+    50.24717,
+    16.7609,
+    50.24717
+],
+  "geometry": {"coordinates":[16.7609,50.24717],"type":"Point"}
+}

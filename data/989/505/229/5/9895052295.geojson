@@ -1,0 +1,76 @@
+{
+  "id": 9895052295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.67278,52.65382,19.67278,52.65382",
+    "geom:latitude":52.65382,
+    "geom:longitude":19.67278,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11694563: name \"Nowe Proboszczewice\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11694563"
+        },
+        {
+            "citation":"GeoNames populated place 11694563: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11694563"
+        },
+        {
+            "citation":"GeoNames populated place 11694563: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11694563"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477752545 (Stara Bia\u0142a), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687257,
+        102080003,
+        102191581,
+        1477752545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11694563
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"5a6bf450b6083e9d3e2f5c8a33205dfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080003,
+            "localadmin_id":1477752545,
+            "locality_id":9895052295,
+            "region_id":85687257
+        }
+    ],
+    "wof:id":9895052295,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Nowe Proboszczewice",
+    "wof:parent_id":1477752545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.67278,
+    52.65382,
+    19.67278,
+    52.65382
+],
+  "geometry": {"coordinates":[19.67278,52.65382],"type":"Point"}
+}

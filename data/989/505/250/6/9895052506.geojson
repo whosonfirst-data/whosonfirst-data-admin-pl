@@ -1,0 +1,76 @@
+{
+  "id": 9895052506,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.0361,53.15158,23.0361,53.15158",
+    "geom:latitude":53.15158,
+    "geom:longitude":23.0361,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695421: name \"\u0141yski\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695421"
+        },
+        {
+            "citation":"GeoNames populated place 11695421: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695421"
+        },
+        {
+            "citation":"GeoNames populated place 11695421: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695421"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125290721 (Gmina Choroszcz), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687283,
+        102080145,
+        102191581,
+        1125290721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695421
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"1d8389bb31e773e4d873f38eea830fc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080145,
+            "localadmin_id":1125290721,
+            "locality_id":9895052506,
+            "region_id":85687283
+        }
+    ],
+    "wof:id":9895052506,
+    "wof:lastmodified":1795735000,
+    "wof:name":"\u0141yski",
+    "wof:parent_id":1125290721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.0361,
+    53.15158,
+    23.0361,
+    53.15158
+],
+  "geometry": {"coordinates":[23.0361,53.15158],"type":"Point"}
+}

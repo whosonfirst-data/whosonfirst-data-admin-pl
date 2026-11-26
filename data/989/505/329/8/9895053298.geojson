@@ -1,0 +1,76 @@
+{
+  "id": 9895053298,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.95858,53.94628,15.95858,53.94628",
+    "geom:latitude":53.94628,
+    "geom:longitude":15.95858,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12909155: name \"Gruszewo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12909155"
+        },
+        {
+            "citation":"GeoNames populated place 12909155: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12909155"
+        },
+        {
+            "citation":"GeoNames populated place 12909155: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12909155"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477751917 (Gmina Bia\u0142ogard), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687271,
+        102080173,
+        102191581,
+        1477751917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12909155
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"5a9f8cd494d22117b6f5f530c81eb992",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080173,
+            "localadmin_id":1477751917,
+            "locality_id":9895053298,
+            "region_id":85687271
+        }
+    ],
+    "wof:id":9895053298,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Gruszewo",
+    "wof:parent_id":1477751917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.95858,
+    53.94628,
+    15.95858,
+    53.94628
+],
+  "geometry": {"coordinates":[15.95858,53.94628],"type":"Point"}
+}

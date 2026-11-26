@@ -1,0 +1,76 @@
+{
+  "id": 9895053578,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.57827,51.40082,17.57827,51.40082",
+    "geom:latitude":51.40082,
+    "geom:longitude":17.57827,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13353323: name \"Kamie\u0144\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13353323"
+        },
+        {
+            "citation":"GeoNames populated place 13353323: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13353323"
+        },
+        {
+            "citation":"GeoNames populated place 13353323: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13353323"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125386673 (Gmina Mi\u0119dzyb\u00f3rz), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687301,
+        102079717,
+        102191581,
+        1125386673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13353323
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"a53eca31860ab756358c3d7afc3b0270",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079717,
+            "localadmin_id":1125386673,
+            "locality_id":9895053578,
+            "region_id":85687301
+        }
+    ],
+    "wof:id":9895053578,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Kamie\u0144",
+    "wof:parent_id":1125386673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.57827,
+    51.40082,
+    17.57827,
+    51.40082
+],
+  "geometry": {"coordinates":[17.57827,51.40082],"type":"Point"}
+}

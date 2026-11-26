@@ -1,0 +1,76 @@
+{
+  "id": 9895052719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.53868,53.76556,20.53868,53.76556",
+    "geom:latitude":53.76556,
+    "geom:longitude":20.53868,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11696178: name \"Ostrzeszewo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11696178"
+        },
+        {
+            "citation":"GeoNames populated place 11696178: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11696178"
+        },
+        {
+            "citation":"GeoNames populated place 11696178: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11696178"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125309701 (Purda), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687305,
+        102080207,
+        102191581,
+        1125309701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11696178
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"01040ea2866c57a58af5bbd241b8782a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080207,
+            "localadmin_id":1125309701,
+            "locality_id":9895052719,
+            "region_id":85687305
+        }
+    ],
+    "wof:id":9895052719,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Ostrzeszewo",
+    "wof:parent_id":1125309701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.53868,
+    53.76556,
+    20.53868,
+    53.76556
+],
+  "geometry": {"coordinates":[20.53868,53.76556],"type":"Point"}
+}

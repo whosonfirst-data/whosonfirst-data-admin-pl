@@ -1,0 +1,76 @@
+{
+  "id": 9895052833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.71758,50.8609,22.71758,50.8609",
+    "geom:latitude":50.8609,
+    "geom:longitude":22.71758,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11703742: name \"Guz\u00f3wka-Kolonia\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11703742"
+        },
+        {
+            "citation":"GeoNames populated place 11703742: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11703742"
+        },
+        {
+            "citation":"GeoNames populated place 11703742: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11703742"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125411281 (Turobin), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687309,
+        102079699,
+        102191581,
+        1125411281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11703742
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"2706b448c99ea08b9f3b202e381433f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079699,
+            "localadmin_id":1125411281,
+            "locality_id":9895052833,
+            "region_id":85687309
+        }
+    ],
+    "wof:id":9895052833,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Guz\u00f3wka-Kolonia",
+    "wof:parent_id":1125411281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.71758,
+    50.8609,
+    22.71758,
+    50.8609
+],
+  "geometry": {"coordinates":[22.71758,50.8609],"type":"Point"}
+}

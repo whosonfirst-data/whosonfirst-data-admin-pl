@@ -1,0 +1,76 @@
+{
+  "id": 9895053190,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.37697,52.86607,18.37697,52.86607",
+    "geom:latitude":52.86607,
+    "geom:longitude":18.37697,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12173196: name \"Ostrowo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12173196"
+        },
+        {
+            "citation":"GeoNames populated place 12173196: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12173196"
+        },
+        {
+            "citation":"GeoNames populated place 12173196: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12173196"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125311279 (Gmina Gniewkowo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687319,
+        102080013,
+        102191581,
+        1125311279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12173196
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"afd71b04eab4e7dd585317cc34ffc0b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080013,
+            "localadmin_id":1125311279,
+            "locality_id":9895053190,
+            "region_id":85687319
+        }
+    ],
+    "wof:id":9895053190,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Ostrowo",
+    "wof:parent_id":1125311279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.37697,
+    52.86607,
+    18.37697,
+    52.86607
+],
+  "geometry": {"coordinates":[18.37697,52.86607],"type":"Point"}
+}

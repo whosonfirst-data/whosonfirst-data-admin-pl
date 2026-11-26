@@ -1,0 +1,76 @@
+{
+  "id": 9895052958,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.77509,50.36961,16.77509,50.36961",
+    "geom:latitude":50.36961,
+    "geom:longitude":16.77509,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11704161: name \"Skrzynka\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11704161"
+        },
+        {
+            "citation":"GeoNames populated place 11704161: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11704161"
+        },
+        {
+            "citation":"GeoNames populated place 11704161: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11704161"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125330023 (Gmina L\u0105dek-Zdr\u00f3j), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687301,
+        102079559,
+        102191581,
+        1125330023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11704161
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"4d35eb7339933aa616ded28620f6c530",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079559,
+            "localadmin_id":1125330023,
+            "locality_id":9895052958,
+            "region_id":85687301
+        }
+    ],
+    "wof:id":9895052958,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Skrzynka",
+    "wof:parent_id":1125330023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.77509,
+    50.36961,
+    16.77509,
+    50.36961
+],
+  "geometry": {"coordinates":[16.77509,50.36961],"type":"Point"}
+}

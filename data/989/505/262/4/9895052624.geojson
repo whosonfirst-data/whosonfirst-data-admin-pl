@@ -1,0 +1,77 @@
+{
+  "id": 9895052624,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.8906,50.86494,21.8906,50.86494",
+    "geom:latitude":50.86494,
+    "geom:longitude":21.8906,
+    "gn:population":390,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695917: name \"Opoka-Kolonia\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695917"
+        },
+        {
+            "citation":"GeoNames populated place 11695917: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695917"
+        },
+        {
+            "citation":"GeoNames populated place 11695917: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695917"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125384203 (Gmina Annopol), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687309,
+        102079721,
+        102191581,
+        1125384203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695917
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"c18a1bfe0f1e28821e8254c706f0523e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079721,
+            "localadmin_id":1125384203,
+            "locality_id":9895052624,
+            "region_id":85687309
+        }
+    ],
+    "wof:id":9895052624,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Opoka-Kolonia",
+    "wof:parent_id":1125384203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.8906,
+    50.86494,
+    21.8906,
+    50.86494
+],
+  "geometry": {"coordinates":[21.8906,50.86494],"type":"Point"}
+}

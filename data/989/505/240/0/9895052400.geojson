@@ -1,0 +1,76 @@
+{
+  "id": 9895052400,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.62548,50.66831,22.62548,50.66831",
+    "geom:latitude":50.66831,
+    "geom:longitude":22.62548,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11694916: name \"Kocudza Trzecia\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11694916"
+        },
+        {
+            "citation":"GeoNames populated place 11694916: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11694916"
+        },
+        {
+            "citation":"GeoNames populated place 11694916: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11694916"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125372711 (Dzwola), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687309,
+        102079697,
+        102191581,
+        1125372711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11694916
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"fe6bd9130afa0403ff3364136414e428",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079697,
+            "localadmin_id":1125372711,
+            "locality_id":9895052400,
+            "region_id":85687309
+        }
+    ],
+    "wof:id":9895052400,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Kocudza Trzecia",
+    "wof:parent_id":1125372711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.62548,
+    50.66831,
+    22.62548,
+    50.66831
+],
+  "geometry": {"coordinates":[22.62548,50.66831],"type":"Point"}
+}

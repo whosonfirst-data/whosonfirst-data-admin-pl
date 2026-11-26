@@ -1,0 +1,76 @@
+{
+  "id": 9895053295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.35864,53.8453,17.35864,53.8453",
+    "geom:latitude":53.8453,
+    "geom:longitude":17.35864,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12909147: name \"\u017bychce\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12909147"
+        },
+        {
+            "citation":"GeoNames populated place 12909147: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12909147"
+        },
+        {
+            "citation":"GeoNames populated place 12909147: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12909147"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477751413 (Konarzyny), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687267,
+        102080161,
+        102191581,
+        1477751413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12909147
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"82026987e523af2560a1bcd3145cba33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080161,
+            "localadmin_id":1477751413,
+            "locality_id":9895053295,
+            "region_id":85687267
+        }
+    ],
+    "wof:id":9895053295,
+    "wof:lastmodified":1795735000,
+    "wof:name":"\u017bychce",
+    "wof:parent_id":1477751413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.35864,
+    53.8453,
+    17.35864,
+    53.8453
+],
+  "geometry": {"coordinates":[17.35864,53.8453],"type":"Point"}
+}

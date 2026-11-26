@@ -1,0 +1,76 @@
+{
+  "id": 9895053334,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.08118,53.06955,16.08118,53.06955",
+    "geom:latitude":53.06955,
+    "geom:longitude":16.08118,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12909207: name \"Dzwonowo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12909207"
+        },
+        {
+            "citation":"GeoNames populated place 12909207: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12909207"
+        },
+        {
+            "citation":"GeoNames populated place 12909207: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12909207"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125282521 (Gmina Cz\u0142opa), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687271,
+        102080075,
+        102191581,
+        1125282521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12909207
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"d1e68faa264318922dacc40ec654a4e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080075,
+            "localadmin_id":1125282521,
+            "locality_id":9895053334,
+            "region_id":85687271
+        }
+    ],
+    "wof:id":9895053334,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Dzwonowo",
+    "wof:parent_id":1125282521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.08118,
+    53.06955,
+    16.08118,
+    53.06955
+],
+  "geometry": {"coordinates":[16.08118,53.06955],"type":"Point"}
+}

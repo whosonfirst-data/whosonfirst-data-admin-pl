@@ -1,0 +1,76 @@
+{
+  "id": 9895053007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.48028,50.23389,20.48028,50.23389",
+    "geom:latitude":50.23389,
+    "geom:longitude":20.48028,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11704233: name \"Chruszczyna Wielka\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11704233"
+        },
+        {
+            "citation":"GeoNames populated place 11704233: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11704233"
+        },
+        {
+            "citation":"GeoNames populated place 11704233: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11704233"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477752755 (Gmina Kazimierza Wielka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687287,
+        102079561,
+        102191581,
+        1477752755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11704233
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"6321b4dbe7d574fd6380cfd11f30117f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079561,
+            "localadmin_id":1477752755,
+            "locality_id":9895053007,
+            "region_id":85687287
+        }
+    ],
+    "wof:id":9895053007,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Chruszczyna Wielka",
+    "wof:parent_id":1477752755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.48028,
+    50.23389,
+    20.48028,
+    50.23389
+],
+  "geometry": {"coordinates":[20.48028,50.23389],"type":"Point"}
+}

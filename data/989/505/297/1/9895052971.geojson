@@ -1,0 +1,77 @@
+{
+  "id": 9895052971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.51989,53.60641,14.51989,53.60641",
+    "geom:latitude":53.60641,
+    "geom:longitude":14.51989,
+    "gn:population":170,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11704174: name \"D\u0119bostr\u00f3w\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11704174"
+        },
+        {
+            "citation":"GeoNames populated place 11704174: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11704174"
+        },
+        {
+            "citation":"GeoNames populated place 11704174: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11704174"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125325555 (Gmina Police), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687271,
+        102080119,
+        102191581,
+        1125325555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11704174
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"071939eed01fe0a82301d57fd695c325",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080119,
+            "localadmin_id":1125325555,
+            "locality_id":9895052971,
+            "region_id":85687271
+        }
+    ],
+    "wof:id":9895052971,
+    "wof:lastmodified":1795735000,
+    "wof:name":"D\u0119bostr\u00f3w",
+    "wof:parent_id":1125325555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.51989,
+    53.60641,
+    14.51989,
+    53.60641
+],
+  "geometry": {"coordinates":[14.51989,53.60641],"type":"Point"}
+}

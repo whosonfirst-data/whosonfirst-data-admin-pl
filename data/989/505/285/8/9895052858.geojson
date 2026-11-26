@@ -1,0 +1,76 @@
+{
+  "id": 9895052858,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.91668,52.29255,17.91668,52.29255",
+    "geom:latitude":52.29255,
+    "geom:longitude":17.91668,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11703930: name \"Koszuty Ma\u0142e\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11703930"
+        },
+        {
+            "citation":"GeoNames populated place 11703930: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11703930"
+        },
+        {
+            "citation":"GeoNames populated place 11703930: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11703930"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477752821 (Gmina S\u0142upca), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687323,
+        102079941,
+        102191581,
+        1477752821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11703930
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"c3a73be18aeba239f75be787c79e0cc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079941,
+            "localadmin_id":1477752821,
+            "locality_id":9895052858,
+            "region_id":85687323
+        }
+    ],
+    "wof:id":9895052858,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Koszuty Ma\u0142e",
+    "wof:parent_id":1477752821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.91668,
+    52.29255,
+    17.91668,
+    52.29255
+],
+  "geometry": {"coordinates":[17.91668,52.29255],"type":"Point"}
+}

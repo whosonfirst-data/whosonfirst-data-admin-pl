@@ -1,0 +1,76 @@
+{
+  "id": 9895053438,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.68711,52.6173,15.68711,52.6173",
+    "geom:latitude":52.6173,
+    "geom:longitude":15.68711,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13264684: name \"Gaj\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13264684"
+        },
+        {
+            "citation":"GeoNames populated place 13264684: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13264684"
+        },
+        {
+            "citation":"GeoNames populated place 13264684: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13264684"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125319965 (Przytoczna), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687327,
+        102079947,
+        102191581,
+        1125319965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13264684
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"6394dcff729437ed2b243821dd5e7b76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079947,
+            "localadmin_id":1125319965,
+            "locality_id":9895053438,
+            "region_id":85687327
+        }
+    ],
+    "wof:id":9895053438,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Gaj",
+    "wof:parent_id":1125319965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.68711,
+    52.6173,
+    15.68711,
+    52.6173
+],
+  "geometry": {"coordinates":[15.68711,52.6173],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 9895053242,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.60107,53.73109,15.60107,53.73109",
+    "geom:latitude":53.73109,
+    "geom:longitude":15.60107,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12450957: name \"Na\u0107mierz\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12450957"
+        },
+        {
+            "citation":"GeoNames populated place 12450957: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12450957"
+        },
+        {
+            "citation":"GeoNames populated place 12450957: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12450957"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477751227 (Gmina Resko), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687271,
+        102080131,
+        102191581,
+        1477751227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12450957
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"fa580533d2f82c76755aa7b10bba64e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080131,
+            "localadmin_id":1477751227,
+            "locality_id":9895053242,
+            "region_id":85687271
+        }
+    ],
+    "wof:id":9895053242,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Na\u0107mierz",
+    "wof:parent_id":1477751227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.60107,
+    53.73109,
+    15.60107,
+    53.73109
+],
+  "geometry": {"coordinates":[15.60107,53.73109],"type":"Point"}
+}

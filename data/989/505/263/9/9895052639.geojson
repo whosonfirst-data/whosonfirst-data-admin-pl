@@ -1,0 +1,76 @@
+{
+  "id": 9895052639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.43091,52.54105,22.43091,52.54105",
+    "geom:latitude":52.54105,
+    "geom:longitude":22.43091,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695940: name \"Dzierzby W\u0142o\u015bcia\u0144skie\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695940"
+        },
+        {
+            "citation":"GeoNames populated place 11695940: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695940"
+        },
+        {
+            "citation":"GeoNames populated place 11695940: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695940"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477751277 (Jab\u0142onna Lacka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687257,
+        102080023,
+        102191581,
+        1477751277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695940
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"d465ef33c522de0aa43ab1f02fd0dcb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080023,
+            "localadmin_id":1477751277,
+            "locality_id":9895052639,
+            "region_id":85687257
+        }
+    ],
+    "wof:id":9895052639,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Dzierzby W\u0142o\u015bcia\u0144skie",
+    "wof:parent_id":1477751277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.43091,
+    52.54105,
+    22.43091,
+    52.54105
+],
+  "geometry": {"coordinates":[22.43091,52.54105],"type":"Point"}
+}

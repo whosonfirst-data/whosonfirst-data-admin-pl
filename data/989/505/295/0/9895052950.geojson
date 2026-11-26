@@ -1,0 +1,76 @@
+{
+  "id": 9895052950,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.91915,51.18731,22.91915,51.18731",
+    "geom:latitude":51.18731,
+    "geom:longitude":22.91915,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11704153: name \"\u0141yso\u0142aje-Kolonia\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11704153"
+        },
+        {
+            "citation":"GeoNames populated place 11704153: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11704153"
+        },
+        {
+            "citation":"GeoNames populated place 11704153: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11704153"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125364423 (Milej\u00f3w), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687309,
+        102079815,
+        102191581,
+        1125364423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11704153
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"ad9e44f8c7d3d0913bde4af0d31f2407",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079815,
+            "localadmin_id":1125364423,
+            "locality_id":9895052950,
+            "region_id":85687309
+        }
+    ],
+    "wof:id":9895052950,
+    "wof:lastmodified":1795735000,
+    "wof:name":"\u0141yso\u0142aje-Kolonia",
+    "wof:parent_id":1125364423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.91915,
+    51.18731,
+    22.91915,
+    51.18731
+],
+  "geometry": {"coordinates":[22.91915,51.18731],"type":"Point"}
+}

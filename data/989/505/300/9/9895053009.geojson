@@ -1,0 +1,76 @@
+{
+  "id": 9895053009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.25534,51.60805,19.25534,51.60805",
+    "geom:latitude":51.60805,
+    "geom:longitude":19.25534,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11704235: name \"Mogilno Du\u017ce\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11704235"
+        },
+        {
+            "citation":"GeoNames populated place 11704235: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11704235"
+        },
+        {
+            "citation":"GeoNames populated place 11704235: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11704235"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125373435 (Dobro\u0144), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687261,
+        102079823,
+        102191581,
+        1125373435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11704235
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"5419a052a7956206d93b7b0a7d99a61e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079823,
+            "localadmin_id":1125373435,
+            "locality_id":9895053009,
+            "region_id":85687261
+        }
+    ],
+    "wof:id":9895053009,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Mogilno Du\u017ce",
+    "wof:parent_id":1125373435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.25534,
+    51.60805,
+    19.25534,
+    51.60805
+],
+  "geometry": {"coordinates":[19.25534,51.60805],"type":"Point"}
+}

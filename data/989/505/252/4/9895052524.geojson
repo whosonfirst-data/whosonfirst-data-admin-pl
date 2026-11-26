@@ -1,0 +1,76 @@
+{
+  "id": 9895052524,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.24945,52.68455,15.24945,52.68455",
+    "geom:latitude":52.68455,
+    "geom:longitude":15.24945,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695462: name \"\u0141agodzin\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695462"
+        },
+        {
+            "citation":"GeoNames populated place 11695462: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695462"
+        },
+        {
+            "citation":"GeoNames populated place 11695462: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695462"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125370985 (Deszczno), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687327,
+        102079975,
+        102191581,
+        1125370985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695462
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"6159e8d4bd55c43b940a5db6e192936b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079975,
+            "localadmin_id":1125370985,
+            "locality_id":9895052524,
+            "region_id":85687327
+        }
+    ],
+    "wof:id":9895052524,
+    "wof:lastmodified":1795735000,
+    "wof:name":"\u0141agodzin",
+    "wof:parent_id":1125370985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.24945,
+    52.68455,
+    15.24945,
+    52.68455
+],
+  "geometry": {"coordinates":[15.24945,52.68455],"type":"Point"}
+}

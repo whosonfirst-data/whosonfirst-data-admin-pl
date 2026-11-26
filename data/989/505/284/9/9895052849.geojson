@@ -1,0 +1,76 @@
+{
+  "id": 9895052849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.21055,52.22338,20.21055,52.22338",
+    "geom:latitude":52.22338,
+    "geom:longitude":20.21055,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11703888: name \"Kuznocin\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11703888"
+        },
+        {
+            "citation":"GeoNames populated place 11703888: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11703888"
+        },
+        {
+            "citation":"GeoNames populated place 11703888: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11703888"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125319697 (Gmina Sochaczew), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687257,
+        102079945,
+        102191581,
+        1125319697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11703888
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"2aa3cf75d19a4f9a9709001112f08c4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079945,
+            "localadmin_id":1125319697,
+            "locality_id":9895052849,
+            "region_id":85687257
+        }
+    ],
+    "wof:id":9895052849,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Kuznocin",
+    "wof:parent_id":1125319697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.21055,
+    52.22338,
+    20.21055,
+    52.22338
+],
+  "geometry": {"coordinates":[20.21055,52.22338],"type":"Point"}
+}

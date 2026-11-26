@@ -1,0 +1,76 @@
+{
+  "id": 9895052334,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.39899,50.51714,23.39899,50.51714",
+    "geom:latitude":50.51714,
+    "geom:longitude":23.39899,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11694764: name \"Tarnawatka-Tartak\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11694764"
+        },
+        {
+            "citation":"GeoNames populated place 11694764: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11694764"
+        },
+        {
+            "citation":"GeoNames populated place 11694764: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11694764"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125311573 (Tarnawatka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687309,
+        102079689,
+        102191581,
+        1125311573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11694764
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"b22dd508c540d7eff52d554811b11eee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079689,
+            "localadmin_id":1125311573,
+            "locality_id":9895052334,
+            "region_id":85687309
+        }
+    ],
+    "wof:id":9895052334,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Tarnawatka-Tartak",
+    "wof:parent_id":1125311573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.39899,
+    50.51714,
+    23.39899,
+    50.51714
+],
+  "geometry": {"coordinates":[23.39899,50.51714],"type":"Point"}
+}

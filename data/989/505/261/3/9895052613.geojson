@@ -1,0 +1,76 @@
+{
+  "id": 9895052613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.21255,51.19661,22.21255,51.19661",
+    "geom:latitude":51.19661,
+    "geom:longitude":22.21255,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695898: name \"Chmielnik-Kolonia\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695898"
+        },
+        {
+            "citation":"GeoNames populated place 11695898: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695898"
+        },
+        {
+            "citation":"GeoNames populated place 11695898: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695898"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125290911 (Gmina Be\u0142\u017cyce), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687309,
+        102079795,
+        102191581,
+        1125290911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695898
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"680fcb723c91088fce40c60f2baa5cb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079795,
+            "localadmin_id":1125290911,
+            "locality_id":9895052613,
+            "region_id":85687309
+        }
+    ],
+    "wof:id":9895052613,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Chmielnik-Kolonia",
+    "wof:parent_id":1125290911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.21255,
+    51.19661,
+    22.21255,
+    51.19661
+],
+  "geometry": {"coordinates":[22.21255,51.19661],"type":"Point"}
+}

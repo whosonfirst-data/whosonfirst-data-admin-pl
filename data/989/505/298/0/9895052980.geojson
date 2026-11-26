@@ -1,0 +1,76 @@
+{
+  "id": 9895052980,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.42802,54.08706,18.42802,54.08706",
+    "geom:latitude":54.08706,
+    "geom:longitude":18.42802,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11704202: name \"Wolny Dw\u00f3r\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11704202"
+        },
+        {
+            "citation":"GeoNames populated place 11704202: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11704202"
+        },
+        {
+            "citation":"GeoNames populated place 11704202: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11704202"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477751957 (Gmina Skarszewy), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687267,
+        102080183,
+        102191581,
+        1477751957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11704202
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"5ba1238c4e9c9422ef9deb6ed25b5ffd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080183,
+            "localadmin_id":1477751957,
+            "locality_id":9895052980,
+            "region_id":85687267
+        }
+    ],
+    "wof:id":9895052980,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Wolny Dw\u00f3r",
+    "wof:parent_id":1477751957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.42802,
+    54.08706,
+    18.42802,
+    54.08706
+],
+  "geometry": {"coordinates":[18.42802,54.08706],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 9895052990,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.3134,50.97194,22.3134,50.97194",
+    "geom:latitude":50.97194,
+    "geom:longitude":22.3134,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11704212: name \"Rudnik-Kolonia\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11704212"
+        },
+        {
+            "citation":"GeoNames populated place 11704212: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11704212"
+        },
+        {
+            "citation":"GeoNames populated place 11704212: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11704212"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125300533 (Wilko\u0142az), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687309,
+        102079721,
+        102191581,
+        1125300533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11704212
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"a0b6fd08b44205636ab6ab5904a8c12a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079721,
+            "localadmin_id":1125300533,
+            "locality_id":9895052990,
+            "region_id":85687309
+        }
+    ],
+    "wof:id":9895052990,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Rudnik-Kolonia",
+    "wof:parent_id":1125300533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.3134,
+    50.97194,
+    22.3134,
+    50.97194
+],
+  "geometry": {"coordinates":[22.3134,50.97194],"type":"Point"}
+}

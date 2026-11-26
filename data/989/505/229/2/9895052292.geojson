@@ -1,0 +1,76 @@
+{
+  "id": 9895052292,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.29465,51.78775,19.29465,51.78775",
+    "geom:latitude":51.78775,
+    "geom:longitude":19.29465,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11694556: name \"R\u0105bie\u0144 Ab\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11694556"
+        },
+        {
+            "citation":"GeoNames populated place 11694556: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11694556"
+        },
+        {
+            "citation":"GeoNames populated place 11694556: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11694556"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125310711 (Gmina Aleksandr\u00f3w \u0141\u00f3dzki), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687261,
+        102079873,
+        102191581,
+        1125310711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11694556
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"1758445b4f7c69b1e6b00fb7603e8a42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079873,
+            "localadmin_id":1125310711,
+            "locality_id":9895052292,
+            "region_id":85687261
+        }
+    ],
+    "wof:id":9895052292,
+    "wof:lastmodified":1795735000,
+    "wof:name":"R\u0105bie\u0144 Ab",
+    "wof:parent_id":1125310711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.29465,
+    51.78775,
+    19.29465,
+    51.78775
+],
+  "geometry": {"coordinates":[19.29465,51.78775],"type":"Point"}
+}

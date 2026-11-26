@@ -1,0 +1,76 @@
+{
+  "id": 9895053667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.00593,50.99844,17.00593,50.99844",
+    "geom:latitude":50.99844,
+    "geom:longitude":17.00593,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13448330: name \"Szukalice\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13448330"
+        },
+        {
+            "citation":"GeoNames populated place 13448330: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13448330"
+        },
+        {
+            "citation":"GeoNames populated place 13448330: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13448330"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125394733 (\u017b\u00f3rawina), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687301,
+        102079685,
+        102191581,
+        1125394733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13448330
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"f3eb6ee51220258fc825d2f0b4aca825",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079685,
+            "localadmin_id":1125394733,
+            "locality_id":9895053667,
+            "region_id":85687301
+        }
+    ],
+    "wof:id":9895053667,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Szukalice",
+    "wof:parent_id":1125394733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.00593,
+    50.99844,
+    17.00593,
+    50.99844
+],
+  "geometry": {"coordinates":[17.00593,50.99844],"type":"Point"}
+}

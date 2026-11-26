@@ -1,0 +1,76 @@
+{
+  "id": 9895052870,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.26534,50.93864,22.26534,50.93864",
+    "geom:latitude":50.93864,
+    "geom:longitude":22.26534,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11703945: name \"Lasy\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11703945"
+        },
+        {
+            "citation":"GeoNames populated place 11703945: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11703945"
+        },
+        {
+            "citation":"GeoNames populated place 11703945: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11703945"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477752259 (Gmina Kra\u015bnik), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687309,
+        102079721,
+        102191581,
+        1477752259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11703945
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"84a8973240a99b4c95a8307633f028f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079721,
+            "localadmin_id":1477752259,
+            "locality_id":9895052870,
+            "region_id":85687309
+        }
+    ],
+    "wof:id":9895052870,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Lasy",
+    "wof:parent_id":1477752259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.26534,
+    50.93864,
+    22.26534,
+    50.93864
+],
+  "geometry": {"coordinates":[22.26534,50.93864],"type":"Point"}
+}

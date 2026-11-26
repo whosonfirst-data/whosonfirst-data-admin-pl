@@ -1,0 +1,76 @@
+{
+  "id": 9895052717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.74331,53.53495,14.74331,53.53495",
+    "geom:latitude":53.53495,
+    "geom:longitude":14.74331,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11696176: name \"Komarowo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11696176"
+        },
+        {
+            "citation":"GeoNames populated place 11696176: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11696176"
+        },
+        {
+            "citation":"GeoNames populated place 11696176: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11696176"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125303621 (Gmina Goleni\u00f3w), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687271,
+        102080123,
+        102191581,
+        1125303621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11696176
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"66fdafa6250b6709899dfff9e27e42ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080123,
+            "localadmin_id":1125303621,
+            "locality_id":9895052717,
+            "region_id":85687271
+        }
+    ],
+    "wof:id":9895052717,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Komarowo",
+    "wof:parent_id":1125303621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.74331,
+    53.53495,
+    14.74331,
+    53.53495
+],
+  "geometry": {"coordinates":[14.74331,53.53495],"type":"Point"}
+}

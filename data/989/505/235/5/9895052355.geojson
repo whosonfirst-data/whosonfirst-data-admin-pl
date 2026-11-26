@@ -1,0 +1,76 @@
+{
+  "id": 9895052355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.93289,51.15798,22.93289,51.15798",
+    "geom:latitude":51.15798,
+    "geom:longitude":22.93289,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11694787: name \"Stru\u017ca-Kolonia\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11694787"
+        },
+        {
+            "citation":"GeoNames populated place 11694787: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11694787"
+        },
+        {
+            "citation":"GeoNames populated place 11694787: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11694787"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125328535 (Trawniki), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687309,
+        102079777,
+        102191581,
+        1125328535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11694787
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"668a6e3d729d0d3def9acb103bd39cd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079777,
+            "localadmin_id":1125328535,
+            "locality_id":9895052355,
+            "region_id":85687309
+        }
+    ],
+    "wof:id":9895052355,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Stru\u017ca-Kolonia",
+    "wof:parent_id":1125328535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.93289,
+    51.15798,
+    22.93289,
+    51.15798
+],
+  "geometry": {"coordinates":[22.93289,51.15798],"type":"Point"}
+}

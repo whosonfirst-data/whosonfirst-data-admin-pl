@@ -1,0 +1,76 @@
+{
+  "id": 9895053028,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.64812,52.21545,20.64812,52.21545",
+    "geom:latitude":52.21545,
+    "geom:longitude":20.64812,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11778023: name \"Radzik\u00f3w\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11778023"
+        },
+        {
+            "citation":"GeoNames populated place 11778023: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11778023"
+        },
+        {
+            "citation":"GeoNames populated place 11778023: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11778023"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125343429 (Gmina B\u0142onie), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687257,
+        102079949,
+        102191581,
+        1125343429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11778023
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"e68d333903a7e94a78cf2753d433d288",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079949,
+            "localadmin_id":1125343429,
+            "locality_id":9895053028,
+            "region_id":85687257
+        }
+    ],
+    "wof:id":9895053028,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Radzik\u00f3w",
+    "wof:parent_id":1125343429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.64812,
+    52.21545,
+    20.64812,
+    52.21545
+],
+  "geometry": {"coordinates":[20.64812,52.21545],"type":"Point"}
+}

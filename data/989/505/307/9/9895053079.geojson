@@ -1,0 +1,76 @@
+{
+  "id": 9895053079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.4313,51.45331,16.4313,51.45331",
+    "geom:latitude":51.45331,
+    "geom:longitude":16.4313,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11952478: name \"Przychowa\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11952478"
+        },
+        {
+            "citation":"GeoNames populated place 11952478: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11952478"
+        },
+        {
+            "citation":"GeoNames populated place 11952478: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11952478"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477752983 (Gmina \u015acinawa), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687301,
+        102079735,
+        102191581,
+        1477752983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11952478
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"c27ffc1eed03aacc07b1894c1f705e11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079735,
+            "localadmin_id":1477752983,
+            "locality_id":9895053079,
+            "region_id":85687301
+        }
+    ],
+    "wof:id":9895053079,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Przychowa",
+    "wof:parent_id":1477752983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.4313,
+    51.45331,
+    16.4313,
+    51.45331
+],
+  "geometry": {"coordinates":[16.4313,51.45331],"type":"Point"}
+}

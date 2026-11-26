@@ -1,0 +1,76 @@
+{
+  "id": 9895053363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.30671,53.4796,17.30671,53.4796",
+    "geom:latitude":53.4796,
+    "geom:longitude":17.30671,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13118903: name \"Bator\u00f3wko\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13118903"
+        },
+        {
+            "citation":"GeoNames populated place 13118903: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13118903"
+        },
+        {
+            "citation":"GeoNames populated place 13118903: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13118903"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125364637 (Lipka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687323,
+        102080109,
+        102191581,
+        1125364637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13118903
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"9c2d65aedb2e2befbd4e066510903b21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080109,
+            "localadmin_id":1125364637,
+            "locality_id":9895053363,
+            "region_id":85687323
+        }
+    ],
+    "wof:id":9895053363,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Bator\u00f3wko",
+    "wof:parent_id":1125364637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.30671,
+    53.4796,
+    17.30671,
+    53.4796
+],
+  "geometry": {"coordinates":[17.30671,53.4796],"type":"Point"}
+}

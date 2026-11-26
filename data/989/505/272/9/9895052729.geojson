@@ -1,0 +1,76 @@
+{
+  "id": 9895052729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.66031,51.24983,17.66031,51.24983",
+    "geom:latitude":51.24983,
+    "geom:longitude":17.66031,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11696374: name \"Stradomia Dolna\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11696374"
+        },
+        {
+            "citation":"GeoNames populated place 11696374: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11696374"
+        },
+        {
+            "citation":"GeoNames populated place 11696374: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11696374"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477751281 (Dziadowa K\u0142oda), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687301,
+        102079717,
+        102191581,
+        1477751281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11696374
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"c3d4b589a0620ead409feaede2e65aa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079717,
+            "localadmin_id":1477751281,
+            "locality_id":9895052729,
+            "region_id":85687301
+        }
+    ],
+    "wof:id":9895052729,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Stradomia Dolna",
+    "wof:parent_id":1477751281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.66031,
+    51.24983,
+    17.66031,
+    51.24983
+],
+  "geometry": {"coordinates":[17.66031,51.24983],"type":"Point"}
+}

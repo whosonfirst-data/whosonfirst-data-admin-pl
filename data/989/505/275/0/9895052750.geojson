@@ -1,0 +1,76 @@
+{
+  "id": 9895052750,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.22403,52.36313,17.22403,52.36313",
+    "geom:latitude":52.36313,
+    "geom:longitude":17.22403,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11696405: name \"Czerlejnko\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11696405"
+        },
+        {
+            "citation":"GeoNames populated place 11696405: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11696405"
+        },
+        {
+            "citation":"GeoNames populated place 11696405: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11696405"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125282479 (Gmina Kostrzyn), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687323,
+        102079955,
+        102191581,
+        1125282479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11696405
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"7f7894fc759e5fe0e74045356b04c0f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079955,
+            "localadmin_id":1125282479,
+            "locality_id":9895052750,
+            "region_id":85687323
+        }
+    ],
+    "wof:id":9895052750,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Czerlejnko",
+    "wof:parent_id":1125282479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.22403,
+    52.36313,
+    17.22403,
+    52.36313
+],
+  "geometry": {"coordinates":[17.22403,52.36313],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 9895053301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.54188,53.97974,16.54188,53.97974",
+    "geom:latitude":53.97974,
+    "geom:longitude":16.54188,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12909158: name \"G\u0142odowa\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12909158"
+        },
+        {
+            "citation":"GeoNames populated place 12909158: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12909158"
+        },
+        {
+            "citation":"GeoNames populated place 12909158: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12909158"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125311327 (Gmina Bobolice), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687271,
+        102080199,
+        102191581,
+        1125311327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12909158
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"87dab3fbc297ccaea40bfb40118e5598",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080199,
+            "localadmin_id":1125311327,
+            "locality_id":9895053301,
+            "region_id":85687271
+        }
+    ],
+    "wof:id":9895053301,
+    "wof:lastmodified":1795735000,
+    "wof:name":"G\u0142odowa",
+    "wof:parent_id":1125311327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.54188,
+    53.97974,
+    16.54188,
+    53.97974
+],
+  "geometry": {"coordinates":[16.54188,53.97974],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 9895052669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.28816,52.01991,21.28816,52.01991",
+    "geom:latitude":52.01991,
+    "geom:longitude":21.28816,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11696063: name \"Sobiekursk\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11696063"
+        },
+        {
+            "citation":"GeoNames populated place 11696063: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11696063"
+        },
+        {
+            "citation":"GeoNames populated place 11696063: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11696063"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125303625 (Gmina Karczew), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687257,
+        102079931,
+        102191581,
+        1125303625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11696063
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"cf67d85632bf62d59764ec05cd0f0fd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079931,
+            "localadmin_id":1125303625,
+            "locality_id":9895052669,
+            "region_id":85687257
+        }
+    ],
+    "wof:id":9895052669,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Sobiekursk",
+    "wof:parent_id":1125303625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.28816,
+    52.01991,
+    21.28816,
+    52.01991
+],
+  "geometry": {"coordinates":[21.28816,52.01991],"type":"Point"}
+}

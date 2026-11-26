@@ -1,0 +1,76 @@
+{
+  "id": 9895052683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.18507,51.29354,21.18507,51.29354",
+    "geom:latitude":51.29354,
+    "geom:longitude":21.18507,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11696084: name \"Choment\u00f3w-Socha\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11696084"
+        },
+        {
+            "citation":"GeoNames populated place 11696084: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11696084"
+        },
+        {
+            "citation":"GeoNames populated place 11696084: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11696084"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125278561 (Gmina Skaryszew), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687257,
+        102079805,
+        102191581,
+        1125278561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11696084
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"45f0817c0fdf5a6c08a7aa09a898f1c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079805,
+            "localadmin_id":1125278561,
+            "locality_id":9895052683,
+            "region_id":85687257
+        }
+    ],
+    "wof:id":9895052683,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Choment\u00f3w-Socha",
+    "wof:parent_id":1125278561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.18507,
+    51.29354,
+    21.18507,
+    51.29354
+],
+  "geometry": {"coordinates":[21.18507,51.29354],"type":"Point"}
+}

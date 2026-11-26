@@ -1,0 +1,76 @@
+{
+  "id": 9895053046,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.26567,51.66577,16.26567,51.66577",
+    "geom:latitude":51.66577,
+    "geom:longitude":16.26567,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11952159: name \"Mileszyn\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11952159"
+        },
+        {
+            "citation":"GeoNames populated place 11952159: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11952159"
+        },
+        {
+            "citation":"GeoNames populated place 11952159: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11952159"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477752007 (P\u0119c\u0142aw), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687301,
+        102079769,
+        102191581,
+        1477752007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11952159
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"fd4208723b5c8961bbca86cf24d8e677",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079769,
+            "localadmin_id":1477752007,
+            "locality_id":9895053046,
+            "region_id":85687301
+        }
+    ],
+    "wof:id":9895053046,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Mileszyn",
+    "wof:parent_id":1477752007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.26567,
+    51.66577,
+    16.26567,
+    51.66577
+],
+  "geometry": {"coordinates":[16.26567,51.66577],"type":"Point"}
+}

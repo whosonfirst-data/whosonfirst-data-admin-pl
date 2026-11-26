@@ -1,0 +1,76 @@
+{
+  "id": 9895052692,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.94705,51.30264,22.94705,51.30264",
+    "geom:latitude":51.30264,
+    "geom:longitude":22.94705,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11696151: name \"Turowola-Kolonia\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11696151"
+        },
+        {
+            "citation":"GeoNames populated place 11696151: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11696151"
+        },
+        {
+            "citation":"GeoNames populated place 11696151: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11696151"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125381707 (Puchacz\u00f3w), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687309,
+        102079815,
+        102191581,
+        1125381707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11696151
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"342bcd310befc97fd732d44034309f3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079815,
+            "localadmin_id":1125381707,
+            "locality_id":9895052692,
+            "region_id":85687309
+        }
+    ],
+    "wof:id":9895052692,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Turowola-Kolonia",
+    "wof:parent_id":1125381707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.94705,
+    51.30264,
+    22.94705,
+    51.30264
+],
+  "geometry": {"coordinates":[22.94705,51.30264],"type":"Point"}
+}

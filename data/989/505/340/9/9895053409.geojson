@@ -1,0 +1,76 @@
+{
+  "id": 9895053409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.2119,54.06928,21.2119,54.06928",
+    "geom:latitude":54.06928,
+    "geom:longitude":21.2119,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13237125: name \"Jutrkowo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13237125"
+        },
+        {
+            "citation":"GeoNames populated place 13237125: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13237125"
+        },
+        {
+            "citation":"GeoNames populated place 13237125: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13237125"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125412241 (Gmina Reszel), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687305,
+        102080249,
+        102191581,
+        1125412241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13237125
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"ba3d69733b645dfab9a0a11e258fed5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080249,
+            "localadmin_id":1125412241,
+            "locality_id":9895053409,
+            "region_id":85687305
+        }
+    ],
+    "wof:id":9895053409,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Jutrkowo",
+    "wof:parent_id":1125412241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.2119,
+    54.06928,
+    21.2119,
+    54.06928
+],
+  "geometry": {"coordinates":[21.2119,54.06928],"type":"Point"}
+}

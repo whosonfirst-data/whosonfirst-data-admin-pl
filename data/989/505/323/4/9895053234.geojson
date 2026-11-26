@@ -1,0 +1,76 @@
+{
+  "id": 9895053234,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.15358,51.00486,17.15358,51.00486",
+    "geom:latitude":51.00486,
+    "geom:longitude":17.15358,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12358469: name \"Z\u0119bice\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12358469"
+        },
+        {
+            "citation":"GeoNames populated place 12358469: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12358469"
+        },
+        {
+            "citation":"GeoNames populated place 12358469: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12358469"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125393289 (Gmina Siechnice), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687301,
+        102079685,
+        102191581,
+        1125393289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12358469
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"88bcb89c2dad7e0f68be21fc0da2a61e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079685,
+            "localadmin_id":1125393289,
+            "locality_id":9895053234,
+            "region_id":85687301
+        }
+    ],
+    "wof:id":9895053234,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Z\u0119bice",
+    "wof:parent_id":1125393289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.15358,
+    51.00486,
+    17.15358,
+    51.00486
+],
+  "geometry": {"coordinates":[17.15358,51.00486],"type":"Point"}
+}

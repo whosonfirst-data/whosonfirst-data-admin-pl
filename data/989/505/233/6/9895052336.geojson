@@ -1,0 +1,76 @@
+{
+  "id": 9895052336,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.75315,49.84072,18.75315,49.84072",
+    "geom:latitude":49.84072,
+    "geom:longitude":18.75315,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11694766: name \"Ochaby Ma\u0142e\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11694766"
+        },
+        {
+            "citation":"GeoNames populated place 11694766: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11694766"
+        },
+        {
+            "citation":"GeoNames populated place 11694766: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11694766"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125290777 (Gmina Skocz\u00f3w), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687277,
+        102079421,
+        102191581,
+        1125290777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11694766
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"4cd3d249e45169524994f9cd9f15f1b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079421,
+            "localadmin_id":1125290777,
+            "locality_id":9895052336,
+            "region_id":85687277
+        }
+    ],
+    "wof:id":9895052336,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Ochaby Ma\u0142e",
+    "wof:parent_id":1125290777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.75315,
+    49.84072,
+    18.75315,
+    49.84072
+],
+  "geometry": {"coordinates":[18.75315,49.84072],"type":"Point"}
+}

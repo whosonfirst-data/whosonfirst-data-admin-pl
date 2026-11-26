@@ -1,0 +1,76 @@
+{
+  "id": 9895052828,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.05665,53.15408,23.05665,53.15408",
+    "geom:latitude":53.15408,
+    "geom:longitude":23.05665,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11703736: name \"Poros\u0142y-Kolonia\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11703736"
+        },
+        {
+            "citation":"GeoNames populated place 11703736: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11703736"
+        },
+        {
+            "citation":"GeoNames populated place 11703736: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11703736"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125290721 (Gmina Choroszcz), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687283,
+        102080145,
+        102191581,
+        1125290721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11703736
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"ed23f464b219a435f48252833e96ad24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080145,
+            "localadmin_id":1125290721,
+            "locality_id":9895052828,
+            "region_id":85687283
+        }
+    ],
+    "wof:id":9895052828,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Poros\u0142y-Kolonia",
+    "wof:parent_id":1125290721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.05665,
+    53.15408,
+    23.05665,
+    53.15408
+],
+  "geometry": {"coordinates":[23.05665,53.15408],"type":"Point"}
+}

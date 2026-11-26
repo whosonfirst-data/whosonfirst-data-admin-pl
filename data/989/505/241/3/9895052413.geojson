@@ -1,0 +1,76 @@
+{
+  "id": 9895052413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.95669,50.86664,21.95669,50.86664",
+    "geom:latitude":50.86664,
+    "geom:longitude":21.95669,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695030: name \"Go\u015bcierad\u00f3w-Folwark\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695030"
+        },
+        {
+            "citation":"GeoNames populated place 11695030: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695030"
+        },
+        {
+            "citation":"GeoNames populated place 11695030: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695030"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125305633 (Go\u015bcierad\u00f3w), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687309,
+        102079721,
+        102191581,
+        1125305633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695030
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"edbb2e5bf5cd8e80b39dc3d894c353b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079721,
+            "localadmin_id":1125305633,
+            "locality_id":9895052413,
+            "region_id":85687309
+        }
+    ],
+    "wof:id":9895052413,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Go\u015bcierad\u00f3w-Folwark",
+    "wof:parent_id":1125305633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.95669,
+    50.86664,
+    21.95669,
+    50.86664
+],
+  "geometry": {"coordinates":[21.95669,50.86664],"type":"Point"}
+}

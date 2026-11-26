@@ -1,0 +1,76 @@
+{
+  "id": 9895052803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.63177,50.99847,20.63177,50.99847",
+    "geom:latitude":50.99847,
+    "geom:longitude":20.63177,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11703580: name \"Samson\u00f3w-Piechotne\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11703580"
+        },
+        {
+            "citation":"GeoNames populated place 11703580: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11703580"
+        },
+        {
+            "citation":"GeoNames populated place 11703580: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11703580"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125370903 (Zagna\u0144sk), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687287,
+        102079693,
+        102191581,
+        1125370903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11703580
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"d224f9637fa8123b1ad65b726ac59fad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079693,
+            "localadmin_id":1125370903,
+            "locality_id":9895052803,
+            "region_id":85687287
+        }
+    ],
+    "wof:id":9895052803,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Samson\u00f3w-Piechotne",
+    "wof:parent_id":1125370903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.63177,
+    50.99847,
+    20.63177,
+    50.99847
+],
+  "geometry": {"coordinates":[20.63177,50.99847],"type":"Point"}
+}

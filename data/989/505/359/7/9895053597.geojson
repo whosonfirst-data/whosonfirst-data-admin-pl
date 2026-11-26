@@ -1,0 +1,76 @@
+{
+  "id": 9895053597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.44845,51.472,17.44845,51.472",
+    "geom:latitude":51.472,
+    "geom:longitude":17.44845,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13353857: name \"Luborad\u00f3w\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13353857"
+        },
+        {
+            "citation":"GeoNames populated place 13353857: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13353857"
+        },
+        {
+            "citation":"GeoNames populated place 13353857: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13353857"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477752643 (Kro\u015bnice), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687301,
+        102079753,
+        102191581,
+        1477752643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13353857
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"96d8c854a263350545fad03a5bc83fb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079753,
+            "localadmin_id":1477752643,
+            "locality_id":9895053597,
+            "region_id":85687301
+        }
+    ],
+    "wof:id":9895053597,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Luborad\u00f3w",
+    "wof:parent_id":1477752643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.44845,
+    51.472,
+    17.44845,
+    51.472
+],
+  "geometry": {"coordinates":[17.44845,51.472],"type":"Point"}
+}

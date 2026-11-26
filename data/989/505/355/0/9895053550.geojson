@@ -1,0 +1,76 @@
+{
+  "id": 9895053550,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.77591,51.25453,16.77591,51.25453",
+    "geom:latitude":51.25453,
+    "geom:longitude":16.77591,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13318060: name \"Warzyna\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13318060"
+        },
+        {
+            "citation":"GeoNames populated place 13318060: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13318060"
+        },
+        {
+            "citation":"GeoNames populated place 13318060: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13318060"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125328549 (Mi\u0119kinia), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687301,
+        102079675,
+        102191581,
+        1125328549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13318060
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"d9bd956998b74ce3d803d5a827b94f33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079675,
+            "localadmin_id":1125328549,
+            "locality_id":9895053550,
+            "region_id":85687301
+        }
+    ],
+    "wof:id":9895053550,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Warzyna",
+    "wof:parent_id":1125328549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.77591,
+    51.25453,
+    16.77591,
+    51.25453
+],
+  "geometry": {"coordinates":[16.77591,51.25453],"type":"Point"}
+}

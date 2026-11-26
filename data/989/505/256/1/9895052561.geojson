@@ -1,0 +1,76 @@
+{
+  "id": 9895052561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.4509,50.94626,22.4509,50.94626",
+    "geom:latitude":50.94626,
+    "geom:longitude":22.4509,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695704: name \"Rudnik Drugi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695704"
+        },
+        {
+            "citation":"GeoNames populated place 11695704: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695704"
+        },
+        {
+            "citation":"GeoNames populated place 11695704: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695704"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125289313 (Zakrz\u00f3wek), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687309,
+        102079721,
+        102191581,
+        1125289313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695704
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"d6089cb5c0ecec6cf7989a831355ca2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079721,
+            "localadmin_id":1125289313,
+            "locality_id":9895052561,
+            "region_id":85687309
+        }
+    ],
+    "wof:id":9895052561,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Rudnik Drugi",
+    "wof:parent_id":1125289313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.4509,
+    50.94626,
+    22.4509,
+    50.94626
+],
+  "geometry": {"coordinates":[22.4509,50.94626],"type":"Point"}
+}

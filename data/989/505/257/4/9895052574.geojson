@@ -1,0 +1,76 @@
+{
+  "id": 9895052574,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.65382,50.36632,23.65382,50.36632",
+    "geom:latitude":50.36632,
+    "geom:longitude":23.65382,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695717: name \"Machn\u00f3w Nowy\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695717"
+        },
+        {
+            "citation":"GeoNames populated place 11695717: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695717"
+        },
+        {
+            "citation":"GeoNames populated place 11695717: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695717"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125381713 (Gmina Lubycza Kr\u00f3lewska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687309,
+        102079689,
+        102191581,
+        1125381713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695717
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"efab1f4e0c0224989b92a75e283ade7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079689,
+            "localadmin_id":1125381713,
+            "locality_id":9895052574,
+            "region_id":85687309
+        }
+    ],
+    "wof:id":9895052574,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Machn\u00f3w Nowy",
+    "wof:parent_id":1125381713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.65382,
+    50.36632,
+    23.65382,
+    50.36632
+],
+  "geometry": {"coordinates":[23.65382,50.36632],"type":"Point"}
+}

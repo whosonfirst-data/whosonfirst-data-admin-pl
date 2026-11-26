@@ -1,0 +1,76 @@
+{
+  "id": 9895053401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.62138,54.1466,21.62138,54.1466",
+    "geom:latitude":54.1466,
+    "geom:longitude":21.62138,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13237115: name \"Stawiska\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13237115"
+        },
+        {
+            "citation":"GeoNames populated place 13237115: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13237115"
+        },
+        {
+            "citation":"GeoNames populated place 13237115: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13237115"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125371977 (Gmina W\u0119gorzewo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687305,
+        102080253,
+        102191581,
+        1125371977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13237115
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"59857fca85b52e2a293461473e42f720",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080253,
+            "localadmin_id":1125371977,
+            "locality_id":9895053401,
+            "region_id":85687305
+        }
+    ],
+    "wof:id":9895053401,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Stawiska",
+    "wof:parent_id":1125371977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.62138,
+    54.1466,
+    21.62138,
+    54.1466
+],
+  "geometry": {"coordinates":[21.62138,54.1466],"type":"Point"}
+}

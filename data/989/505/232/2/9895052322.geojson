@@ -1,0 +1,76 @@
+{
+  "id": 9895052322,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.51452,54.17866,17.51452,54.17866",
+    "geom:latitude":54.17866,
+    "geom:longitude":17.51452,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11694666: name \"Rzepnica\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11694666"
+        },
+        {
+            "citation":"GeoNames populated place 11694666: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11694666"
+        },
+        {
+            "citation":"GeoNames populated place 11694666: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11694666"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477751475 (Gmina Byt\u00f3w), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687267,
+        102080217,
+        102191581,
+        1477751475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11694666
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"aacd48db6d9105b7002bd4d398309741",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080217,
+            "localadmin_id":1477751475,
+            "locality_id":9895052322,
+            "region_id":85687267
+        }
+    ],
+    "wof:id":9895052322,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Rzepnica",
+    "wof:parent_id":1477751475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.51452,
+    54.17866,
+    17.51452,
+    54.17866
+],
+  "geometry": {"coordinates":[17.51452,54.17866],"type":"Point"}
+}

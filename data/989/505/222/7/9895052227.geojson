@@ -1,0 +1,76 @@
+{
+  "id": 9895052227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.98333,52.16667,20.98333,52.16667",
+    "geom:latitude":52.16667,
+    "geom:longitude":20.98333,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 753571: name \"Zbarz\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/753571"
+        },
+        {
+            "citation":"GeoNames populated place 753571: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/753571"
+        },
+        {
+            "citation":"GeoNames populated place 753571: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/753571"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125365875 (Gmina Warszawa), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687257,
+        102191581,
+        1125365875,
+        1477743805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":753571
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"7ef291ce76fa11bda715cb997dd0aa81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":1477743805,
+            "localadmin_id":1125365875,
+            "locality_id":9895052227,
+            "region_id":85687257
+        }
+    ],
+    "wof:id":9895052227,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Zbarz",
+    "wof:parent_id":1125365875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.98333,
+    52.16667,
+    20.98333,
+    52.16667
+],
+  "geometry": {"coordinates":[20.98333,52.16667],"type":"Point"}
+}

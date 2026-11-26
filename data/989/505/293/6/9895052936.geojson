@@ -1,0 +1,76 @@
+{
+  "id": 9895052936,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.41587,52.3528,21.41587,52.3528",
+    "geom:latitude":52.3528,
+    "geom:longitude":21.41587,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11704139: name \"Laskowizna\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11704139"
+        },
+        {
+            "citation":"GeoNames populated place 11704139: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11704139"
+        },
+        {
+            "citation":"GeoNames populated place 11704139: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11704139"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125304735 (Po\u015bwi\u0119tne), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687257,
+        102079995,
+        102191581,
+        1125304735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11704139
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"0c30ec38bf8378ce6d0b2e9414e96232",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079995,
+            "localadmin_id":1125304735,
+            "locality_id":9895052936,
+            "region_id":85687257
+        }
+    ],
+    "wof:id":9895052936,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Laskowizna",
+    "wof:parent_id":1125304735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.41587,
+    52.3528,
+    21.41587,
+    52.3528
+],
+  "geometry": {"coordinates":[21.41587,52.3528],"type":"Point"}
+}

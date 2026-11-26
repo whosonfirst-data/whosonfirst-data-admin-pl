@@ -1,0 +1,76 @@
+{
+  "id": 9895052563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.8152,53.06489,18.8152,53.06489",
+    "geom:latitude":53.06489,
+    "geom:longitude":18.8152,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695706: name \"M\u0142yniec Drugi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695706"
+        },
+        {
+            "citation":"GeoNames populated place 11695706: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695706"
+        },
+        {
+            "citation":"GeoNames populated place 11695706: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695706"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477752035 (Lubicz), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687319,
+        102080063,
+        102191581,
+        1477752035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695706
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"a14be9c12f109abce560d26acc9a1ebf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080063,
+            "localadmin_id":1477752035,
+            "locality_id":9895052563,
+            "region_id":85687319
+        }
+    ],
+    "wof:id":9895052563,
+    "wof:lastmodified":1795735000,
+    "wof:name":"M\u0142yniec Drugi",
+    "wof:parent_id":1477752035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.8152,
+    53.06489,
+    18.8152,
+    53.06489
+],
+  "geometry": {"coordinates":[18.8152,53.06489],"type":"Point"}
+}

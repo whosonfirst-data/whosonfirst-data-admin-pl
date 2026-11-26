@@ -1,0 +1,76 @@
+{
+  "id": 9895052296,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.54701,52.09032,20.54701,52.09032",
+    "geom:latitude":52.09032,
+    "geom:longitude":20.54701,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11694564: name \"Chylice-Kolonia\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11694564"
+        },
+        {
+            "citation":"GeoNames populated place 11694564: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11694564"
+        },
+        {
+            "citation":"GeoNames populated place 11694564: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11694564"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477752925 (Jaktor\u00f3w), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687257,
+        102079909,
+        102191581,
+        1477752925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11694564
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"b272c041539917cd6aaa367c2932ee9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079909,
+            "localadmin_id":1477752925,
+            "locality_id":9895052296,
+            "region_id":85687257
+        }
+    ],
+    "wof:id":9895052296,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Chylice-Kolonia",
+    "wof:parent_id":1477752925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.54701,
+    52.09032,
+    20.54701,
+    52.09032
+],
+  "geometry": {"coordinates":[20.54701,52.09032],"type":"Point"}
+}

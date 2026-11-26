@@ -1,0 +1,76 @@
+{
+  "id": 9895052872,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.13259,53.4786,18.13259,53.4786",
+    "geom:latitude":53.4786,
+    "geom:longitude":18.13259,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11703948: name \"B\u0142\u0105dzim\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11703948"
+        },
+        {
+            "citation":"GeoNames populated place 11703948: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11703948"
+        },
+        {
+            "citation":"GeoNames populated place 11703948: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11703948"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477752461 (Lniano), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687319,
+        102080137,
+        102191581,
+        1477752461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11703948
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"f8ae90324d57d2baa61f20344226f8a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080137,
+            "localadmin_id":1477752461,
+            "locality_id":9895052872,
+            "region_id":85687319
+        }
+    ],
+    "wof:id":9895052872,
+    "wof:lastmodified":1795735000,
+    "wof:name":"B\u0142\u0105dzim",
+    "wof:parent_id":1477752461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.13259,
+    53.4786,
+    18.13259,
+    53.4786
+],
+  "geometry": {"coordinates":[18.13259,53.4786],"type":"Point"}
+}

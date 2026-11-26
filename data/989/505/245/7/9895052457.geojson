@@ -1,0 +1,76 @@
+{
+  "id": 9895052457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.58989,52.55543,21.58989,52.55543",
+    "geom:latitude":52.55543,
+    "geom:longitude":21.58989,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695111: name \"Puste \u0141\u0105ki\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695111"
+        },
+        {
+            "citation":"GeoNames populated place 11695111: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695111"
+        },
+        {
+            "citation":"GeoNames populated place 11695111: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695111"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477752055 (Gmina Wyszk\u00f3w), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687257,
+        102080045,
+        102191581,
+        1477752055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695111
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"6cc1e49be3fa0384d93e852742a29efe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080045,
+            "localadmin_id":1477752055,
+            "locality_id":9895052457,
+            "region_id":85687257
+        }
+    ],
+    "wof:id":9895052457,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Puste \u0141\u0105ki",
+    "wof:parent_id":1477752055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.58989,
+    52.55543,
+    21.58989,
+    52.55543
+],
+  "geometry": {"coordinates":[21.58989,52.55543],"type":"Point"}
+}

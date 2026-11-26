@@ -1,0 +1,76 @@
+{
+  "id": 9895053379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.96106,54.02076,14.96106,54.02076",
+    "geom:latitude":54.02076,
+    "geom:longitude":14.96106,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13132269: name \"Trzebieradz\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13132269"
+        },
+        {
+            "citation":"GeoNames populated place 13132269: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13132269"
+        },
+        {
+            "citation":"GeoNames populated place 13132269: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13132269"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477751763 (\u015awierzno), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687271,
+        102080153,
+        102191581,
+        1477751763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13132269
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"4962874a3e4d54b38b20db7e12fa29cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080153,
+            "localadmin_id":1477751763,
+            "locality_id":9895053379,
+            "region_id":85687271
+        }
+    ],
+    "wof:id":9895053379,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Trzebieradz",
+    "wof:parent_id":1477751763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.96106,
+    54.02076,
+    14.96106,
+    54.02076
+],
+  "geometry": {"coordinates":[14.96106,54.02076],"type":"Point"}
+}

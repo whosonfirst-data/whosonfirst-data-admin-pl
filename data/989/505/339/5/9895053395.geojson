@@ -1,0 +1,76 @@
+{
+  "id": 9895053395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.17001,54.23646,21.17001,54.23646",
+    "geom:latitude":54.23646,
+    "geom:longitude":21.17001,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13237074: name \"W\u0105gniki\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13237074"
+        },
+        {
+            "citation":"GeoNames populated place 13237074: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13237074"
+        },
+        {
+            "citation":"GeoNames populated place 13237074: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13237074"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477752901 (Gmina Korsze), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687305,
+        102080249,
+        102191581,
+        1477752901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13237074
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"62caa275a831a55cceca152fdf065a93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080249,
+            "localadmin_id":1477752901,
+            "locality_id":9895053395,
+            "region_id":85687305
+        }
+    ],
+    "wof:id":9895053395,
+    "wof:lastmodified":1795735000,
+    "wof:name":"W\u0105gniki",
+    "wof:parent_id":1477752901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.17001,
+    54.23646,
+    21.17001,
+    54.23646
+],
+  "geometry": {"coordinates":[21.17001,54.23646],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 9895052626,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.06025,52.68942,22.06025,52.68942",
+    "geom:latitude":52.68942,
+    "geom:longitude":22.06025,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695920: name \"Zawisty Nadbu\u017cne\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695920"
+        },
+        {
+            "citation":"GeoNames populated place 11695920: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695920"
+        },
+        {
+            "citation":"GeoNames populated place 11695920: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695920"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125326675 (Ma\u0142kinia G\u00f3rna), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687257,
+        102080057,
+        102191581,
+        1125326675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695920
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"d6d280242899f2ac7aff42a88e9dfdda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080057,
+            "localadmin_id":1125326675,
+            "locality_id":9895052626,
+            "region_id":85687257
+        }
+    ],
+    "wof:id":9895052626,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Zawisty Nadbu\u017cne",
+    "wof:parent_id":1125326675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.06025,
+    52.68942,
+    22.06025,
+    52.68942
+],
+  "geometry": {"coordinates":[22.06025,52.68942],"type":"Point"}
+}

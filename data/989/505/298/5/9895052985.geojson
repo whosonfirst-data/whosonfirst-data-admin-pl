@@ -1,0 +1,76 @@
+{
+  "id": 9895052985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.16892,49.82032,20.16892,49.82032",
+    "geom:latitude":49.82032,
+    "geom:longitude":20.16892,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11704207: name \"D\u0105bie\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11704207"
+        },
+        {
+            "citation":"GeoNames populated place 11704207: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11704207"
+        },
+        {
+            "citation":"GeoNames populated place 11704207: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11704207"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125326931 (Raciechowice), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687291,
+        102079441,
+        102191581,
+        1125326931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11704207
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"89d680086e31bb145de948cfa91ba6d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079441,
+            "localadmin_id":1125326931,
+            "locality_id":9895052985,
+            "region_id":85687291
+        }
+    ],
+    "wof:id":9895052985,
+    "wof:lastmodified":1795735000,
+    "wof:name":"D\u0105bie",
+    "wof:parent_id":1125326931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.16892,
+    49.82032,
+    20.16892,
+    49.82032
+],
+  "geometry": {"coordinates":[20.16892,49.82032],"type":"Point"}
+}

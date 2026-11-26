@@ -1,0 +1,76 @@
+{
+  "id": 9895053340,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.39985,54.09166,18.39985,54.09166",
+    "geom:latitude":54.09166,
+    "geom:longitude":18.39985,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12954040: name \"Wilki\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12954040"
+        },
+        {
+            "citation":"GeoNames populated place 12954040: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12954040"
+        },
+        {
+            "citation":"GeoNames populated place 12954040: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12954040"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477751957 (Gmina Skarszewy), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687267,
+        102080183,
+        102191581,
+        1477751957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12954040
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"47b4f35046ef426c8ec165bfa2f48cd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080183,
+            "localadmin_id":1477751957,
+            "locality_id":9895053340,
+            "region_id":85687267
+        }
+    ],
+    "wof:id":9895053340,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Wilki",
+    "wof:parent_id":1477751957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.39985,
+    54.09166,
+    18.39985,
+    54.09166
+],
+  "geometry": {"coordinates":[18.39985,54.09166],"type":"Point"}
+}

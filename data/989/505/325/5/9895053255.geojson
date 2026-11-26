@@ -1,0 +1,76 @@
+{
+  "id": 9895053255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.46921,53.52914,16.46921,53.52914",
+    "geom:latitude":53.52914,
+    "geom:longitude":16.46921,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12451004: name \"Starowice\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12451004"
+        },
+        {
+            "citation":"GeoNames populated place 12451004: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12451004"
+        },
+        {
+            "citation":"GeoNames populated place 12451004: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12451004"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125389425 (Gmina Borne Sulinowo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687271,
+        102080155,
+        102191581,
+        1125389425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12451004
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"3138d402374863dd2dc299cf6a6a5ef2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080155,
+            "localadmin_id":1125389425,
+            "locality_id":9895053255,
+            "region_id":85687271
+        }
+    ],
+    "wof:id":9895053255,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Starowice",
+    "wof:parent_id":1125389425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.46921,
+    53.52914,
+    16.46921,
+    53.52914
+],
+  "geometry": {"coordinates":[16.46921,53.52914],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 9895053358,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.76478,53.454,15.76478,53.454",
+    "geom:latitude":53.454,
+    "geom:longitude":15.76478,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13118766: name \"Bucierz\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13118766"
+        },
+        {
+            "citation":"GeoNames populated place 13118766: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13118766"
+        },
+        {
+            "citation":"GeoNames populated place 13118766: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13118766"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477752063 (Gmina Drawsko Pomorskie), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687271,
+        102080113,
+        102191581,
+        1477752063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13118766
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"988258c8d562078056ec875d909cba85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080113,
+            "localadmin_id":1477752063,
+            "locality_id":9895053358,
+            "region_id":85687271
+        }
+    ],
+    "wof:id":9895053358,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Bucierz",
+    "wof:parent_id":1477752063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.76478,
+    53.454,
+    15.76478,
+    53.454
+],
+  "geometry": {"coordinates":[15.76478,53.454],"type":"Point"}
+}

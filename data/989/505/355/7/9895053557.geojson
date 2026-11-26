@@ -1,0 +1,76 @@
+{
+  "id": 9895053557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.00126,51.27379,17.00126,51.27379",
+    "geom:latitude":51.27379,
+    "geom:longitude":17.00126,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13328581: name \"Mienice\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13328581"
+        },
+        {
+            "citation":"GeoNames populated place 13328581: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13328581"
+        },
+        {
+            "citation":"GeoNames populated place 13328581: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13328581"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125421913 (Wisznia Ma\u0142a), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687301,
+        102079733,
+        102191581,
+        1125421913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13328581
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"1fe94a24ce863b918efb8094ba85df96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079733,
+            "localadmin_id":1125421913,
+            "locality_id":9895053557,
+            "region_id":85687301
+        }
+    ],
+    "wof:id":9895053557,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Mienice",
+    "wof:parent_id":1125421913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.00126,
+    51.27379,
+    17.00126,
+    51.27379
+],
+  "geometry": {"coordinates":[17.00126,51.27379],"type":"Point"}
+}

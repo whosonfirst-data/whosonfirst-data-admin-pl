@@ -1,0 +1,76 @@
+{
+  "id": 9895053160,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.59891,50.32649,17.59891,50.32649",
+    "geom:latitude":50.32649,
+    "geom:longitude":17.59891,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12123373: name \"Kolonia Karola Miarki\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12123373"
+        },
+        {
+            "citation":"GeoNames populated place 12123373: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12123373"
+        },
+        {
+            "citation":"GeoNames populated place 12123373: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12123373"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125393709 (Gmina Prudnik), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687313,
+        102079549,
+        102191581,
+        1125393709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12123373
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"4e4b520a57cedf1a573cbd48aa71adff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079549,
+            "localadmin_id":1125393709,
+            "locality_id":9895053160,
+            "region_id":85687313
+        }
+    ],
+    "wof:id":9895053160,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Kolonia Karola Miarki",
+    "wof:parent_id":1125393709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.59891,
+    50.32649,
+    17.59891,
+    50.32649
+],
+  "geometry": {"coordinates":[17.59891,50.32649],"type":"Point"}
+}

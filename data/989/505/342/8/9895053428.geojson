@@ -1,0 +1,76 @@
+{
+  "id": 9895053428,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.08368,52.09124,15.08368,52.09124",
+    "geom:latitude":52.09124,
+    "geom:longitude":15.08368,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13264607: name \"Biel\u00f3w\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13264607"
+        },
+        {
+            "citation":"GeoNames populated place 13264607: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13264607"
+        },
+        {
+            "citation":"GeoNames populated place 13264607: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13264607"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125300629 (Gmina Krosno Odrza\u0144skie), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687327,
+        102079843,
+        102191581,
+        1125300629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13264607
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"9aafcf578524b9d4767456a3f40623b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079843,
+            "localadmin_id":1125300629,
+            "locality_id":9895053428,
+            "region_id":85687327
+        }
+    ],
+    "wof:id":9895053428,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Biel\u00f3w",
+    "wof:parent_id":1125300629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.08368,
+    52.09124,
+    15.08368,
+    52.09124
+],
+  "geometry": {"coordinates":[15.08368,52.09124],"type":"Point"}
+}

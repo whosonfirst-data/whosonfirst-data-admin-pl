@@ -1,0 +1,76 @@
+{
+  "id": 9895053203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.73213,52.28071,17.73213,52.28071",
+    "geom:latitude":52.28071,
+    "geom:longitude":17.73213,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12175846: name \"Ko\u015bcianki\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12175846"
+        },
+        {
+            "citation":"GeoNames populated place 12175846: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12175846"
+        },
+        {
+            "citation":"GeoNames populated place 12175846: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12175846"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125306275 (Strza\u0142kowo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687323,
+        102079941,
+        102191581,
+        1125306275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12175846
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"586933ed1bc41c053cf44996d9a3f9f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079941,
+            "localadmin_id":1125306275,
+            "locality_id":9895053203,
+            "region_id":85687323
+        }
+    ],
+    "wof:id":9895053203,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Ko\u015bcianki",
+    "wof:parent_id":1125306275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.73213,
+    52.28071,
+    17.73213,
+    52.28071
+],
+  "geometry": {"coordinates":[17.73213,52.28071],"type":"Point"}
+}

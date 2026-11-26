@@ -1,0 +1,76 @@
+{
+  "id": 9895053243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.73981,53.73068,15.73981,53.73068",
+    "geom:latitude":53.73068,
+    "geom:longitude":15.73981,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12450987: name \"P\u00f3\u0142chleb\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12450987"
+        },
+        {
+            "citation":"GeoNames populated place 12450987: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12450987"
+        },
+        {
+            "citation":"GeoNames populated place 12450987: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12450987"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477752953 (Brze\u017cno), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687271,
+        102080147,
+        102191581,
+        1477752953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12450987
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"150f41c356c6ff7e364b769bf4d397d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080147,
+            "localadmin_id":1477752953,
+            "locality_id":9895053243,
+            "region_id":85687271
+        }
+    ],
+    "wof:id":9895053243,
+    "wof:lastmodified":1795735000,
+    "wof:name":"P\u00f3\u0142chleb",
+    "wof:parent_id":1477752953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.73981,
+    53.73068,
+    15.73981,
+    53.73068
+],
+  "geometry": {"coordinates":[15.73981,53.73068],"type":"Point"}
+}

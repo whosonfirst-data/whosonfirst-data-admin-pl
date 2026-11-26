@@ -1,0 +1,76 @@
+{
+  "id": 9895052239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.16645,52.10408,21.16645,52.10408",
+    "geom:latitude":52.10408,
+    "geom:longitude":21.16645,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 763139: name \"Opacz\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/763139"
+        },
+        {
+            "citation":"GeoNames populated place 763139: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/763139"
+        },
+        {
+            "citation":"GeoNames populated place 763139: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/763139"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125344197 (Gmina Konstancin-Jeziorna), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687257,
+        102079911,
+        102191581,
+        1125344197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":763139
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"9023091cdb1540874efab05e78a135f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079911,
+            "localadmin_id":1125344197,
+            "locality_id":9895052239,
+            "region_id":85687257
+        }
+    ],
+    "wof:id":9895052239,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Opacz",
+    "wof:parent_id":1125344197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.16645,
+    52.10408,
+    21.16645,
+    52.10408
+],
+  "geometry": {"coordinates":[21.16645,52.10408],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 9895053161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.2309,51.35762,19.2309,51.35762",
+    "geom:latitude":51.35762,
+    "geom:longitude":19.2309,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12148794: name \"Grobla\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12148794"
+        },
+        {
+            "citation":"GeoNames populated place 12148794: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12148794"
+        },
+        {
+            "citation":"GeoNames populated place 12148794: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12148794"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125317341 (Kluki), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687261,
+        102079763,
+        102191581,
+        1125317341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12148794
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"2be082651130b90908bc6c0e1528cabe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079763,
+            "localadmin_id":1125317341,
+            "locality_id":9895053161,
+            "region_id":85687261
+        }
+    ],
+    "wof:id":9895053161,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Grobla",
+    "wof:parent_id":1125317341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.2309,
+    51.35762,
+    19.2309,
+    51.35762
+],
+  "geometry": {"coordinates":[19.2309,51.35762],"type":"Point"}
+}

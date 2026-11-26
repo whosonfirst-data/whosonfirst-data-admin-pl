@@ -1,0 +1,76 @@
+{
+  "id": 9895053289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.43911,53.79609,15.43911,53.79609",
+    "geom:latitude":53.79609,
+    "geom:longitude":15.43911,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12909106: name \"\u0141abu\u0144 Ma\u0142y\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12909106"
+        },
+        {
+            "citation":"GeoNames populated place 12909106: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12909106"
+        },
+        {
+            "citation":"GeoNames populated place 12909106: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12909106"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477751227 (Gmina Resko), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687271,
+        102080131,
+        102191581,
+        1477751227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12909106
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"638bdfe5c25d15271ef5aa2be8af036c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080131,
+            "localadmin_id":1477751227,
+            "locality_id":9895053289,
+            "region_id":85687271
+        }
+    ],
+    "wof:id":9895053289,
+    "wof:lastmodified":1795735000,
+    "wof:name":"\u0141abu\u0144 Ma\u0142y",
+    "wof:parent_id":1477751227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.43911,
+    53.79609,
+    15.43911,
+    53.79609
+],
+  "geometry": {"coordinates":[15.43911,53.79609],"type":"Point"}
+}

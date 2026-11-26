@@ -1,0 +1,76 @@
+{
+  "id": 9895052753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.97222,51.91156,17.97222,51.91156",
+    "geom:latitude":51.91156,
+    "geom:longitude":17.97222,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11696408: name \"Jank\u00f3w Drugi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11696408"
+        },
+        {
+            "citation":"GeoNames populated place 11696408: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11696408"
+        },
+        {
+            "citation":"GeoNames populated place 11696408: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11696408"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125304747 (Blizan\u00f3w), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687323,
+        102079841,
+        102191581,
+        1125304747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11696408
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"c878d5500d21899873188467bf8c0bc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079841,
+            "localadmin_id":1125304747,
+            "locality_id":9895052753,
+            "region_id":85687323
+        }
+    ],
+    "wof:id":9895052753,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Jank\u00f3w Drugi",
+    "wof:parent_id":1125304747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.97222,
+    51.91156,
+    17.97222,
+    51.91156
+],
+  "geometry": {"coordinates":[17.97222,51.91156],"type":"Point"}
+}

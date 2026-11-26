@@ -1,0 +1,76 @@
+{
+  "id": 9895052494,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.45251,50.49833,23.45251,50.49833",
+    "geom:latitude":50.49833,
+    "geom:longitude":23.45251,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695409: name \"Wieprz\u00f3w Ordynacki\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695409"
+        },
+        {
+            "citation":"GeoNames populated place 11695409: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695409"
+        },
+        {
+            "citation":"GeoNames populated place 11695409: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695409"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125311573 (Tarnawatka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687309,
+        102079689,
+        102191581,
+        1125311573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695409
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"890c0204c41e6fcf6f87c0da77dc63bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079689,
+            "localadmin_id":1125311573,
+            "locality_id":9895052494,
+            "region_id":85687309
+        }
+    ],
+    "wof:id":9895052494,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Wieprz\u00f3w Ordynacki",
+    "wof:parent_id":1125311573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.45251,
+    50.49833,
+    23.45251,
+    50.49833
+],
+  "geometry": {"coordinates":[23.45251,50.49833],"type":"Point"}
+}

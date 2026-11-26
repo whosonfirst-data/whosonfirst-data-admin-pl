@@ -1,0 +1,76 @@
+{
+  "id": 9895052856,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.69859,52.05006,20.69859,52.05006",
+    "geom:latitude":52.05006,
+    "geom:longitude":20.69859,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11703900: name \"W\u0142adys\u0142aw\u00f3w\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11703900"
+        },
+        {
+            "citation":"GeoNames populated place 11703900: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11703900"
+        },
+        {
+            "citation":"GeoNames populated place 11703900: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11703900"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125382183 (\u017babia Wola), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687257,
+        102079909,
+        102191581,
+        1125382183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11703900
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"45991928c273ea4b61f3524e5b18a834",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079909,
+            "localadmin_id":1125382183,
+            "locality_id":9895052856,
+            "region_id":85687257
+        }
+    ],
+    "wof:id":9895052856,
+    "wof:lastmodified":1795735000,
+    "wof:name":"W\u0142adys\u0142aw\u00f3w",
+    "wof:parent_id":1125382183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.69859,
+    52.05006,
+    20.69859,
+    52.05006
+],
+  "geometry": {"coordinates":[20.69859,52.05006],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 9895052769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.73884,50.92544,20.73884,50.92544",
+    "geom:latitude":50.92544,
+    "geom:longitude":20.73884,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11703518: name \"Dolina Marczakowa\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11703518"
+        },
+        {
+            "citation":"GeoNames populated place 11703518: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11703518"
+        },
+        {
+            "citation":"GeoNames populated place 11703518: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11703518"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125324789 (Mas\u0142\u00f3w), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687287,
+        102079693,
+        102191581,
+        1125324789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11703518
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"b2ecc61f877e15da3495009aa5fb8e51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079693,
+            "localadmin_id":1125324789,
+            "locality_id":9895052769,
+            "region_id":85687287
+        }
+    ],
+    "wof:id":9895052769,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Dolina Marczakowa",
+    "wof:parent_id":1125324789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.73884,
+    50.92544,
+    20.73884,
+    50.92544
+],
+  "geometry": {"coordinates":[20.73884,50.92544],"type":"Point"}
+}

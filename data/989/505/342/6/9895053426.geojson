@@ -1,0 +1,76 @@
+{
+  "id": 9895053426,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.00467,52.98972,15.00467,52.98972",
+    "geom:latitude":52.98972,
+    "geom:longitude":15.00467,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13264546: name \"Pr\u0105dnik\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13264546"
+        },
+        {
+            "citation":"GeoNames populated place 13264546: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13264546"
+        },
+        {
+            "citation":"GeoNames populated place 13264546: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13264546"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477751897 (Gmina My\u015blib\u00f3rz), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687271,
+        102080005,
+        102191581,
+        1477751897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13264546
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"53a8e5c8b685e40bcf0d91fa4baa4f12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080005,
+            "localadmin_id":1477751897,
+            "locality_id":9895053426,
+            "region_id":85687271
+        }
+    ],
+    "wof:id":9895053426,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Pr\u0105dnik",
+    "wof:parent_id":1477751897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.00467,
+    52.98972,
+    15.00467,
+    52.98972
+],
+  "geometry": {"coordinates":[15.00467,52.98972],"type":"Point"}
+}

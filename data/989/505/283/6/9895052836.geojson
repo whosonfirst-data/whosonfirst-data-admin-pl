@@ -1,0 +1,76 @@
+{
+  "id": 9895052836,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.03675,49.36969,20.03675,49.36969",
+    "geom:latitude":49.36969,
+    "geom:longitude":20.03675,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11703745: name \"Gliczar\u00f3w Dolny\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11703745"
+        },
+        {
+            "citation":"GeoNames populated place 11703745: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11703745"
+        },
+        {
+            "citation":"GeoNames populated place 11703745: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11703745"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125306313 (Bia\u0142y Dunajec), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687291,
+        102079405,
+        102191581,
+        1125306313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11703745
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"b9535f58a80bf0d9ad78b2bf72a1556f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079405,
+            "localadmin_id":1125306313,
+            "locality_id":9895052836,
+            "region_id":85687291
+        }
+    ],
+    "wof:id":9895052836,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Gliczar\u00f3w Dolny",
+    "wof:parent_id":1125306313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.03675,
+    49.36969,
+    20.03675,
+    49.36969
+],
+  "geometry": {"coordinates":[20.03675,49.36969],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 9895053153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.29498,52.36047,20.29498,52.36047",
+    "geom:latitude":52.36047,
+    "geom:longitude":20.29498,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12104250: name \"Wilcze \u015aladowskie\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12104250"
+        },
+        {
+            "citation":"GeoNames populated place 12104250: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12104250"
+        },
+        {
+            "citation":"GeoNames populated place 12104250: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12104250"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125302089 (Broch\u00f3w), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687257,
+        102079945,
+        102191581,
+        1125302089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12104250
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"558d1d96d221ae02cb1d69de12378266",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079945,
+            "localadmin_id":1125302089,
+            "locality_id":9895053153,
+            "region_id":85687257
+        }
+    ],
+    "wof:id":9895053153,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Wilcze \u015aladowskie",
+    "wof:parent_id":1125302089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.29498,
+    52.36047,
+    20.29498,
+    52.36047
+],
+  "geometry": {"coordinates":[20.29498,52.36047],"type":"Point"}
+}

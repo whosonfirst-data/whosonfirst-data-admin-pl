@@ -1,0 +1,76 @@
+{
+  "id": 9895053504,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.15977,51.705,16.15977,51.705",
+    "geom:latitude":51.705,
+    "geom:longitude":16.15977,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13308428: name \"Krzekot\u00f3w\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13308428"
+        },
+        {
+            "citation":"GeoNames populated place 13308428: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13308428"
+        },
+        {
+            "citation":"GeoNames populated place 13308428: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13308428"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477751353 (Gmina G\u0142og\u00f3w), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687301,
+        102079769,
+        102191581,
+        1477751353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13308428
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"17d63ceaf7ec957ca5f256001a2dd39e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079769,
+            "localadmin_id":1477751353,
+            "locality_id":9895053504,
+            "region_id":85687301
+        }
+    ],
+    "wof:id":9895053504,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Krzekot\u00f3w",
+    "wof:parent_id":1477751353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.15977,
+    51.705,
+    16.15977,
+    51.705
+],
+  "geometry": {"coordinates":[16.15977,51.705],"type":"Point"}
+}

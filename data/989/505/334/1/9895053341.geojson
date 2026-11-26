@@ -1,0 +1,76 @@
+{
+  "id": 9895053341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.97226,54.15667,16.97226,54.15667",
+    "geom:latitude":54.15667,
+    "geom:longitude":16.97226,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12954041: name \"Popielewo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12954041"
+        },
+        {
+            "citation":"GeoNames populated place 12954041: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12954041"
+        },
+        {
+            "citation":"GeoNames populated place 12954041: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12954041"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125410515 (Gmina K\u0119pice), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687267,
+        102080255,
+        102191581,
+        1125410515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12954041
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"683c0c5c67e9066cd446907af362f18e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080255,
+            "localadmin_id":1125410515,
+            "locality_id":9895053341,
+            "region_id":85687267
+        }
+    ],
+    "wof:id":9895053341,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Popielewo",
+    "wof:parent_id":1125410515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.97226,
+    54.15667,
+    16.97226,
+    54.15667
+],
+  "geometry": {"coordinates":[16.97226,54.15667],"type":"Point"}
+}

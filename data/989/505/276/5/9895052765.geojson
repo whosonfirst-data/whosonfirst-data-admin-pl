@@ -1,0 +1,76 @@
+{
+  "id": 9895052765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.63431,50.81391,18.63431,50.81391",
+    "geom:latitude":50.81391,
+    "geom:longitude":18.63431,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11703513: name \"Panosz\u00f3w\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11703513"
+        },
+        {
+            "citation":"GeoNames populated place 11703513: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11703513"
+        },
+        {
+            "citation":"GeoNames populated place 11703513: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11703513"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477751797 (Ciasna), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687277,
+        102079621,
+        102191581,
+        1477751797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11703513
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"010ba0de7d4a0b13c4e50cc7ffe66c7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079621,
+            "localadmin_id":1477751797,
+            "locality_id":9895052765,
+            "region_id":85687277
+        }
+    ],
+    "wof:id":9895052765,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Panosz\u00f3w",
+    "wof:parent_id":1477751797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.63431,
+    50.81391,
+    18.63431,
+    50.81391
+],
+  "geometry": {"coordinates":[18.63431,50.81391],"type":"Point"}
+}

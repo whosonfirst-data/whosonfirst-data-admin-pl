@@ -1,0 +1,76 @@
+{
+  "id": 9895052500,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.305,52.22491,19.305,52.22491",
+    "geom:latitude":52.22491,
+    "geom:longitude":19.305,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695415: name \"Wo\u017aniak\u00f3w\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695415"
+        },
+        {
+            "citation":"GeoNames populated place 11695415: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695415"
+        },
+        {
+            "citation":"GeoNames populated place 11695415: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695415"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125304941 (Gmina Kutno), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687261,
+        102079929,
+        102191581,
+        1125304941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695415
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"37dc82886001391bb1bf51b07d9cf034",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079929,
+            "localadmin_id":1125304941,
+            "locality_id":9895052500,
+            "region_id":85687261
+        }
+    ],
+    "wof:id":9895052500,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Wo\u017aniak\u00f3w",
+    "wof:parent_id":1125304941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.305,
+    52.22491,
+    19.305,
+    52.22491
+],
+  "geometry": {"coordinates":[19.305,52.22491],"type":"Point"}
+}

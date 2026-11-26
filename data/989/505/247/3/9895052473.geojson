@@ -1,0 +1,76 @@
+{
+  "id": 9895052473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.15578,49.57402,22.15578,49.57402",
+    "geom:latitude":49.57402,
+    "geom:longitude":22.15578,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695146: name \"Zab\u0142otce\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695146"
+        },
+        {
+            "citation":"GeoNames populated place 11695146: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695146"
+        },
+        {
+            "citation":"GeoNames populated place 11695146: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695146"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125363103 (Gmina Sanok), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687295,
+        102079437,
+        102191581,
+        1125363103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695146
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"08679bc8624f3f8ee65a334b3b93833c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079437,
+            "localadmin_id":1125363103,
+            "locality_id":9895052473,
+            "region_id":85687295
+        }
+    ],
+    "wof:id":9895052473,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Zab\u0142otce",
+    "wof:parent_id":1125363103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.15578,
+    49.57402,
+    22.15578,
+    49.57402
+],
+  "geometry": {"coordinates":[22.15578,49.57402],"type":"Point"}
+}

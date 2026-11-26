@@ -1,0 +1,76 @@
+{
+  "id": 9895052385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.27045,50.92003,19.27045,50.92003",
+    "geom:latitude":50.92003,
+    "geom:longitude":19.27045,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11694883: name \"Borowno-Kolonia\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11694883"
+        },
+        {
+            "citation":"GeoNames populated place 11694883: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11694883"
+        },
+        {
+            "citation":"GeoNames populated place 11694883: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11694883"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477752747 (Mykan\u00f3w), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687277,
+        102079663,
+        102191581,
+        1477752747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11694883
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"0c83d55b85996071f5b5b14fcb128a60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079663,
+            "localadmin_id":1477752747,
+            "locality_id":9895052385,
+            "region_id":85687277
+        }
+    ],
+    "wof:id":9895052385,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Borowno-Kolonia",
+    "wof:parent_id":1477752747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.27045,
+    50.92003,
+    19.27045,
+    50.92003
+],
+  "geometry": {"coordinates":[19.27045,50.92003],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 9895052787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.21344,52.40768,21.21344,52.40768",
+    "geom:latitude":52.40768,
+    "geom:longitude":21.21344,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11703536: name \"Dyb\u00f3w Kolonia\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11703536"
+        },
+        {
+            "citation":"GeoNames populated place 11703536: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11703536"
+        },
+        {
+            "citation":"GeoNames populated place 11703536: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11703536"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125379601 (Gmina Radzymin), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687257,
+        102079995,
+        102191581,
+        1125379601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11703536
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"ca8b6e852421b90fdb525e8471d2b115",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079995,
+            "localadmin_id":1125379601,
+            "locality_id":9895052787,
+            "region_id":85687257
+        }
+    ],
+    "wof:id":9895052787,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Dyb\u00f3w Kolonia",
+    "wof:parent_id":1125379601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.21344,
+    52.40768,
+    21.21344,
+    52.40768
+],
+  "geometry": {"coordinates":[21.21344,52.40768],"type":"Point"}
+}

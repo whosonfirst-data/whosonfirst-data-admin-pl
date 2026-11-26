@@ -1,0 +1,76 @@
+{
+  "id": 9895052888,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.12967,51.60251,18.12967,51.60251",
+    "geom:latitude":51.60251,
+    "geom:longitude":18.12967,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11703979: name \"Nowa Kakawa\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11703979"
+        },
+        {
+            "citation":"GeoNames populated place 11703979: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11703979"
+        },
+        {
+            "citation":"GeoNames populated place 11703979: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11703979"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477752469 (Godziesze Wielkie), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687323,
+        102079841,
+        102191581,
+        1477752469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11703979
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"3cd9b20c764e22c0f84f55a37c4d212c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079841,
+            "localadmin_id":1477752469,
+            "locality_id":9895052888,
+            "region_id":85687323
+        }
+    ],
+    "wof:id":9895052888,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Nowa Kakawa",
+    "wof:parent_id":1477752469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.12967,
+    51.60251,
+    18.12967,
+    51.60251
+],
+  "geometry": {"coordinates":[18.12967,51.60251],"type":"Point"}
+}

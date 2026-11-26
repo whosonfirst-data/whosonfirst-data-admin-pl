@@ -1,0 +1,76 @@
+{
+  "id": 9895052785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.62085,50.91586,22.62085,50.91586",
+    "geom:latitude":50.91586,
+    "geom:longitude":22.62085,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11703534: name \"Tarnawka Druga\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11703534"
+        },
+        {
+            "citation":"GeoNames populated place 11703534: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11703534"
+        },
+        {
+            "citation":"GeoNames populated place 11703534: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11703534"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125363505 (Zakrzew), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687309,
+        102079795,
+        102191581,
+        1125363505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11703534
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"a10316b19f341cdb79d8016433e176e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079795,
+            "localadmin_id":1125363505,
+            "locality_id":9895052785,
+            "region_id":85687309
+        }
+    ],
+    "wof:id":9895052785,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Tarnawka Druga",
+    "wof:parent_id":1125363505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.62085,
+    50.91586,
+    22.62085,
+    50.91586
+],
+  "geometry": {"coordinates":[22.62085,50.91586],"type":"Point"}
+}

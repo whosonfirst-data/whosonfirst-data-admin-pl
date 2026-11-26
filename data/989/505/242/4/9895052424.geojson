@@ -1,0 +1,76 @@
+{
+  "id": 9895052424,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.93126,51.05507,22.93126,51.05507",
+    "geom:latitude":51.05507,
+    "geom:longitude":22.93126,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695076: name \"Siedliska Drugie\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695076"
+        },
+        {
+            "citation":"GeoNames populated place 11695076: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695076"
+        },
+        {
+            "citation":"GeoNames populated place 11695076: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695076"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125340505 (Fajs\u0142awice), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687309,
+        102079745,
+        102191581,
+        1125340505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695076
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"08b3d9238bce4439f406ec204b25fd8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079745,
+            "localadmin_id":1125340505,
+            "locality_id":9895052424,
+            "region_id":85687309
+        }
+    ],
+    "wof:id":9895052424,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Siedliska Drugie",
+    "wof:parent_id":1125340505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.93126,
+    51.05507,
+    22.93126,
+    51.05507
+],
+  "geometry": {"coordinates":[22.93126,51.05507],"type":"Point"}
+}

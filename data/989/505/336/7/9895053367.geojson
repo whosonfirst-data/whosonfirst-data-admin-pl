@@ -1,0 +1,76 @@
+{
+  "id": 9895053367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.94331,53.6492,15.94331,53.6492",
+    "geom:latitude":53.6492,
+    "geom:longitude":15.94331,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13118910: name \"Donatowo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13118910"
+        },
+        {
+            "citation":"GeoNames populated place 13118910: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13118910"
+        },
+        {
+            "citation":"GeoNames populated place 13118910: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13118910"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477752063 (Gmina Drawsko Pomorskie), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687271,
+        102080113,
+        102191581,
+        1477752063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13118910
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"80f7fcce8c2129a8170bc5b1bb5f4152",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080113,
+            "localadmin_id":1477752063,
+            "locality_id":9895053367,
+            "region_id":85687271
+        }
+    ],
+    "wof:id":9895053367,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Donatowo",
+    "wof:parent_id":1477752063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.94331,
+    53.6492,
+    15.94331,
+    53.6492
+],
+  "geometry": {"coordinates":[15.94331,53.6492],"type":"Point"}
+}

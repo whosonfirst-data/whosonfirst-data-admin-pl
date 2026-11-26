@@ -1,0 +1,76 @@
+{
+  "id": 9895052627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.10963,50.93558,21.10963,50.93558",
+    "geom:latitude":50.93558,
+    "geom:longitude":21.10963,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695922: name \"Ambro\u017c\u00f3w\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695922"
+        },
+        {
+            "citation":"GeoNames populated place 11695922: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695922"
+        },
+        {
+            "citation":"GeoNames populated place 11695922: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695922"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125375707 (Paw\u0142\u00f3w), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687287,
+        102079727,
+        102191581,
+        1125375707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695922
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"7c882aed36a3c63c350b2b3b2e7cefad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079727,
+            "localadmin_id":1125375707,
+            "locality_id":9895052627,
+            "region_id":85687287
+        }
+    ],
+    "wof:id":9895052627,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Ambro\u017c\u00f3w",
+    "wof:parent_id":1125375707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.10963,
+    50.93558,
+    21.10963,
+    50.93558
+],
+  "geometry": {"coordinates":[21.10963,50.93558],"type":"Point"}
+}

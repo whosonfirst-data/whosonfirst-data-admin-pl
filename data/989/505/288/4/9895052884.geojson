@@ -1,0 +1,76 @@
+{
+  "id": 9895052884,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.77932,51.94503,21.77932,51.94503",
+    "geom:latitude":51.94503,
+    "geom:longitude":21.77932,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11703960: name \"Nowa Brzuza\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11703960"
+        },
+        {
+            "citation":"GeoNames populated place 11703960: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11703960"
+        },
+        {
+            "citation":"GeoNames populated place 11703960: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11703960"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125289101 (Borowie), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687257,
+        102079901,
+        102191581,
+        1125289101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11703960
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"d9c954a11e8017d3a273385044b46bec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079901,
+            "localadmin_id":1125289101,
+            "locality_id":9895052884,
+            "region_id":85687257
+        }
+    ],
+    "wof:id":9895052884,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Nowa Brzuza",
+    "wof:parent_id":1125289101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.77932,
+    51.94503,
+    21.77932,
+    51.94503
+],
+  "geometry": {"coordinates":[21.77932,51.94503],"type":"Point"}
+}

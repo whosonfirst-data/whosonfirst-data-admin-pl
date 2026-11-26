@@ -1,0 +1,76 @@
+{
+  "id": 9895052887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.06247,51.69421,18.06247,51.69421",
+    "geom:latitude":51.69421,
+    "geom:longitude":18.06247,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11703963: name \"Chot\u00f3w\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11703963"
+        },
+        {
+            "citation":"GeoNames populated place 11703963: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11703963"
+        },
+        {
+            "citation":"GeoNames populated place 11703963: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11703963"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125298551 (Gmina Nowe Skalmierzyce), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687323,
+        102079789,
+        102191581,
+        1125298551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11703963
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"0b58858c87a192894c25919d8cca6303",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079789,
+            "localadmin_id":1125298551,
+            "locality_id":9895052887,
+            "region_id":85687323
+        }
+    ],
+    "wof:id":9895052887,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Chot\u00f3w",
+    "wof:parent_id":1125298551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.06247,
+    51.69421,
+    18.06247,
+    51.69421
+],
+  "geometry": {"coordinates":[18.06247,51.69421],"type":"Point"}
+}

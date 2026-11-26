@@ -1,0 +1,76 @@
+{
+  "id": 9895053165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.1933,52.444,15.1933,52.444",
+    "geom:latitude":52.444,
+    "geom:longitude":15.1933,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12156161: name \"W\u0119drzyn\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12156161"
+        },
+        {
+            "citation":"GeoNames populated place 12156161: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12156161"
+        },
+        {
+            "citation":"GeoNames populated place 12156161: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12156161"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477751395 (Gmina Sul\u0119cin), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687327,
+        102079933,
+        102191581,
+        1477751395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12156161
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"a0dc3f7813c8bde5d3f40b64857d0c9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079933,
+            "localadmin_id":1477751395,
+            "locality_id":9895053165,
+            "region_id":85687327
+        }
+    ],
+    "wof:id":9895053165,
+    "wof:lastmodified":1795735000,
+    "wof:name":"W\u0119drzyn",
+    "wof:parent_id":1477751395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.1933,
+    52.444,
+    15.1933,
+    52.444
+],
+  "geometry": {"coordinates":[15.1933,52.444],"type":"Point"}
+}

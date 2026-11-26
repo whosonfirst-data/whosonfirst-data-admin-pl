@@ -1,0 +1,76 @@
+{
+  "id": 9895052339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.342,50.68295,23.342,50.68295",
+    "geom:latitude":50.68295,
+    "geom:longitude":23.342,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11694769: name \"\u0141abu\u0144ki Pierwsze\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11694769"
+        },
+        {
+            "citation":"GeoNames populated place 11694769: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11694769"
+        },
+        {
+            "citation":"GeoNames populated place 11694769: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11694769"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125397545 (\u0141abunie), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687309,
+        102079715,
+        102191581,
+        1125397545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11694769
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"1db0f75554b72a9cba0971413c31a8f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079715,
+            "localadmin_id":1125397545,
+            "locality_id":9895052339,
+            "region_id":85687309
+        }
+    ],
+    "wof:id":9895052339,
+    "wof:lastmodified":1795735000,
+    "wof:name":"\u0141abu\u0144ki Pierwsze",
+    "wof:parent_id":1125397545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.342,
+    50.68295,
+    23.342,
+    50.68295
+],
+  "geometry": {"coordinates":[23.342,50.68295],"type":"Point"}
+}

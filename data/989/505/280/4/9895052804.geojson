@@ -1,0 +1,76 @@
+{
+  "id": 9895052804,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.34151,52.15487,22.34151,52.15487",
+    "geom:latitude":52.15487,
+    "geom:longitude":22.34151,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11703581: name \"Stok Lacki-Folwark\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11703581"
+        },
+        {
+            "citation":"GeoNames populated place 11703581: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11703581"
+        },
+        {
+            "citation":"GeoNames populated place 11703581: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11703581"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477751701 (Gmina Siedlce), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687257,
+        102079979,
+        102191581,
+        1477751701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11703581
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"80f54d3c2ad2162c8537e3840693b64e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079979,
+            "localadmin_id":1477751701,
+            "locality_id":9895052804,
+            "region_id":85687257
+        }
+    ],
+    "wof:id":9895052804,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Stok Lacki-Folwark",
+    "wof:parent_id":1477751701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.34151,
+    52.15487,
+    22.34151,
+    52.15487
+],
+  "geometry": {"coordinates":[22.34151,52.15487],"type":"Point"}
+}

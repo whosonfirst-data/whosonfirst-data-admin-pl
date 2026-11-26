@@ -1,0 +1,76 @@
+{
+  "id": 9895053373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.87497,53.65337,17.87497,53.65337",
+    "geom:latitude":53.65337,
+    "geom:longitude":17.87497,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13118917: name \"D\u0105br\u00f3wka\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13118917"
+        },
+        {
+            "citation":"GeoNames populated place 13118917: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13118917"
+        },
+        {
+            "citation":"GeoNames populated place 13118917: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13118917"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477751509 (Gmina Tuchola), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687319,
+        102080141,
+        102191581,
+        1477751509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13118917
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"37b192c69c57c30b7b78398a34e6b8f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080141,
+            "localadmin_id":1477751509,
+            "locality_id":9895053373,
+            "region_id":85687319
+        }
+    ],
+    "wof:id":9895053373,
+    "wof:lastmodified":1795735000,
+    "wof:name":"D\u0105br\u00f3wka",
+    "wof:parent_id":1477751509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.87497,
+    53.65337,
+    17.87497,
+    53.65337
+],
+  "geometry": {"coordinates":[17.87497,53.65337],"type":"Point"}
+}

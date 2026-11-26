@@ -1,0 +1,76 @@
+{
+  "id": 9895053191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.1029,52.83675,18.1029,52.83675",
+    "geom:latitude":52.83675,
+    "geom:longitude":18.1029,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12173198: name \"\u0141\u0105cko\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12173198"
+        },
+        {
+            "citation":"GeoNames populated place 12173198: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12173198"
+        },
+        {
+            "citation":"GeoNames populated place 12173198: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12173198"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125291857 (Gmina Pako\u015b\u0107), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687319,
+        102080013,
+        102191581,
+        1125291857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12173198
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"a95edd5655c2dc94c31baa15a43bd1f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080013,
+            "localadmin_id":1125291857,
+            "locality_id":9895053191,
+            "region_id":85687319
+        }
+    ],
+    "wof:id":9895053191,
+    "wof:lastmodified":1795735000,
+    "wof:name":"\u0141\u0105cko",
+    "wof:parent_id":1125291857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.1029,
+    52.83675,
+    18.1029,
+    52.83675
+],
+  "geometry": {"coordinates":[18.1029,52.83675],"type":"Point"}
+}

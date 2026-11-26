@@ -1,0 +1,76 @@
+{
+  "id": 9895052637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.2982,50.27398,21.2982,50.27398",
+    "geom:latitude":50.27398,
+    "geom:longitude":21.2982,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695936: name \"Przebend\u00f3w\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695936"
+        },
+        {
+            "citation":"GeoNames populated place 11695936: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695936"
+        },
+        {
+            "citation":"GeoNames populated place 11695936: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695936"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477751203 (Wadowice G\u00f3rne), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687295,
+        102079597,
+        102191581,
+        1477751203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695936
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"f6374a6b8132cd00bfa26d0292d1a4d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079597,
+            "localadmin_id":1477751203,
+            "locality_id":9895052637,
+            "region_id":85687295
+        }
+    ],
+    "wof:id":9895052637,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Przebend\u00f3w",
+    "wof:parent_id":1477751203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.2982,
+    50.27398,
+    21.2982,
+    50.27398
+],
+  "geometry": {"coordinates":[21.2982,50.27398],"type":"Point"}
+}

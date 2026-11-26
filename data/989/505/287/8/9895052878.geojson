@@ -1,0 +1,76 @@
+{
+  "id": 9895052878,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.642,54.02754,18.642,54.02754",
+    "geom:latitude":54.02754,
+    "geom:longitude":18.642,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11703954: name \"Zabagno\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11703954"
+        },
+        {
+            "citation":"GeoNames populated place 11703954: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11703954"
+        },
+        {
+            "citation":"GeoNames populated place 11703954: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11703954"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125398823 (Gmina Tczew), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687267,
+        102080191,
+        102191581,
+        1125398823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11703954
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"376565d4c2e601ad849d459167e87bfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080191,
+            "localadmin_id":1125398823,
+            "locality_id":9895052878,
+            "region_id":85687267
+        }
+    ],
+    "wof:id":9895052878,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Zabagno",
+    "wof:parent_id":1125398823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.642,
+    54.02754,
+    18.642,
+    54.02754
+],
+  "geometry": {"coordinates":[18.642,54.02754],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 9895052830,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.02728,50.29965,18.02728,50.29965",
+    "geom:latitude":50.29965,
+    "geom:longitude":18.02728,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11703738: name \"Urbanowice\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11703738"
+        },
+        {
+            "citation":"GeoNames populated place 11703738: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11703738"
+        },
+        {
+            "citation":"GeoNames populated place 11703738: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11703738"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125324403 (Paw\u0142owiczki), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687313,
+        102079523,
+        102191581,
+        1125324403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11703738
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"79f39c0dd884ffda856e5f4fb4e734b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079523,
+            "localadmin_id":1125324403,
+            "locality_id":9895052830,
+            "region_id":85687313
+        }
+    ],
+    "wof:id":9895052830,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Urbanowice",
+    "wof:parent_id":1125324403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.02728,
+    50.29965,
+    18.02728,
+    50.29965
+],
+  "geometry": {"coordinates":[18.02728,50.29965],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 9895053360,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.90458,53.47123,16.90458,53.47123",
+    "geom:latitude":53.47123,
+    "geom:longitude":16.90458,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13118900: name \"Grudna\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13118900"
+        },
+        {
+            "citation":"GeoNames populated place 13118900: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13118900"
+        },
+        {
+            "citation":"GeoNames populated place 13118900: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13118900"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125299261 (Gmina Okonek), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687323,
+        102080109,
+        102191581,
+        1125299261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13118900
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"bb9492918ae38a0cbb00de884f95322b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080109,
+            "localadmin_id":1125299261,
+            "locality_id":9895053360,
+            "region_id":85687323
+        }
+    ],
+    "wof:id":9895053360,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Grudna",
+    "wof:parent_id":1125299261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.90458,
+    53.47123,
+    16.90458,
+    53.47123
+],
+  "geometry": {"coordinates":[16.90458,53.47123],"type":"Point"}
+}

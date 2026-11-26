@@ -1,0 +1,76 @@
+{
+  "id": 9895052838,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.45629,53.45821,14.45629,53.45821",
+    "geom:latitude":53.45821,
+    "geom:longitude":14.45629,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11703858: name \"Bezrzecze\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11703858"
+        },
+        {
+            "citation":"GeoNames populated place 11703858: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11703858"
+        },
+        {
+            "citation":"GeoNames populated place 11703858: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11703858"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477752537 (Dobra (Szczeci\u0144ska)), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687271,
+        102080119,
+        102191581,
+        1477752537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11703858
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"1e70cf9a33580e64926272281780c793",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080119,
+            "localadmin_id":1477752537,
+            "locality_id":9895052838,
+            "region_id":85687271
+        }
+    ],
+    "wof:id":9895052838,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Bezrzecze",
+    "wof:parent_id":1477752537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.45629,
+    53.45821,
+    14.45629,
+    53.45821
+],
+  "geometry": {"coordinates":[14.45629,53.45821],"type":"Point"}
+}

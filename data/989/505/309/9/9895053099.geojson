@@ -1,0 +1,76 @@
+{
+  "id": 9895053099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.38415,51.45078,16.38415,51.45078",
+    "geom:latitude":51.45078,
+    "geom:longitude":16.38415,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11978140: name \"Che\u0142mek Wo\u0142owski\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11978140"
+        },
+        {
+            "citation":"GeoNames populated place 11978140: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11978140"
+        },
+        {
+            "citation":"GeoNames populated place 11978140: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11978140"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477752983 (Gmina \u015acinawa), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687301,
+        102079735,
+        102191581,
+        1477752983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11978140
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"35d781f90a368924e5990912676871b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079735,
+            "localadmin_id":1477752983,
+            "locality_id":9895053099,
+            "region_id":85687301
+        }
+    ],
+    "wof:id":9895053099,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Che\u0142mek Wo\u0142owski",
+    "wof:parent_id":1477752983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.38415,
+    51.45078,
+    16.38415,
+    51.45078
+],
+  "geometry": {"coordinates":[16.38415,51.45078],"type":"Point"}
+}

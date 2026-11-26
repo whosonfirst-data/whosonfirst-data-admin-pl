@@ -1,0 +1,76 @@
+{
+  "id": 9895053335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.32093,53.04402,16.32093,53.04402",
+    "geom:latitude":53.04402,
+    "geom:longitude":16.32093,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12909208: name \"Przy\u0142\u0119g\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12909208"
+        },
+        {
+            "citation":"GeoNames populated place 12909208: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12909208"
+        },
+        {
+            "citation":"GeoNames populated place 12909208: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12909208"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125298561 (Gmina Trzcianka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687323,
+        102080029,
+        102191581,
+        1125298561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12909208
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"dcda10edfb53f2528a708355498ea481",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080029,
+            "localadmin_id":1125298561,
+            "locality_id":9895053335,
+            "region_id":85687323
+        }
+    ],
+    "wof:id":9895053335,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Przy\u0142\u0119g",
+    "wof:parent_id":1125298561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.32093,
+    53.04402,
+    16.32093,
+    53.04402
+],
+  "geometry": {"coordinates":[16.32093,53.04402],"type":"Point"}
+}

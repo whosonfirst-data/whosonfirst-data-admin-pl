@@ -1,0 +1,76 @@
+{
+  "id": 9895053370,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.9815,53.57763,16.9815,53.57763",
+    "geom:latitude":53.57763,
+    "geom:longitude":16.9815,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13118914: name \"Rebno\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13118914"
+        },
+        {
+            "citation":"GeoNames populated place 13118914: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13118914"
+        },
+        {
+            "citation":"GeoNames populated place 13118914: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13118914"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125338811 (Gmina Czarne), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687267,
+        102080157,
+        102191581,
+        1125338811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13118914
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"1c26888b4c0dff54991f03a4243c6ba7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080157,
+            "localadmin_id":1125338811,
+            "locality_id":9895053370,
+            "region_id":85687267
+        }
+    ],
+    "wof:id":9895053370,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Rebno",
+    "wof:parent_id":1125338811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.9815,
+    53.57763,
+    16.9815,
+    53.57763
+],
+  "geometry": {"coordinates":[16.9815,53.57763],"type":"Point"}
+}

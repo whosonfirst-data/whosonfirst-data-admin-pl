@@ -1,0 +1,76 @@
+{
+  "id": 9895052648,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.76238,50.81814,22.76238,50.81814",
+    "geom:latitude":50.81814,
+    "geom:longitude":22.76238,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11696039: name \"Przedmie\u015bcie Szczebrzeszy\u0144skie\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11696039"
+        },
+        {
+            "citation":"GeoNames populated place 11696039: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11696039"
+        },
+        {
+            "citation":"GeoNames populated place 11696039: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11696039"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125411281 (Turobin), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687309,
+        102079699,
+        102191581,
+        1125411281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11696039
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"db9cdcaf5cfbb28d68b93f533fb92546",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079699,
+            "localadmin_id":1125411281,
+            "locality_id":9895052648,
+            "region_id":85687309
+        }
+    ],
+    "wof:id":9895052648,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Przedmie\u015bcie Szczebrzeszy\u0144skie",
+    "wof:parent_id":1125411281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.76238,
+    50.81814,
+    22.76238,
+    50.81814
+],
+  "geometry": {"coordinates":[22.76238,50.81814],"type":"Point"}
+}

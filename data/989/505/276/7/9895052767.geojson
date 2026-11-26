@@ -1,0 +1,76 @@
+{
+  "id": 9895052767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.82953,50.60075,21.82953,50.60075",
+    "geom:latitude":50.60075,
+    "geom:longitude":21.82953,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11703516: name \"Por\u0119by Furma\u0144skie\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11703516"
+        },
+        {
+            "citation":"GeoNames populated place 11703516: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11703516"
+        },
+        {
+            "citation":"GeoNames populated place 11703516: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11703516"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125365451 (Gr\u0119b\u00f3w), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687295,
+        102079653,
+        102191581,
+        1125365451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11703516
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"56e58b49677f9b3c0ab02879e7d43936",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079653,
+            "localadmin_id":1125365451,
+            "locality_id":9895052767,
+            "region_id":85687295
+        }
+    ],
+    "wof:id":9895052767,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Por\u0119by Furma\u0144skie",
+    "wof:parent_id":1125365451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.82953,
+    50.60075,
+    21.82953,
+    50.60075
+],
+  "geometry": {"coordinates":[21.82953,50.60075],"type":"Point"}
+}

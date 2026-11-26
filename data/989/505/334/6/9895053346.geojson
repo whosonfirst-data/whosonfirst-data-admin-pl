@@ -1,0 +1,76 @@
+{
+  "id": 9895053346,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.64572,53.24187,15.64572,53.24187",
+    "geom:latitude":53.24187,
+    "geom:longitude":15.64572,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13118734: name \"Kra\u015bnik\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13118734"
+        },
+        {
+            "citation":"GeoNames populated place 13118734: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13118734"
+        },
+        {
+            "citation":"GeoNames populated place 13118734: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13118734"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125278485 (Gmina Recz), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687271,
+        102080049,
+        102191581,
+        1125278485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13118734
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"a63eae1739d70a9b4528cbb0e859c28a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080049,
+            "localadmin_id":1125278485,
+            "locality_id":9895053346,
+            "region_id":85687271
+        }
+    ],
+    "wof:id":9895053346,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Kra\u015bnik",
+    "wof:parent_id":1125278485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.64572,
+    53.24187,
+    15.64572,
+    53.24187
+],
+  "geometry": {"coordinates":[15.64572,53.24187],"type":"Point"}
+}

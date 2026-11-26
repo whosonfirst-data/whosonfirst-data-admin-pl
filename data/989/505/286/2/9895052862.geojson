@@ -1,0 +1,76 @@
+{
+  "id": 9895052862,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.73807,51.33793,17.73807,51.33793",
+    "geom:latitude":51.33793,
+    "geom:longitude":17.73807,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11703937: name \"Wioska\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11703937"
+        },
+        {
+            "citation":"GeoNames populated place 11703937: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11703937"
+        },
+        {
+            "citation":"GeoNames populated place 11703937: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11703937"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477752517 (Gmina Syc\u00f3w), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687301,
+        102079717,
+        102191581,
+        1477752517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11703937
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"a5a1ac7dc3c7fb6cf8176f7f4309cca2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079717,
+            "localadmin_id":1477752517,
+            "locality_id":9895052862,
+            "region_id":85687301
+        }
+    ],
+    "wof:id":9895052862,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Wioska",
+    "wof:parent_id":1477752517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.73807,
+    51.33793,
+    17.73807,
+    51.33793
+],
+  "geometry": {"coordinates":[17.73807,51.33793],"type":"Point"}
+}

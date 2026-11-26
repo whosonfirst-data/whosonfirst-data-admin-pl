@@ -1,0 +1,76 @@
+{
+  "id": 9895053331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.37595,53.03736,15.37595,53.03736",
+    "geom:latitude":53.03736,
+    "geom:longitude":15.37595,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12909203: name \"Mandelkow\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12909203"
+        },
+        {
+            "citation":"GeoNames populated place 12909203: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12909203"
+        },
+        {
+            "citation":"GeoNames populated place 12909203: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12909203"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125338941 (Gmina Pe\u0142czyce), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687271,
+        102080049,
+        102191581,
+        1125338941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12909203
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"61cb1bc2467f70b7db6ee900f646e7d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080049,
+            "localadmin_id":1125338941,
+            "locality_id":9895053331,
+            "region_id":85687271
+        }
+    ],
+    "wof:id":9895053331,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Mandelkow",
+    "wof:parent_id":1125338941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.37595,
+    53.03736,
+    15.37595,
+    53.03736
+],
+  "geometry": {"coordinates":[15.37595,53.03736],"type":"Point"}
+}

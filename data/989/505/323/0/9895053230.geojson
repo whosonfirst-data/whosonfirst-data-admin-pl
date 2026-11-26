@@ -1,0 +1,76 @@
+{
+  "id": 9895053230,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.99943,51.71321,15.99943,51.71321",
+    "geom:latitude":51.71321,
+    "geom:longitude":15.99943,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12212359: name \"Ceber\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12212359"
+        },
+        {
+            "citation":"GeoNames populated place 12212359: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12212359"
+        },
+        {
+            "citation":"GeoNames populated place 12212359: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12212359"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477752067 (Kotla), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687301,
+        102079769,
+        102191581,
+        1477752067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12212359
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"2832614ff70c0b6c0dee0867bcd47319",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079769,
+            "localadmin_id":1477752067,
+            "locality_id":9895053230,
+            "region_id":85687301
+        }
+    ],
+    "wof:id":9895053230,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Ceber",
+    "wof:parent_id":1477752067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.99943,
+    51.71321,
+    15.99943,
+    51.71321
+],
+  "geometry": {"coordinates":[15.99943,51.71321],"type":"Point"}
+}

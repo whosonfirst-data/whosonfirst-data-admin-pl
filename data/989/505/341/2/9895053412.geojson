@@ -1,0 +1,76 @@
+{
+  "id": 9895053412,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.9645,52.59668,14.9645,52.59668",
+    "geom:latitude":52.59668,
+    "geom:longitude":14.9645,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13264371: name \"Marianki\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13264371"
+        },
+        {
+            "citation":"GeoNames populated place 13264371: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13264371"
+        },
+        {
+            "citation":"GeoNames populated place 13264371: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13264371"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125376583 (Krzeszyce), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687327,
+        102079933,
+        102191581,
+        1125376583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13264371
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"c859cd48fce84bea3b86a2bcc762e548",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079933,
+            "localadmin_id":1125376583,
+            "locality_id":9895053412,
+            "region_id":85687327
+        }
+    ],
+    "wof:id":9895053412,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Marianki",
+    "wof:parent_id":1125376583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.9645,
+    52.59668,
+    14.9645,
+    52.59668
+],
+  "geometry": {"coordinates":[14.9645,52.59668],"type":"Point"}
+}

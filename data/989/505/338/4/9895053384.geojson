@@ -1,0 +1,76 @@
+{
+  "id": 9895053384,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.80528,52.03118,20.80528,52.03118",
+    "geom:latitude":52.03118,
+    "geom:longitude":20.80528,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13192726: name \"Wola Krakowia\u0144ska\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13192726"
+        },
+        {
+            "citation":"GeoNames populated place 13192726: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13192726"
+        },
+        {
+            "citation":"GeoNames populated place 13192726: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13192726"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125347727 (Nadarzyn), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687257,
+        102079919,
+        102191581,
+        1125347727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13192726
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"8ec6454dae9c623dda27083398d5a9eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079919,
+            "localadmin_id":1125347727,
+            "locality_id":9895053384,
+            "region_id":85687257
+        }
+    ],
+    "wof:id":9895053384,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Wola Krakowia\u0144ska",
+    "wof:parent_id":1125347727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.80528,
+    52.03118,
+    20.80528,
+    52.03118
+],
+  "geometry": {"coordinates":[20.80528,52.03118],"type":"Point"}
+}

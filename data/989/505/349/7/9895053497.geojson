@@ -1,0 +1,76 @@
+{
+  "id": 9895053497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.53549,51.59448,15.53549,51.59448",
+    "geom:latitude":51.59448,
+    "geom:longitude":15.53549,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13308205: name \"Kartowice\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13308205"
+        },
+        {
+            "citation":"GeoNames populated place 13308205: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13308205"
+        },
+        {
+            "citation":"GeoNames populated place 13308205: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13308205"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477752601 (Gmina Szprotawa), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687327,
+        102079759,
+        102191581,
+        1477752601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13308205
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"b882df88f15596322e5fa4402b1d9ceb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079759,
+            "localadmin_id":1477752601,
+            "locality_id":9895053497,
+            "region_id":85687327
+        }
+    ],
+    "wof:id":9895053497,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Kartowice",
+    "wof:parent_id":1477752601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.53549,
+    51.59448,
+    15.53549,
+    51.59448
+],
+  "geometry": {"coordinates":[15.53549,51.59448],"type":"Point"}
+}

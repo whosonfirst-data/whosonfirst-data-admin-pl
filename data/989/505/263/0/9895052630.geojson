@@ -1,0 +1,76 @@
+{
+  "id": 9895052630,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.99845,50.91391,21.99845,50.91391",
+    "geom:latitude":50.91391,
+    "geom:longitude":21.99845,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695926: name \"Ksi\u0119\u017comierz Dzierzkowska\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695926"
+        },
+        {
+            "citation":"GeoNames populated place 11695926: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695926"
+        },
+        {
+            "citation":"GeoNames populated place 11695926: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695926"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125305633 (Go\u015bcierad\u00f3w), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687309,
+        102079721,
+        102191581,
+        1125305633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695926
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"18e5fcba00f0d94d417d29deed319d40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079721,
+            "localadmin_id":1125305633,
+            "locality_id":9895052630,
+            "region_id":85687309
+        }
+    ],
+    "wof:id":9895052630,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Ksi\u0119\u017comierz Dzierzkowska",
+    "wof:parent_id":1125305633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.99845,
+    50.91391,
+    21.99845,
+    50.91391
+],
+  "geometry": {"coordinates":[21.99845,50.91391],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 9895052453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.3428,51.83641,19.3428,51.83641",
+    "geom:latitude":51.83641,
+    "geom:longitude":19.3428,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695107: name \"Kolonia Bru\u017cyca\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695107"
+        },
+        {
+            "citation":"GeoNames populated place 11695107: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695107"
+        },
+        {
+            "citation":"GeoNames populated place 11695107: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695107"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125310711 (Gmina Aleksandr\u00f3w \u0141\u00f3dzki), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687261,
+        102079873,
+        102191581,
+        1125310711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695107
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"7f5923916ce1b8837a772ffaecaed528",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079873,
+            "localadmin_id":1125310711,
+            "locality_id":9895052453,
+            "region_id":85687261
+        }
+    ],
+    "wof:id":9895052453,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Kolonia Bru\u017cyca",
+    "wof:parent_id":1125310711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.3428,
+    51.83641,
+    19.3428,
+    51.83641
+],
+  "geometry": {"coordinates":[19.3428,51.83641],"type":"Point"}
+}

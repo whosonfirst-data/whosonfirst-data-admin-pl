@@ -1,0 +1,76 @@
+{
+  "id": 9895052673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.59612,51.05642,15.59612,51.05642",
+    "geom:latitude":51.05642,
+    "geom:longitude":15.59612,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11696067: name \"P\u0142awna Dolna\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11696067"
+        },
+        {
+            "citation":"GeoNames populated place 11696067: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11696067"
+        },
+        {
+            "citation":"GeoNames populated place 11696067: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11696067"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125302171 (Gmina Lubomierz), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687301,
+        102079649,
+        102191581,
+        1125302171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11696067
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"0f85a7e310b327906a662f9af7d469b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079649,
+            "localadmin_id":1125302171,
+            "locality_id":9895052673,
+            "region_id":85687301
+        }
+    ],
+    "wof:id":9895052673,
+    "wof:lastmodified":1795735000,
+    "wof:name":"P\u0142awna Dolna",
+    "wof:parent_id":1125302171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.59612,
+    51.05642,
+    15.59612,
+    51.05642
+],
+  "geometry": {"coordinates":[15.59612,51.05642],"type":"Point"}
+}

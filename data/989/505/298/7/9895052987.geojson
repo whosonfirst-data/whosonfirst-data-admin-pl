@@ -1,0 +1,76 @@
+{
+  "id": 9895052987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.76692,50.86995,21.76692,50.86995",
+    "geom:latitude":50.86995,
+    "geom:longitude":21.76692,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11704209: name \"Lin\u00f3w-Kolonia\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11704209"
+        },
+        {
+            "citation":"GeoNames populated place 11704209: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11704209"
+        },
+        {
+            "citation":"GeoNames populated place 11704209: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11704209"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125339251 (Gmina Zawichost), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687287,
+        102079681,
+        102191581,
+        1125339251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11704209
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"047c15105c70f2dcd4ee04a6b8fdffd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079681,
+            "localadmin_id":1125339251,
+            "locality_id":9895052987,
+            "region_id":85687287
+        }
+    ],
+    "wof:id":9895052987,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Lin\u00f3w-Kolonia",
+    "wof:parent_id":1125339251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.76692,
+    50.86995,
+    21.76692,
+    50.86995
+],
+  "geometry": {"coordinates":[21.76692,50.86995],"type":"Point"}
+}

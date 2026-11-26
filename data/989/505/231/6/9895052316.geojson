@@ -1,0 +1,76 @@
+{
+  "id": 9895052316,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.60039,51.90687,23.60039,51.90687",
+    "geom:latitude":51.90687,
+    "geom:longitude":23.60039,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11694592: name \"Kode\u0144 Drugi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11694592"
+        },
+        {
+            "citation":"GeoNames populated place 11694592: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11694592"
+        },
+        {
+            "citation":"GeoNames populated place 11694592: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11694592"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125400209 (Kode\u0144), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687309,
+        102079973,
+        102191581,
+        1125400209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11694592
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"606f2f431a8181d0389a178376ea1881",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079973,
+            "localadmin_id":1125400209,
+            "locality_id":9895052316,
+            "region_id":85687309
+        }
+    ],
+    "wof:id":9895052316,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Kode\u0144 Drugi",
+    "wof:parent_id":1125400209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.60039,
+    51.90687,
+    23.60039,
+    51.90687
+],
+  "geometry": {"coordinates":[23.60039,51.90687],"type":"Point"}
+}

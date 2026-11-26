@@ -1,0 +1,76 @@
+{
+  "id": 9895052454,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.91508,51.48721,16.91508,51.48721",
+    "geom:latitude":51.48721,
+    "geom:longitude":16.91508,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695108: name \"\u017bmigr\u00f3dek\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695108"
+        },
+        {
+            "citation":"GeoNames populated place 11695108: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695108"
+        },
+        {
+            "citation":"GeoNames populated place 11695108: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695108"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125376439 (Gmina \u017bmigr\u00f3d), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687301,
+        102079733,
+        102191581,
+        1125376439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695108
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"d84f3173b87f0c3c8b6e622a1863ee5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079733,
+            "localadmin_id":1125376439,
+            "locality_id":9895052454,
+            "region_id":85687301
+        }
+    ],
+    "wof:id":9895052454,
+    "wof:lastmodified":1795735000,
+    "wof:name":"\u017bmigr\u00f3dek",
+    "wof:parent_id":1125376439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.91508,
+    51.48721,
+    16.91508,
+    51.48721
+],
+  "geometry": {"coordinates":[16.91508,51.48721],"type":"Point"}
+}

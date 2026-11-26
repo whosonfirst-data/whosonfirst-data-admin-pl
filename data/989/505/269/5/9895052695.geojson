@@ -1,0 +1,76 @@
+{
+  "id": 9895052695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.79773,52.76419,21.79773,52.76419",
+    "geom:latitude":52.76419,
+    "geom:longitude":21.79773,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11696154: name \"Nagoszewka Druga\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11696154"
+        },
+        {
+            "citation":"GeoNames populated place 11696154: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11696154"
+        },
+        {
+            "citation":"GeoNames populated place 11696154: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11696154"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477752745 (Gmina Ostr\u00f3w Mazowiecka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687257,
+        102080057,
+        102191581,
+        1477752745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11696154
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"c04f98b4ba02a34661e98dd3952595fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080057,
+            "localadmin_id":1477752745,
+            "locality_id":9895052695,
+            "region_id":85687257
+        }
+    ],
+    "wof:id":9895052695,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Nagoszewka Druga",
+    "wof:parent_id":1477752745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.79773,
+    52.76419,
+    21.79773,
+    52.76419
+],
+  "geometry": {"coordinates":[21.79773,52.76419],"type":"Point"}
+}

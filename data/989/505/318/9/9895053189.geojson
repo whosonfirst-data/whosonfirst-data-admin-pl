@@ -1,0 +1,76 @@
+{
+  "id": 9895053189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.12814,52.93006,18.12814,52.93006",
+    "geom:latitude":52.93006,
+    "geom:longitude":18.12814,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12173189: name \"Dobrogo\u015bcice\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12173189"
+        },
+        {
+            "citation":"GeoNames populated place 12173189: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12173189"
+        },
+        {
+            "citation":"GeoNames populated place 12173189: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12173189"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477752375 (Z\u0142otniki Kujawskie), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687319,
+        102080013,
+        102191581,
+        1477752375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12173189
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"5a10cf11fb5fc1216dc17b666fddaf0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080013,
+            "localadmin_id":1477752375,
+            "locality_id":9895053189,
+            "region_id":85687319
+        }
+    ],
+    "wof:id":9895053189,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Dobrogo\u015bcice",
+    "wof:parent_id":1477752375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.12814,
+    52.93006,
+    18.12814,
+    52.93006
+],
+  "geometry": {"coordinates":[18.12814,52.93006],"type":"Point"}
+}

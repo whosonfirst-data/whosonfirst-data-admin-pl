@@ -1,0 +1,76 @@
+{
+  "id": 9895052529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.99307,53.58817,20.99307,53.58817",
+    "geom:latitude":53.58817,
+    "geom:longitude":20.99307,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695467: name \"Lipowa G\u00f3ra Wschodnia\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695467"
+        },
+        {
+            "citation":"GeoNames populated place 11695467: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695467"
+        },
+        {
+            "citation":"GeoNames populated place 11695467: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695467"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477752919 (Gmina Szczytno), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687305,
+        102080167,
+        102191581,
+        1477752919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695467
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"fb236939dadd6b93d62ac4fb58118906",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080167,
+            "localadmin_id":1477752919,
+            "locality_id":9895052529,
+            "region_id":85687305
+        }
+    ],
+    "wof:id":9895052529,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Lipowa G\u00f3ra Wschodnia",
+    "wof:parent_id":1477752919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.99307,
+    53.58817,
+    20.99307,
+    53.58817
+],
+  "geometry": {"coordinates":[20.99307,53.58817],"type":"Point"}
+}

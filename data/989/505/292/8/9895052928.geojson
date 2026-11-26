@@ -1,0 +1,76 @@
+{
+  "id": 9895052928,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.28614,50.97978,21.28614,50.97978",
+    "geom:latitude":50.97978,
+    "geom:longitude":21.28614,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11704131: name \"Kolonia Piaski\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11704131"
+        },
+        {
+            "citation":"GeoNames populated place 11704131: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11704131"
+        },
+        {
+            "citation":"GeoNames populated place 11704131: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11704131"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125372185 (Gmina Kun\u00f3w), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687287,
+        102079703,
+        102191581,
+        1125372185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11704131
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"e23a28d6bc3401c0da1caf2f20dff098",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079703,
+            "localadmin_id":1125372185,
+            "locality_id":9895052928,
+            "region_id":85687287
+        }
+    ],
+    "wof:id":9895052928,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Kolonia Piaski",
+    "wof:parent_id":1125372185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.28614,
+    50.97978,
+    21.28614,
+    50.97978
+],
+  "geometry": {"coordinates":[21.28614,50.97978],"type":"Point"}
+}

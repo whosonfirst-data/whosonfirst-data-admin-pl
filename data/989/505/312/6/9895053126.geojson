@@ -1,0 +1,76 @@
+{
+  "id": 9895053126,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.02264,51.65874,16.02264,51.65874",
+    "geom:latitude":51.65874,
+    "geom:longitude":16.02264,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11978194: name \"S\u0142one\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11978194"
+        },
+        {
+            "citation":"GeoNames populated place 11978194: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11978194"
+        },
+        {
+            "citation":"GeoNames populated place 11978194: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11978194"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477752355 (\u017bukowice), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687301,
+        102079769,
+        102191581,
+        1477752355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11978194
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"e5c2bb7307604094d842a57bbc63b42c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079769,
+            "localadmin_id":1477752355,
+            "locality_id":9895053126,
+            "region_id":85687301
+        }
+    ],
+    "wof:id":9895053126,
+    "wof:lastmodified":1795735000,
+    "wof:name":"S\u0142one",
+    "wof:parent_id":1477752355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.02264,
+    51.65874,
+    16.02264,
+    51.65874
+],
+  "geometry": {"coordinates":[16.02264,51.65874],"type":"Point"}
+}

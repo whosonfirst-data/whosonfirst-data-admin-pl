@@ -1,0 +1,76 @@
+{
+  "id": 9895052746,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.89398,53.33526,14.89398,53.33526",
+    "geom:latitude":53.33526,
+    "geom:longitude":14.89398,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11696395: name \"J\u0119czyd\u00f3\u0142\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11696395"
+        },
+        {
+            "citation":"GeoNames populated place 11696395: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11696395"
+        },
+        {
+            "citation":"GeoNames populated place 11696395: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11696395"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477752095 (Kobylanka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687271,
+        102080083,
+        102191581,
+        1477752095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11696395
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"2e7765f226326da8d6a6e6b22dbf304b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080083,
+            "localadmin_id":1477752095,
+            "locality_id":9895052746,
+            "region_id":85687271
+        }
+    ],
+    "wof:id":9895052746,
+    "wof:lastmodified":1795735000,
+    "wof:name":"J\u0119czyd\u00f3\u0142",
+    "wof:parent_id":1477752095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.89398,
+    53.33526,
+    14.89398,
+    53.33526
+],
+  "geometry": {"coordinates":[14.89398,53.33526],"type":"Point"}
+}

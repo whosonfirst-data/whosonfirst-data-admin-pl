@@ -1,0 +1,76 @@
+{
+  "id": 9895052976,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.3326,52.01841,23.3326,52.01841",
+    "geom:latitude":52.01841,
+    "geom:longitude":23.3326,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11704198: name \"K\u0142oda Du\u017ca\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11704198"
+        },
+        {
+            "citation":"GeoNames populated place 11704198: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11704198"
+        },
+        {
+            "citation":"GeoNames populated place 11704198: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11704198"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125365983 (Zalesie), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687309,
+        102079973,
+        102191581,
+        1125365983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11704198
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"d36bcb6b830ee4ae6bf0b585d9307c9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079973,
+            "localadmin_id":1125365983,
+            "locality_id":9895052976,
+            "region_id":85687309
+        }
+    ],
+    "wof:id":9895052976,
+    "wof:lastmodified":1795735000,
+    "wof:name":"K\u0142oda Du\u017ca",
+    "wof:parent_id":1125365983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.3326,
+    52.01841,
+    23.3326,
+    52.01841
+],
+  "geometry": {"coordinates":[23.3326,52.01841],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 9895052966,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.14615,51.68623,18.14615,51.68623",
+    "geom:latitude":51.68623,
+    "geom:longitude":18.14615,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11704169: name \"Stobno Si\u00f3dme\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11704169"
+        },
+        {
+            "citation":"GeoNames populated place 11704169: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11704169"
+        },
+        {
+            "citation":"GeoNames populated place 11704169: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11704169"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477752469 (Godziesze Wielkie), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687323,
+        102079841,
+        102191581,
+        1477752469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11704169
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"daa742f9ea95dbbc23ef1dbe9c345329",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079841,
+            "localadmin_id":1477752469,
+            "locality_id":9895052966,
+            "region_id":85687323
+        }
+    ],
+    "wof:id":9895052966,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Stobno Si\u00f3dme",
+    "wof:parent_id":1477752469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.14615,
+    51.68623,
+    18.14615,
+    51.68623
+],
+  "geometry": {"coordinates":[18.14615,51.68623],"type":"Point"}
+}

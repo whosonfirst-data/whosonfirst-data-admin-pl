@@ -1,0 +1,76 @@
+{
+  "id": 9895053128,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.04146,51.63076,16.04146,51.63076",
+    "geom:latitude":51.63076,
+    "geom:longitude":16.04146,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11978199: name \"Mod\u0142a\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11978199"
+        },
+        {
+            "citation":"GeoNames populated place 11978199: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11978199"
+        },
+        {
+            "citation":"GeoNames populated place 11978199: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11978199"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477751595 (Jerzmanowa), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687301,
+        102079769,
+        102191581,
+        1477751595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11978199
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"38e68241c87ee32cbb02db486c8bcfd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079769,
+            "localadmin_id":1477751595,
+            "locality_id":9895053128,
+            "region_id":85687301
+        }
+    ],
+    "wof:id":9895053128,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Mod\u0142a",
+    "wof:parent_id":1477751595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.04146,
+    51.63076,
+    16.04146,
+    51.63076
+],
+  "geometry": {"coordinates":[16.04146,51.63076],"type":"Point"}
+}

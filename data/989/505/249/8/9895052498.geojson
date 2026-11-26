@@ -1,0 +1,76 @@
+{
+  "id": 9895052498,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.09617,51.3807,22.09617,51.3807",
+    "geom:latitude":51.3807,
+    "geom:longitude":22.09617,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695413: name \"Nowy Po\u017c\u00f3g\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695413"
+        },
+        {
+            "citation":"GeoNames populated place 11695413: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695413"
+        },
+        {
+            "citation":"GeoNames populated place 11695413: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695413"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125383183 (Ko\u0144skowola), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687309,
+        102079833,
+        102191581,
+        1125383183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695413
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"b2c79d6c0798740b858dc30e463ef2f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079833,
+            "localadmin_id":1125383183,
+            "locality_id":9895052498,
+            "region_id":85687309
+        }
+    ],
+    "wof:id":9895052498,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Nowy Po\u017c\u00f3g",
+    "wof:parent_id":1125383183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.09617,
+    51.3807,
+    22.09617,
+    51.3807
+],
+  "geometry": {"coordinates":[22.09617,51.3807],"type":"Point"}
+}

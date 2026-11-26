@@ -1,0 +1,76 @@
+{
+  "id": 9895052501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.6878,49.77866,22.6878,49.77866",
+    "geom:latitude":49.77866,
+    "geom:longitude":22.6878,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695416: name \"Dybawka\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695416"
+        },
+        {
+            "citation":"GeoNames populated place 11695416: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695416"
+        },
+        {
+            "citation":"GeoNames populated place 11695416: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695416"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125417995 (Krasiczyn), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687295,
+        102079513,
+        102191581,
+        1125417995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695416
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"34a0f6a8c4a87067b16a0662fef9fe8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079513,
+            "localadmin_id":1125417995,
+            "locality_id":9895052501,
+            "region_id":85687295
+        }
+    ],
+    "wof:id":9895052501,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Dybawka",
+    "wof:parent_id":1125417995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.6878,
+    49.77866,
+    22.6878,
+    49.77866
+],
+  "geometry": {"coordinates":[22.6878,49.77866],"type":"Point"}
+}

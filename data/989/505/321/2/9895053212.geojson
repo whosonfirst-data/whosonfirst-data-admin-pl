@@ -1,0 +1,76 @@
+{
+  "id": 9895053212,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.44356,51.82438,16.44356,51.82438",
+    "geom:latitude":51.82438,
+    "geom:longitude":16.44356,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12175906: name \"D\u0142ugie Stary\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12175906"
+        },
+        {
+            "citation":"GeoNames populated place 12175906: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12175906"
+        },
+        {
+            "citation":"GeoNames populated place 12175906: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12175906"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125399215 (\u015awi\u0119ciechowa), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687323,
+        102079821,
+        102191581,
+        1125399215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12175906
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"e3009c0badf263c68efbdeb7a9fd0698",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079821,
+            "localadmin_id":1125399215,
+            "locality_id":9895053212,
+            "region_id":85687323
+        }
+    ],
+    "wof:id":9895053212,
+    "wof:lastmodified":1795735000,
+    "wof:name":"D\u0142ugie Stary",
+    "wof:parent_id":1125399215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.44356,
+    51.82438,
+    16.44356,
+    51.82438
+],
+  "geometry": {"coordinates":[16.44356,51.82438],"type":"Point"}
+}

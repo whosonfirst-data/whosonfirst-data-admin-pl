@@ -1,0 +1,76 @@
+{
+  "id": 9895053366,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.77678,53.63441,15.77678,53.63441",
+    "geom:latitude":53.63441,
+    "geom:longitude":15.77678,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13118908: name \"Lasocin\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13118908"
+        },
+        {
+            "citation":"GeoNames populated place 13118908: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13118908"
+        },
+        {
+            "citation":"GeoNames populated place 13118908: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13118908"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477752063 (Gmina Drawsko Pomorskie), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687271,
+        102080113,
+        102191581,
+        1477752063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13118908
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"9bb30c8699623d79dcbee0357cc25f3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080113,
+            "localadmin_id":1477752063,
+            "locality_id":9895053366,
+            "region_id":85687271
+        }
+    ],
+    "wof:id":9895053366,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Lasocin",
+    "wof:parent_id":1477752063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.77678,
+    53.63441,
+    15.77678,
+    53.63441
+],
+  "geometry": {"coordinates":[15.77678,53.63441],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 9895052283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.13313,52.14892,20.13313,52.14892",
+    "geom:latitude":52.14892,
+    "geom:longitude":20.13313,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11668615: name \"Nowy Koz\u0142\u00f3w Drugi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11668615"
+        },
+        {
+            "citation":"GeoNames populated place 11668615: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11668615"
+        },
+        {
+            "citation":"GeoNames populated place 11668615: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11668615"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477751969 (Nowa Sucha), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687257,
+        102079945,
+        102191581,
+        1477751969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11668615
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"349ed64594531a48bb2aa0affae13e2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079945,
+            "localadmin_id":1477751969,
+            "locality_id":9895052283,
+            "region_id":85687257
+        }
+    ],
+    "wof:id":9895052283,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Nowy Koz\u0142\u00f3w Drugi",
+    "wof:parent_id":1477751969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.13313,
+    52.14892,
+    20.13313,
+    52.14892
+],
+  "geometry": {"coordinates":[20.13313,52.14892],"type":"Point"}
+}

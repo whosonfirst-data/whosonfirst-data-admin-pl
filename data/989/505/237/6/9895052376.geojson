@@ -1,0 +1,76 @@
+{
+  "id": 9895052376,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.30405,51.09102,22.30405,51.09102",
+    "geom:latitude":51.09102,
+    "geom:longitude":22.30405,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11694872: name \"Borzech\u00f3w-Kolonia\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11694872"
+        },
+        {
+            "citation":"GeoNames populated place 11694872: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11694872"
+        },
+        {
+            "citation":"GeoNames populated place 11694872: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11694872"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125366295 (Borzech\u00f3w), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687309,
+        102079795,
+        102191581,
+        1125366295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11694872
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"3262e958dc6917aabc1abebe803ffcde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079795,
+            "localadmin_id":1125366295,
+            "locality_id":9895052376,
+            "region_id":85687309
+        }
+    ],
+    "wof:id":9895052376,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Borzech\u00f3w-Kolonia",
+    "wof:parent_id":1125366295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.30405,
+    51.09102,
+    22.30405,
+    51.09102
+],
+  "geometry": {"coordinates":[22.30405,51.09102],"type":"Point"}
+}

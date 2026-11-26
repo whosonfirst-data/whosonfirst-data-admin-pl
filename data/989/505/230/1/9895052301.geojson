@@ -1,0 +1,76 @@
+{
+  "id": 9895052301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.00234,52.0408,21.00234,52.0408",
+    "geom:latitude":52.0408,
+    "geom:longitude":21.00234,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11694571: name \"W\u00f3lka Kozodawska\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11694571"
+        },
+        {
+            "citation":"GeoNames populated place 11694571: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11694571"
+        },
+        {
+            "citation":"GeoNames populated place 11694571: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11694571"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125342079 (Gmina Piaseczno), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687257,
+        102079911,
+        102191581,
+        1125342079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11694571
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"456e47901fa18f9af183485a1ace35a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079911,
+            "localadmin_id":1125342079,
+            "locality_id":9895052301,
+            "region_id":85687257
+        }
+    ],
+    "wof:id":9895052301,
+    "wof:lastmodified":1795735000,
+    "wof:name":"W\u00f3lka Kozodawska",
+    "wof:parent_id":1125342079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.00234,
+    52.0408,
+    21.00234,
+    52.0408
+],
+  "geometry": {"coordinates":[21.00234,52.0408],"type":"Point"}
+}

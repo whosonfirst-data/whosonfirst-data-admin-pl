@@ -1,0 +1,76 @@
+{
+  "id": 9895053017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.19778,51.01065,15.19778,51.01065",
+    "geom:latitude":51.01065,
+    "geom:longitude":15.19778,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11746169: name \"Grabiszyce G\u00f3rne\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11746169"
+        },
+        {
+            "citation":"GeoNames populated place 11746169: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11746169"
+        },
+        {
+            "citation":"GeoNames populated place 11746169: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11746169"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125303549 (Gmina Le\u015bna), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687301,
+        102079643,
+        102191581,
+        1125303549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11746169
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"faa6081aadc6b24165d0724b76cdb997",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079643,
+            "localadmin_id":1125303549,
+            "locality_id":9895053017,
+            "region_id":85687301
+        }
+    ],
+    "wof:id":9895053017,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Grabiszyce G\u00f3rne",
+    "wof:parent_id":1125303549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.19778,
+    51.01065,
+    15.19778,
+    51.01065
+],
+  "geometry": {"coordinates":[15.19778,51.01065],"type":"Point"}
+}

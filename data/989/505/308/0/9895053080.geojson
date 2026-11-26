@@ -1,0 +1,76 @@
+{
+  "id": 9895053080,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.40972,51.52756,16.40972,51.52756",
+    "geom:latitude":51.52756,
+    "geom:longitude":16.40972,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11952479: name \"G\u00f3rki\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11952479"
+        },
+        {
+            "citation":"GeoNames populated place 11952479: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11952479"
+        },
+        {
+            "citation":"GeoNames populated place 11952479: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11952479"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477752029 (Rudna), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687301,
+        102079735,
+        102191581,
+        1477752029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11952479
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"acda917f084ef140625f403419c3f4fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079735,
+            "localadmin_id":1477752029,
+            "locality_id":9895053080,
+            "region_id":85687301
+        }
+    ],
+    "wof:id":9895053080,
+    "wof:lastmodified":1795735000,
+    "wof:name":"G\u00f3rki",
+    "wof:parent_id":1477752029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.40972,
+    51.52756,
+    16.40972,
+    51.52756
+],
+  "geometry": {"coordinates":[16.40972,51.52756],"type":"Point"}
+}

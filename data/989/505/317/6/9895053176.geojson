@@ -1,0 +1,76 @@
+{
+  "id": 9895053176,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.06358,51.54138,17.06358,51.54138",
+    "geom:latitude":51.54138,
+    "geom:longitude":17.06358,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12172920: name \"Olsza\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12172920"
+        },
+        {
+            "citation":"GeoNames populated place 12172920: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12172920"
+        },
+        {
+            "citation":"GeoNames populated place 12172920: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12172920"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125303695 (Gmina Milicz), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687301,
+        102079753,
+        102191581,
+        1125303695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12172920
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"6cffde749ec20ec5b070d94cbb48bcf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079753,
+            "localadmin_id":1125303695,
+            "locality_id":9895053176,
+            "region_id":85687301
+        }
+    ],
+    "wof:id":9895053176,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Olsza",
+    "wof:parent_id":1125303695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.06358,
+    51.54138,
+    17.06358,
+    51.54138
+],
+  "geometry": {"coordinates":[17.06358,51.54138],"type":"Point"}
+}

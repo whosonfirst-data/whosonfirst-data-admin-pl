@@ -1,0 +1,76 @@
+{
+  "id": 9895052427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.34448,52.25705,19.34448,52.25705",
+    "geom:latitude":52.25705,
+    "geom:longitude":19.34448,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695079: name \"Go\u0142\u0119biew Nowy\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695079"
+        },
+        {
+            "citation":"GeoNames populated place 11695079: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695079"
+        },
+        {
+            "citation":"GeoNames populated place 11695079: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695079"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125304941 (Gmina Kutno), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687261,
+        102079929,
+        102191581,
+        1125304941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695079
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"2c8160e5a75d7fb00a2a300344166408",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079929,
+            "localadmin_id":1125304941,
+            "locality_id":9895052427,
+            "region_id":85687261
+        }
+    ],
+    "wof:id":9895052427,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Go\u0142\u0119biew Nowy",
+    "wof:parent_id":1125304941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.34448,
+    52.25705,
+    19.34448,
+    52.25705
+],
+  "geometry": {"coordinates":[19.34448,52.25705],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 9895053643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.45524,50.63118,16.45524,50.63118",
+    "geom:latitude":50.63118,
+    "geom:longitude":16.45524,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13405858: name \"Eule\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13405858"
+        },
+        {
+            "citation":"GeoNames populated place 13405858: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13405858"
+        },
+        {
+            "citation":"GeoNames populated place 13405858: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13405858"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125304201 (Gmina Nowa Ruda), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687301,
+        102079559,
+        102191581,
+        1125304201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13405858
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"ade88e2e435c88c0b754882dc906b3d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079559,
+            "localadmin_id":1125304201,
+            "locality_id":9895053643,
+            "region_id":85687301
+        }
+    ],
+    "wof:id":9895053643,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Eule",
+    "wof:parent_id":1125304201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.45524,
+    50.63118,
+    16.45524,
+    50.63118
+],
+  "geometry": {"coordinates":[16.45524,50.63118],"type":"Point"}
+}

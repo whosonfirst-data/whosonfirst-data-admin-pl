@@ -1,0 +1,76 @@
+{
+  "id": 9895052279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.01506,50.30696,20.01506,50.30696",
+    "geom:latitude":50.30696,
+    "geom:longitude":20.01506,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 6354921: name \"So\u0142tysi Koniec\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/6354921"
+        },
+        {
+            "citation":"GeoNames populated place 6354921: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/6354921"
+        },
+        {
+            "citation":"GeoNames populated place 6354921: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/6354921"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125335603 (Gmina Miech\u00f3w), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687291,
+        102079579,
+        102191581,
+        1125335603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6354921
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"5ea910e17035fbebeb3e128f043fa883",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079579,
+            "localadmin_id":1125335603,
+            "locality_id":9895052279,
+            "region_id":85687291
+        }
+    ],
+    "wof:id":9895052279,
+    "wof:lastmodified":1795735000,
+    "wof:name":"So\u0142tysi Koniec",
+    "wof:parent_id":1125335603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.01506,
+    50.30696,
+    20.01506,
+    50.30696
+],
+  "geometry": {"coordinates":[20.01506,50.30696],"type":"Point"}
+}

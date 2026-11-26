@@ -1,0 +1,76 @@
+{
+  "id": 9895052629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.67119,52.22018,19.67119,52.22018",
+    "geom:latitude":52.22018,
+    "geom:longitude":19.67119,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695925: name \"\u015aleszynek\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695925"
+        },
+        {
+            "citation":"GeoNames populated place 11695925: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695925"
+        },
+        {
+            "citation":"GeoNames populated place 11695925: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695925"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125413287 (Gmina \u017bychlin), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687261,
+        102079929,
+        102191581,
+        1125413287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695925
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"26e5ca57dd8bc515a220fab0e82285a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079929,
+            "localadmin_id":1125413287,
+            "locality_id":9895052629,
+            "region_id":85687261
+        }
+    ],
+    "wof:id":9895052629,
+    "wof:lastmodified":1795735000,
+    "wof:name":"\u015aleszynek",
+    "wof:parent_id":1125413287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.67119,
+    52.22018,
+    19.67119,
+    52.22018
+],
+  "geometry": {"coordinates":[19.67119,52.22018],"type":"Point"}
+}

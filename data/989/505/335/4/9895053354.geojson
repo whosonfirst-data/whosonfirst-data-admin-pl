@@ -1,0 +1,76 @@
+{
+  "id": 9895053354,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.60948,53.2677,16.60948,53.2677",
+    "geom:latitude":53.2677,
+    "geom:longitude":16.60948,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13118757: name \"Wiesio\u0142ka\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13118757"
+        },
+        {
+            "citation":"GeoNames populated place 13118757: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13118757"
+        },
+        {
+            "citation":"GeoNames populated place 13118757: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13118757"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477752005 (Gmina Wa\u0142cz), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687271,
+        102080075,
+        102191581,
+        1477752005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13118757
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"1623b766ffdc5f66cc3c8fda30fd9391",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080075,
+            "localadmin_id":1477752005,
+            "locality_id":9895053354,
+            "region_id":85687271
+        }
+    ],
+    "wof:id":9895053354,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Wiesio\u0142ka",
+    "wof:parent_id":1477752005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.60948,
+    53.2677,
+    16.60948,
+    53.2677
+],
+  "geometry": {"coordinates":[16.60948,53.2677],"type":"Point"}
+}

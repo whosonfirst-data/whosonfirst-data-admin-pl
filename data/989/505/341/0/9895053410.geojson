@@ -1,0 +1,76 @@
+{
+  "id": 9895053410,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.85649,52.61565,14.85649,52.61565",
+    "geom:latitude":52.61565,
+    "geom:longitude":14.85649,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13264357: name \"Sumatra\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13264357"
+        },
+        {
+            "citation":"GeoNames populated place 13264357: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13264357"
+        },
+        {
+            "citation":"GeoNames populated place 13264357: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13264357"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125330193 (S\u0142o\u0144sk), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687327,
+        102079933,
+        102191581,
+        1125330193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13264357
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"1fca70256570f1ccb1e41eedf03b66dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079933,
+            "localadmin_id":1125330193,
+            "locality_id":9895053410,
+            "region_id":85687327
+        }
+    ],
+    "wof:id":9895053410,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Sumatra",
+    "wof:parent_id":1125330193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.85649,
+    52.61565,
+    14.85649,
+    52.61565
+],
+  "geometry": {"coordinates":[14.85649,52.61565],"type":"Point"}
+}

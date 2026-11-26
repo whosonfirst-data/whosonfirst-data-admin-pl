@@ -1,0 +1,76 @@
+{
+  "id": 9895052623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.66153,51.12125,22.66153,51.12125",
+    "geom:latitude":51.12125,
+    "geom:longitude":22.66153,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695914: name \"Skrzynice Drugie\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695914"
+        },
+        {
+            "citation":"GeoNames populated place 11695914: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695914"
+        },
+        {
+            "citation":"GeoNames populated place 11695914: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695914"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125324361 (Jab\u0142onna), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687309,
+        102079795,
+        102191581,
+        1125324361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695914
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"57afca17b28279997a869657643cf18c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079795,
+            "localadmin_id":1125324361,
+            "locality_id":9895052623,
+            "region_id":85687309
+        }
+    ],
+    "wof:id":9895052623,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Skrzynice Drugie",
+    "wof:parent_id":1125324361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.66153,
+    51.12125,
+    22.66153,
+    51.12125
+],
+  "geometry": {"coordinates":[22.66153,51.12125],"type":"Point"}
+}

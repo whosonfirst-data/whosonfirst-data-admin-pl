@@ -1,0 +1,76 @@
+{
+  "id": 9895052720,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.94448,50.17418,19.94448,50.17418",
+    "geom:latitude":50.17418,
+    "geom:longitude":19.94448,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11696179: name \"Kozier\u00f3w\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11696179"
+        },
+        {
+            "citation":"GeoNames populated place 11696179: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11696179"
+        },
+        {
+            "citation":"GeoNames populated place 11696179: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11696179"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125304327 (Micha\u0142owice), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687291,
+        102079541,
+        102191581,
+        1125304327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11696179
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"9468a3eb72ae1896f18b3b08a19a82c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079541,
+            "localadmin_id":1125304327,
+            "locality_id":9895052720,
+            "region_id":85687291
+        }
+    ],
+    "wof:id":9895052720,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Kozier\u00f3w",
+    "wof:parent_id":1125304327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.94448,
+    50.17418,
+    19.94448,
+    50.17418
+],
+  "geometry": {"coordinates":[19.94448,50.17418],"type":"Point"}
+}

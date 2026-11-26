@@ -1,0 +1,76 @@
+{
+  "id": 9895052598,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.12019,50.31757,21.12019,50.31757",
+    "geom:latitude":50.31757,
+    "geom:longitude":21.12019,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695750: name \"Wola Szczuci\u0144ska\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695750"
+        },
+        {
+            "citation":"GeoNames populated place 11695750: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695750"
+        },
+        {
+            "citation":"GeoNames populated place 11695750: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695750"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125375641 (Gmina Szczucin), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687291,
+        102079567,
+        102191581,
+        1125375641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695750
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"5cf77c505616ba43e5c9e32e2d086c39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079567,
+            "localadmin_id":1125375641,
+            "locality_id":9895052598,
+            "region_id":85687291
+        }
+    ],
+    "wof:id":9895052598,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Wola Szczuci\u0144ska",
+    "wof:parent_id":1125375641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.12019,
+    50.31757,
+    21.12019,
+    50.31757
+],
+  "geometry": {"coordinates":[21.12019,50.31757],"type":"Point"}
+}

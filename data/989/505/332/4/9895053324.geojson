@@ -1,0 +1,76 @@
+{
+  "id": 9895053324,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.60175,54.157,17.60175,54.157",
+    "geom:latitude":54.157,
+    "geom:longitude":17.60175,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12909194: name \"\u0141\u0105kie\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12909194"
+        },
+        {
+            "citation":"GeoNames populated place 12909194: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12909194"
+        },
+        {
+            "citation":"GeoNames populated place 12909194: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12909194"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125389319 (Studzienice), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687267,
+        102080217,
+        102191581,
+        1125389319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12909194
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"53574bec794705f1dae246e986e6f872",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080217,
+            "localadmin_id":1125389319,
+            "locality_id":9895053324,
+            "region_id":85687267
+        }
+    ],
+    "wof:id":9895053324,
+    "wof:lastmodified":1795735000,
+    "wof:name":"\u0141\u0105kie",
+    "wof:parent_id":1125389319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.60175,
+    54.157,
+    17.60175,
+    54.157
+],
+  "geometry": {"coordinates":[17.60175,54.157],"type":"Point"}
+}

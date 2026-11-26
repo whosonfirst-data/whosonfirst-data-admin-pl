@@ -1,0 +1,76 @@
+{
+  "id": 9895052824,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.36483,53.7153,20.36483,53.7153",
+    "geom:latitude":53.7153,
+    "geom:longitude":20.36483,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11703692: name \"Si\u0142a\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11703692"
+        },
+        {
+            "citation":"GeoNames populated place 11703692: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11703692"
+        },
+        {
+            "citation":"GeoNames populated place 11703692: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11703692"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125399461 (Gietrzwa\u0142d), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687305,
+        102080207,
+        102191581,
+        1125399461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11703692
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"bad0a5db2bcbe7780f6ed8a7d1a848b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080207,
+            "localadmin_id":1125399461,
+            "locality_id":9895052824,
+            "region_id":85687305
+        }
+    ],
+    "wof:id":9895052824,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Si\u0142a",
+    "wof:parent_id":1125399461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.36483,
+    53.7153,
+    20.36483,
+    53.7153
+],
+  "geometry": {"coordinates":[20.36483,53.7153],"type":"Point"}
+}

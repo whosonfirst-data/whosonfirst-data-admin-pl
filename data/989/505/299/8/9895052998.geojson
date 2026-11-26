@@ -1,0 +1,76 @@
+{
+  "id": 9895052998,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.00397,50.13739,18.00397,50.13739",
+    "geom:latitude":50.13739,
+    "geom:longitude":18.00397,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11704222: name \"Dziel\u00f3w\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11704222"
+        },
+        {
+            "citation":"GeoNames populated place 11704222: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11704222"
+        },
+        {
+            "citation":"GeoNames populated place 11704222: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11704222"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477752087 (Gmina Babor\u00f3w), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687313,
+        102079489,
+        102191581,
+        1477752087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11704222
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"33f1ebcdbf17c5bfba7f0f76a7ea30c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079489,
+            "localadmin_id":1477752087,
+            "locality_id":9895052998,
+            "region_id":85687313
+        }
+    ],
+    "wof:id":9895052998,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Dziel\u00f3w",
+    "wof:parent_id":1477752087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.00397,
+    50.13739,
+    18.00397,
+    50.13739
+],
+  "geometry": {"coordinates":[18.00397,50.13739],"type":"Point"}
+}

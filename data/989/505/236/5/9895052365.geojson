@@ -1,0 +1,76 @@
+{
+  "id": 9895052365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.98377,51.67112,18.98377,51.67112",
+    "geom:latitude":51.67112,
+    "geom:longitude":18.98377,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11694820: name \"Szadkowice-Ogrodzim\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11694820"
+        },
+        {
+            "citation":"GeoNames populated place 11694820: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11694820"
+        },
+        {
+            "citation":"GeoNames populated place 11694820: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11694820"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125394633 (Gmina Szadek), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687261,
+        102079803,
+        102191581,
+        1125394633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11694820
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"bd5a575b885110ec950ab73443ae7767",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079803,
+            "localadmin_id":1125394633,
+            "locality_id":9895052365,
+            "region_id":85687261
+        }
+    ],
+    "wof:id":9895052365,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Szadkowice-Ogrodzim",
+    "wof:parent_id":1125394633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.98377,
+    51.67112,
+    18.98377,
+    51.67112
+],
+  "geometry": {"coordinates":[18.98377,51.67112],"type":"Point"}
+}

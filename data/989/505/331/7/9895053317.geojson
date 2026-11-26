@@ -1,0 +1,76 @@
+{
+  "id": 9895053317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.61947,54.12905,15.61947,54.12905",
+    "geom:latitude":54.12905,
+    "geom:longitude":15.61947,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12909185: name \"Obroty\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12909185"
+        },
+        {
+            "citation":"GeoNames populated place 12909185: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12909185"
+        },
+        {
+            "citation":"GeoNames populated place 12909185: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12909185"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125328763 (Gmina Ko\u0142obrzeg), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687271,
+        102080177,
+        102191581,
+        1125328763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12909185
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"6edcd0a0eb5b8dab3b09f68318cef447",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080177,
+            "localadmin_id":1125328763,
+            "locality_id":9895053317,
+            "region_id":85687271
+        }
+    ],
+    "wof:id":9895053317,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Obroty",
+    "wof:parent_id":1125328763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.61947,
+    54.12905,
+    15.61947,
+    54.12905
+],
+  "geometry": {"coordinates":[15.61947,54.12905],"type":"Point"}
+}

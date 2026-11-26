@@ -1,0 +1,76 @@
+{
+  "id": 9895052383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.98513,51.3083,17.98513,51.3083",
+    "geom:latitude":51.3083,
+    "geom:longitude":17.98513,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11694880: name \"Hanulin\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11694880"
+        },
+        {
+            "citation":"GeoNames populated place 11694880: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11694880"
+        },
+        {
+            "citation":"GeoNames populated place 11694880: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11694880"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477752839 (Gmina K\u0119pno), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687323,
+        102079713,
+        102191581,
+        1477752839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11694880
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"8bc2096b19740b8419e36b79f40f39be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079713,
+            "localadmin_id":1477752839,
+            "locality_id":9895052383,
+            "region_id":85687323
+        }
+    ],
+    "wof:id":9895052383,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Hanulin",
+    "wof:parent_id":1477752839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.98513,
+    51.3083,
+    17.98513,
+    51.3083
+],
+  "geometry": {"coordinates":[17.98513,51.3083],"type":"Point"}
+}

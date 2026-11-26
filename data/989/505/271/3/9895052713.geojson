@@ -1,0 +1,76 @@
+{
+  "id": 9895052713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.31428,49.42284,20.31428,49.42284",
+    "geom:latitude":49.42284,
+    "geom:longitude":20.31428,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11696172: name \"Niedzica-Zamek\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11696172"
+        },
+        {
+            "citation":"GeoNames populated place 11696172: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11696172"
+        },
+        {
+            "citation":"GeoNames populated place 11696172: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11696172"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477751375 (\u0141apsze Ni\u017cne), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687291,
+        102079407,
+        102191581,
+        1477751375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11696172
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"15e23f3eee248f30b72f7ddbb7e11525",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079407,
+            "localadmin_id":1477751375,
+            "locality_id":9895052713,
+            "region_id":85687291
+        }
+    ],
+    "wof:id":9895052713,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Niedzica-Zamek",
+    "wof:parent_id":1477751375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.31428,
+    49.42284,
+    20.31428,
+    49.42284
+],
+  "geometry": {"coordinates":[20.31428,49.42284],"type":"Point"}
+}

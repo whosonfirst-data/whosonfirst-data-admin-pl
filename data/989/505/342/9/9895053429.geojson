@@ -1,0 +1,76 @@
+{
+  "id": 9895053429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.99127,52.04123,14.99127,52.04123",
+    "geom:latitude":52.04123,
+    "geom:longitude":14.99127,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13264610: name \"Sarbia\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13264610"
+        },
+        {
+            "citation":"GeoNames populated place 13264610: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13264610"
+        },
+        {
+            "citation":"GeoNames populated place 13264610: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13264610"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125300629 (Gmina Krosno Odrza\u0144skie), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687327,
+        102079843,
+        102191581,
+        1125300629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13264610
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"1d3f170eaab5f2e8b358a7474e5f7f82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079843,
+            "localadmin_id":1125300629,
+            "locality_id":9895053429,
+            "region_id":85687327
+        }
+    ],
+    "wof:id":9895053429,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Sarbia",
+    "wof:parent_id":1125300629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.99127,
+    52.04123,
+    14.99127,
+    52.04123
+],
+  "geometry": {"coordinates":[14.99127,52.04123],"type":"Point"}
+}

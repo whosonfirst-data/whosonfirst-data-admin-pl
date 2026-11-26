@@ -1,0 +1,76 @@
+{
+  "id": 9895052638,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.58961,51.43651,22.58961,51.43651",
+    "geom:latitude":51.43651,
+    "geom:longitude":22.58961,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695939: name \"Annob\u00f3r-Kolonia\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695939"
+        },
+        {
+            "citation":"GeoNames populated place 11695939: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695939"
+        },
+        {
+            "citation":"GeoNames populated place 11695939: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695939"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125303643 (Gmina Lubart\u00f3w), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687309,
+        102079855,
+        102191581,
+        1125303643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695939
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"89bc459c503ae16e2c52283627e1ecc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079855,
+            "localadmin_id":1125303643,
+            "locality_id":9895052638,
+            "region_id":85687309
+        }
+    ],
+    "wof:id":9895052638,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Annob\u00f3r-Kolonia",
+    "wof:parent_id":1125303643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.58961,
+    51.43651,
+    22.58961,
+    51.43651
+],
+  "geometry": {"coordinates":[22.58961,51.43651],"type":"Point"}
+}

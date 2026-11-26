@@ -1,0 +1,76 @@
+{
+  "id": 9895053164,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.84549,52.59968,15.84549,52.59968",
+    "geom:latitude":52.59968,
+    "geom:longitude":15.84549,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12149376: name \"Muchocin\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12149376"
+        },
+        {
+            "citation":"GeoNames populated place 12149376: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12149376"
+        },
+        {
+            "citation":"GeoNames populated place 12149376: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12149376"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477752935 (Gmina Mi\u0119dzych\u00f3d), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687323,
+        102079961,
+        102191581,
+        1477752935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12149376
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"82179d65f9de8a5e64deb98d2382255f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079961,
+            "localadmin_id":1477752935,
+            "locality_id":9895053164,
+            "region_id":85687323
+        }
+    ],
+    "wof:id":9895053164,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Muchocin",
+    "wof:parent_id":1477752935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.84549,
+    52.59968,
+    15.84549,
+    52.59968
+],
+  "geometry": {"coordinates":[15.84549,52.59968],"type":"Point"}
+}

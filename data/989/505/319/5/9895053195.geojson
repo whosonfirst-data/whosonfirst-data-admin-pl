@@ -1,0 +1,76 @@
+{
+  "id": 9895053195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.34285,53.12358,17.34285,53.12358",
+    "geom:latitude":53.12358,
+    "geom:longitude":17.34285,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12173257: name \"Ostr\u00f3wek\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12173257"
+        },
+        {
+            "citation":"GeoNames populated place 12173257: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12173257"
+        },
+        {
+            "citation":"GeoNames populated place 12173257: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12173257"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125338559 (Gmina Wyrzysk), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687323,
+        102080065,
+        102191581,
+        1125338559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12173257
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"6a504dd98bb46f38f17e1c9ac6c19cd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080065,
+            "localadmin_id":1125338559,
+            "locality_id":9895053195,
+            "region_id":85687323
+        }
+    ],
+    "wof:id":9895053195,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Ostr\u00f3wek",
+    "wof:parent_id":1125338559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.34285,
+    53.12358,
+    17.34285,
+    53.12358
+],
+  "geometry": {"coordinates":[17.34285,53.12358],"type":"Point"}
+}

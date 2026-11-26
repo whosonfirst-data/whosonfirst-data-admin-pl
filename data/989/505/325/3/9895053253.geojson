@@ -1,0 +1,76 @@
+{
+  "id": 9895053253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.70589,53.52099,15.70589,53.52099",
+    "geom:latitude":53.52099,
+    "geom:longitude":15.70589,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12451002: name \"Brze\u017anica\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12451002"
+        },
+        {
+            "citation":"GeoNames populated place 12451002: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12451002"
+        },
+        {
+            "citation":"GeoNames populated place 12451002: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12451002"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477752137 (Gmina W\u0119gorzyno), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687271,
+        102080131,
+        102191581,
+        1477752137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12451002
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"60732b759788c28a54e6b577352d1ef8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080131,
+            "localadmin_id":1477752137,
+            "locality_id":9895053253,
+            "region_id":85687271
+        }
+    ],
+    "wof:id":9895053253,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Brze\u017anica",
+    "wof:parent_id":1477752137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.70589,
+    53.52099,
+    15.70589,
+    53.52099
+],
+  "geometry": {"coordinates":[15.70589,53.52099],"type":"Point"}
+}

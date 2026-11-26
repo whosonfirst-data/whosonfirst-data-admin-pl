@@ -1,0 +1,76 @@
+{
+  "id": 9895052350,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.95719,52.03818,20.95719,52.03818",
+    "geom:latitude":52.03818,
+    "geom:longitude":20.95719,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11694781: name \"G\u0142osk\u00f3w-Letnisko\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11694781"
+        },
+        {
+            "citation":"GeoNames populated place 11694781: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11694781"
+        },
+        {
+            "citation":"GeoNames populated place 11694781: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11694781"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125342079 (Gmina Piaseczno), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687257,
+        102079911,
+        102191581,
+        1125342079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11694781
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"6051329848cf04d081a38f59b737d206",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079911,
+            "localadmin_id":1125342079,
+            "locality_id":9895052350,
+            "region_id":85687257
+        }
+    ],
+    "wof:id":9895052350,
+    "wof:lastmodified":1795735000,
+    "wof:name":"G\u0142osk\u00f3w-Letnisko",
+    "wof:parent_id":1125342079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.95719,
+    52.03818,
+    20.95719,
+    52.03818
+],
+  "geometry": {"coordinates":[20.95719,52.03818],"type":"Point"}
+}

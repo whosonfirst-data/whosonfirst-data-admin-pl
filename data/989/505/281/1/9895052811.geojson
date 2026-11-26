@@ -1,0 +1,76 @@
+{
+  "id": 9895052811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.00243,51.98948,21.00243,51.98948",
+    "geom:latitude":51.98948,
+    "geom:longitude":21.00243,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11703589: name \"Pisk\u00f3rka\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11703589"
+        },
+        {
+            "citation":"GeoNames populated place 11703589: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11703589"
+        },
+        {
+            "citation":"GeoNames populated place 11703589: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11703589"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125383677 (Pra\u017cm\u00f3w), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687257,
+        102079911,
+        102191581,
+        1125383677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11703589
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"25ad94cae21ef11d01c99ec99736be6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079911,
+            "localadmin_id":1125383677,
+            "locality_id":9895052811,
+            "region_id":85687257
+        }
+    ],
+    "wof:id":9895052811,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Pisk\u00f3rka",
+    "wof:parent_id":1125383677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.00243,
+    51.98948,
+    21.00243,
+    51.98948
+],
+  "geometry": {"coordinates":[21.00243,51.98948],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 9895052721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.93907,50.20718,19.93907,50.20718",
+    "geom:latitude":50.20718,
+    "geom:longitude":19.93907,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11696180: name \"Krasieniec Zakupny\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11696180"
+        },
+        {
+            "citation":"GeoNames populated place 11696180: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11696180"
+        },
+        {
+            "citation":"GeoNames populated place 11696180: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11696180"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477752765 (Iwanowice), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687291,
+        102079541,
+        102191581,
+        1477752765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11696180
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"af9d91fde128dea0debce1da89e0dee7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079541,
+            "localadmin_id":1477752765,
+            "locality_id":9895052721,
+            "region_id":85687291
+        }
+    ],
+    "wof:id":9895052721,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Krasieniec Zakupny",
+    "wof:parent_id":1477752765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.93907,
+    50.20718,
+    19.93907,
+    50.20718
+],
+  "geometry": {"coordinates":[19.93907,50.20718],"type":"Point"}
+}

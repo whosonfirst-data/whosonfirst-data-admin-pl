@@ -1,0 +1,76 @@
+{
+  "id": 9895052543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.62726,51.79819,20.62726,51.79819",
+    "geom:latitude":51.79819,
+    "geom:longitude":20.62726,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695492: name \"Wilk\u00f3w Drugi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695492"
+        },
+        {
+            "citation":"GeoNames populated place 11695492: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695492"
+        },
+        {
+            "citation":"GeoNames populated place 11695492: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695492"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477751387 (B\u0142\u0119d\u00f3w), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687257,
+        102079877,
+        102191581,
+        1477751387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695492
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"00ece180a0914a389aae5b361236d234",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079877,
+            "localadmin_id":1477751387,
+            "locality_id":9895052543,
+            "region_id":85687257
+        }
+    ],
+    "wof:id":9895052543,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Wilk\u00f3w Drugi",
+    "wof:parent_id":1477751387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.62726,
+    51.79819,
+    20.62726,
+    51.79819
+],
+  "geometry": {"coordinates":[20.62726,51.79819],"type":"Point"}
+}

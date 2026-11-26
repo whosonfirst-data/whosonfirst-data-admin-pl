@@ -1,0 +1,76 @@
+{
+  "id": 9895053510,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.82261,51.77595,15.82261,51.77595",
+    "geom:latitude":51.77595,
+    "geom:longitude":15.82261,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13308592: name \"Reinberg\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13308592"
+        },
+        {
+            "citation":"GeoNames populated place 13308592: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13308592"
+        },
+        {
+            "citation":"GeoNames populated place 13308592: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13308592"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125324259 (Siedlisko), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687327,
+        102079825,
+        102191581,
+        1125324259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13308592
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"1e4f6d68b54e06e765938d867a743335",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079825,
+            "localadmin_id":1125324259,
+            "locality_id":9895053510,
+            "region_id":85687327
+        }
+    ],
+    "wof:id":9895053510,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Reinberg",
+    "wof:parent_id":1125324259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.82261,
+    51.77595,
+    15.82261,
+    51.77595
+],
+  "geometry": {"coordinates":[15.82261,51.77595],"type":"Point"}
+}

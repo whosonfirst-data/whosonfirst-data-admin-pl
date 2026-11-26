@@ -1,0 +1,76 @@
+{
+  "id": 9895052372,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.39077,52.20874,21.39077,52.20874",
+    "geom:latitude":52.20874,
+    "geom:longitude":21.39077,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11694868: name \"Wielgolas Brzezi\u0144ski\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11694868"
+        },
+        {
+            "citation":"GeoNames populated place 11694868: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11694868"
+        },
+        {
+            "citation":"GeoNames populated place 11694868: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11694868"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125290731 (Gmina Halin\u00f3w), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687257,
+        102079965,
+        102191581,
+        1125290731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11694868
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"10803ceb3050ce3722b3865203940d5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079965,
+            "localadmin_id":1125290731,
+            "locality_id":9895052372,
+            "region_id":85687257
+        }
+    ],
+    "wof:id":9895052372,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Wielgolas Brzezi\u0144ski",
+    "wof:parent_id":1125290731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.39077,
+    52.20874,
+    21.39077,
+    52.20874
+],
+  "geometry": {"coordinates":[21.39077,52.20874],"type":"Point"}
+}

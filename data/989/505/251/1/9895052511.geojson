@@ -1,0 +1,76 @@
+{
+  "id": 9895052511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.30252,53.18318,20.30252,53.18318",
+    "geom:latitude":53.18318,
+    "geom:longitude":20.30252,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695446: name \"I\u0142owo-Wie\u015b\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695446"
+        },
+        {
+            "citation":"GeoNames populated place 11695446: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695446"
+        },
+        {
+            "citation":"GeoNames populated place 11695446: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695446"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125409201 (I\u0142owo-Osada), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687305,
+        102080111,
+        102191581,
+        1125409201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695446
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"e50a8db7d30bef3e2c871628ccef9d66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080111,
+            "localadmin_id":1125409201,
+            "locality_id":9895052511,
+            "region_id":85687305
+        }
+    ],
+    "wof:id":9895052511,
+    "wof:lastmodified":1795735000,
+    "wof:name":"I\u0142owo-Wie\u015b",
+    "wof:parent_id":1125409201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.30252,
+    53.18318,
+    20.30252,
+    53.18318
+],
+  "geometry": {"coordinates":[20.30252,53.18318],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 9895052671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.19798,51.37392,20.19798,51.37392",
+    "geom:latitude":51.37392,
+    "geom:longitude":20.19798,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11696065: name \"Gr\u0105\u017cowice\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11696065"
+        },
+        {
+            "citation":"GeoNames populated place 11696065: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11696065"
+        },
+        {
+            "citation":"GeoNames populated place 11696065: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11696065"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125324163 (S\u0142awno), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687261,
+        102079785,
+        102191581,
+        1125324163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11696065
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"02b274f616a92dc5f27cd39363fd3fba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079785,
+            "localadmin_id":1125324163,
+            "locality_id":9895052671,
+            "region_id":85687261
+        }
+    ],
+    "wof:id":9895052671,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Gr\u0105\u017cowice",
+    "wof:parent_id":1125324163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.19798,
+    51.37392,
+    20.19798,
+    51.37392
+],
+  "geometry": {"coordinates":[20.19798,51.37392],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 9895052446,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.0349,51.05947,23.0349,51.05947",
+    "geom:latitude":51.05947,
+    "geom:longitude":23.0349,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695100: name \"\u0141opiennik Dolny-Kolonia\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695100"
+        },
+        {
+            "citation":"GeoNames populated place 11695100: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695100"
+        },
+        {
+            "citation":"GeoNames populated place 11695100: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695100"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125289083 (\u0141opiennik G\u00f3rny), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687309,
+        102079745,
+        102191581,
+        1125289083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695100
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"ddbbb60105333c1cc4d3a84b19c49068",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079745,
+            "localadmin_id":1125289083,
+            "locality_id":9895052446,
+            "region_id":85687309
+        }
+    ],
+    "wof:id":9895052446,
+    "wof:lastmodified":1795735000,
+    "wof:name":"\u0141opiennik Dolny-Kolonia",
+    "wof:parent_id":1125289083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.0349,
+    51.05947,
+    23.0349,
+    51.05947
+],
+  "geometry": {"coordinates":[23.0349,51.05947],"type":"Point"}
+}

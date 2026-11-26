@@ -1,0 +1,76 @@
+{
+  "id": 9895052981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.27862,51.83321,20.27862,51.83321",
+    "geom:latitude":51.83321,
+    "geom:longitude":20.27862,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11704203: name \"Nowy Kurzeszyn\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11704203"
+        },
+        {
+            "citation":"GeoNames populated place 11704203: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11704203"
+        },
+        {
+            "citation":"GeoNames populated place 11704203: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11704203"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477751835 (Gmina Rawa Mazowiecka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687261,
+        102079849,
+        102191581,
+        1477751835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11704203
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"2aa2a8829a507e81c5d46ae1e000acdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079849,
+            "localadmin_id":1477751835,
+            "locality_id":9895052981,
+            "region_id":85687261
+        }
+    ],
+    "wof:id":9895052981,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Nowy Kurzeszyn",
+    "wof:parent_id":1477751835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.27862,
+    51.83321,
+    20.27862,
+    51.83321
+],
+  "geometry": {"coordinates":[20.27862,51.83321],"type":"Point"}
+}

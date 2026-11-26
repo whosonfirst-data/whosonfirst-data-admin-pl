@@ -1,0 +1,76 @@
+{
+  "id": 9895052437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.17156,51.76327,18.17156,51.76327",
+    "geom:latitude":51.76327,
+    "geom:longitude":18.17156,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695089: name \"T\u0142okinia Ko\u015bcielna\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695089"
+        },
+        {
+            "citation":"GeoNames populated place 11695089: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695089"
+        },
+        {
+            "citation":"GeoNames populated place 11695089: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695089"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125411293 (Gmina Opat\u00f3wek), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687323,
+        102079841,
+        102191581,
+        1125411293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695089
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"177cf63b2d37d1f7f24228b2eaf95314",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079841,
+            "localadmin_id":1125411293,
+            "locality_id":9895052437,
+            "region_id":85687323
+        }
+    ],
+    "wof:id":9895052437,
+    "wof:lastmodified":1795735000,
+    "wof:name":"T\u0142okinia Ko\u015bcielna",
+    "wof:parent_id":1125411293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.17156,
+    51.76327,
+    18.17156,
+    51.76327
+],
+  "geometry": {"coordinates":[18.17156,51.76327],"type":"Point"}
+}

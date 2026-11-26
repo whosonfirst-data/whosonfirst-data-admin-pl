@@ -1,0 +1,76 @@
+{
+  "id": 9895052555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.90319,51.52231,19.90319,51.52231",
+    "geom:latitude":51.52231,
+    "geom:longitude":19.90319,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695698: name \"Godaszewice\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695698"
+        },
+        {
+            "citation":"GeoNames populated place 11695698: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695698"
+        },
+        {
+            "citation":"GeoNames populated place 11695698: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695698"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125387681 (Gmina Tomasz\u00f3w Mazowiecki), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687261,
+        102079831,
+        102191581,
+        1125387681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695698
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"12543dbfd35bb775f4d9d2a82b0e3a2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079831,
+            "localadmin_id":1125387681,
+            "locality_id":9895052555,
+            "region_id":85687261
+        }
+    ],
+    "wof:id":9895052555,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Godaszewice",
+    "wof:parent_id":1125387681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.90319,
+    51.52231,
+    19.90319,
+    51.52231
+],
+  "geometry": {"coordinates":[19.90319,51.52231],"type":"Point"}
+}

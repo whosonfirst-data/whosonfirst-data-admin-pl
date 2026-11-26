@@ -1,0 +1,76 @@
+{
+  "id": 9895052387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.91689,51.07597,16.91689,51.07597",
+    "geom:latitude":51.07597,
+    "geom:longitude":16.91689,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11694890: name \"Mokronos G\u00f3rny\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11694890"
+        },
+        {
+            "citation":"GeoNames populated place 11694890: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11694890"
+        },
+        {
+            "citation":"GeoNames populated place 11694890: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11694890"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125372921 (Gmina K\u0105ty Wroc\u0142awskie), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687301,
+        102079685,
+        102191581,
+        1125372921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11694890
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"0da2a31479181da29611041a555e6ca3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079685,
+            "localadmin_id":1125372921,
+            "locality_id":9895052387,
+            "region_id":85687301
+        }
+    ],
+    "wof:id":9895052387,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Mokronos G\u00f3rny",
+    "wof:parent_id":1125372921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.91689,
+    51.07597,
+    16.91689,
+    51.07597
+],
+  "geometry": {"coordinates":[16.91689,51.07597],"type":"Point"}
+}

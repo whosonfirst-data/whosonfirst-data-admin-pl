@@ -1,0 +1,76 @@
+{
+  "id": 9895053664,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.46138,50.84627,17.46138,50.84627",
+    "geom:latitude":50.84627,
+    "geom:longitude":17.46138,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13448325: name \"Brzeska Wie\u015b\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13448325"
+        },
+        {
+            "citation":"GeoNames populated place 13448325: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13448325"
+        },
+        {
+            "citation":"GeoNames populated place 13448325: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13448325"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125304953 (Brzeg), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687313,
+        102079631,
+        102191581,
+        1125304953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13448325
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"0df71f037013a822b4f20e2c5c8969ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079631,
+            "localadmin_id":1125304953,
+            "locality_id":9895053664,
+            "region_id":85687313
+        }
+    ],
+    "wof:id":9895053664,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Brzeska Wie\u015b",
+    "wof:parent_id":1125304953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.46138,
+    50.84627,
+    17.46138,
+    50.84627
+],
+  "geometry": {"coordinates":[17.46138,50.84627],"type":"Point"}
+}

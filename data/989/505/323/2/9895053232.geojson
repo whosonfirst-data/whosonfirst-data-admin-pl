@@ -1,0 +1,76 @@
+{
+  "id": 9895053232,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.58732,52.91893,17.58732,52.91893",
+    "geom:latitude":52.91893,
+    "geom:longitude":17.58732,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12266968: name \"G\u00f3rki D\u0105bskie\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12266968"
+        },
+        {
+            "citation":"GeoNames populated place 12266968: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12266968"
+        },
+        {
+            "citation":"GeoNames populated place 12266968: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12266968"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125282625 (Gmina Kcynia), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687319,
+        102080053,
+        102191581,
+        1125282625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12266968
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"3b18cf8435a8466e84315126d2010a48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080053,
+            "localadmin_id":1125282625,
+            "locality_id":9895053232,
+            "region_id":85687319
+        }
+    ],
+    "wof:id":9895053232,
+    "wof:lastmodified":1795735000,
+    "wof:name":"G\u00f3rki D\u0105bskie",
+    "wof:parent_id":1125282625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.58732,
+    52.91893,
+    17.58732,
+    52.91893
+],
+  "geometry": {"coordinates":[17.58732,52.91893],"type":"Point"}
+}

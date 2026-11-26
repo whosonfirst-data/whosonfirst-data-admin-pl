@@ -1,0 +1,76 @@
+{
+  "id": 9895052541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.73446,49.53991,20.73446,49.53991",
+    "geom:latitude":49.53991,
+    "geom:longitude":20.73446,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695480: name \"B\u0105cza-Kunina\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695480"
+        },
+        {
+            "citation":"GeoNames populated place 11695480: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695480"
+        },
+        {
+            "citation":"GeoNames populated place 11695480: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695480"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477752379 (Nawojowa), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687291,
+        102079425,
+        102191581,
+        1477752379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695480
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"c5bf142f905b803cd01f17b9f326569b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079425,
+            "localadmin_id":1477752379,
+            "locality_id":9895052541,
+            "region_id":85687291
+        }
+    ],
+    "wof:id":9895052541,
+    "wof:lastmodified":1795735000,
+    "wof:name":"B\u0105cza-Kunina",
+    "wof:parent_id":1477752379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.73446,
+    49.53991,
+    20.73446,
+    49.53991
+],
+  "geometry": {"coordinates":[20.73446,49.53991],"type":"Point"}
+}

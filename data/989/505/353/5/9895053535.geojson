@@ -1,0 +1,76 @@
+{
+  "id": 9895053535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.61285,51.2411,16.61285,51.2411",
+    "geom:latitude":51.2411,
+    "geom:longitude":16.61285,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13308902: name \"Zakrz\u00f3w\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13308902"
+        },
+        {
+            "citation":"GeoNames populated place 13308902: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13308902"
+        },
+        {
+            "citation":"GeoNames populated place 13308902: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13308902"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125396931 (Gmina \u015aroda \u015al\u0105ska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687301,
+        102079675,
+        102191581,
+        1125396931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13308902
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"c2a4dd7cf74b233304e8b0ce90207228",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079675,
+            "localadmin_id":1125396931,
+            "locality_id":9895053535,
+            "region_id":85687301
+        }
+    ],
+    "wof:id":9895053535,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Zakrz\u00f3w",
+    "wof:parent_id":1125396931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.61285,
+    51.2411,
+    16.61285,
+    51.2411
+],
+  "geometry": {"coordinates":[16.61285,51.2411],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 9895053520,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.00463,51.979,16.00463,51.979",
+    "geom:latitude":51.979,
+    "geom:longitude":16.00463,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13308700: name \"S\u0142awocin\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13308700"
+        },
+        {
+            "citation":"GeoNames populated place 13308700: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13308700"
+        },
+        {
+            "citation":"GeoNames populated place 13308700: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13308700"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125370309 (Kolsko), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687327,
+        102079825,
+        102191581,
+        1125370309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13308700
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"5830f2f725a10cd60455b52d50532afb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079825,
+            "localadmin_id":1125370309,
+            "locality_id":9895053520,
+            "region_id":85687327
+        }
+    ],
+    "wof:id":9895053520,
+    "wof:lastmodified":1795735000,
+    "wof:name":"S\u0142awocin",
+    "wof:parent_id":1125370309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.00463,
+    51.979,
+    16.00463,
+    51.979
+],
+  "geometry": {"coordinates":[16.00463,51.979],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 9895052974,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.54641,52.39291,20.54641,52.39291",
+    "geom:latitude":52.39291,
+    "geom:longitude":20.54641,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11704196: name \"Wincent\u00f3wek\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11704196"
+        },
+        {
+            "citation":"GeoNames populated place 11704196: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11704196"
+        },
+        {
+            "citation":"GeoNames populated place 11704196: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11704196"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477752443 (Leoncin), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687257,
+        102080001,
+        102191581,
+        1477752443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11704196
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"2eb2e3b71ef8272693ab675df03645e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080001,
+            "localadmin_id":1477752443,
+            "locality_id":9895052974,
+            "region_id":85687257
+        }
+    ],
+    "wof:id":9895052974,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Wincent\u00f3wek",
+    "wof:parent_id":1477752443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.54641,
+    52.39291,
+    20.54641,
+    52.39291
+],
+  "geometry": {"coordinates":[20.54641,52.39291],"type":"Point"}
+}

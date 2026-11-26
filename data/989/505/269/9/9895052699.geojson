@@ -1,0 +1,76 @@
+{
+  "id": 9895052699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.46704,51.36851,22.46704,51.36851",
+    "geom:latitude":51.36851,
+    "geom:longitude":22.46704,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11696158: name \"Krasienin-Kolonia\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11696158"
+        },
+        {
+            "citation":"GeoNames populated place 11696158: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11696158"
+        },
+        {
+            "citation":"GeoNames populated place 11696158: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11696158"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125365407 (Niemce), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687309,
+        102079795,
+        102191581,
+        1125365407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11696158
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"610ad5246b0f41d332ebaca0ea9815b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079795,
+            "localadmin_id":1125365407,
+            "locality_id":9895052699,
+            "region_id":85687309
+        }
+    ],
+    "wof:id":9895052699,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Krasienin-Kolonia",
+    "wof:parent_id":1125365407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.46704,
+    51.36851,
+    22.46704,
+    51.36851
+],
+  "geometry": {"coordinates":[22.46704,51.36851],"type":"Point"}
+}

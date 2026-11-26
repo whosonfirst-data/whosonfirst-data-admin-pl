@@ -1,0 +1,76 @@
+{
+  "id": 9895052597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.22448,51.06497,22.22448,51.06497",
+    "geom:latitude":51.06497,
+    "geom:longitude":22.22448,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695749: name \"K\u0119pa-Kolonia\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695749"
+        },
+        {
+            "citation":"GeoNames populated place 11695749: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695749"
+        },
+        {
+            "citation":"GeoNames populated place 11695749: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695749"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125366295 (Borzech\u00f3w), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687309,
+        102079795,
+        102191581,
+        1125366295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695749
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"f346bce1147af7af4fcb5aa1513e944e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079795,
+            "localadmin_id":1125366295,
+            "locality_id":9895052597,
+            "region_id":85687309
+        }
+    ],
+    "wof:id":9895052597,
+    "wof:lastmodified":1795735000,
+    "wof:name":"K\u0119pa-Kolonia",
+    "wof:parent_id":1125366295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.22448,
+    51.06497,
+    22.22448,
+    51.06497
+],
+  "geometry": {"coordinates":[22.22448,51.06497],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 9895052489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.04657,50.75226,23.04657,50.75226",
+    "geom:latitude":50.75226,
+    "geom:longitude":23.04657,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695404: name \"Deszkowice Drugie\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695404"
+        },
+        {
+            "citation":"GeoNames populated place 11695404: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695404"
+        },
+        {
+            "citation":"GeoNames populated place 11695404: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695404"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125366869 (Su\u0142\u00f3w), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687309,
+        102079715,
+        102191581,
+        1125366869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695404
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"ce31c46b603e72efc6d093bb1a4a8aea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079715,
+            "localadmin_id":1125366869,
+            "locality_id":9895052489,
+            "region_id":85687309
+        }
+    ],
+    "wof:id":9895052489,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Deszkowice Drugie",
+    "wof:parent_id":1125366869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.04657,
+    50.75226,
+    23.04657,
+    50.75226
+],
+  "geometry": {"coordinates":[23.04657,50.75226],"type":"Point"}
+}

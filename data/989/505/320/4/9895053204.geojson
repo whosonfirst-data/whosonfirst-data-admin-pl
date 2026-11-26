@@ -1,0 +1,76 @@
+{
+  "id": 9895053204,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.76063,52.32888,17.76063,52.32888",
+    "geom:latitude":52.32888,
+    "geom:longitude":17.76063,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12175847: name \"Staw\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12175847"
+        },
+        {
+            "citation":"GeoNames populated place 12175847: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12175847"
+        },
+        {
+            "citation":"GeoNames populated place 12175847: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12175847"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125306275 (Strza\u0142kowo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687323,
+        102079941,
+        102191581,
+        1125306275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12175847
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"8e0f10b12eae121f780bea95d36c9cea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079941,
+            "localadmin_id":1125306275,
+            "locality_id":9895053204,
+            "region_id":85687323
+        }
+    ],
+    "wof:id":9895053204,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Staw",
+    "wof:parent_id":1125306275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.76063,
+    52.32888,
+    17.76063,
+    52.32888
+],
+  "geometry": {"coordinates":[17.76063,52.32888],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 9895053344,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.05539,53.15892,19.05539,53.15892",
+    "geom:latitude":53.15892,
+    "geom:longitude":19.05539,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13118730: name \"Galczewo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13118730"
+        },
+        {
+            "citation":"GeoNames populated place 13118730: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13118730"
+        },
+        {
+            "citation":"GeoNames populated place 13118730: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13118730"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477751993 (Gmina Golub-Dobrzy\u0144), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687319,
+        102080067,
+        102191581,
+        1477751993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13118730
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"8cb8c2932f5dd2026c415db2033f6f6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080067,
+            "localadmin_id":1477751993,
+            "locality_id":9895053344,
+            "region_id":85687319
+        }
+    ],
+    "wof:id":9895053344,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Galczewo",
+    "wof:parent_id":1477751993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.05539,
+    53.15892,
+    19.05539,
+    53.15892
+],
+  "geometry": {"coordinates":[19.05539,53.15892],"type":"Point"}
+}

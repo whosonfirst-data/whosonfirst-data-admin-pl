@@ -1,0 +1,76 @@
+{
+  "id": 9895052846,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.14199,49.63996,21.14199,49.63996",
+    "geom:latitude":49.63996,
+    "geom:longitude":21.14199,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11703885: name \"Ropica Polska\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11703885"
+        },
+        {
+            "citation":"GeoNames populated place 11703885: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11703885"
+        },
+        {
+            "citation":"GeoNames populated place 11703885: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11703885"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477752637 (Gmina Gorlice), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687291,
+        102079429,
+        102191581,
+        1477752637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11703885
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"a5dfc0193cc61dd20c47f47c8fcd3d86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079429,
+            "localadmin_id":1477752637,
+            "locality_id":9895052846,
+            "region_id":85687291
+        }
+    ],
+    "wof:id":9895052846,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Ropica Polska",
+    "wof:parent_id":1477752637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.14199,
+    49.63996,
+    21.14199,
+    49.63996
+],
+  "geometry": {"coordinates":[21.14199,49.63996],"type":"Point"}
+}

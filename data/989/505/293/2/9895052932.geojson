@@ -1,0 +1,76 @@
+{
+  "id": 9895052932,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.88262,51.6381,18.88262,51.6381",
+    "geom:latitude":51.6381,
+    "geom:longitude":18.88262,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11704135: name \"Annopole Nowe\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11704135"
+        },
+        {
+            "citation":"GeoNames populated place 11704135: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11704135"
+        },
+        {
+            "citation":"GeoNames populated place 11704135: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11704135"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477751837 (Gmina Zdu\u0144ska Wola), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687261,
+        102079803,
+        102191581,
+        1477751837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11704135
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"09ed5ae08ee69a515480621e3fdde58c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079803,
+            "localadmin_id":1477751837,
+            "locality_id":9895052932,
+            "region_id":85687261
+        }
+    ],
+    "wof:id":9895052932,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Annopole Nowe",
+    "wof:parent_id":1477751837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.88262,
+    51.6381,
+    18.88262,
+    51.6381
+],
+  "geometry": {"coordinates":[18.88262,51.6381],"type":"Point"}
+}

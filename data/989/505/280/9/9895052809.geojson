@@ -1,0 +1,76 @@
+{
+  "id": 9895052809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.35692,50.32393,22.35692,50.32393",
+    "geom:latitude":50.32393,
+    "geom:longitude":22.35692,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11703587: name \"Ruda \u0141a\u0144cucka\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11703587"
+        },
+        {
+            "citation":"GeoNames populated place 11703587: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11703587"
+        },
+        {
+            "citation":"GeoNames populated place 11703587: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11703587"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125290797 (Gmina Nowa Sarzyna), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687295,
+        102079599,
+        102191581,
+        1125290797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11703587
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"834d3438fd4feb4893a83031991ec3f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079599,
+            "localadmin_id":1125290797,
+            "locality_id":9895052809,
+            "region_id":85687295
+        }
+    ],
+    "wof:id":9895052809,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Ruda \u0141a\u0144cucka",
+    "wof:parent_id":1125290797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.35692,
+    50.32393,
+    22.35692,
+    50.32393
+],
+  "geometry": {"coordinates":[22.35692,50.32393],"type":"Point"}
+}

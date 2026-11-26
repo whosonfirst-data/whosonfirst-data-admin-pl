@@ -1,0 +1,76 @@
+{
+  "id": 9895052967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.43989,52.62525,20.43989,52.62525",
+    "geom:latitude":52.62525,
+    "geom:longitude":20.43989,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11704170: name \"Strach\u00f3wko\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11704170"
+        },
+        {
+            "citation":"GeoNames populated place 11704170: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11704170"
+        },
+        {
+            "citation":"GeoNames populated place 11704170: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11704170"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477752681 (Gmina P\u0142o\u0144sk), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687257,
+        102080031,
+        102191581,
+        1477752681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11704170
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"3f364ea3f4a9ea5a7c88f39eced1a541",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080031,
+            "localadmin_id":1477752681,
+            "locality_id":9895052967,
+            "region_id":85687257
+        }
+    ],
+    "wof:id":9895052967,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Strach\u00f3wko",
+    "wof:parent_id":1477752681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.43989,
+    52.62525,
+    20.43989,
+    52.62525
+],
+  "geometry": {"coordinates":[20.43989,52.62525],"type":"Point"}
+}

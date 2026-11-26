@@ -1,0 +1,76 @@
+{
+  "id": 9895052886,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.14971,50.13824,21.14971,50.13824",
+    "geom:latitude":50.13824,
+    "geom:longitude":21.14971,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11703962: name \"Pniaki\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11703962"
+        },
+        {
+            "citation":"GeoNames populated place 11703962: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11703962"
+        },
+        {
+            "citation":"GeoNames populated place 11703962: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11703962"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125414191 (Lisia G\u00f3ra), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687291,
+        102079535,
+        102191581,
+        1125414191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11703962
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"6e6dc7271d910f9bc8d5f5429ac581c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079535,
+            "localadmin_id":1125414191,
+            "locality_id":9895052886,
+            "region_id":85687291
+        }
+    ],
+    "wof:id":9895052886,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Pniaki",
+    "wof:parent_id":1125414191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.14971,
+    50.13824,
+    21.14971,
+    50.13824
+],
+  "geometry": {"coordinates":[21.14971,50.13824],"type":"Point"}
+}

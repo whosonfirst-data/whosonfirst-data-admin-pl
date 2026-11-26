@@ -1,0 +1,76 @@
+{
+  "id": 9895052659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.3859,52.20324,20.3859,52.20324",
+    "geom:latitude":52.20324,
+    "geom:longitude":20.3859,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11696053: name \"Teresin-Gaj\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11696053"
+        },
+        {
+            "citation":"GeoNames populated place 11696053: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11696053"
+        },
+        {
+            "citation":"GeoNames populated place 11696053: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11696053"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477751749 (Teresin), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687257,
+        102079945,
+        102191581,
+        1477751749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11696053
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"5de9e98d3ce81efcf9fbbc82284e3b60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079945,
+            "localadmin_id":1477751749,
+            "locality_id":9895052659,
+            "region_id":85687257
+        }
+    ],
+    "wof:id":9895052659,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Teresin-Gaj",
+    "wof:parent_id":1477751749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.3859,
+    52.20324,
+    20.3859,
+    52.20324
+],
+  "geometry": {"coordinates":[20.3859,52.20324],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 9895053420,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.08651,52.60895,15.08651,52.60895",
+    "geom:latitude":52.60895,
+    "geom:longitude":15.08651,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13264383: name \"Krzem\u00f3w\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13264383"
+        },
+        {
+            "citation":"GeoNames populated place 13264383: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13264383"
+        },
+        {
+            "citation":"GeoNames populated place 13264383: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13264383"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125376583 (Krzeszyce), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687327,
+        102079933,
+        102191581,
+        1125376583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13264383
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"13e2d931b168baf5d41a8e88a5fa1e19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079933,
+            "localadmin_id":1125376583,
+            "locality_id":9895053420,
+            "region_id":85687327
+        }
+    ],
+    "wof:id":9895053420,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Krzem\u00f3w",
+    "wof:parent_id":1125376583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.08651,
+    52.60895,
+    15.08651,
+    52.60895
+],
+  "geometry": {"coordinates":[15.08651,52.60895],"type":"Point"}
+}

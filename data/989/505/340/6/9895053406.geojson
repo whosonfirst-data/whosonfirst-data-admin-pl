@@ -1,0 +1,76 @@
+{
+  "id": 9895053406,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.51607,53.72124,19.51607,53.72124",
+    "geom:latitude":53.72124,
+    "geom:longitude":19.51607,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13237120: name \"Solniki\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13237120"
+        },
+        {
+            "citation":"GeoNames populated place 13237120: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13237120"
+        },
+        {
+            "citation":"GeoNames populated place 13237120: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13237120"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125342071 (I\u0142awa), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687305,
+        102080171,
+        102191581,
+        1125342071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13237120
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"c6daa5bd4baf8d68bdcffa6bffef3683",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080171,
+            "localadmin_id":1125342071,
+            "locality_id":9895053406,
+            "region_id":85687305
+        }
+    ],
+    "wof:id":9895053406,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Solniki",
+    "wof:parent_id":1125342071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.51607,
+    53.72124,
+    19.51607,
+    53.72124
+],
+  "geometry": {"coordinates":[19.51607,53.72124],"type":"Point"}
+}

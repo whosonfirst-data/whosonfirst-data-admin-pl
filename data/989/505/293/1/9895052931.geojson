@@ -1,0 +1,76 @@
+{
+  "id": 9895052931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.21803,52.97449,21.21803,52.97449",
+    "geom:latitude":52.97449,
+    "geom:longitude":21.21803,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11704134: name \"G\u0105sewo Poduchowne\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11704134"
+        },
+        {
+            "citation":"GeoNames populated place 11704134: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11704134"
+        },
+        {
+            "citation":"GeoNames populated place 11704134: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11704134"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125306201 (Sypniewo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687257,
+        102080077,
+        102191581,
+        1125306201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11704134
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"7260bea2eff6aa412d411e35214e5140",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080077,
+            "localadmin_id":1125306201,
+            "locality_id":9895052931,
+            "region_id":85687257
+        }
+    ],
+    "wof:id":9895052931,
+    "wof:lastmodified":1795735000,
+    "wof:name":"G\u0105sewo Poduchowne",
+    "wof:parent_id":1125306201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.21803,
+    52.97449,
+    21.21803,
+    52.97449
+],
+  "geometry": {"coordinates":[21.21803,52.97449],"type":"Point"}
+}

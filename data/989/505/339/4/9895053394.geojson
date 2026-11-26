@@ -1,0 +1,77 @@
+{
+  "id": 9895053394,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.3319,50.2431,23.3319,50.2431",
+    "geom:latitude":50.2431,
+    "geom:longitude":23.3319,
+    "gn:population":93,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13237023: name \"Polanka Horyniecka\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13237023"
+        },
+        {
+            "citation":"GeoNames populated place 13237023: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13237023"
+        },
+        {
+            "citation":"GeoNames populated place 13237023: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13237023"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125332683 (Horyniec-Zdr\u00f3j), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687295,
+        102079623,
+        102191581,
+        1125332683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13237023
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"8c0d0df08d539b10a3d68266935b3375",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079623,
+            "localadmin_id":1125332683,
+            "locality_id":9895053394,
+            "region_id":85687295
+        }
+    ],
+    "wof:id":9895053394,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Polanka Horyniecka",
+    "wof:parent_id":1125332683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.3319,
+    50.2431,
+    23.3319,
+    50.2431
+],
+  "geometry": {"coordinates":[23.3319,50.2431],"type":"Point"}
+}

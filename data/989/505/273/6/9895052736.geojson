@@ -1,0 +1,76 @@
+{
+  "id": 9895052736,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.64758,51.02126,18.64758,51.02126",
+    "geom:latitude":51.02126,
+    "geom:longitude":18.64758,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11696383: name \"Jaworzno Bankowe\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11696383"
+        },
+        {
+            "citation":"GeoNames populated place 11696383: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11696383"
+        },
+        {
+            "citation":"GeoNames populated place 11696383: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11696383"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477751399 (Rudniki), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687313,
+        102079671,
+        102191581,
+        1477751399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11696383
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"45636668d8317b84900d96cd543d600a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079671,
+            "localadmin_id":1477751399,
+            "locality_id":9895052736,
+            "region_id":85687313
+        }
+    ],
+    "wof:id":9895052736,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Jaworzno Bankowe",
+    "wof:parent_id":1477751399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.64758,
+    51.02126,
+    18.64758,
+    51.02126
+],
+  "geometry": {"coordinates":[18.64758,51.02126],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 9895052986,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.94368,51.52477,17.94368,51.52477",
+    "geom:latitude":51.52477,
+    "geom:longitude":17.94368,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11704208: name \"Mikstat-Pustkowie\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11704208"
+        },
+        {
+            "citation":"GeoNames populated place 11704208: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11704208"
+        },
+        {
+            "citation":"GeoNames populated place 11704208: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11704208"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477752807 (Gmina Mikstat), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687323,
+        102079747,
+        102191581,
+        1477752807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11704208
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"812a13ae84bd6c9edb642154ed17f967",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079747,
+            "localadmin_id":1477752807,
+            "locality_id":9895052986,
+            "region_id":85687323
+        }
+    ],
+    "wof:id":9895052986,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Mikstat-Pustkowie",
+    "wof:parent_id":1477752807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.94368,
+    51.52477,
+    17.94368,
+    51.52477
+],
+  "geometry": {"coordinates":[17.94368,51.52477],"type":"Point"}
+}

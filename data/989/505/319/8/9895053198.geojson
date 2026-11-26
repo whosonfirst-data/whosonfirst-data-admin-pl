@@ -1,0 +1,76 @@
+{
+  "id": 9895053198,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.69336,52.0447,17.69336,52.0447",
+    "geom:latitude":52.0447,
+    "geom:longitude":17.69336,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12175840: name \"Miniszew\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12175840"
+        },
+        {
+            "citation":"GeoNames populated place 12175840: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12175840"
+        },
+        {
+            "citation":"GeoNames populated place 12175840: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12175840"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477751777 (Gmina \u017berk\u00f3w), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687323,
+        102079857,
+        102191581,
+        1477751777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12175840
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"13e642b1c9891945a76911d30fe0bc73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079857,
+            "localadmin_id":1477751777,
+            "locality_id":9895053198,
+            "region_id":85687323
+        }
+    ],
+    "wof:id":9895053198,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Miniszew",
+    "wof:parent_id":1477751777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.69336,
+    52.0447,
+    17.69336,
+    52.0447
+],
+  "geometry": {"coordinates":[17.69336,52.0447],"type":"Point"}
+}

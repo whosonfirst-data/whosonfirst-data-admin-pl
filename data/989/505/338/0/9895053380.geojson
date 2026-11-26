@@ -1,0 +1,76 @@
+{
+  "id": 9895053380,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.15266,50.09702,18.15266,50.09702",
+    "geom:latitude":50.09702,
+    "geom:longitude":18.15266,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13157303: name \"\u017berdziny\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13157303"
+        },
+        {
+            "citation":"GeoNames populated place 13157303: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13157303"
+        },
+        {
+            "citation":"GeoNames populated place 13157303: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13157303"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125289267 (Pietrowice Wielkie), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687277,
+        102079477,
+        102191581,
+        1125289267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13157303
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"871ed5eac3de0ac527d6389df850915a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079477,
+            "localadmin_id":1125289267,
+            "locality_id":9895053380,
+            "region_id":85687277
+        }
+    ],
+    "wof:id":9895053380,
+    "wof:lastmodified":1795735000,
+    "wof:name":"\u017berdziny",
+    "wof:parent_id":1125289267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.15266,
+    50.09702,
+    18.15266,
+    50.09702
+],
+  "geometry": {"coordinates":[18.15266,50.09702],"type":"Point"}
+}

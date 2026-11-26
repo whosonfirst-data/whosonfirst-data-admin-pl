@@ -1,0 +1,76 @@
+{
+  "id": 9895052399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.73335,51.70656,20.73335,51.70656",
+    "geom:latitude":51.70656,
+    "geom:longitude":20.73335,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11694915: name \"G\u00f3rki-Izabelin\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11694915"
+        },
+        {
+            "citation":"GeoNames populated place 11694915: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11694915"
+        },
+        {
+            "citation":"GeoNames populated place 11694915: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11694915"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125307877 (Gmina Mogielnica), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687257,
+        102079877,
+        102191581,
+        1125307877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11694915
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"a8b2bfa81ed9f1148d7296fb7d8ca065",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079877,
+            "localadmin_id":1125307877,
+            "locality_id":9895052399,
+            "region_id":85687257
+        }
+    ],
+    "wof:id":9895052399,
+    "wof:lastmodified":1795735000,
+    "wof:name":"G\u00f3rki-Izabelin",
+    "wof:parent_id":1125307877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.73335,
+    51.70656,
+    20.73335,
+    51.70656
+],
+  "geometry": {"coordinates":[20.73335,51.70656],"type":"Point"}
+}

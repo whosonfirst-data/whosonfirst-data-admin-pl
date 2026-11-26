@@ -1,0 +1,76 @@
+{
+  "id": 9895053508,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.43434,51.81959,15.43434,51.81959",
+    "geom:latitude":51.81959,
+    "geom:longitude":15.43434,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13308575: name \"Pierzwin\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13308575"
+        },
+        {
+            "citation":"GeoNames populated place 13308575: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13308575"
+        },
+        {
+            "citation":"GeoNames populated place 13308575: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13308575"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125350609 (Gmina Nowogr\u00f3d Bobrza\u0144ski), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687327,
+        102079851,
+        102191581,
+        1125350609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13308575
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"6f930c5328b3d7420dbc70f3f3c918e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079851,
+            "localadmin_id":1125350609,
+            "locality_id":9895053508,
+            "region_id":85687327
+        }
+    ],
+    "wof:id":9895053508,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Pierzwin",
+    "wof:parent_id":1125350609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.43434,
+    51.81959,
+    15.43434,
+    51.81959
+],
+  "geometry": {"coordinates":[15.43434,51.81959],"type":"Point"}
+}

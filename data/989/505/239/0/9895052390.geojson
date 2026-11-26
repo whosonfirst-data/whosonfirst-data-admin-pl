@@ -1,0 +1,76 @@
+{
+  "id": 9895052390,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.82531,52.3621,20.82531,52.3621",
+    "geom:latitude":52.3621,
+    "geom:longitude":20.82531,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11694899: name \"Dziekan\u00f3w Nowy\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11694899"
+        },
+        {
+            "citation":"GeoNames populated place 11694899: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11694899"
+        },
+        {
+            "citation":"GeoNames populated place 11694899: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11694899"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125377749 (Gmina \u0141omianki), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687257,
+        102079949,
+        102191581,
+        1125377749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11694899
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"e178186cc888b858ba6fa158263aa5fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079949,
+            "localadmin_id":1125377749,
+            "locality_id":9895052390,
+            "region_id":85687257
+        }
+    ],
+    "wof:id":9895052390,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Dziekan\u00f3w Nowy",
+    "wof:parent_id":1125377749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.82531,
+    52.3621,
+    20.82531,
+    52.3621
+],
+  "geometry": {"coordinates":[20.82531,52.3621],"type":"Point"}
+}

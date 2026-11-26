@@ -1,0 +1,77 @@
+{
+  "id": 9895053151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.65062,51.45739,19.65062,51.45739",
+    "geom:latitude":51.45739,
+    "geom:longitude":19.65062,
+    "gn:population":200,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12088665: name \"Wola Bykowska\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12088665"
+        },
+        {
+            "citation":"GeoNames populated place 12088665: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12088665"
+        },
+        {
+            "citation":"GeoNames populated place 12088665: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12088665"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125354173 (Grabica), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687261,
+        102079783,
+        102191581,
+        1125354173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12088665
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"9bb142742f4fadcdb23dbfd1755b5714",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079783,
+            "localadmin_id":1125354173,
+            "locality_id":9895053151,
+            "region_id":85687261
+        }
+    ],
+    "wof:id":9895053151,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Wola Bykowska",
+    "wof:parent_id":1125354173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.65062,
+    51.45739,
+    19.65062,
+    51.45739
+],
+  "geometry": {"coordinates":[19.65062,51.45739],"type":"Point"}
+}

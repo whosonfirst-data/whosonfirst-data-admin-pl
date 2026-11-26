@@ -1,0 +1,76 @@
+{
+  "id": 9895052939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.92739,51.10007,22.92739,51.10007",
+    "geom:latitude":51.10007,
+    "geom:longitude":22.92739,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11704142: name \"Ignasin\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11704142"
+        },
+        {
+            "citation":"GeoNames populated place 11704142: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11704142"
+        },
+        {
+            "citation":"GeoNames populated place 11704142: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11704142"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125340505 (Fajs\u0142awice), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687309,
+        102079745,
+        102191581,
+        1125340505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11704142
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"00df133f5f021b0c93f06b255f4372c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079745,
+            "localadmin_id":1125340505,
+            "locality_id":9895052939,
+            "region_id":85687309
+        }
+    ],
+    "wof:id":9895052939,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Ignasin",
+    "wof:parent_id":1125340505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.92739,
+    51.10007,
+    22.92739,
+    51.10007
+],
+  "geometry": {"coordinates":[22.92739,51.10007],"type":"Point"}
+}

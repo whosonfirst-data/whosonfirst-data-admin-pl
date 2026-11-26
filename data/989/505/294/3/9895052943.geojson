@@ -1,0 +1,76 @@
+{
+  "id": 9895052943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.69771,50.92427,22.69771,50.92427",
+    "geom:latitude":50.92427,
+    "geom:longitude":22.69771,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11704146: name \"\u0141osie\u0144\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11704146"
+        },
+        {
+            "citation":"GeoNames populated place 11704146: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11704146"
+        },
+        {
+            "citation":"GeoNames populated place 11704146: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11704146"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125324169 (Wysokie), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687309,
+        102079795,
+        102191581,
+        1125324169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11704146
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"3b9cc782d18bd1481e7458bb6e9d7576",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079795,
+            "localadmin_id":1125324169,
+            "locality_id":9895052943,
+            "region_id":85687309
+        }
+    ],
+    "wof:id":9895052943,
+    "wof:lastmodified":1795735000,
+    "wof:name":"\u0141osie\u0144",
+    "wof:parent_id":1125324169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.69771,
+    50.92427,
+    22.69771,
+    50.92427
+],
+  "geometry": {"coordinates":[22.69771,50.92427],"type":"Point"}
+}

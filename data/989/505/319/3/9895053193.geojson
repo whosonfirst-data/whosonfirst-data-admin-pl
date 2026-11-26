@@ -1,0 +1,76 @@
+{
+  "id": 9895053193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.01416,53.05527,18.01416,53.05527",
+    "geom:latitude":53.05527,
+    "geom:longitude":18.01416,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12173201: name \"Stryszek\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12173201"
+        },
+        {
+            "citation":"GeoNames populated place 12173201: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12173201"
+        },
+        {
+            "citation":"GeoNames populated place 12173201: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12173201"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477752233 (Bia\u0142e B\u0142ota), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687319,
+        102080085,
+        102191581,
+        1477752233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12173201
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"0eae63bb0d5be46c2c93a0fcb529cfb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080085,
+            "localadmin_id":1477752233,
+            "locality_id":9895053193,
+            "region_id":85687319
+        }
+    ],
+    "wof:id":9895053193,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Stryszek",
+    "wof:parent_id":1477752233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.01416,
+    53.05527,
+    18.01416,
+    53.05527
+],
+  "geometry": {"coordinates":[18.01416,53.05527],"type":"Point"}
+}

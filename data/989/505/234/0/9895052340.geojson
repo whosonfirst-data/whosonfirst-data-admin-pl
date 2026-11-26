@@ -1,0 +1,76 @@
+{
+  "id": 9895052340,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.55051,51.59669,19.55051,51.59669",
+    "geom:latitude":51.59669,
+    "geom:longitude":19.55051,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11694770: name \"Tuszynek Majoracki\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11694770"
+        },
+        {
+            "citation":"GeoNames populated place 11694770: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11694770"
+        },
+        {
+            "citation":"GeoNames populated place 11694770: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11694770"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125273575 (Gmina Tuszyn), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687261,
+        102079837,
+        102191581,
+        1125273575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11694770
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"f70c4672c874b15fc2a6d751f0d07375",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079837,
+            "localadmin_id":1125273575,
+            "locality_id":9895052340,
+            "region_id":85687261
+        }
+    ],
+    "wof:id":9895052340,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Tuszynek Majoracki",
+    "wof:parent_id":1125273575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.55051,
+    51.59669,
+    19.55051,
+    51.59669
+],
+  "geometry": {"coordinates":[19.55051,51.59669],"type":"Point"}
+}

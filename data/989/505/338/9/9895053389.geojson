@@ -1,0 +1,76 @@
+{
+  "id": 9895053389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.70878,54.31791,21.70878,54.31791",
+    "geom:latitude":54.31791,
+    "geom:longitude":21.70878,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13236953: name \"Legwarowo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13236953"
+        },
+        {
+            "citation":"GeoNames populated place 13236953: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13236953"
+        },
+        {
+            "citation":"GeoNames populated place 13236953: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13236953"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125371977 (Gmina W\u0119gorzewo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687305,
+        102080253,
+        102191581,
+        1125371977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13236953
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"3cfc5f0f57aa744cfa78c34d960cf607",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080253,
+            "localadmin_id":1125371977,
+            "locality_id":9895053389,
+            "region_id":85687305
+        }
+    ],
+    "wof:id":9895053389,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Legwarowo",
+    "wof:parent_id":1125371977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.70878,
+    54.31791,
+    21.70878,
+    54.31791
+],
+  "geometry": {"coordinates":[21.70878,54.31791],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 9895052617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.30392,49.92042,22.30392,49.92042",
+    "geom:latitude":49.92042,
+    "geom:longitude":22.30392,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695903: name \"Hadle Ka\u0144czuckie\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695903"
+        },
+        {
+            "citation":"GeoNames populated place 11695903: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695903"
+        },
+        {
+            "citation":"GeoNames populated place 11695903: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695903"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125364659 (Jawornik Polski), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687295,
+        102079589,
+        102191581,
+        1125364659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695903
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"471c8d26099b814ed3977e90801b1150",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079589,
+            "localadmin_id":1125364659,
+            "locality_id":9895052617,
+            "region_id":85687295
+        }
+    ],
+    "wof:id":9895052617,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Hadle Ka\u0144czuckie",
+    "wof:parent_id":1125364659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.30392,
+    49.92042,
+    22.30392,
+    49.92042
+],
+  "geometry": {"coordinates":[22.30392,49.92042],"type":"Point"}
+}

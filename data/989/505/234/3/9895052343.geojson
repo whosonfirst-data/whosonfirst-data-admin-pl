@@ -1,0 +1,76 @@
+{
+  "id": 9895052343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.40852,51.21721,17.40852,51.21721",
+    "geom:latitude":51.21721,
+    "geom:longitude":17.40852,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11694774: name \"Spalice\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11694774"
+        },
+        {
+            "citation":"GeoNames populated place 11694774: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11694774"
+        },
+        {
+            "citation":"GeoNames populated place 11694774: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11694774"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477752515 (Gmina Ole\u015bnica), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687301,
+        102079717,
+        102191581,
+        1477752515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11694774
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"852af9c93829f2f9edbb950ddbc6e67e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079717,
+            "localadmin_id":1477752515,
+            "locality_id":9895052343,
+            "region_id":85687301
+        }
+    ],
+    "wof:id":9895052343,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Spalice",
+    "wof:parent_id":1477752515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.40852,
+    51.21721,
+    17.40852,
+    51.21721
+],
+  "geometry": {"coordinates":[17.40852,51.21721],"type":"Point"}
+}

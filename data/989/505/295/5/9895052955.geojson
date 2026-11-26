@@ -1,0 +1,76 @@
+{
+  "id": 9895052955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.25124,52.19766,20.25124,52.19766",
+    "geom:latitude":52.19766,
+    "geom:longitude":20.25124,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11704158: name \"Andrzej\u00f3w Duranowski\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11704158"
+        },
+        {
+            "citation":"GeoNames populated place 11704158: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11704158"
+        },
+        {
+            "citation":"GeoNames populated place 11704158: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11704158"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125319697 (Gmina Sochaczew), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687257,
+        102079945,
+        102191581,
+        1125319697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11704158
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"2c50bacbb685ff12179f409817c600f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079945,
+            "localadmin_id":1125319697,
+            "locality_id":9895052955,
+            "region_id":85687257
+        }
+    ],
+    "wof:id":9895052955,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Andrzej\u00f3w Duranowski",
+    "wof:parent_id":1125319697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.25124,
+    52.19766,
+    20.25124,
+    52.19766
+],
+  "geometry": {"coordinates":[20.25124,52.19766],"type":"Point"}
+}

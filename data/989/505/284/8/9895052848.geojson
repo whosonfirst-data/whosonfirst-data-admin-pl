@@ -1,0 +1,76 @@
+{
+  "id": 9895052848,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.42686,52.58954,21.42686,52.58954",
+    "geom:latitude":52.58954,
+    "geom:longitude":21.42686,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11703887: name \"Rybienko Nowe\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11703887"
+        },
+        {
+            "citation":"GeoNames populated place 11703887: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11703887"
+        },
+        {
+            "citation":"GeoNames populated place 11703887: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11703887"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477752055 (Gmina Wyszk\u00f3w), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687257,
+        102080045,
+        102191581,
+        1477752055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11703887
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"be4fcf1d550ff0b55bd6baaef9188af0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080045,
+            "localadmin_id":1477752055,
+            "locality_id":9895052848,
+            "region_id":85687257
+        }
+    ],
+    "wof:id":9895052848,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Rybienko Nowe",
+    "wof:parent_id":1477752055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.42686,
+    52.58954,
+    21.42686,
+    52.58954
+],
+  "geometry": {"coordinates":[21.42686,52.58954],"type":"Point"}
+}

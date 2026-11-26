@@ -1,0 +1,76 @@
+{
+  "id": 9895052254,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.54465,51.7706,17.54465,51.7706",
+    "geom:latitude":51.7706,
+    "geom:longitude":17.54465,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3086902: name \"Rozdra\u017cewek\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3086902"
+        },
+        {
+            "citation":"GeoNames populated place 3086902: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3086902"
+        },
+        {
+            "citation":"GeoNames populated place 3086902: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3086902"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125324725 (Rozdra\u017cew), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687323,
+        102079811,
+        102191581,
+        1125324725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3086902
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"324152fa3dae9f56a4f09e40065d0c1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079811,
+            "localadmin_id":1125324725,
+            "locality_id":9895052254,
+            "region_id":85687323
+        }
+    ],
+    "wof:id":9895052254,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Rozdra\u017cewek",
+    "wof:parent_id":1125324725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.54465,
+    51.7706,
+    17.54465,
+    51.7706
+],
+  "geometry": {"coordinates":[17.54465,51.7706],"type":"Point"}
+}

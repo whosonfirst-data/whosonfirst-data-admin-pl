@@ -1,0 +1,76 @@
+{
+  "id": 9895053662,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.89525,50.83908,16.89525,50.83908",
+    "geom:latitude":50.83908,
+    "geom:longitude":16.89525,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13448323: name \"Jezierzyce Wielkie\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13448323"
+        },
+        {
+            "citation":"GeoNames populated place 13448323: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13448323"
+        },
+        {
+            "citation":"GeoNames populated place 13448323: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13448323"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125288859 (Jordan\u00f3w \u015al\u0105ski), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687301,
+        102079685,
+        102191581,
+        1125288859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13448323
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"2daf23aea27233d5475222a4ce19c082",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079685,
+            "localadmin_id":1125288859,
+            "locality_id":9895053662,
+            "region_id":85687301
+        }
+    ],
+    "wof:id":9895053662,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Jezierzyce Wielkie",
+    "wof:parent_id":1125288859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.89525,
+    50.83908,
+    16.89525,
+    50.83908
+],
+  "geometry": {"coordinates":[16.89525,50.83908],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 9895053196,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.10836,52.93585,17.10836,52.93585",
+    "geom:latitude":52.93585,
+    "geom:longitude":17.10836,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12175833: name \"Su\u0142aszewo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12175833"
+        },
+        {
+            "citation":"GeoNames populated place 12175833: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12175833"
+        },
+        {
+            "citation":"GeoNames populated place 12175833: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12175833"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125311315 (Gmina Margonin), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687323,
+        102080021,
+        102191581,
+        1125311315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12175833
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"9e8e92add5bd4bd4903368b57cb54bfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080021,
+            "localadmin_id":1125311315,
+            "locality_id":9895053196,
+            "region_id":85687323
+        }
+    ],
+    "wof:id":9895053196,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Su\u0142aszewo",
+    "wof:parent_id":1125311315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.10836,
+    52.93585,
+    17.10836,
+    52.93585
+],
+  "geometry": {"coordinates":[17.10836,52.93585],"type":"Point"}
+}

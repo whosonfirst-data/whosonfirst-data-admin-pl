@@ -1,0 +1,76 @@
+{
+  "id": 9895052576,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.42616,51.2085,20.42616,51.2085",
+    "geom:latitude":51.2085,
+    "geom:longitude":20.42616,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695719: name \"Dysz\u00f3w\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695719"
+        },
+        {
+            "citation":"GeoNames populated place 11695719: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695719"
+        },
+        {
+            "citation":"GeoNames populated place 11695719: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695719"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477751159 (Gmina Ko\u0144skie), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687287,
+        102079739,
+        102191581,
+        1477751159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695719
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"90d4b6e36aafb412b664240fa5ccd2c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079739,
+            "localadmin_id":1477751159,
+            "locality_id":9895052576,
+            "region_id":85687287
+        }
+    ],
+    "wof:id":9895052576,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Dysz\u00f3w",
+    "wof:parent_id":1477751159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.42616,
+    51.2085,
+    20.42616,
+    51.2085
+],
+  "geometry": {"coordinates":[20.42616,51.2085],"type":"Point"}
+}

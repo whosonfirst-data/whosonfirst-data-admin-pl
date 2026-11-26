@@ -1,0 +1,76 @@
+{
+  "id": 9895053091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.20037,51.56806,16.20037,51.56806",
+    "geom:latitude":51.56806,
+    "geom:longitude":16.20037,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11963834: name \"Proszyce\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11963834"
+        },
+        {
+            "citation":"GeoNames populated place 11963834: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11963834"
+        },
+        {
+            "citation":"GeoNames populated place 11963834: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11963834"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477751825 (Gr\u0119bocice), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687301,
+        102079741,
+        102191581,
+        1477751825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11963834
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"95d6fe08d6f276aecde86971274e87dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079741,
+            "localadmin_id":1477751825,
+            "locality_id":9895053091,
+            "region_id":85687301
+        }
+    ],
+    "wof:id":9895053091,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Proszyce",
+    "wof:parent_id":1477751825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.20037,
+    51.56806,
+    16.20037,
+    51.56806
+],
+  "geometry": {"coordinates":[16.20037,51.56806],"type":"Point"}
+}

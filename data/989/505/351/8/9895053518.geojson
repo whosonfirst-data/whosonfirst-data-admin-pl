@@ -1,0 +1,76 @@
+{
+  "id": 9895053518,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.09712,51.98188,15.09712,51.98188",
+    "geom:latitude":51.98188,
+    "geom:longitude":15.09712,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13308687: name \"Chrom\u00f3w\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13308687"
+        },
+        {
+            "citation":"GeoNames populated place 13308687: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13308687"
+        },
+        {
+            "citation":"GeoNames populated place 13308687: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13308687"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125366271 (Bobrowice), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687327,
+        102079843,
+        102191581,
+        1125366271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13308687
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"a2887e4dc053fa57b992fa9341609c49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079843,
+            "localadmin_id":1125366271,
+            "locality_id":9895053518,
+            "region_id":85687327
+        }
+    ],
+    "wof:id":9895053518,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Chrom\u00f3w",
+    "wof:parent_id":1125366271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.09712,
+    51.98188,
+    15.09712,
+    51.98188
+],
+  "geometry": {"coordinates":[15.09712,51.98188],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 9895052320,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.25799,54.63212,18.25799,54.63212",
+    "geom:latitude":54.63212,
+    "geom:longitude":18.25799,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11694664: name \"K\u0105pino\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11694664"
+        },
+        {
+            "citation":"GeoNames populated place 11694664: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11694664"
+        },
+        {
+            "citation":"GeoNames populated place 11694664: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11694664"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125391589 (Gmina Wejherowo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687267,
+        102080267,
+        102191581,
+        1125391589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11694664
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"140e643b8e6e20b6d721b376c5a7d21c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080267,
+            "localadmin_id":1125391589,
+            "locality_id":9895052320,
+            "region_id":85687267
+        }
+    ],
+    "wof:id":9895052320,
+    "wof:lastmodified":1795735000,
+    "wof:name":"K\u0105pino",
+    "wof:parent_id":1125391589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.25799,
+    54.63212,
+    18.25799,
+    54.63212
+],
+  "geometry": {"coordinates":[18.25799,54.63212],"type":"Point"}
+}

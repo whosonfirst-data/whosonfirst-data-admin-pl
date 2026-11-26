@@ -1,0 +1,76 @@
+{
+  "id": 9895052528,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.61523,50.34793,19.61523,50.34793",
+    "geom:latitude":50.34793,
+    "geom:longitude":19.61523,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695466: name \"Zalesie Golczowskie\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695466"
+        },
+        {
+            "citation":"GeoNames populated place 11695466: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695466"
+        },
+        {
+            "citation":"GeoNames populated place 11695466: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695466"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125411577 (Klucze), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687291,
+        102079555,
+        102191581,
+        1125411577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695466
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"b8afa9ec35f909b9394cfae445195f87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079555,
+            "localadmin_id":1125411577,
+            "locality_id":9895052528,
+            "region_id":85687291
+        }
+    ],
+    "wof:id":9895052528,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Zalesie Golczowskie",
+    "wof:parent_id":1125411577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.61523,
+    50.34793,
+    19.61523,
+    50.34793
+],
+  "geometry": {"coordinates":[19.61523,50.34793],"type":"Point"}
+}

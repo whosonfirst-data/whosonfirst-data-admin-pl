@@ -1,0 +1,76 @@
+{
+  "id": 9895053499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.99475,51.69541,14.99475,51.69541",
+    "geom:latitude":51.69541,
+    "geom:longitude":14.99475,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13308411: name \"Jarysz\u00f3w\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13308411"
+        },
+        {
+            "citation":"GeoNames populated place 13308411: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13308411"
+        },
+        {
+            "citation":"GeoNames populated place 13308411: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13308411"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125379239 (Gmina Jasie\u0144), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687327,
+        102079779,
+        102191581,
+        1125379239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13308411
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"0f4ca4e6209fe0e7f191f2790350b22b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079779,
+            "localadmin_id":1125379239,
+            "locality_id":9895053499,
+            "region_id":85687327
+        }
+    ],
+    "wof:id":9895053499,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Jarysz\u00f3w",
+    "wof:parent_id":1125379239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.99475,
+    51.69541,
+    14.99475,
+    51.69541
+],
+  "geometry": {"coordinates":[14.99475,51.69541],"type":"Point"}
+}

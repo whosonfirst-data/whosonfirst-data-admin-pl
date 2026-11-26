@@ -1,0 +1,76 @@
+{
+  "id": 9895052925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.69218,50.11155,19.69218,50.11155",
+    "geom:latitude":50.11155,
+    "geom:longitude":19.69218,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11704128: name \"M\u0142ynka\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11704128"
+        },
+        {
+            "citation":"GeoNames populated place 11704128: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11704128"
+        },
+        {
+            "citation":"GeoNames populated place 11704128: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11704128"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125358505 (Zabierz\u00f3w), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687291,
+        102079541,
+        102191581,
+        1125358505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11704128
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"97cfd7f6c7abc43d325b18d125cfb001",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079541,
+            "localadmin_id":1125358505,
+            "locality_id":9895052925,
+            "region_id":85687291
+        }
+    ],
+    "wof:id":9895052925,
+    "wof:lastmodified":1795735000,
+    "wof:name":"M\u0142ynka",
+    "wof:parent_id":1125358505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.69218,
+    50.11155,
+    19.69218,
+    50.11155
+],
+  "geometry": {"coordinates":[19.69218,50.11155],"type":"Point"}
+}

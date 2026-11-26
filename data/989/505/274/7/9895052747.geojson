@@ -1,0 +1,76 @@
+{
+  "id": 9895052747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.64275,50.76486,23.64275,50.76486",
+    "geom:latitude":50.76486,
+    "geom:longitude":23.64275,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11696401: name \"Gdeszyn-Kolonia\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11696401"
+        },
+        {
+            "citation":"GeoNames populated place 11696401: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11696401"
+        },
+        {
+            "citation":"GeoNames populated place 11696401: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11696401"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125294949 (Mi\u0105czyn), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687309,
+        102079715,
+        102191581,
+        1125294949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11696401
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"166a400b6978fb42f275d8147198d2ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079715,
+            "localadmin_id":1125294949,
+            "locality_id":9895052747,
+            "region_id":85687309
+        }
+    ],
+    "wof:id":9895052747,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Gdeszyn-Kolonia",
+    "wof:parent_id":1125294949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.64275,
+    50.76486,
+    23.64275,
+    50.76486
+],
+  "geometry": {"coordinates":[23.64275,50.76486],"type":"Point"}
+}

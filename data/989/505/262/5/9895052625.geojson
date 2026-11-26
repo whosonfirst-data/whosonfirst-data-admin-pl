@@ -1,0 +1,76 @@
+{
+  "id": 9895052625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.10491,50.31138,21.10491,50.31138",
+    "geom:latitude":50.31138,
+    "geom:longitude":21.10491,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695919: name \"\u015awidr\u00f3wka\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695919"
+        },
+        {
+            "citation":"GeoNames populated place 11695919: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695919"
+        },
+        {
+            "citation":"GeoNames populated place 11695919: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695919"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125375641 (Gmina Szczucin), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687291,
+        102079567,
+        102191581,
+        1125375641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695919
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"a96f824ab7cdae52ec1dc3444d4ec65e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079567,
+            "localadmin_id":1125375641,
+            "locality_id":9895052625,
+            "region_id":85687291
+        }
+    ],
+    "wof:id":9895052625,
+    "wof:lastmodified":1795735000,
+    "wof:name":"\u015awidr\u00f3wka",
+    "wof:parent_id":1125375641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.10491,
+    50.31138,
+    21.10491,
+    50.31138
+],
+  "geometry": {"coordinates":[21.10491,50.31138],"type":"Point"}
+}

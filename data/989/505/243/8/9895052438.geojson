@@ -1,0 +1,76 @@
+{
+  "id": 9895052438,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.59111,49.53045,19.59111,49.53045",
+    "geom:latitude":49.53045,
+    "geom:longitude":19.59111,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695091: name \"Kiczory\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695091"
+        },
+        {
+            "citation":"GeoNames populated place 11695091: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695091"
+        },
+        {
+            "citation":"GeoNames populated place 11695091: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695091"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125280979 (Lipnica Wielka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687291,
+        102079407,
+        102191581,
+        1125280979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695091
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"b3e47c93d05b1ed9489b4c2fb677f122",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079407,
+            "localadmin_id":1125280979,
+            "locality_id":9895052438,
+            "region_id":85687291
+        }
+    ],
+    "wof:id":9895052438,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Kiczory",
+    "wof:parent_id":1125280979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.59111,
+    49.53045,
+    19.59111,
+    49.53045
+],
+  "geometry": {"coordinates":[19.59111,49.53045],"type":"Point"}
+}

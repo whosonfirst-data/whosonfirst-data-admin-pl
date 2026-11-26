@@ -1,0 +1,76 @@
+{
+  "id": 9895053495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.79313,51.62582,14.79313,51.62582",
+    "geom:latitude":51.62582,
+    "geom:longitude":14.79313,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13308203: name \"Kamienica nad Nys\u0105 \u0141u\u017cyck\u0105\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13308203"
+        },
+        {
+            "citation":"GeoNames populated place 13308203: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13308203"
+        },
+        {
+            "citation":"GeoNames populated place 13308203: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13308203"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125362955 (Trzebiel), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687327,
+        102079779,
+        102191581,
+        1125362955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13308203
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"4f2d5f925ca51bb9234593427f21adbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079779,
+            "localadmin_id":1125362955,
+            "locality_id":9895053495,
+            "region_id":85687327
+        }
+    ],
+    "wof:id":9895053495,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Kamienica nad Nys\u0105 \u0141u\u017cyck\u0105",
+    "wof:parent_id":1125362955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.79313,
+    51.62582,
+    14.79313,
+    51.62582
+],
+  "geometry": {"coordinates":[14.79313,51.62582],"type":"Point"}
+}

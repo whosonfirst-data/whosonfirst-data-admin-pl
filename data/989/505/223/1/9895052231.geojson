@@ -1,0 +1,77 @@
+{
+  "id": 9895052231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.62542,52.76237,22.62542,52.76237",
+    "geom:latitude":52.76237,
+    "geom:longitude":22.62542,
+    "gn:population":98,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 754444: name \"Wyszonki Ko\u015bcielne\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/754444"
+        },
+        {
+            "citation":"GeoNames populated place 754444: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/754444"
+        },
+        {
+            "citation":"GeoNames populated place 754444: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/754444"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477751739 (Klukowo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687283,
+        102080095,
+        102191581,
+        1477751739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":754444
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"2ab0e894f7ccf5830f6248eab7301430",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080095,
+            "localadmin_id":1477751739,
+            "locality_id":9895052231,
+            "region_id":85687283
+        }
+    ],
+    "wof:id":9895052231,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Wyszonki Ko\u015bcielne",
+    "wof:parent_id":1477751739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.62542,
+    52.76237,
+    22.62542,
+    52.76237
+],
+  "geometry": {"coordinates":[22.62542,52.76237],"type":"Point"}
+}

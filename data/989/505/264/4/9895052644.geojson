@@ -1,0 +1,76 @@
+{
+  "id": 9895052644,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.78779,50.9644,22.78779,50.9644",
+    "geom:latitude":50.9644,
+    "geom:longitude":22.78779,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695949: name \"Sobieska Wola Pierwsza\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695949"
+        },
+        {
+            "citation":"GeoNames populated place 11695949: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695949"
+        },
+        {
+            "citation":"GeoNames populated place 11695949: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695949"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125324137 (\u017b\u00f3\u0142kiewka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687309,
+        102079745,
+        102191581,
+        1125324137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695949
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"84537b5b54a872a9adf86cd994f24f34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079745,
+            "localadmin_id":1125324137,
+            "locality_id":9895052644,
+            "region_id":85687309
+        }
+    ],
+    "wof:id":9895052644,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Sobieska Wola Pierwsza",
+    "wof:parent_id":1125324137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.78779,
+    50.9644,
+    22.78779,
+    50.9644
+],
+  "geometry": {"coordinates":[22.78779,50.9644],"type":"Point"}
+}

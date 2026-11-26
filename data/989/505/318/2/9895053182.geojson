@@ -1,0 +1,76 @@
+{
+  "id": 9895053182,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.45683,52.73048,18.45683,52.73048",
+    "geom:latitude":52.73048,
+    "geom:longitude":18.45683,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12173178: name \"Dziewa\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12173178"
+        },
+        {
+            "citation":"GeoNames populated place 12173178: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12173178"
+        },
+        {
+            "citation":"GeoNames populated place 12173178: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12173178"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477751847 (D\u0105browa Biskupia), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687319,
+        102080013,
+        102191581,
+        1477751847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12173178
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"95f16923e67ec61ba07a004d82dafee4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080013,
+            "localadmin_id":1477751847,
+            "locality_id":9895053182,
+            "region_id":85687319
+        }
+    ],
+    "wof:id":9895053182,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Dziewa",
+    "wof:parent_id":1477751847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.45683,
+    52.73048,
+    18.45683,
+    52.73048
+],
+  "geometry": {"coordinates":[18.45683,52.73048],"type":"Point"}
+}

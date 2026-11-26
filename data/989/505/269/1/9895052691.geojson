@@ -1,0 +1,76 @@
+{
+  "id": 9895052691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.34483,50.19017,20.34483,50.19017",
+    "geom:latitude":50.19017,
+    "geom:longitude":20.34483,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11696150: name \"G\u00f3rka Stogniowska\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11696150"
+        },
+        {
+            "citation":"GeoNames populated place 11696150: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11696150"
+        },
+        {
+            "citation":"GeoNames populated place 11696150: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11696150"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477752409 (Gmina Proszowice), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687291,
+        102079545,
+        102191581,
+        1477752409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11696150
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"2a7ffe3d8b6221a352fabbcae2e37c68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079545,
+            "localadmin_id":1477752409,
+            "locality_id":9895052691,
+            "region_id":85687291
+        }
+    ],
+    "wof:id":9895052691,
+    "wof:lastmodified":1795735000,
+    "wof:name":"G\u00f3rka Stogniowska",
+    "wof:parent_id":1477752409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.34483,
+    50.19017,
+    20.34483,
+    50.19017
+],
+  "geometry": {"coordinates":[20.34483,50.19017],"type":"Point"}
+}

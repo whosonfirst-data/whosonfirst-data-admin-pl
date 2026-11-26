@@ -1,0 +1,76 @@
+{
+  "id": 9895052715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.85208,51.04193,22.85208,51.04193",
+    "geom:latitude":51.04193,
+    "geom:longitude":22.85208,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11696174: name \"Rybczewice Pierwsze\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11696174"
+        },
+        {
+            "citation":"GeoNames populated place 11696174: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11696174"
+        },
+        {
+            "citation":"GeoNames populated place 11696174: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11696174"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125391677 (Rybczewice), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687309,
+        102079777,
+        102191581,
+        1125391677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11696174
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"e95f218630a7323c65cedb0282990bc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079777,
+            "localadmin_id":1125391677,
+            "locality_id":9895052715,
+            "region_id":85687309
+        }
+    ],
+    "wof:id":9895052715,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Rybczewice Pierwsze",
+    "wof:parent_id":1125391677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.85208,
+    51.04193,
+    22.85208,
+    51.04193
+],
+  "geometry": {"coordinates":[22.85208,51.04193],"type":"Point"}
+}

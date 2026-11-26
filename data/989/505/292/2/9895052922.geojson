@@ -1,0 +1,76 @@
+{
+  "id": 9895052922,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.84007,51.41066,16.84007,51.41066",
+    "geom:latitude":51.41066,
+    "geom:longitude":16.84007,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11704023: name \"Piotrkowice\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11704023"
+        },
+        {
+            "citation":"GeoNames populated place 11704023: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11704023"
+        },
+        {
+            "citation":"GeoNames populated place 11704023: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11704023"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125379093 (Gmina Prusice), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687301,
+        102079733,
+        102191581,
+        1125379093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11704023
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"a9cea5c56fe6474156a35abacaf5b0d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079733,
+            "localadmin_id":1125379093,
+            "locality_id":9895052922,
+            "region_id":85687301
+        }
+    ],
+    "wof:id":9895052922,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Piotrkowice",
+    "wof:parent_id":1125379093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.84007,
+    51.41066,
+    16.84007,
+    51.41066
+],
+  "geometry": {"coordinates":[16.84007,51.41066],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 9895053303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.19909,53.95998,17.19909,53.95998",
+    "geom:latitude":53.95998,
+    "geom:longitude":17.19909,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12909161: name \"Stara Brda\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12909161"
+        },
+        {
+            "citation":"GeoNames populated place 12909161: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12909161"
+        },
+        {
+            "citation":"GeoNames populated place 12909161: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12909161"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477751269 (Kocza\u0142a), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687267,
+        102080157,
+        102191581,
+        1477751269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12909161
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"177b0b1f096c4d15cfcfde30e31a79fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080157,
+            "localadmin_id":1477751269,
+            "locality_id":9895053303,
+            "region_id":85687267
+        }
+    ],
+    "wof:id":9895053303,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Stara Brda",
+    "wof:parent_id":1477751269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.19909,
+    53.95998,
+    17.19909,
+    53.95998
+],
+  "geometry": {"coordinates":[17.19909,53.95998],"type":"Point"}
+}

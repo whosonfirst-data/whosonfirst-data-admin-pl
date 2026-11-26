@@ -1,0 +1,76 @@
+{
+  "id": 9895053439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.63353,52.81655,15.63353,52.81655",
+    "geom:latitude":52.81655,
+    "geom:longitude":15.63353,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13264685: name \"\u017b\u00f3\u0142win\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13264685"
+        },
+        {
+            "citation":"GeoNames populated place 13264685: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13264685"
+        },
+        {
+            "citation":"GeoNames populated place 13264685: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13264685"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477751597 (Zwierzyn), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687327,
+        102080011,
+        102191581,
+        1477751597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13264685
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"c27498cee9d2ce8e6c9cab4fb6d29bc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080011,
+            "localadmin_id":1477751597,
+            "locality_id":9895053439,
+            "region_id":85687327
+        }
+    ],
+    "wof:id":9895053439,
+    "wof:lastmodified":1795735000,
+    "wof:name":"\u017b\u00f3\u0142win",
+    "wof:parent_id":1477751597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.63353,
+    52.81655,
+    15.63353,
+    52.81655
+],
+  "geometry": {"coordinates":[15.63353,52.81655],"type":"Point"}
+}

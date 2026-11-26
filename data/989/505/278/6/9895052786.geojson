@@ -1,0 +1,76 @@
+{
+  "id": 9895052786,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.41365,51.03003,22.41365,51.03003",
+    "geom:latitude":51.03003,
+    "geom:longitude":22.41365,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11703535: name \"Kolonia Kie\u0142czewice Dolne\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11703535"
+        },
+        {
+            "citation":"GeoNames populated place 11703535: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11703535"
+        },
+        {
+            "citation":"GeoNames populated place 11703535: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11703535"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477752293 (Strzy\u017cewice), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687309,
+        102079795,
+        102191581,
+        1477752293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11703535
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"d542d202923b4b16bd670f04c76f145a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079795,
+            "localadmin_id":1477752293,
+            "locality_id":9895052786,
+            "region_id":85687309
+        }
+    ],
+    "wof:id":9895052786,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Kolonia Kie\u0142czewice Dolne",
+    "wof:parent_id":1477752293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.41365,
+    51.03003,
+    22.41365,
+    51.03003
+],
+  "geometry": {"coordinates":[22.41365,51.03003],"type":"Point"}
+}

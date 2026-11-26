@@ -1,0 +1,76 @@
+{
+  "id": 9895053361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.12292,53.4521,17.12292,53.4521",
+    "geom:latitude":53.4521,
+    "geom:longitude":17.12292,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13118901: name \"\u0141ugi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13118901"
+        },
+        {
+            "citation":"GeoNames populated place 13118901: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13118901"
+        },
+        {
+            "citation":"GeoNames populated place 13118901: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13118901"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477751255 (Zakrzewo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687323,
+        102080109,
+        102191581,
+        1477751255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13118901
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"1592384da3d6ab9a2f758baacde779ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080109,
+            "localadmin_id":1477751255,
+            "locality_id":9895053361,
+            "region_id":85687323
+        }
+    ],
+    "wof:id":9895053361,
+    "wof:lastmodified":1795735000,
+    "wof:name":"\u0141ugi",
+    "wof:parent_id":1477751255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.12292,
+    53.4521,
+    17.12292,
+    53.4521
+],
+  "geometry": {"coordinates":[17.12292,53.4521],"type":"Point"}
+}

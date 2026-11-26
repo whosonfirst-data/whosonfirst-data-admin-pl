@@ -1,0 +1,76 @@
+{
+  "id": 9895052761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.6787,51.42747,22.6787,51.42747",
+    "geom:latitude":51.42747,
+    "geom:longitude":22.6787,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11703509: name \"Serniki-Kolonia\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11703509"
+        },
+        {
+            "citation":"GeoNames populated place 11703509: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11703509"
+        },
+        {
+            "citation":"GeoNames populated place 11703509: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11703509"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125350567 (Serniki), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687309,
+        102079855,
+        102191581,
+        1125350567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11703509
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"f502845401d387539ead26e67086bf8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079855,
+            "localadmin_id":1125350567,
+            "locality_id":9895052761,
+            "region_id":85687309
+        }
+    ],
+    "wof:id":9895052761,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Serniki-Kolonia",
+    "wof:parent_id":1125350567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.6787,
+    51.42747,
+    22.6787,
+    51.42747
+],
+  "geometry": {"coordinates":[22.6787,51.42747],"type":"Point"}
+}

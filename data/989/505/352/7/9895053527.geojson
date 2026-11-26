@@ -1,0 +1,76 @@
+{
+  "id": 9895053527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.00808,51.01913,17.00808,51.01913",
+    "geom:latitude":51.01913,
+    "geom:longitude":17.00808,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13308764: name \"Karwiany\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13308764"
+        },
+        {
+            "citation":"GeoNames populated place 13308764: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13308764"
+        },
+        {
+            "citation":"GeoNames populated place 13308764: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13308764"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125394733 (\u017b\u00f3rawina), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687301,
+        102079685,
+        102191581,
+        1125394733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13308764
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"14808364543cd7fbc398770db3538384",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079685,
+            "localadmin_id":1125394733,
+            "locality_id":9895053527,
+            "region_id":85687301
+        }
+    ],
+    "wof:id":9895053527,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Karwiany",
+    "wof:parent_id":1125394733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.00808,
+    51.01913,
+    17.00808,
+    51.01913
+],
+  "geometry": {"coordinates":[17.00808,51.01913],"type":"Point"}
+}

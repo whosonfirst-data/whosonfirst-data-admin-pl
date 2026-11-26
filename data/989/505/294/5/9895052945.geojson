@@ -1,0 +1,76 @@
+{
+  "id": 9895052945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.34138,50.81,22.34138,50.81",
+    "geom:latitude":50.81,
+    "geom:longitude":22.34138,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11704148: name \"Wojciech\u00f3w-Kolonia\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11704148"
+        },
+        {
+            "citation":"GeoNames populated place 11704148: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11704148"
+        },
+        {
+            "citation":"GeoNames populated place 11704148: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11704148"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125328543 (Szastarka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687309,
+        102079721,
+        102191581,
+        1125328543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11704148
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"c316f56634cce59ad4937d3bdf572618",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079721,
+            "localadmin_id":1125328543,
+            "locality_id":9895052945,
+            "region_id":85687309
+        }
+    ],
+    "wof:id":9895052945,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Wojciech\u00f3w-Kolonia",
+    "wof:parent_id":1125328543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.34138,
+    50.81,
+    22.34138,
+    50.81
+],
+  "geometry": {"coordinates":[22.34138,50.81],"type":"Point"}
+}

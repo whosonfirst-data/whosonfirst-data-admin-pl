@@ -1,0 +1,76 @@
+{
+  "id": 9895052912,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.20221,51.91587,22.20221,51.91587",
+    "geom:latitude":51.91587,
+    "geom:longitude":22.20221,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11704009: name \"Celiny W\u0142o\u015bcia\u0144skie\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11704009"
+        },
+        {
+            "citation":"GeoNames populated place 11704009: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11704009"
+        },
+        {
+            "citation":"GeoNames populated place 11704009: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11704009"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477752673 (Stanin), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687309,
+        102079925,
+        102191581,
+        1477752673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11704009
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"d9b04dfcf565c64ed62db294a6a3f491",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079925,
+            "localadmin_id":1477752673,
+            "locality_id":9895052912,
+            "region_id":85687309
+        }
+    ],
+    "wof:id":9895052912,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Celiny W\u0142o\u015bcia\u0144skie",
+    "wof:parent_id":1477752673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.20221,
+    51.91587,
+    22.20221,
+    51.91587
+],
+  "geometry": {"coordinates":[22.20221,51.91587],"type":"Point"}
+}

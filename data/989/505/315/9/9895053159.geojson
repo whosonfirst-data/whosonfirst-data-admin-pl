@@ -1,0 +1,76 @@
+{
+  "id": 9895053159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.59038,50.31739,17.59038,50.31739",
+    "geom:latitude":50.31739,
+    "geom:longitude":17.59038,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12123372: name \"G\u00f3rka\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12123372"
+        },
+        {
+            "citation":"GeoNames populated place 12123372: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12123372"
+        },
+        {
+            "citation":"GeoNames populated place 12123372: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12123372"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125393709 (Gmina Prudnik), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687313,
+        102079549,
+        102191581,
+        1125393709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12123372
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"8d2f4bd8d31b9213396d58743fb7d88b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079549,
+            "localadmin_id":1125393709,
+            "locality_id":9895053159,
+            "region_id":85687313
+        }
+    ],
+    "wof:id":9895053159,
+    "wof:lastmodified":1795735000,
+    "wof:name":"G\u00f3rka",
+    "wof:parent_id":1125393709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.59038,
+    50.31739,
+    17.59038,
+    50.31739
+],
+  "geometry": {"coordinates":[17.59038,50.31739],"type":"Point"}
+}

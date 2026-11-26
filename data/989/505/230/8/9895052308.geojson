@@ -1,0 +1,76 @@
+{
+  "id": 9895052308,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.02893,49.974,20.02893,49.974",
+    "geom:latitude":49.974,
+    "geom:longitude":20.02893,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11694579: name \"Grab\u00f3wki\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11694579"
+        },
+        {
+            "citation":"GeoNames populated place 11694579: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11694579"
+        },
+        {
+            "citation":"GeoNames populated place 11694579: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11694579"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125388531 (Gmina Wieliczka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687291,
+        102079479,
+        102191581,
+        1125388531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11694579
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"de83dd300865df0df84f6c00482b60db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079479,
+            "localadmin_id":1125388531,
+            "locality_id":9895052308,
+            "region_id":85687291
+        }
+    ],
+    "wof:id":9895052308,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Grab\u00f3wki",
+    "wof:parent_id":1125388531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.02893,
+    49.974,
+    20.02893,
+    49.974
+],
+  "geometry": {"coordinates":[20.02893,49.974],"type":"Point"}
+}

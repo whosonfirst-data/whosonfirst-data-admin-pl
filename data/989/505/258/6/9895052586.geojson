@@ -1,0 +1,76 @@
+{
+  "id": 9895052586,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.51222,52.19603,21.51222,52.19603",
+    "geom:latitude":52.19603,
+    "geom:longitude":21.51222,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695730: name \"Choszcz\u00f3wka Stojecka\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695730"
+        },
+        {
+            "citation":"GeoNames populated place 11695730: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695730"
+        },
+        {
+            "citation":"GeoNames populated place 11695730: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695730"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125304513 (D\u0119be Wielkie), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687257,
+        102079965,
+        102191581,
+        1125304513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695730
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"979788e2590e4e1456fd3d5b1ee1fc3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079965,
+            "localadmin_id":1125304513,
+            "locality_id":9895052586,
+            "region_id":85687257
+        }
+    ],
+    "wof:id":9895052586,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Choszcz\u00f3wka Stojecka",
+    "wof:parent_id":1125304513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.51222,
+    52.19603,
+    21.51222,
+    52.19603
+],
+  "geometry": {"coordinates":[21.51222,52.19603],"type":"Point"}
+}

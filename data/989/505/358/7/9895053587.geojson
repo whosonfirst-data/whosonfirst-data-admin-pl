@@ -1,0 +1,76 @@
+{
+  "id": 9895053587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.90614,51.44572,16.90614,51.44572",
+    "geom:latitude":51.44572,
+    "geom:longitude":16.90614,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13353334: name \"Borz\u0119cin\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13353334"
+        },
+        {
+            "citation":"GeoNames populated place 13353334: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13353334"
+        },
+        {
+            "citation":"GeoNames populated place 13353334: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13353334"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125376439 (Gmina \u017bmigr\u00f3d), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687301,
+        102079733,
+        102191581,
+        1125376439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13353334
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"173e60c6bd551aa7e589671db929946a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079733,
+            "localadmin_id":1125376439,
+            "locality_id":9895053587,
+            "region_id":85687301
+        }
+    ],
+    "wof:id":9895053587,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Borz\u0119cin",
+    "wof:parent_id":1125376439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.90614,
+    51.44572,
+    16.90614,
+    51.44572
+],
+  "geometry": {"coordinates":[16.90614,51.44572],"type":"Point"}
+}

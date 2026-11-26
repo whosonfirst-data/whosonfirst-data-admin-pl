@@ -1,0 +1,76 @@
+{
+  "id": 9895053273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.40004,53.35422,19.40004,53.35422",
+    "geom:latitude":53.35422,
+    "geom:longitude":19.40004,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12519702: name \"Ryteb\u0142ota\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12519702"
+        },
+        {
+            "citation":"GeoNames populated place 12519702: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12519702"
+        },
+        {
+            "citation":"GeoNames populated place 12519702: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12519702"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125326549 (Zbiczno), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687319,
+        102080099,
+        102191581,
+        1125326549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12519702
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"349e876ddc7f9f61b16d16c39a9b50ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080099,
+            "localadmin_id":1125326549,
+            "locality_id":9895053273,
+            "region_id":85687319
+        }
+    ],
+    "wof:id":9895053273,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Ryteb\u0142ota",
+    "wof:parent_id":1125326549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.40004,
+    53.35422,
+    19.40004,
+    53.35422
+],
+  "geometry": {"coordinates":[19.40004,53.35422],"type":"Point"}
+}

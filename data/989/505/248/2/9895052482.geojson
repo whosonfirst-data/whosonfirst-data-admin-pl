@@ -1,0 +1,76 @@
+{
+  "id": 9895052482,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.40304,54.33775,18.40304,54.33775",
+    "geom:latitude":54.33775,
+    "geom:longitude":18.40304,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695396: name \"Lniska\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695396"
+        },
+        {
+            "citation":"GeoNames populated place 11695396: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695396"
+        },
+        {
+            "citation":"GeoNames populated place 11695396: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695396"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125282305 (Gmina \u017bukowo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687267,
+        102080233,
+        102191581,
+        1125282305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695396
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"541e198a295f4ec5e1bd368b42b41a87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080233,
+            "localadmin_id":1125282305,
+            "locality_id":9895052482,
+            "region_id":85687267
+        }
+    ],
+    "wof:id":9895052482,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Lniska",
+    "wof:parent_id":1125282305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.40304,
+    54.33775,
+    18.40304,
+    54.33775
+],
+  "geometry": {"coordinates":[18.40304,54.33775],"type":"Point"}
+}

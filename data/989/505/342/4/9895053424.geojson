@@ -1,0 +1,76 @@
+{
+  "id": 9895053424,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.86231,52.91152,14.86231,52.91152",
+    "geom:latitude":52.91152,
+    "geom:longitude":14.86231,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13264390: name \"Wierzbnica\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13264390"
+        },
+        {
+            "citation":"GeoNames populated place 13264390: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13264390"
+        },
+        {
+            "citation":"GeoNames populated place 13264390: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13264390"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477751897 (Gmina My\u015blib\u00f3rz), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687271,
+        102080005,
+        102191581,
+        1477751897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13264390
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"2c57199e31b7ec7c8b28f28c72ff63bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080005,
+            "localadmin_id":1477751897,
+            "locality_id":9895053424,
+            "region_id":85687271
+        }
+    ],
+    "wof:id":9895053424,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Wierzbnica",
+    "wof:parent_id":1477751897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.86231,
+    52.91152,
+    14.86231,
+    52.91152
+],
+  "geometry": {"coordinates":[14.86231,52.91152],"type":"Point"}
+}

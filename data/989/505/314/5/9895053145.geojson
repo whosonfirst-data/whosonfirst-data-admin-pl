@@ -1,0 +1,76 @@
+{
+  "id": 9895053145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.78545,52.87504,17.78545,52.87504",
+    "geom:latitude":52.87504,
+    "geom:longitude":17.78545,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12036254: name \"Murczynek\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12036254"
+        },
+        {
+            "citation":"GeoNames populated place 12036254: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12036254"
+        },
+        {
+            "citation":"GeoNames populated place 12036254: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12036254"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125304149 (Gmina \u017bnin), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687319,
+        102080017,
+        102191581,
+        1125304149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12036254
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"c5900dc269b083fcad41a630dc885212",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080017,
+            "localadmin_id":1125304149,
+            "locality_id":9895053145,
+            "region_id":85687319
+        }
+    ],
+    "wof:id":9895053145,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Murczynek",
+    "wof:parent_id":1125304149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.78545,
+    52.87504,
+    17.78545,
+    52.87504
+],
+  "geometry": {"coordinates":[17.78545,52.87504],"type":"Point"}
+}

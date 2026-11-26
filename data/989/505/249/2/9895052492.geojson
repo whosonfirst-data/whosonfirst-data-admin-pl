@@ -1,0 +1,76 @@
+{
+  "id": 9895052492,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.26177,50.96875,18.26177,50.96875",
+    "geom:latitude":50.96875,
+    "geom:longitude":18.26177,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695407: name \"Ligota G\u00f3rna\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695407"
+        },
+        {
+            "citation":"GeoNames populated place 11695407: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695407"
+        },
+        {
+            "citation":"GeoNames populated place 11695407: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695407"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125325859 (Gmina Kluczbork), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687313,
+        102079677,
+        102191581,
+        1125325859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695407
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"bf7595c6a966f856679337d97f850f78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079677,
+            "localadmin_id":1125325859,
+            "locality_id":9895052492,
+            "region_id":85687313
+        }
+    ],
+    "wof:id":9895052492,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Ligota G\u00f3rna",
+    "wof:parent_id":1125325859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.26177,
+    50.96875,
+    18.26177,
+    50.96875
+],
+  "geometry": {"coordinates":[18.26177,50.96875],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 9895052363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.06263,52.2551,17.06263,52.2551",
+    "geom:latitude":52.2551,
+    "geom:longitude":17.06263,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11694805: name \"Mo\u015bcienica\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11694805"
+        },
+        {
+            "citation":"GeoNames populated place 11694805: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11694805"
+        },
+        {
+            "citation":"GeoNames populated place 11694805: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11694805"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125273495 (Gmina K\u00f3rnik), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687323,
+        102079955,
+        102191581,
+        1125273495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11694805
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"3a8af85ca52ccd610a1e35f0576b8269",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079955,
+            "localadmin_id":1125273495,
+            "locality_id":9895052363,
+            "region_id":85687323
+        }
+    ],
+    "wof:id":9895052363,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Mo\u015bcienica",
+    "wof:parent_id":1125273495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.06263,
+    52.2551,
+    17.06263,
+    52.2551
+],
+  "geometry": {"coordinates":[17.06263,52.2551],"type":"Point"}
+}

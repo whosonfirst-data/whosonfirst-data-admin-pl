@@ -1,0 +1,76 @@
+{
+  "id": 9895053033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.90672,52.02264,20.90672,52.02264",
+    "geom:latitude":52.02264,
+    "geom:longitude":20.90672,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11810112: name \"W\u00f3lka Pracka\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11810112"
+        },
+        {
+            "citation":"GeoNames populated place 11810112: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11810112"
+        },
+        {
+            "citation":"GeoNames populated place 11810112: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11810112"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125342079 (Gmina Piaseczno), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687257,
+        102079911,
+        102191581,
+        1125342079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11810112
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"c2c553ce37622740165a9847b2051b22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079911,
+            "localadmin_id":1125342079,
+            "locality_id":9895053033,
+            "region_id":85687257
+        }
+    ],
+    "wof:id":9895053033,
+    "wof:lastmodified":1795735000,
+    "wof:name":"W\u00f3lka Pracka",
+    "wof:parent_id":1125342079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.90672,
+    52.02264,
+    20.90672,
+    52.02264
+],
+  "geometry": {"coordinates":[20.90672,52.02264],"type":"Point"}
+}

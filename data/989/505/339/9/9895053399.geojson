@@ -1,0 +1,76 @@
+{
+  "id": 9895053399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.33145,54.14551,20.33145,54.14551",
+    "geom:latitude":54.14551,
+    "geom:longitude":20.33145,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13237085: name \"Kaszuny\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13237085"
+        },
+        {
+            "citation":"GeoNames populated place 13237085: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13237085"
+        },
+        {
+            "citation":"GeoNames populated place 13237085: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13237085"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477751723 (Gmina Lidzbark Warmi\u0144ski), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687305,
+        102080215,
+        102191581,
+        1477751723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13237085
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"b6fab09bcc3c755f2d5245479a73b5ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080215,
+            "localadmin_id":1477751723,
+            "locality_id":9895053399,
+            "region_id":85687305
+        }
+    ],
+    "wof:id":9895053399,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Kaszuny",
+    "wof:parent_id":1477751723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.33145,
+    54.14551,
+    20.33145,
+    54.14551
+],
+  "geometry": {"coordinates":[20.33145,54.14551],"type":"Point"}
+}

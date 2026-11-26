@@ -1,0 +1,76 @@
+{
+  "id": 9895053411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.96963,52.62136,14.96963,52.62136",
+    "geom:latitude":52.62136,
+    "geom:longitude":14.96963,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13264370: name \"Zaszczytowo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13264370"
+        },
+        {
+            "citation":"GeoNames populated place 13264370: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13264370"
+        },
+        {
+            "citation":"GeoNames populated place 13264370: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13264370"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125376583 (Krzeszyce), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687327,
+        102079933,
+        102191581,
+        1125376583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13264370
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"dc612cdbcb243583beb1691e4877719c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079933,
+            "localadmin_id":1125376583,
+            "locality_id":9895053411,
+            "region_id":85687327
+        }
+    ],
+    "wof:id":9895053411,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Zaszczytowo",
+    "wof:parent_id":1125376583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.96963,
+    52.62136,
+    14.96963,
+    52.62136
+],
+  "geometry": {"coordinates":[14.96963,52.62136],"type":"Point"}
+}

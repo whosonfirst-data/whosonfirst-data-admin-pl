@@ -1,0 +1,76 @@
+{
+  "id": 9895053603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.20504,51.54632,17.20504,51.54632",
+    "geom:latitude":51.54632,
+    "geom:longitude":17.20504,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13353956: name \"Pi\u0119kocin\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13353956"
+        },
+        {
+            "citation":"GeoNames populated place 13353956: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13353956"
+        },
+        {
+            "citation":"GeoNames populated place 13353956: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13353956"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125303695 (Gmina Milicz), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687301,
+        102079753,
+        102191581,
+        1125303695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13353956
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"be011b36428f8847e270d07166afd6ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079753,
+            "localadmin_id":1125303695,
+            "locality_id":9895053603,
+            "region_id":85687301
+        }
+    ],
+    "wof:id":9895053603,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Pi\u0119kocin",
+    "wof:parent_id":1125303695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.20504,
+    51.54632,
+    17.20504,
+    51.54632
+],
+  "geometry": {"coordinates":[17.20504,51.54632],"type":"Point"}
+}

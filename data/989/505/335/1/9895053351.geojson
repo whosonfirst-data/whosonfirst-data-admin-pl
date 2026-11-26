@@ -1,0 +1,76 @@
+{
+  "id": 9895053351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.21673,53.23895,18.21673,53.23895",
+    "geom:latitude":53.23895,
+    "geom:longitude":18.21673,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13118752: name \"Trz\u0119sacz\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13118752"
+        },
+        {
+            "citation":"GeoNames populated place 13118752: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13118752"
+        },
+        {
+            "citation":"GeoNames populated place 13118752: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13118752"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477751341 (Dobrcz), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687319,
+        102080085,
+        102191581,
+        1477751341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13118752
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"19ecbee9575c80f091f908647029e644",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080085,
+            "localadmin_id":1477751341,
+            "locality_id":9895053351,
+            "region_id":85687319
+        }
+    ],
+    "wof:id":9895053351,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Trz\u0119sacz",
+    "wof:parent_id":1477751341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.21673,
+    53.23895,
+    18.21673,
+    53.23895
+],
+  "geometry": {"coordinates":[18.21673,53.23895],"type":"Point"}
+}

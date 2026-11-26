@@ -1,0 +1,76 @@
+{
+  "id": 9895052596,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.0809,51.16115,23.0809,51.16115",
+    "geom:latitude":51.16115,
+    "geom:longitude":23.0809,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695748: name \"Chojno Nowe Drugie\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695748"
+        },
+        {
+            "citation":"GeoNames populated place 11695748: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695748"
+        },
+        {
+            "citation":"GeoNames populated place 11695748: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695748"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477752015 (Gmina Siedliszcze), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687309,
+        102079813,
+        102191581,
+        1477752015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695748
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"5e098c8c2ca421fe4b94cba65be86b78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079813,
+            "localadmin_id":1477752015,
+            "locality_id":9895052596,
+            "region_id":85687309
+        }
+    ],
+    "wof:id":9895052596,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Chojno Nowe Drugie",
+    "wof:parent_id":1477752015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.0809,
+    51.16115,
+    23.0809,
+    51.16115
+],
+  "geometry": {"coordinates":[23.0809,51.16115],"type":"Point"}
+}

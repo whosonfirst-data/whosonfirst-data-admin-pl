@@ -1,0 +1,76 @@
+{
+  "id": 9895052885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.09057,50.18657,21.09057,50.18657",
+    "geom:latitude":50.18657,
+    "geom:longitude":21.09057,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11703961: name \"Kacz\u00f3wka\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11703961"
+        },
+        {
+            "citation":"GeoNames populated place 11703961: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11703961"
+        },
+        {
+            "citation":"GeoNames populated place 11703961: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11703961"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125350681 (Radgoszcz), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687291,
+        102079567,
+        102191581,
+        1125350681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11703961
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"ae500b0f4d0644cfaee86185eaa14cd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079567,
+            "localadmin_id":1125350681,
+            "locality_id":9895052885,
+            "region_id":85687291
+        }
+    ],
+    "wof:id":9895052885,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Kacz\u00f3wka",
+    "wof:parent_id":1125350681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.09057,
+    50.18657,
+    21.09057,
+    50.18657
+],
+  "geometry": {"coordinates":[21.09057,50.18657],"type":"Point"}
+}

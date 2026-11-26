@@ -1,0 +1,76 @@
+{
+  "id": 9895052679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.62099,51.00347,20.62099,51.00347",
+    "geom:latitude":51.00347,
+    "geom:longitude":20.62099,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11696077: name \"Samson\u00f3w-Ci\u0105g\u0142e\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11696077"
+        },
+        {
+            "citation":"GeoNames populated place 11696077: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11696077"
+        },
+        {
+            "citation":"GeoNames populated place 11696077: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11696077"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125370903 (Zagna\u0144sk), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687287,
+        102079693,
+        102191581,
+        1125370903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11696077
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"0d619e486de2229e044b8cab0322ee2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079693,
+            "localadmin_id":1125370903,
+            "locality_id":9895052679,
+            "region_id":85687287
+        }
+    ],
+    "wof:id":9895052679,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Samson\u00f3w-Ci\u0105g\u0142e",
+    "wof:parent_id":1125370903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.62099,
+    51.00347,
+    20.62099,
+    51.00347
+],
+  "geometry": {"coordinates":[20.62099,51.00347],"type":"Point"}
+}

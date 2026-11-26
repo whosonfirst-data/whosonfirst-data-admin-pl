@@ -1,0 +1,76 @@
+{
+  "id": 9895053679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.17511,50.00157,19.17511,50.00157",
+    "geom:latitude":50.00157,
+    "geom:longitude":19.17511,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13546041: name \"Budy\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13546041"
+        },
+        {
+            "citation":"GeoNames populated place 13546041: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13546041"
+        },
+        {
+            "citation":"GeoNames populated place 13546041: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13546041"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477752425 (Gmina Brzeszcze), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687291,
+        102079465,
+        102191581,
+        1477752425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13546041
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"f33e8059c9866e964d63e4c05a6ecd4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079465,
+            "localadmin_id":1477752425,
+            "locality_id":9895053679,
+            "region_id":85687291
+        }
+    ],
+    "wof:id":9895053679,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Budy",
+    "wof:parent_id":1477752425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.17511,
+    50.00157,
+    19.17511,
+    50.00157
+],
+  "geometry": {"coordinates":[19.17511,50.00157],"type":"Point"}
+}

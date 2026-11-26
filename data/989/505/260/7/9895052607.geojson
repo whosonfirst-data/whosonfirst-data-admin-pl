@@ -1,0 +1,76 @@
+{
+  "id": 9895052607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.91,52.75746,18.91,52.75746",
+    "geom:latitude":52.75746,
+    "geom:longitude":18.91,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695891: name \"Probostwo G\u00f3rne\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695891"
+        },
+        {
+            "citation":"GeoNames populated place 11695891: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695891"
+        },
+        {
+            "citation":"GeoNames populated place 11695891: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695891"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125300499 (Lubanie), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687319,
+        102079997,
+        102191581,
+        1125300499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695891
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"4e705ac17d33386bb8fd999ba644a79e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079997,
+            "localadmin_id":1125300499,
+            "locality_id":9895052607,
+            "region_id":85687319
+        }
+    ],
+    "wof:id":9895052607,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Probostwo G\u00f3rne",
+    "wof:parent_id":1125300499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.91,
+    52.75746,
+    18.91,
+    52.75746
+],
+  "geometry": {"coordinates":[18.91,52.75746],"type":"Point"}
+}

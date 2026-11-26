@@ -1,0 +1,76 @@
+{
+  "id": 9895052335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.12173,52.5211,21.12173,52.5211",
+    "geom:latitude":52.5211,
+    "geom:longitude":21.12173,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11694765: name \"Kania Nowa\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11694765"
+        },
+        {
+            "citation":"GeoNames populated place 11694765: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11694765"
+        },
+        {
+            "citation":"GeoNames populated place 11694765: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11694765"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125282391 (Gmina Serock), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687257,
+        102079985,
+        102191581,
+        1125282391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11694765
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"e49490d54f8fa2e33333768fb57be672",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079985,
+            "localadmin_id":1125282391,
+            "locality_id":9895052335,
+            "region_id":85687257
+        }
+    ],
+    "wof:id":9895052335,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Kania Nowa",
+    "wof:parent_id":1125282391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.12173,
+    52.5211,
+    21.12173,
+    52.5211
+],
+  "geometry": {"coordinates":[21.12173,52.5211],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 9895053524,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.86959,51.03956,16.86959,51.03956",
+    "geom:latitude":51.03956,
+    "geom:longitude":16.86959,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13308760: name \"Bli\u017c\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13308760"
+        },
+        {
+            "citation":"GeoNames populated place 13308760: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13308760"
+        },
+        {
+            "citation":"GeoNames populated place 13308760: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13308760"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125372921 (Gmina K\u0105ty Wroc\u0142awskie), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687301,
+        102079685,
+        102191581,
+        1125372921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13308760
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"e41a6833fa561f6a3f7cf2e65bb3b15e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079685,
+            "localadmin_id":1125372921,
+            "locality_id":9895053524,
+            "region_id":85687301
+        }
+    ],
+    "wof:id":9895053524,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Bli\u017c",
+    "wof:parent_id":1125372921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.86959,
+    51.03956,
+    16.86959,
+    51.03956
+],
+  "geometry": {"coordinates":[16.86959,51.03956],"type":"Point"}
+}

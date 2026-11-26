@@ -1,0 +1,76 @@
+{
+  "id": 9895053431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.64156,52.08776,15.64156,52.08776",
+    "geom:latitude":52.08776,
+    "geom:longitude":15.64156,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13264619: name \"Kr\u0119\u017co\u0142y\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13264619"
+        },
+        {
+            "citation":"GeoNames populated place 13264619: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13264619"
+        },
+        {
+            "citation":"GeoNames populated place 13264619: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13264619"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125394985 (Gmina Sulech\u00f3w), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687327,
+        102079851,
+        102191581,
+        1125394985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13264619
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"194ba2cea0cc455948a15bac27a64065",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079851,
+            "localadmin_id":1125394985,
+            "locality_id":9895053431,
+            "region_id":85687327
+        }
+    ],
+    "wof:id":9895053431,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Kr\u0119\u017co\u0142y",
+    "wof:parent_id":1125394985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.64156,
+    52.08776,
+    15.64156,
+    52.08776
+],
+  "geometry": {"coordinates":[15.64156,52.08776],"type":"Point"}
+}

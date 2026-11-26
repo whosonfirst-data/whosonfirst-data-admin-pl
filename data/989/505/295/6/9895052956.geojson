@@ -1,0 +1,76 @@
+{
+  "id": 9895052956,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.99353,50.62526,16.99353,50.62526",
+    "geom:latitude":50.62526,
+    "geom:longitude":16.99353,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11704159: name \"Krzelk\u00f3w\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11704159"
+        },
+        {
+            "citation":"GeoNames populated place 11704159: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11704159"
+        },
+        {
+            "citation":"GeoNames populated place 11704159: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11704159"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125289801 (Gmina Zi\u0119bice), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687301,
+        102079577,
+        102191581,
+        1125289801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11704159
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"550a27d5600eda89cfe34f01a64b2ada",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079577,
+            "localadmin_id":1125289801,
+            "locality_id":9895052956,
+            "region_id":85687301
+        }
+    ],
+    "wof:id":9895052956,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Krzelk\u00f3w",
+    "wof:parent_id":1125289801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.99353,
+    50.62526,
+    16.99353,
+    50.62526
+],
+  "geometry": {"coordinates":[16.99353,50.62526],"type":"Point"}
+}

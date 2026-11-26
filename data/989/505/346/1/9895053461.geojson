@@ -1,0 +1,76 @@
+{
+  "id": 9895053461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.10995,51.04142,16.10995,51.04142",
+    "geom:latitude":51.04142,
+    "geom:longitude":16.10995,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13286550: name \"Che\u0142miec\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13286550"
+        },
+        {
+            "citation":"GeoNames populated place 13286550: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13286550"
+        },
+        {
+            "citation":"GeoNames populated place 13286550: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13286550"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125383215 (M\u0119cinka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687301,
+        102079645,
+        102191581,
+        1125383215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13286550
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"b5e4c49a47dd065d64598409faa19b3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079645,
+            "localadmin_id":1125383215,
+            "locality_id":9895053461,
+            "region_id":85687301
+        }
+    ],
+    "wof:id":9895053461,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Che\u0142miec",
+    "wof:parent_id":1125383215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.10995,
+    51.04142,
+    16.10995,
+    51.04142
+],
+  "geometry": {"coordinates":[16.10995,51.04142],"type":"Point"}
+}

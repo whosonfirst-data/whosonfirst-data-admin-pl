@@ -1,0 +1,76 @@
+{
+  "id": 9895052388,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.84932,50.94404,21.84932,50.94404",
+    "geom:latitude":50.94404,
+    "geom:longitude":21.84932,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11694897: name \"\u015awieciech\u00f3w Du\u017cy\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11694897"
+        },
+        {
+            "citation":"GeoNames populated place 11694897: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11694897"
+        },
+        {
+            "citation":"GeoNames populated place 11694897: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11694897"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125384203 (Gmina Annopol), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687309,
+        102079721,
+        102191581,
+        1125384203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11694897
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"1022916d31cdbc04559e3c916eb76852",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079721,
+            "localadmin_id":1125384203,
+            "locality_id":9895052388,
+            "region_id":85687309
+        }
+    ],
+    "wof:id":9895052388,
+    "wof:lastmodified":1795735000,
+    "wof:name":"\u015awieciech\u00f3w Du\u017cy",
+    "wof:parent_id":1125384203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.84932,
+    50.94404,
+    21.84932,
+    50.94404
+],
+  "geometry": {"coordinates":[21.84932,50.94404],"type":"Point"}
+}

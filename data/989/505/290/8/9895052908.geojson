@@ -1,0 +1,76 @@
+{
+  "id": 9895052908,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.83358,51.07101,22.83358,51.07101",
+    "geom:latitude":51.07101,
+    "geom:longitude":22.83358,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11704005: name \"Stryjno Pierwsze\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11704005"
+        },
+        {
+            "citation":"GeoNames populated place 11704005: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11704005"
+        },
+        {
+            "citation":"GeoNames populated place 11704005: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11704005"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125391677 (Rybczewice), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687309,
+        102079777,
+        102191581,
+        1125391677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11704005
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"5c5ef6c5297214e6ff5d24c9d5bc2ad1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079777,
+            "localadmin_id":1125391677,
+            "locality_id":9895052908,
+            "region_id":85687309
+        }
+    ],
+    "wof:id":9895052908,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Stryjno Pierwsze",
+    "wof:parent_id":1125391677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.83358,
+    51.07101,
+    22.83358,
+    51.07101
+],
+  "geometry": {"coordinates":[22.83358,51.07101],"type":"Point"}
+}

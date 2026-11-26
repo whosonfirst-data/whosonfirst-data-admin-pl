@@ -1,0 +1,76 @@
+{
+  "id": 9895052410,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.18306,50.92987,18.18306,50.92987",
+    "geom:latitude":50.92987,
+    "geom:longitude":18.18306,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11694956: name \"Ba\u017cany\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11694956"
+        },
+        {
+            "citation":"GeoNames populated place 11694956: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11694956"
+        },
+        {
+            "citation":"GeoNames populated place 11694956: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11694956"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125325859 (Gmina Kluczbork), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687313,
+        102079677,
+        102191581,
+        1125325859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11694956
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"0c61621bf4659be613f58621e43fcbc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079677,
+            "localadmin_id":1125325859,
+            "locality_id":9895052410,
+            "region_id":85687313
+        }
+    ],
+    "wof:id":9895052410,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Ba\u017cany",
+    "wof:parent_id":1125325859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.18306,
+    50.92987,
+    18.18306,
+    50.92987
+],
+  "geometry": {"coordinates":[18.18306,50.92987],"type":"Point"}
+}

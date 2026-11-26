@@ -1,0 +1,77 @@
+{
+  "id": 9895052288,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.80381,52.29929,20.80381,52.29929",
+    "geom:latitude":52.29929,
+    "geom:longitude":20.80381,
+    "gn:population":1500,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11694551: name \"Izabelin C\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11694551"
+        },
+        {
+            "citation":"GeoNames populated place 11694551: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11694551"
+        },
+        {
+            "citation":"GeoNames populated place 11694551: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11694551"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125402221 (Izabelin), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687257,
+        102079949,
+        102191581,
+        1125402221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11694551
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"7a4ae507df36e3c234aefbdfb9b25352",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079949,
+            "localadmin_id":1125402221,
+            "locality_id":9895052288,
+            "region_id":85687257
+        }
+    ],
+    "wof:id":9895052288,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Izabelin C",
+    "wof:parent_id":1125402221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.80381,
+    52.29929,
+    20.80381,
+    52.29929
+],
+  "geometry": {"coordinates":[20.80381,52.29929],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 9895053381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.45134,51.41964,17.45134,51.41964",
+    "geom:latitude":51.41964,
+    "geom:longitude":17.45134,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13192399: name \"Nowa Wie\u015b Goszcza\u0144ska\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13192399"
+        },
+        {
+            "citation":"GeoNames populated place 13192399: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13192399"
+        },
+        {
+            "citation":"GeoNames populated place 13192399: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13192399"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477751759 (Gmina Twardog\u00f3ra), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687301,
+        102079717,
+        102191581,
+        1477751759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13192399
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"c72a69fde6f51c147ff0b3173899d204",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079717,
+            "localadmin_id":1477751759,
+            "locality_id":9895053381,
+            "region_id":85687301
+        }
+    ],
+    "wof:id":9895053381,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Nowa Wie\u015b Goszcza\u0144ska",
+    "wof:parent_id":1477751759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.45134,
+    51.41964,
+    17.45134,
+    51.41964
+],
+  "geometry": {"coordinates":[17.45134,51.41964],"type":"Point"}
+}

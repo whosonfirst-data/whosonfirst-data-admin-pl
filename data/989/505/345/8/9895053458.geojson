@@ -1,0 +1,76 @@
+{
+  "id": 9895053458,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.64323,51.044,15.64323,51.044",
+    "geom:latitude":51.044,
+    "geom:longitude":15.64323,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13286540: name \"Marcz\u00f3w\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13286540"
+        },
+        {
+            "citation":"GeoNames populated place 13286540: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13286540"
+        },
+        {
+            "citation":"GeoNames populated place 13286540: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13286540"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125290235 (Gmina Wle\u0144), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687301,
+        102079649,
+        102191581,
+        1125290235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13286540
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"f02fc6341e5d3cbd9351a8d24bd6edbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079649,
+            "localadmin_id":1125290235,
+            "locality_id":9895053458,
+            "region_id":85687301
+        }
+    ],
+    "wof:id":9895053458,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Marcz\u00f3w",
+    "wof:parent_id":1125290235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.64323,
+    51.044,
+    15.64323,
+    51.044
+],
+  "geometry": {"coordinates":[15.64323,51.044],"type":"Point"}
+}

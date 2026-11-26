@@ -1,0 +1,77 @@
+{
+  "id": 9895052238,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.92579,50.04788,21.92579,50.04788",
+    "geom:latitude":50.04788,
+    "geom:longitude":21.92579,
+    "gn:population":2000,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 761085: name \"Przybysz\u00f3wka\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/761085"
+        },
+        {
+            "citation":"GeoNames populated place 761085: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/761085"
+        },
+        {
+            "citation":"GeoNames populated place 761085: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/761085"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125389309 (Rzesz\u00f3w), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687295,
+        102079529,
+        102191581,
+        1125389309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":761085
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"94c032a26e248cd1517ccdd105dbed44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079529,
+            "localadmin_id":1125389309,
+            "locality_id":9895052238,
+            "region_id":85687295
+        }
+    ],
+    "wof:id":9895052238,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Przybysz\u00f3wka",
+    "wof:parent_id":1125389309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.92579,
+    50.04788,
+    21.92579,
+    50.04788
+],
+  "geometry": {"coordinates":[21.92579,50.04788],"type":"Point"}
+}

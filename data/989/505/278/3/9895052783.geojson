@@ -1,0 +1,76 @@
+{
+  "id": 9895052783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.43277,51.1862,17.43277,51.1862",
+    "geom:latitude":51.1862,
+    "geom:longitude":17.43277,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11703532: name \"\u015awierzna\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11703532"
+        },
+        {
+            "citation":"GeoNames populated place 11703532: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11703532"
+        },
+        {
+            "citation":"GeoNames populated place 11703532: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11703532"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477752515 (Gmina Ole\u015bnica), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687301,
+        102079717,
+        102191581,
+        1477752515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11703532
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"5a2ee97f404a63a2f6c86b48953187e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079717,
+            "localadmin_id":1477752515,
+            "locality_id":9895052783,
+            "region_id":85687301
+        }
+    ],
+    "wof:id":9895052783,
+    "wof:lastmodified":1795735000,
+    "wof:name":"\u015awierzna",
+    "wof:parent_id":1477752515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.43277,
+    51.1862,
+    17.43277,
+    51.1862
+],
+  "geometry": {"coordinates":[17.43277,51.1862],"type":"Point"}
+}

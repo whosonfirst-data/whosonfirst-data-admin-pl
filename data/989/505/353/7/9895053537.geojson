@@ -1,0 +1,76 @@
+{
+  "id": 9895053537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.76475,51.21562,16.76475,51.21562",
+    "geom:latitude":51.21562,
+    "geom:longitude":16.76475,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13308904: name \"Bia\u0142k\u00f3w\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13308904"
+        },
+        {
+            "citation":"GeoNames populated place 13308904: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13308904"
+        },
+        {
+            "citation":"GeoNames populated place 13308904: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13308904"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125328549 (Mi\u0119kinia), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687301,
+        102079675,
+        102191581,
+        1125328549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13308904
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"05daf0c28951a9fcf56e4b4d0b14bbed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079675,
+            "localadmin_id":1125328549,
+            "locality_id":9895053537,
+            "region_id":85687301
+        }
+    ],
+    "wof:id":9895053537,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Bia\u0142k\u00f3w",
+    "wof:parent_id":1125328549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.76475,
+    51.21562,
+    16.76475,
+    51.21562
+],
+  "geometry": {"coordinates":[16.76475,51.21562],"type":"Point"}
+}

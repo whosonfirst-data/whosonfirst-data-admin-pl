@@ -1,0 +1,76 @@
+{
+  "id": 9895053218,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.13867,52.07768,17.13867,52.07768",
+    "geom:latitude":52.07768,
+    "geom:longitude":17.13867,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12175940: name \"\u0141\u0119\u017cek\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12175940"
+        },
+        {
+            "citation":"GeoNames populated place 12175940: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12175940"
+        },
+        {
+            "citation":"GeoNames populated place 12175940: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12175940"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125291927 (Gmina Ksi\u0105\u017c Wielkopolski), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687323,
+        102079865,
+        102191581,
+        1125291927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12175940
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"0a35a8c8c35243a3b6df08d8219578e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079865,
+            "localadmin_id":1125291927,
+            "locality_id":9895053218,
+            "region_id":85687323
+        }
+    ],
+    "wof:id":9895053218,
+    "wof:lastmodified":1795735000,
+    "wof:name":"\u0141\u0119\u017cek",
+    "wof:parent_id":1125291927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.13867,
+    52.07768,
+    17.13867,
+    52.07768
+],
+  "geometry": {"coordinates":[17.13867,52.07768],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 9895053231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.12186,49.5051,20.12186,49.5051",
+    "geom:latitude":49.5051,
+    "geom:longitude":20.12186,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12238059: name \"Zar\u0119bek Wy\u017cni\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12238059"
+        },
+        {
+            "citation":"GeoNames populated place 12238059: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12238059"
+        },
+        {
+            "citation":"GeoNames populated place 12238059: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12238059"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125393883 (Gmina Nowy Targ), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687291,
+        102079407,
+        102191581,
+        1125393883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12238059
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"3a8f1fa62198ca858adaa4866961432a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079407,
+            "localadmin_id":1125393883,
+            "locality_id":9895053231,
+            "region_id":85687291
+        }
+    ],
+    "wof:id":9895053231,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Zar\u0119bek Wy\u017cni",
+    "wof:parent_id":1125393883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.12186,
+    49.5051,
+    20.12186,
+    49.5051
+],
+  "geometry": {"coordinates":[20.12186,49.5051],"type":"Point"}
+}

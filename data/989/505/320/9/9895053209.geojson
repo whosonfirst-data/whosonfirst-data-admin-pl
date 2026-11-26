@@ -1,0 +1,76 @@
+{
+  "id": 9895053209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.09942,51.9168,16.09942,51.9168",
+    "geom:latitude":51.9168,
+    "geom:longitude":16.09942,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12175878: name \"\u015amieskowo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12175878"
+        },
+        {
+            "citation":"GeoNames populated place 12175878: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12175878"
+        },
+        {
+            "citation":"GeoNames populated place 12175878: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12175878"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125282343 (Gmina S\u0142awa), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687327,
+        102079817,
+        102191581,
+        1125282343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12175878
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"5c4732c17536c0314a7d9e2dfd257ea4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079817,
+            "localadmin_id":1125282343,
+            "locality_id":9895053209,
+            "region_id":85687327
+        }
+    ],
+    "wof:id":9895053209,
+    "wof:lastmodified":1795735000,
+    "wof:name":"\u015amieskowo",
+    "wof:parent_id":1125282343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.09942,
+    51.9168,
+    16.09942,
+    51.9168
+],
+  "geometry": {"coordinates":[16.09942,51.9168],"type":"Point"}
+}

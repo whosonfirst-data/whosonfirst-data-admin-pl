@@ -1,0 +1,77 @@
+{
+  "id": 9895053382,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.26879,50.15999,23.26879,50.15999",
+    "geom:latitude":50.15999,
+    "geom:longitude":23.26879,
+    "gn:population":56,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13192708: name \"Podlesie\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13192708"
+        },
+        {
+            "citation":"GeoNames populated place 13192708: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13192708"
+        },
+        {
+            "citation":"GeoNames populated place 13192708: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13192708"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477752061 (Gmina Lubacz\u00f3w), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687295,
+        102079623,
+        102191581,
+        1477752061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13192708
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"c1033dc72339a908bf0f05156bbf9a09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079623,
+            "localadmin_id":1477752061,
+            "locality_id":9895053382,
+            "region_id":85687295
+        }
+    ],
+    "wof:id":9895053382,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Podlesie",
+    "wof:parent_id":1477752061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.26879,
+    50.15999,
+    23.26879,
+    50.15999
+],
+  "geometry": {"coordinates":[23.26879,50.15999],"type":"Point"}
+}

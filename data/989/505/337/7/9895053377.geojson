@@ -1,0 +1,76 @@
+{
+  "id": 9895053377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.85904,53.64874,18.85904,53.64874",
+    "geom:latitude":53.64874,
+    "geom:longitude":18.85904,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13118922: name \"Karpiny\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13118922"
+        },
+        {
+            "citation":"GeoNames populated place 13118922: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13118922"
+        },
+        {
+            "citation":"GeoNames populated place 13118922: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13118922"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477752671 (Sadlinki), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687267,
+        102080159,
+        102191581,
+        1477752671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13118922
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"3926b5c993070c961be3c1278a73e8f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080159,
+            "localadmin_id":1477752671,
+            "locality_id":9895053377,
+            "region_id":85687267
+        }
+    ],
+    "wof:id":9895053377,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Karpiny",
+    "wof:parent_id":1477752671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.85904,
+    53.64874,
+    18.85904,
+    53.64874
+],
+  "geometry": {"coordinates":[18.85904,53.64874],"type":"Point"}
+}

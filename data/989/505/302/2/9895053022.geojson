@@ -1,0 +1,76 @@
+{
+  "id": 9895053022,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.32312,51.36755,17.32312,51.36755",
+    "geom:latitude":51.36755,
+    "geom:longitude":17.32312,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11746200: name \"Malerz\u00f3w\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11746200"
+        },
+        {
+            "citation":"GeoNames populated place 11746200: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11746200"
+        },
+        {
+            "citation":"GeoNames populated place 11746200: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11746200"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477753019 (Dobroszyce), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687301,
+        102079717,
+        102191581,
+        1477753019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11746200
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"fa935ad3d9cda0629e1fb1dbbc60bbc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079717,
+            "localadmin_id":1477753019,
+            "locality_id":9895053022,
+            "region_id":85687301
+        }
+    ],
+    "wof:id":9895053022,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Malerz\u00f3w",
+    "wof:parent_id":1477753019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.32312,
+    51.36755,
+    17.32312,
+    51.36755
+],
+  "geometry": {"coordinates":[17.32312,51.36755],"type":"Point"}
+}

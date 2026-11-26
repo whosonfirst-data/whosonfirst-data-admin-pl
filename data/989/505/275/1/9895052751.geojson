@@ -1,0 +1,76 @@
+{
+  "id": 9895052751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.71774,51.71001,21.71774,51.71001",
+    "geom:latitude":51.71001,
+    "geom:longitude":21.71774,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11696406: name \"Kale\u0144 Drugi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11696406"
+        },
+        {
+            "citation":"GeoNames populated place 11696406: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11696406"
+        },
+        {
+            "citation":"GeoNames populated place 11696406: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11696406"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125301125 (Sobolew), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687257,
+        102079901,
+        102191581,
+        1125301125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11696406
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"6d860b207f2c99125ca748738fe94619",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079901,
+            "localadmin_id":1125301125,
+            "locality_id":9895052751,
+            "region_id":85687257
+        }
+    ],
+    "wof:id":9895052751,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Kale\u0144 Drugi",
+    "wof:parent_id":1125301125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.71774,
+    51.71001,
+    21.71774,
+    51.71001
+],
+  "geometry": {"coordinates":[21.71774,51.71001],"type":"Point"}
+}

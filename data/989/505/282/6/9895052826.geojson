@@ -1,0 +1,76 @@
+{
+  "id": 9895052826,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.67688,51.90658,21.67688,51.90658",
+    "geom:latitude":51.90658,
+    "geom:longitude":21.67688,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11703699: name \"Unin-Kolonia\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11703699"
+        },
+        {
+            "citation":"GeoNames populated place 11703699: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11703699"
+        },
+        {
+            "citation":"GeoNames populated place 11703699: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11703699"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477752891 (Gmina Garwolin), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687257,
+        102079901,
+        102191581,
+        1477752891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11703699
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"e2d9f61984001b9c37ff0ec568403ed3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079901,
+            "localadmin_id":1477752891,
+            "locality_id":9895052826,
+            "region_id":85687257
+        }
+    ],
+    "wof:id":9895052826,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Unin-Kolonia",
+    "wof:parent_id":1477752891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.67688,
+    51.90658,
+    21.67688,
+    51.90658
+],
+  "geometry": {"coordinates":[21.67688,51.90658],"type":"Point"}
+}

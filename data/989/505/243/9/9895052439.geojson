@@ -1,0 +1,76 @@
+{
+  "id": 9895052439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.00251,51.65733,21.00251,51.65733",
+    "geom:latitude":51.65733,
+    "geom:longitude":21.00251,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695092: name \"Kolonia Brze\u017ace\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695092"
+        },
+        {
+            "citation":"GeoNames populated place 11695092: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695092"
+        },
+        {
+            "citation":"GeoNames populated place 11695092: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695092"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477751865 (Gmina Bia\u0142obrzegi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687257,
+        102079839,
+        102191581,
+        1477751865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695092
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"6af102ed97c0e126f63d94104adee302",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079839,
+            "localadmin_id":1477751865,
+            "locality_id":9895052439,
+            "region_id":85687257
+        }
+    ],
+    "wof:id":9895052439,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Kolonia Brze\u017ace",
+    "wof:parent_id":1477751865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.00251,
+    51.65733,
+    21.00251,
+    51.65733
+],
+  "geometry": {"coordinates":[21.00251,51.65733],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 9895053654,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.36936,50.66563,17.36936,50.66563",
+    "geom:latitude":50.66563,
+    "geom:longitude":17.36936,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13410789: name \"P\u00f3\u0142wiosek\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13410789"
+        },
+        {
+            "citation":"GeoNames populated place 13410789: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13410789"
+        },
+        {
+            "citation":"GeoNames populated place 13410789: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13410789"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125366861 (Skoroszyce), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687313,
+        102079569,
+        102191581,
+        1125366861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13410789
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"24eea185028d6bdefa2c307348f0ddfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079569,
+            "localadmin_id":1125366861,
+            "locality_id":9895053654,
+            "region_id":85687313
+        }
+    ],
+    "wof:id":9895053654,
+    "wof:lastmodified":1795735000,
+    "wof:name":"P\u00f3\u0142wiosek",
+    "wof:parent_id":1125366861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.36936,
+    50.66563,
+    17.36936,
+    50.66563
+],
+  "geometry": {"coordinates":[17.36936,50.66563],"type":"Point"}
+}

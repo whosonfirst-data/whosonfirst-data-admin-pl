@@ -1,0 +1,76 @@
+{
+  "id": 9895053446,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.23503,52.98022,18.23503,52.98022",
+    "geom:latitude":52.98022,
+    "geom:longitude":18.23503,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13285655: name \"Mittenwalde\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13285655"
+        },
+        {
+            "citation":"GeoNames populated place 13285655: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13285655"
+        },
+        {
+            "citation":"GeoNames populated place 13285655: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13285655"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477751315 (Rojewo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687319,
+        102080013,
+        102191581,
+        1477751315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13285655
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"32a2bc260dc7cba8b77ce6e8a7ac2c67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080013,
+            "localadmin_id":1477751315,
+            "locality_id":9895053446,
+            "region_id":85687319
+        }
+    ],
+    "wof:id":9895053446,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Mittenwalde",
+    "wof:parent_id":1477751315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.23503,
+    52.98022,
+    18.23503,
+    52.98022
+],
+  "geometry": {"coordinates":[18.23503,52.98022],"type":"Point"}
+}

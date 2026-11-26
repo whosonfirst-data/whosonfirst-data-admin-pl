@@ -1,0 +1,76 @@
+{
+  "id": 9895052984,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.22703,50.44116,20.22703,50.44116",
+    "geom:latitude":50.44116,
+    "geom:longitude":20.22703,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11704206: name \"Ksi\u0105\u017c Ma\u0142y-Kolonia\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11704206"
+        },
+        {
+            "citation":"GeoNames populated place 11704206: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11704206"
+        },
+        {
+            "citation":"GeoNames populated place 11704206: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11704206"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125344135 (Ksi\u0105\u017c Wielki), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687291,
+        102079579,
+        102191581,
+        1125344135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11704206
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"fca8de6c472da3772b0ffba1269f4ba2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079579,
+            "localadmin_id":1125344135,
+            "locality_id":9895052984,
+            "region_id":85687291
+        }
+    ],
+    "wof:id":9895052984,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Ksi\u0105\u017c Ma\u0142y-Kolonia",
+    "wof:parent_id":1125344135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.22703,
+    50.44116,
+    20.22703,
+    50.44116
+],
+  "geometry": {"coordinates":[20.22703,50.44116],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 9895052920,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.61701,53.65893,14.61701,53.65893",
+    "geom:latitude":53.65893,
+    "geom:longitude":14.61701,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11704021: name \"Stepniczka\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11704021"
+        },
+        {
+            "citation":"GeoNames populated place 11704021: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11704021"
+        },
+        {
+            "citation":"GeoNames populated place 11704021: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11704021"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125356007 (Gmina Stepnica), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687271,
+        102080123,
+        102191581,
+        1125356007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11704021
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"cbcff56af60e23fd3c7ad09395d2d0ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080123,
+            "localadmin_id":1125356007,
+            "locality_id":9895052920,
+            "region_id":85687271
+        }
+    ],
+    "wof:id":9895052920,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Stepniczka",
+    "wof:parent_id":1125356007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.61701,
+    53.65893,
+    14.61701,
+    53.65893
+],
+  "geometry": {"coordinates":[14.61701,53.65893],"type":"Point"}
+}

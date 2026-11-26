@@ -1,0 +1,76 @@
+{
+  "id": 9895052687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.78337,52.61493,19.78337,52.61493",
+    "geom:latitude":52.61493,
+    "geom:longitude":19.78337,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11696146: name \"Ciachcin Nowy\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11696146"
+        },
+        {
+            "citation":"GeoNames populated place 11696146: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11696146"
+        },
+        {
+            "citation":"GeoNames populated place 11696146: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11696146"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125304653 (Bielsk), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687257,
+        102080003,
+        102191581,
+        1125304653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11696146
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"ae14f0553bd8607fa257c57e18e5b9a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080003,
+            "localadmin_id":1125304653,
+            "locality_id":9895052687,
+            "region_id":85687257
+        }
+    ],
+    "wof:id":9895052687,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Ciachcin Nowy",
+    "wof:parent_id":1125304653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.78337,
+    52.61493,
+    19.78337,
+    52.61493
+],
+  "geometry": {"coordinates":[19.78337,52.61493],"type":"Point"}
+}

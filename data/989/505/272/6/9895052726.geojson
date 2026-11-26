@@ -1,0 +1,76 @@
+{
+  "id": 9895052726,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.8493,51.8856,20.8493,51.8856",
+    "geom:latitude":51.8856,
+    "geom:longitude":20.8493,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11696371: name \"Wola Worowska\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11696371"
+        },
+        {
+            "citation":"GeoNames populated place 11696371: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11696371"
+        },
+        {
+            "citation":"GeoNames populated place 11696371: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11696371"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125310573 (Gmina Gr\u00f3jec), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687257,
+        102079877,
+        102191581,
+        1125310573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11696371
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"e90fcedbc4a8deae5b8956a4387ae12b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079877,
+            "localadmin_id":1125310573,
+            "locality_id":9895052726,
+            "region_id":85687257
+        }
+    ],
+    "wof:id":9895052726,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Wola Worowska",
+    "wof:parent_id":1125310573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.8493,
+    51.8856,
+    20.8493,
+    51.8856
+],
+  "geometry": {"coordinates":[20.8493,51.8856],"type":"Point"}
+}

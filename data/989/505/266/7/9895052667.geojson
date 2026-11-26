@@ -1,0 +1,76 @@
+{
+  "id": 9895052667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.74013,53.56952,20.74013,53.56952",
+    "geom:latitude":53.56952,
+    "geom:longitude":20.74013,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11696061: name \"Burd\u0105g\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11696061"
+        },
+        {
+            "citation":"GeoNames populated place 11696061: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11696061"
+        },
+        {
+            "citation":"GeoNames populated place 11696061: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11696061"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125343243 (Jedwabno), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687305,
+        102080167,
+        102191581,
+        1125343243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11696061
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"844b7f5c91ffea6be6b66004aa8cbaa9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080167,
+            "localadmin_id":1125343243,
+            "locality_id":9895052667,
+            "region_id":85687305
+        }
+    ],
+    "wof:id":9895052667,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Burd\u0105g",
+    "wof:parent_id":1125343243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.74013,
+    53.56952,
+    20.74013,
+    53.56952
+],
+  "geometry": {"coordinates":[20.74013,53.56952],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 9895053637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.8876,50.83765,15.8876,50.83765",
+    "geom:latitude":50.83765,
+    "geom:longitude":15.8876,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13405754: name \"Stru\u017cnica\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13405754"
+        },
+        {
+            "citation":"GeoNames populated place 13405754: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13405754"
+        },
+        {
+            "citation":"GeoNames populated place 13405754: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13405754"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125304369 (Mys\u0142akowice), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687301,
+        102079617,
+        102191581,
+        1125304369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13405754
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"c0086833bfb83ec2aff4f14c374fba67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079617,
+            "localadmin_id":1125304369,
+            "locality_id":9895053637,
+            "region_id":85687301
+        }
+    ],
+    "wof:id":9895053637,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Stru\u017cnica",
+    "wof:parent_id":1125304369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.8876,
+    50.83765,
+    15.8876,
+    50.83765
+],
+  "geometry": {"coordinates":[15.8876,50.83765],"type":"Point"}
+}

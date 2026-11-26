@@ -1,0 +1,76 @@
+{
+  "id": 9895052614,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.18113,50.57242,18.18113,50.57242",
+    "geom:latitude":50.57242,
+    "geom:longitude":18.18113,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695900: name \"Ligota Czamborowa\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695900"
+        },
+        {
+            "citation":"GeoNames populated place 11695900: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695900"
+        },
+        {
+            "citation":"GeoNames populated place 11695900: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695900"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125289399 (Izbicko), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687313,
+        102079587,
+        102191581,
+        1125289399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695900
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"69d3c1f8948f36c569bef312dc296b6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079587,
+            "localadmin_id":1125289399,
+            "locality_id":9895052614,
+            "region_id":85687313
+        }
+    ],
+    "wof:id":9895052614,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Ligota Czamborowa",
+    "wof:parent_id":1125289399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.18113,
+    50.57242,
+    18.18113,
+    50.57242
+],
+  "geometry": {"coordinates":[18.18113,50.57242],"type":"Point"}
+}

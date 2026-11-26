@@ -1,0 +1,76 @@
+{
+  "id": 9895052429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.01891,50.793,18.01891,50.793",
+    "geom:latitude":50.793,
+    "geom:longitude":18.01891,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695081: name \"D\u0105br\u00f3wka \u0141ubnia\u0144ska\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695081"
+        },
+        {
+            "citation":"GeoNames populated place 11695081: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695081"
+        },
+        {
+            "citation":"GeoNames populated place 11695081: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695081"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477752589 (\u0141ubniany), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687313,
+        102079627,
+        102191581,
+        1477752589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695081
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"eaf7a54f8099ebc620df9ea33684f7d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079627,
+            "localadmin_id":1477752589,
+            "locality_id":9895052429,
+            "region_id":85687313
+        }
+    ],
+    "wof:id":9895052429,
+    "wof:lastmodified":1795735000,
+    "wof:name":"D\u0105br\u00f3wka \u0141ubnia\u0144ska",
+    "wof:parent_id":1477752589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.01891,
+    50.793,
+    18.01891,
+    50.793
+],
+  "geometry": {"coordinates":[18.01891,50.793],"type":"Point"}
+}

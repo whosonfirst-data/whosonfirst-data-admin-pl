@@ -1,0 +1,76 @@
+{
+  "id": 9895052795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.59253,50.77522,22.59253,50.77522",
+    "geom:latitude":50.77522,
+    "geom:longitude":22.59253,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11703572: name \"Chrzan\u00f3w Trzeci\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11703572"
+        },
+        {
+            "citation":"GeoNames populated place 11703572: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11703572"
+        },
+        {
+            "citation":"GeoNames populated place 11703572: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11703572"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125274849 (Chrzan\u00f3w), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687309,
+        102079697,
+        102191581,
+        1125274849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11703572
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"b1ffac29f1eb2d5bc97bc2645de2355a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079697,
+            "localadmin_id":1125274849,
+            "locality_id":9895052795,
+            "region_id":85687309
+        }
+    ],
+    "wof:id":9895052795,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Chrzan\u00f3w Trzeci",
+    "wof:parent_id":1125274849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.59253,
+    50.77522,
+    22.59253,
+    50.77522
+],
+  "geometry": {"coordinates":[22.59253,50.77522],"type":"Point"}
+}

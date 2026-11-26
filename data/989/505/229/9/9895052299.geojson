@@ -1,0 +1,76 @@
+{
+  "id": 9895052299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.16496,50.96399,19.16496,50.96399",
+    "geom:latitude":50.96399,
+    "geom:longitude":19.16496,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11694568: name \"Cykarzew P\u00f3\u0142nocny\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11694568"
+        },
+        {
+            "citation":"GeoNames populated place 11694568: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11694568"
+        },
+        {
+            "citation":"GeoNames populated place 11694568: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11694568"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477752747 (Mykan\u00f3w), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687277,
+        102079663,
+        102191581,
+        1477752747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11694568
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"1afc1c1e0449be1328e9a30c07548c01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079663,
+            "localadmin_id":1477752747,
+            "locality_id":9895052299,
+            "region_id":85687277
+        }
+    ],
+    "wof:id":9895052299,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Cykarzew P\u00f3\u0142nocny",
+    "wof:parent_id":1477752747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.16496,
+    50.96399,
+    19.16496,
+    50.96399
+],
+  "geometry": {"coordinates":[19.16496,50.96399],"type":"Point"}
+}

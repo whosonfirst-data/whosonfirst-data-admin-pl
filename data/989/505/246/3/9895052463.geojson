@@ -1,0 +1,76 @@
+{
+  "id": 9895052463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.31835,52.52969,23.31835,52.52969",
+    "geom:latitude":52.52969,
+    "geom:longitude":23.31835,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695118: name \"Czeremcha-Wie\u015b\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695118"
+        },
+        {
+            "citation":"GeoNames populated place 11695118: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695118"
+        },
+        {
+            "citation":"GeoNames populated place 11695118: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695118"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125304355 (Czeremcha), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687283,
+        102080091,
+        102191581,
+        1125304355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695118
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"92f96349656fe8b7d916ef82d7abb1d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080091,
+            "localadmin_id":1125304355,
+            "locality_id":9895052463,
+            "region_id":85687283
+        }
+    ],
+    "wof:id":9895052463,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Czeremcha-Wie\u015b",
+    "wof:parent_id":1125304355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.31835,
+    52.52969,
+    23.31835,
+    52.52969
+],
+  "geometry": {"coordinates":[23.31835,52.52969],"type":"Point"}
+}

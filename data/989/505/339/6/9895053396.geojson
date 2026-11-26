@@ -1,0 +1,76 @@
+{
+  "id": 9895053396,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.45106,54.16823,19.45106,54.16823",
+    "geom:latitude":54.16823,
+    "geom:longitude":19.45106,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13237081: name \"Elbl\u0105g-D\u0119bica\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13237081"
+        },
+        {
+            "citation":"GeoNames populated place 13237081: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13237081"
+        },
+        {
+            "citation":"GeoNames populated place 13237081: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13237081"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125294901 (Gmina Elbl\u0105g), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687305,
+        102080211,
+        102191581,
+        1125294901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13237081
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"2881b4d2a8f46e1b55be3219202ce54f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080211,
+            "localadmin_id":1125294901,
+            "locality_id":9895053396,
+            "region_id":85687305
+        }
+    ],
+    "wof:id":9895053396,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Elbl\u0105g-D\u0119bica",
+    "wof:parent_id":1125294901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.45106,
+    54.16823,
+    19.45106,
+    54.16823
+],
+  "geometry": {"coordinates":[19.45106,54.16823],"type":"Point"}
+}

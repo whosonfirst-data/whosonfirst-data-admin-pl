@@ -1,0 +1,76 @@
+{
+  "id": 9895053137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.64947,51.99643,20.64947,51.99643",
+    "geom:latitude":51.99643,
+    "geom:longitude":20.64947,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12022218: name \"Boles\u0142awek\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12022218"
+        },
+        {
+            "citation":"GeoNames populated place 12022218: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12022218"
+        },
+        {
+            "citation":"GeoNames populated place 12022218: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12022218"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125382183 (\u017babia Wola), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687257,
+        102079909,
+        102191581,
+        1125382183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12022218
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"84be62fa93114c7b62ab7cb309e45b82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079909,
+            "localadmin_id":1125382183,
+            "locality_id":9895053137,
+            "region_id":85687257
+        }
+    ],
+    "wof:id":9895053137,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Boles\u0142awek",
+    "wof:parent_id":1125382183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.64947,
+    51.99643,
+    20.64947,
+    51.99643
+],
+  "geometry": {"coordinates":[20.64947,51.99643],"type":"Point"}
+}

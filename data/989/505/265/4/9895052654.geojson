@@ -1,0 +1,76 @@
+{
+  "id": 9895052654,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.98646,51.90234,17.98646,51.90234",
+    "geom:latitude":51.90234,
+    "geom:longitude":17.98646,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11696045: name \"Jank\u00f3w Pierwszy\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11696045"
+        },
+        {
+            "citation":"GeoNames populated place 11696045: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11696045"
+        },
+        {
+            "citation":"GeoNames populated place 11696045: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11696045"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125304747 (Blizan\u00f3w), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687323,
+        102079841,
+        102191581,
+        1125304747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11696045
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"cf29f84bc78d90f37264a2919c1685d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079841,
+            "localadmin_id":1125304747,
+            "locality_id":9895052654,
+            "region_id":85687323
+        }
+    ],
+    "wof:id":9895052654,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Jank\u00f3w Pierwszy",
+    "wof:parent_id":1125304747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.98646,
+    51.90234,
+    17.98646,
+    51.90234
+],
+  "geometry": {"coordinates":[17.98646,51.90234],"type":"Point"}
+}

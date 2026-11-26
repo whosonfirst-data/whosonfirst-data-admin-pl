@@ -1,0 +1,76 @@
+{
+  "id": 9895052810,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.98951,52.076,20.98951,52.076",
+    "geom:latitude":52.076,
+    "geom:longitude":20.98951,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11703588: name \"\u0141oziska\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11703588"
+        },
+        {
+            "citation":"GeoNames populated place 11703588: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11703588"
+        },
+        {
+            "citation":"GeoNames populated place 11703588: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11703588"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125356333 (Lesznowola), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687257,
+        102079911,
+        102191581,
+        1125356333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11703588
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"0df482ff22561a832ba66d39d9730c98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079911,
+            "localadmin_id":1125356333,
+            "locality_id":9895052810,
+            "region_id":85687257
+        }
+    ],
+    "wof:id":9895052810,
+    "wof:lastmodified":1795735000,
+    "wof:name":"\u0141oziska",
+    "wof:parent_id":1125356333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.98951,
+    52.076,
+    20.98951,
+    52.076
+],
+  "geometry": {"coordinates":[20.98951,52.076],"type":"Point"}
+}

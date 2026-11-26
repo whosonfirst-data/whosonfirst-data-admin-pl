@@ -1,0 +1,76 @@
+{
+  "id": 9895053432,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.76057,52.05121,15.76057,52.05121",
+    "geom:latitude":52.05121,
+    "geom:longitude":15.76057,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13264630: name \"Ostrzyce\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13264630"
+        },
+        {
+            "citation":"GeoNames populated place 13264630: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13264630"
+        },
+        {
+            "citation":"GeoNames populated place 13264630: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13264630"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125350419 (Trzebiech\u00f3w), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687327,
+        102079851,
+        102191581,
+        1125350419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13264630
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"c699c9259dec7ac5c3a723eeac5e2b39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079851,
+            "localadmin_id":1125350419,
+            "locality_id":9895053432,
+            "region_id":85687327
+        }
+    ],
+    "wof:id":9895053432,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Ostrzyce",
+    "wof:parent_id":1125350419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.76057,
+    52.05121,
+    15.76057,
+    52.05121
+],
+  "geometry": {"coordinates":[15.76057,52.05121],"type":"Point"}
+}

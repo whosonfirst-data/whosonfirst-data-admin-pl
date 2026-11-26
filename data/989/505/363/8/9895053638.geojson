@@ -1,0 +1,76 @@
+{
+  "id": 9895053638,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.56253,50.99795,15.56253,50.99795",
+    "geom:latitude":50.99795,
+    "geom:longitude":15.56253,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13405759: name \"Wojciech\u00f3w\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13405759"
+        },
+        {
+            "citation":"GeoNames populated place 13405759: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13405759"
+        },
+        {
+            "citation":"GeoNames populated place 13405759: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13405759"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125302171 (Gmina Lubomierz), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687301,
+        102079649,
+        102191581,
+        1125302171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13405759
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"b838bcd860503be40f1d354b9cbed653",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079649,
+            "localadmin_id":1125302171,
+            "locality_id":9895053638,
+            "region_id":85687301
+        }
+    ],
+    "wof:id":9895053638,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Wojciech\u00f3w",
+    "wof:parent_id":1125302171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.56253,
+    50.99795,
+    15.56253,
+    50.99795
+],
+  "geometry": {"coordinates":[15.56253,50.99795],"type":"Point"}
+}

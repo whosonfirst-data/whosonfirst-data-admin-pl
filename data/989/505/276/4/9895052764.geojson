@@ -1,0 +1,76 @@
+{
+  "id": 9895052764,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.40994,51.09263,17.40994,51.09263",
+    "geom:latitude":51.09263,
+    "geom:longitude":17.40994,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11703512: name \"Gr\u0119dzina\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11703512"
+        },
+        {
+            "citation":"GeoNames populated place 11703512: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11703512"
+        },
+        {
+            "citation":"GeoNames populated place 11703512: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11703512"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477751311 (Gmina Jelcz-Laskowice), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687301,
+        102079651,
+        102191581,
+        1477751311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11703512
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"885df6b0bd2e30871cf114de7e0fc2be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079651,
+            "localadmin_id":1477751311,
+            "locality_id":9895052764,
+            "region_id":85687301
+        }
+    ],
+    "wof:id":9895052764,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Gr\u0119dzina",
+    "wof:parent_id":1477751311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.40994,
+    51.09263,
+    17.40994,
+    51.09263
+],
+  "geometry": {"coordinates":[17.40994,51.09263],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 9895052657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.50236,50.40751,22.50236,50.40751",
+    "geom:latitude":50.40751,
+    "geom:longitude":22.50236,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11696048: name \"Lipiny G\u00f3rne-Lewki\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11696048"
+        },
+        {
+            "citation":"GeoNames populated place 11696048: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11696048"
+        },
+        {
+            "citation":"GeoNames populated place 11696048: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11696048"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125288759 (Potok G\u00f3rny), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687309,
+        102079699,
+        102191581,
+        1125288759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11696048
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"c31f63a91c1e9a7f961527d2c16c8425",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079699,
+            "localadmin_id":1125288759,
+            "locality_id":9895052657,
+            "region_id":85687309
+        }
+    ],
+    "wof:id":9895052657,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Lipiny G\u00f3rne-Lewki",
+    "wof:parent_id":1125288759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.50236,
+    50.40751,
+    22.50236,
+    50.40751
+],
+  "geometry": {"coordinates":[22.50236,50.40751],"type":"Point"}
+}

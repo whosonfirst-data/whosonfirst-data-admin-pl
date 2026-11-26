@@ -1,0 +1,76 @@
+{
+  "id": 9895052610,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.12389,50.84091,22.12389,50.84091",
+    "geom:latitude":50.84091,
+    "geom:longitude":22.12389,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695895: name \"Wola Trzydnicka\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695895"
+        },
+        {
+            "citation":"GeoNames populated place 11695895: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695895"
+        },
+        {
+            "citation":"GeoNames populated place 11695895: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695895"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125350331 (Trzydnik Du\u017cy), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687309,
+        102079721,
+        102191581,
+        1125350331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695895
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"ccdd5b463d5421ab1e84a8887d08694a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079721,
+            "localadmin_id":1125350331,
+            "locality_id":9895052610,
+            "region_id":85687309
+        }
+    ],
+    "wof:id":9895052610,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Wola Trzydnicka",
+    "wof:parent_id":1125350331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.12389,
+    50.84091,
+    22.12389,
+    50.84091
+],
+  "geometry": {"coordinates":[22.12389,50.84091],"type":"Point"}
+}

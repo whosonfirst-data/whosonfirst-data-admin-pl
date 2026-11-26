@@ -1,0 +1,76 @@
+{
+  "id": 9895053237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.96504,52.49755,19.96504,52.49755",
+    "geom:latitude":52.49755,
+    "geom:longitude":19.96504,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12420809: name \"Stanowo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12420809"
+        },
+        {
+            "citation":"GeoNames populated place 12420809: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12420809"
+        },
+        {
+            "citation":"GeoNames populated place 12420809: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12420809"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125288959 (Bodzan\u00f3w), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687257,
+        102080003,
+        102191581,
+        1125288959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12420809
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"c9226e97116613c34f434dc5108fb9ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080003,
+            "localadmin_id":1125288959,
+            "locality_id":9895053237,
+            "region_id":85687257
+        }
+    ],
+    "wof:id":9895053237,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Stanowo",
+    "wof:parent_id":1125288959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.96504,
+    52.49755,
+    19.96504,
+    52.49755
+],
+  "geometry": {"coordinates":[19.96504,52.49755],"type":"Point"}
+}

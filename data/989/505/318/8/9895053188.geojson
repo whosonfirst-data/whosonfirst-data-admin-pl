@@ -1,0 +1,76 @@
+{
+  "id": 9895053188,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.84194,53.22362,17.84194,53.22362",
+    "geom:latitude":53.22362,
+    "geom:longitude":17.84194,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12173188: name \"Piotrk\u00f3wko\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12173188"
+        },
+        {
+            "citation":"GeoNames populated place 12173188: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12173188"
+        },
+        {
+            "citation":"GeoNames populated place 12173188: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12173188"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125324371 (Sicienko), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687319,
+        102080085,
+        102191581,
+        1125324371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12173188
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"ca500f8cd656e08a0452b55be54ac370",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080085,
+            "localadmin_id":1125324371,
+            "locality_id":9895053188,
+            "region_id":85687319
+        }
+    ],
+    "wof:id":9895053188,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Piotrk\u00f3wko",
+    "wof:parent_id":1125324371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.84194,
+    53.22362,
+    17.84194,
+    53.22362
+],
+  "geometry": {"coordinates":[17.84194,53.22362],"type":"Point"}
+}

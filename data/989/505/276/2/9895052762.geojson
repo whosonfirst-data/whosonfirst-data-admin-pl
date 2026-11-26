@@ -1,0 +1,76 @@
+{
+  "id": 9895052762,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.74419,53.82285,16.74419,53.82285",
+    "geom:latitude":53.82285,
+    "geom:longitude":16.74419,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11703510: name \"Stepno\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11703510"
+        },
+        {
+            "citation":"GeoNames populated place 11703510: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11703510"
+        },
+        {
+            "citation":"GeoNames populated place 11703510: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11703510"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125338667 (Gmina Bia\u0142y B\u00f3r), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687271,
+        102080155,
+        102191581,
+        1125338667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11703510
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"8f0d0100631efd9be2413e64f4b6f211",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080155,
+            "localadmin_id":1125338667,
+            "locality_id":9895052762,
+            "region_id":85687271
+        }
+    ],
+    "wof:id":9895052762,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Stepno",
+    "wof:parent_id":1125338667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.74419,
+    53.82285,
+    16.74419,
+    53.82285
+],
+  "geometry": {"coordinates":[16.74419,53.82285],"type":"Point"}
+}

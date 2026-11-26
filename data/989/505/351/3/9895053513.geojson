@@ -1,0 +1,76 @@
+{
+  "id": 9895053513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.62325,51.83993,15.62325,51.83993",
+    "geom:latitude":51.83993,
+    "geom:longitude":15.62325,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13308672: name \"\u0141ugi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13308672"
+        },
+        {
+            "citation":"GeoNames populated place 13308672: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13308672"
+        },
+        {
+            "citation":"GeoNames populated place 13308672: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13308672"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125305963 (Gmina Oty\u0144), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687327,
+        102079825,
+        102191581,
+        1125305963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13308672
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"00b047e295d84c5c8efd389a09cd1c5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079825,
+            "localadmin_id":1125305963,
+            "locality_id":9895053513,
+            "region_id":85687327
+        }
+    ],
+    "wof:id":9895053513,
+    "wof:lastmodified":1795735000,
+    "wof:name":"\u0141ugi",
+    "wof:parent_id":1125305963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.62325,
+    51.83993,
+    15.62325,
+    51.83993
+],
+  "geometry": {"coordinates":[15.62325,51.83993],"type":"Point"}
+}

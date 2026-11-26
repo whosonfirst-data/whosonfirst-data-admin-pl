@@ -1,0 +1,76 @@
+{
+  "id": 9895052616,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.11077,50.86239,23.11077,50.86239",
+    "geom:latitude":50.86239,
+    "geom:longitude":23.11077,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695902: name \"Tarzymiechy Pierwsze\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695902"
+        },
+        {
+            "citation":"GeoNames populated place 11695902: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695902"
+        },
+        {
+            "citation":"GeoNames populated place 11695902: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695902"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125304377 (Izbica), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687309,
+        102079745,
+        102191581,
+        1125304377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695902
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"f97e75956f8b4e78027dba64d5fabcd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079745,
+            "localadmin_id":1125304377,
+            "locality_id":9895052616,
+            "region_id":85687309
+        }
+    ],
+    "wof:id":9895052616,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Tarzymiechy Pierwsze",
+    "wof:parent_id":1125304377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.11077,
+    50.86239,
+    23.11077,
+    50.86239
+],
+  "geometry": {"coordinates":[23.11077,50.86239],"type":"Point"}
+}

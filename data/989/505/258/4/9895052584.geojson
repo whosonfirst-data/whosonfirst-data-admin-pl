@@ -1,0 +1,76 @@
+{
+  "id": 9895052584,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.2253,50.62132,19.2253,50.62132",
+    "geom:latitude":50.62132,
+    "geom:longitude":19.2253,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695728: name \"Nowa Ku\u017anica\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695728"
+        },
+        {
+            "citation":"GeoNames populated place 11695728: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695728"
+        },
+        {
+            "citation":"GeoNames populated place 11695728: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695728"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125339241 (Gmina Kozieg\u0142owy), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687277,
+        102079605,
+        102191581,
+        1125339241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695728
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"82fdbdbe6643e854d301dcbfb2c3f296",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079605,
+            "localadmin_id":1125339241,
+            "locality_id":9895052584,
+            "region_id":85687277
+        }
+    ],
+    "wof:id":9895052584,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Nowa Ku\u017anica",
+    "wof:parent_id":1125339241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.2253,
+    50.62132,
+    19.2253,
+    50.62132
+],
+  "geometry": {"coordinates":[19.2253,50.62132],"type":"Point"}
+}

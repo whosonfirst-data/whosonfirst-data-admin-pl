@@ -1,0 +1,76 @@
+{
+  "id": 9895052902,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.04345,51.25611,21.04345,51.25611",
+    "geom:latitude":51.25611,
+    "geom:longitude":21.04345,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11703999: name \"Rzeczk\u00f3w-Kolonia\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11703999"
+        },
+        {
+            "citation":"GeoNames populated place 11703999: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11703999"
+        },
+        {
+            "citation":"GeoNames populated place 11703999: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11703999"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125294835 (Wierzbica), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687257,
+        102079805,
+        102191581,
+        1125294835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11703999
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"6df9574f47b512c1795bef6fc500e1a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079805,
+            "localadmin_id":1125294835,
+            "locality_id":9895052902,
+            "region_id":85687257
+        }
+    ],
+    "wof:id":9895052902,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Rzeczk\u00f3w-Kolonia",
+    "wof:parent_id":1125294835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.04345,
+    51.25611,
+    21.04345,
+    51.25611
+],
+  "geometry": {"coordinates":[21.04345,51.25611],"type":"Point"}
+}

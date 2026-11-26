@@ -1,0 +1,76 @@
+{
+  "id": 9895053388,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.92067,54.32848,20.92067,54.32848",
+    "geom:latitude":54.32848,
+    "geom:longitude":20.92067,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13236952: name \"Poniki\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13236952"
+        },
+        {
+            "citation":"GeoNames populated place 13236952: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13236952"
+        },
+        {
+            "citation":"GeoNames populated place 13236952: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13236952"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125373109 (Gmina S\u0119popol), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687305,
+        102080247,
+        102191581,
+        1125373109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13236952
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"d47c40cc1dd6783dae35d2651edea51d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080247,
+            "localadmin_id":1125373109,
+            "locality_id":9895053388,
+            "region_id":85687305
+        }
+    ],
+    "wof:id":9895053388,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Poniki",
+    "wof:parent_id":1125373109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.92067,
+    54.32848,
+    20.92067,
+    54.32848
+],
+  "geometry": {"coordinates":[20.92067,54.32848],"type":"Point"}
+}

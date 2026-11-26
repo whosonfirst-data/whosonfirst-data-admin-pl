@@ -1,0 +1,76 @@
+{
+  "id": 9895052432,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.09085,50.74208,19.09085,50.74208",
+    "geom:latitude":50.74208,
+    "geom:longitude":19.09085,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695084: name \"Brzeziny Nowe\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695084"
+        },
+        {
+            "citation":"GeoNames populated place 11695084: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695084"
+        },
+        {
+            "citation":"GeoNames populated place 11695084: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695084"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477751885 (Poczesna), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687277,
+        102079663,
+        102191581,
+        1477751885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695084
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"867956cfdad8fe30227c79ca689c162b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079663,
+            "localadmin_id":1477751885,
+            "locality_id":9895052432,
+            "region_id":85687277
+        }
+    ],
+    "wof:id":9895052432,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Brzeziny Nowe",
+    "wof:parent_id":1477751885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.09085,
+    50.74208,
+    19.09085,
+    50.74208
+],
+  "geometry": {"coordinates":[19.09085,50.74208],"type":"Point"}
+}

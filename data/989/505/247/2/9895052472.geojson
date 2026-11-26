@@ -1,0 +1,76 @@
+{
+  "id": 9895052472,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.97363,54.14625,17.97363,54.14625",
+    "geom:latitude":54.14625,
+    "geom:longitude":17.97363,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695145: name \"Ko\u015bcierzyna-Wybudowanie\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695145"
+        },
+        {
+            "citation":"GeoNames populated place 11695145: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695145"
+        },
+        {
+            "citation":"GeoNames populated place 11695145: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695145"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477752013 (Gmina Ko\u015bcierzyna), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687267,
+        102080193,
+        102191581,
+        1477752013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695145
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"4fe55baa0e918b2e76b6401ffd43e73a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080193,
+            "localadmin_id":1477752013,
+            "locality_id":9895052472,
+            "region_id":85687267
+        }
+    ],
+    "wof:id":9895052472,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Ko\u015bcierzyna-Wybudowanie",
+    "wof:parent_id":1477752013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.97363,
+    54.14625,
+    17.97363,
+    54.14625
+],
+  "geometry": {"coordinates":[17.97363,54.14625],"type":"Point"}
+}

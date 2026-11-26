@@ -1,0 +1,76 @@
+{
+  "id": 9895052881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.7119,53.1034,21.7119,53.1034",
+    "geom:latitude":53.1034,
+    "geom:longitude":21.7119,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11703957: name \"Przytu\u0142y Stare\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11703957"
+        },
+        {
+            "citation":"GeoNames populated place 11703957: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11703957"
+        },
+        {
+            "citation":"GeoNames populated place 11703957: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11703957"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125296533 (Rzeku\u0144), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687257,
+        102080139,
+        102191581,
+        1125296533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11703957
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"2e6acaad6343581bc0f28c5c1b550d03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080139,
+            "localadmin_id":1125296533,
+            "locality_id":9895052881,
+            "region_id":85687257
+        }
+    ],
+    "wof:id":9895052881,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Przytu\u0142y Stare",
+    "wof:parent_id":1125296533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.7119,
+    53.1034,
+    21.7119,
+    53.1034
+],
+  "geometry": {"coordinates":[21.7119,53.1034],"type":"Point"}
+}

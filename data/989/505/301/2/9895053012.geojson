@@ -1,0 +1,76 @@
+{
+  "id": 9895053012,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.97196,53.57431,20.97196,53.57431",
+    "geom:latitude":53.57431,
+    "geom:longitude":20.97196,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11704239: name \"Kamionek\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11704239"
+        },
+        {
+            "citation":"GeoNames populated place 11704239: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11704239"
+        },
+        {
+            "citation":"GeoNames populated place 11704239: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11704239"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477752919 (Gmina Szczytno), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687305,
+        102080167,
+        102191581,
+        1477752919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11704239
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"6933bf2ac1eb150a6246924df68c6add",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080167,
+            "localadmin_id":1477752919,
+            "locality_id":9895053012,
+            "region_id":85687305
+        }
+    ],
+    "wof:id":9895053012,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Kamionek",
+    "wof:parent_id":1477752919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.97196,
+    53.57431,
+    20.97196,
+    53.57431
+],
+  "geometry": {"coordinates":[20.97196,53.57431],"type":"Point"}
+}

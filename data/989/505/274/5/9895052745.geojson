@@ -1,0 +1,76 @@
+{
+  "id": 9895052745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.89315,53.89518,19.89315,53.89518",
+    "geom:latitude":53.89518,
+    "geom:longitude":19.89315,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11696394: name \"J\u0119drych\u00f3wko\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11696394"
+        },
+        {
+            "citation":"GeoNames populated place 11696394: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11696394"
+        },
+        {
+            "citation":"GeoNames populated place 11696394: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11696394"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125286415 (Gmina Mor\u0105g), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687305,
+        102080197,
+        102191581,
+        1125286415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11696394
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"39e6c57e25f95cc99e0bb1bc8ca578cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080197,
+            "localadmin_id":1125286415,
+            "locality_id":9895052745,
+            "region_id":85687305
+        }
+    ],
+    "wof:id":9895052745,
+    "wof:lastmodified":1795735000,
+    "wof:name":"J\u0119drych\u00f3wko",
+    "wof:parent_id":1125286415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.89315,
+    53.89518,
+    19.89315,
+    53.89518
+],
+  "geometry": {"coordinates":[19.89315,53.89518],"type":"Point"}
+}

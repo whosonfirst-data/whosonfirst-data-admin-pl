@@ -1,0 +1,76 @@
+{
+  "id": 9895053507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.30015,51.80946,15.30015,51.80946",
+    "geom:latitude":51.80946,
+    "geom:longitude":15.30015,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13308574: name \"Kl\u0119pina Nowa\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13308574"
+        },
+        {
+            "citation":"GeoNames populated place 13308574: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13308574"
+        },
+        {
+            "citation":"GeoNames populated place 13308574: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13308574"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125350609 (Gmina Nowogr\u00f3d Bobrza\u0144ski), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687327,
+        102079851,
+        102191581,
+        1125350609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13308574
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"f2cf3840efa184ba6363eede74cbd501",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079851,
+            "localadmin_id":1125350609,
+            "locality_id":9895053507,
+            "region_id":85687327
+        }
+    ],
+    "wof:id":9895053507,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Kl\u0119pina Nowa",
+    "wof:parent_id":1125350609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.30015,
+    51.80946,
+    15.30015,
+    51.80946
+],
+  "geometry": {"coordinates":[15.30015,51.80946],"type":"Point"}
+}

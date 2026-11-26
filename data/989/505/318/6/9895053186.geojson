@@ -1,0 +1,76 @@
+{
+  "id": 9895053186,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.9749,53.38496,17.9749,53.38496",
+    "geom:latitude":53.38496,
+    "geom:longitude":17.9749,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12173182: name \"Wielonek\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12173182"
+        },
+        {
+            "citation":"GeoNames populated place 12173182: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12173182"
+        },
+        {
+            "citation":"GeoNames populated place 12173182: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12173182"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125362995 (Lubiewo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687319,
+        102080141,
+        102191581,
+        1125362995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12173182
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"79c1bcb9dc845631db3279c5d41b39b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080141,
+            "localadmin_id":1125362995,
+            "locality_id":9895053186,
+            "region_id":85687319
+        }
+    ],
+    "wof:id":9895053186,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Wielonek",
+    "wof:parent_id":1125362995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.9749,
+    53.38496,
+    17.9749,
+    53.38496
+],
+  "geometry": {"coordinates":[17.9749,53.38496],"type":"Point"}
+}

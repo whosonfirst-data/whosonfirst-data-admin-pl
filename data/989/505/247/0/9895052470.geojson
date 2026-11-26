@@ -1,0 +1,76 @@
+{
+  "id": 9895052470,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.98626,53.92926,18.98626,53.92926",
+    "geom:latitude":53.92926,
+    "geom:longitude":18.98626,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695128: name \"Sztumskie Pole\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695128"
+        },
+        {
+            "citation":"GeoNames populated place 11695128: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695128"
+        },
+        {
+            "citation":"GeoNames populated place 11695128: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695128"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125383281 (Gmina Sztum), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687267,
+        102080179,
+        102191581,
+        1125383281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695128
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"95ed5d69d733e9ba9327ea0c7d1a542a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080179,
+            "localadmin_id":1125383281,
+            "locality_id":9895052470,
+            "region_id":85687267
+        }
+    ],
+    "wof:id":9895052470,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Sztumskie Pole",
+    "wof:parent_id":1125383281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.98626,
+    53.92926,
+    18.98626,
+    53.92926
+],
+  "geometry": {"coordinates":[18.98626,53.92926],"type":"Point"}
+}

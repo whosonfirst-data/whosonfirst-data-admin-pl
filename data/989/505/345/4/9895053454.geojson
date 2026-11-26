@@ -1,0 +1,76 @@
+{
+  "id": 9895053454,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.03279,51.02123,15.03279,51.02123",
+    "geom:latitude":51.02123,
+    "geom:longitude":15.03279,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13286519: name \"Ostrozno\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13286519"
+        },
+        {
+            "citation":"GeoNames populated place 13286519: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13286519"
+        },
+        {
+            "citation":"GeoNames populated place 13286519: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13286519"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477752261 (Zawid\u00f3w), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687301,
+        102079695,
+        102191581,
+        1477752261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13286519
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"9c5015c6367467b605ded9a75eedd96c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079695,
+            "localadmin_id":1477752261,
+            "locality_id":9895053454,
+            "region_id":85687301
+        }
+    ],
+    "wof:id":9895053454,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Ostrozno",
+    "wof:parent_id":1477752261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.03279,
+    51.02123,
+    15.03279,
+    51.02123
+],
+  "geometry": {"coordinates":[15.03279,51.02123],"type":"Point"}
+}

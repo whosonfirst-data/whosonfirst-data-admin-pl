@@ -1,0 +1,76 @@
+{
+  "id": 9895052909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.46713,52.47324,19.46713,52.47324",
+    "geom:latitude":52.47324,
+    "geom:longitude":19.46713,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11704006: name \"Helen\u00f3w\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11704006"
+        },
+        {
+            "citation":"GeoNames populated place 11704006: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11704006"
+        },
+        {
+            "citation":"GeoNames populated place 11704006: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11704006"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477752569 (Gmina Gostynin), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687257,
+        102079959,
+        102191581,
+        1477752569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11704006
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"734521cf1619d8fea2de994d1d5f2b68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079959,
+            "localadmin_id":1477752569,
+            "locality_id":9895052909,
+            "region_id":85687257
+        }
+    ],
+    "wof:id":9895052909,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Helen\u00f3w",
+    "wof:parent_id":1477752569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.46713,
+    52.47324,
+    19.46713,
+    52.47324
+],
+  "geometry": {"coordinates":[19.46713,52.47324],"type":"Point"}
+}

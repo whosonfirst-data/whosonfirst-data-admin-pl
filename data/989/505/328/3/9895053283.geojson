@@ -1,0 +1,76 @@
+{
+  "id": 9895053283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.46754,54.60852,17.46754,54.60852",
+    "geom:latitude":54.60852,
+    "geom:longitude":17.46754,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12902567: name \"Przeb\u0119dowo S\u0142upskie\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12902567"
+        },
+        {
+            "citation":"GeoNames populated place 12902567: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12902567"
+        },
+        {
+            "citation":"GeoNames populated place 12902567: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12902567"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125376943 (G\u0142\u00f3wczyce), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687267,
+        102080255,
+        102191581,
+        1125376943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12902567
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"f193a889c7fd7fe60a9e44dcf60e2afd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080255,
+            "localadmin_id":1125376943,
+            "locality_id":9895053283,
+            "region_id":85687267
+        }
+    ],
+    "wof:id":9895053283,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Przeb\u0119dowo S\u0142upskie",
+    "wof:parent_id":1125376943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.46754,
+    54.60852,
+    17.46754,
+    54.60852
+],
+  "geometry": {"coordinates":[17.46754,54.60852],"type":"Point"}
+}

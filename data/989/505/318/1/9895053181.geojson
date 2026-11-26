@@ -1,0 +1,76 @@
+{
+  "id": 9895053181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.35546,52.74874,18.35546,52.74874",
+    "geom:latitude":52.74874,
+    "geom:longitude":18.35546,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12173177: name \"Dulsk\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12173177"
+        },
+        {
+            "citation":"GeoNames populated place 12173177: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12173177"
+        },
+        {
+            "citation":"GeoNames populated place 12173177: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12173177"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477752001 (Gmina Inowroc\u0142aw), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687319,
+        102080013,
+        102191581,
+        1477752001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12173177
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"10e4fd9e5fc679604c2348100b5c7016",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080013,
+            "localadmin_id":1477752001,
+            "locality_id":9895053181,
+            "region_id":85687319
+        }
+    ],
+    "wof:id":9895053181,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Dulsk",
+    "wof:parent_id":1477752001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.35546,
+    52.74874,
+    18.35546,
+    52.74874
+],
+  "geometry": {"coordinates":[18.35546,52.74874],"type":"Point"}
+}

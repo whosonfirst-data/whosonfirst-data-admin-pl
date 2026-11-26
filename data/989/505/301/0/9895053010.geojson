@@ -1,0 +1,76 @@
+{
+  "id": 9895053010,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.31424,52.26745,20.31424,52.26745",
+    "geom:latitude":52.26745,
+    "geom:longitude":20.31424,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11704237: name \"Dzi\u0119glewo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11704237"
+        },
+        {
+            "citation":"GeoNames populated place 11704237: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11704237"
+        },
+        {
+            "citation":"GeoNames populated place 11704237: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11704237"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125319697 (Gmina Sochaczew), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687257,
+        102079945,
+        102191581,
+        1125319697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11704237
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"b900a7a9edf9a69314427e4c3fe0ef71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079945,
+            "localadmin_id":1125319697,
+            "locality_id":9895053010,
+            "region_id":85687257
+        }
+    ],
+    "wof:id":9895053010,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Dzi\u0119glewo",
+    "wof:parent_id":1125319697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.31424,
+    52.26745,
+    20.31424,
+    52.26745
+],
+  "geometry": {"coordinates":[20.31424,52.26745],"type":"Point"}
+}

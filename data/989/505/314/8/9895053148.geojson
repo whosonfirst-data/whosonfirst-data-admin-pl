@@ -1,0 +1,76 @@
+{
+  "id": 9895053148,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.19252,54.22129,23.19252,54.22129",
+    "geom:latitude":54.22129,
+    "geom:longitude":23.19252,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12060375: name \"Szy\u0142ajnie\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12060375"
+        },
+        {
+            "citation":"GeoNames populated place 12060375: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12060375"
+        },
+        {
+            "citation":"GeoNames populated place 12060375: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12060375"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125326571 (Pu\u0144sk), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687283,
+        102080257,
+        102191581,
+        1125326571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12060375
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"86bceeceaf6aade51e3354c397cf3d9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080257,
+            "localadmin_id":1125326571,
+            "locality_id":9895053148,
+            "region_id":85687283
+        }
+    ],
+    "wof:id":9895053148,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Szy\u0142ajnie",
+    "wof:parent_id":1125326571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.19252,
+    54.22129,
+    23.19252,
+    54.22129
+],
+  "geometry": {"coordinates":[23.19252,54.22129],"type":"Point"}
+}

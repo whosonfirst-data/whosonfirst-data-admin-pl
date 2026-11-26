@@ -1,0 +1,77 @@
+{
+  "id": 9895052234,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.62342,50.09553,22.62342,50.09553",
+    "geom:latitude":50.09553,
+    "geom:longitude":22.62342,
+    "gn:population":1500,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 754897: name \"W\u00f3lka Pe\u0142ki\u0144ska\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/754897"
+        },
+        {
+            "citation":"GeoNames populated place 754897: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/754897"
+        },
+        {
+            "citation":"GeoNames populated place 754897: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/754897"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125292911 (Gmina Jaros\u0142aw), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687295,
+        102079573,
+        102191581,
+        1125292911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":754897
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"8777f9d2a64f69cbe8be37b6c4a7eccd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079573,
+            "localadmin_id":1125292911,
+            "locality_id":9895052234,
+            "region_id":85687295
+        }
+    ],
+    "wof:id":9895052234,
+    "wof:lastmodified":1795735000,
+    "wof:name":"W\u00f3lka Pe\u0142ki\u0144ska",
+    "wof:parent_id":1125292911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.62342,
+    50.09553,
+    22.62342,
+    50.09553
+],
+  "geometry": {"coordinates":[22.62342,50.09553],"type":"Point"}
+}

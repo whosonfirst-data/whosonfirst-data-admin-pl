@@ -1,0 +1,76 @@
+{
+  "id": 9895052374,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.65455,53.11237,23.65455,53.11237",
+    "geom:latitude":53.11237,
+    "geom:longitude":23.65455,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11694870: name \"Wali\u0142y-Stacja\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11694870"
+        },
+        {
+            "citation":"GeoNames populated place 11694870: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11694870"
+        },
+        {
+            "citation":"GeoNames populated place 11694870: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11694870"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477753025 (Gr\u00f3dek), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687283,
+        102080145,
+        102191581,
+        1477753025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11694870
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"d8162f98f593d24ff870afc4e5003312",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080145,
+            "localadmin_id":1477753025,
+            "locality_id":9895052374,
+            "region_id":85687283
+        }
+    ],
+    "wof:id":9895052374,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Wali\u0142y-Stacja",
+    "wof:parent_id":1477753025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.65455,
+    53.11237,
+    23.65455,
+    53.11237
+],
+  "geometry": {"coordinates":[23.65455,53.11237],"type":"Point"}
+}

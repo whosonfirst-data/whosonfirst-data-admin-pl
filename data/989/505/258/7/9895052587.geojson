@@ -1,0 +1,76 @@
+{
+  "id": 9895052587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.08734,52.11626,20.08734,52.11626",
+    "geom:latitude":52.11626,
+    "geom:longitude":20.08734,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695731: name \"Bednary-Kolonia\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695731"
+        },
+        {
+            "citation":"GeoNames populated place 11695731: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695731"
+        },
+        {
+            "citation":"GeoNames populated place 11695731: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695731"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125315035 (Niebor\u00f3w), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687261,
+        102079923,
+        102191581,
+        1125315035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695731
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"b6fa111f7ba7a8f17cbf274dc6f89ce7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079923,
+            "localadmin_id":1125315035,
+            "locality_id":9895052587,
+            "region_id":85687261
+        }
+    ],
+    "wof:id":9895052587,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Bednary-Kolonia",
+    "wof:parent_id":1125315035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.08734,
+    52.11626,
+    20.08734,
+    52.11626
+],
+  "geometry": {"coordinates":[20.08734,52.11626],"type":"Point"}
+}

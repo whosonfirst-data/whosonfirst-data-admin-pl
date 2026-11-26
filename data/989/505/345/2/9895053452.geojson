@@ -1,0 +1,76 @@
+{
+  "id": 9895053452,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.11001,52.89859,16.11001,52.89859",
+    "geom:latitude":52.89859,
+    "geom:longitude":16.11001,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13285869: name \"Herburtowo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13285869"
+        },
+        {
+            "citation":"GeoNames populated place 13285869: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13285869"
+        },
+        {
+            "citation":"GeoNames populated place 13285869: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13285869"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125302489 (Gmina Wiele\u0144), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687323,
+        102080029,
+        102191581,
+        1125302489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13285869
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"c09dcb474e2e3609d65231307dd3869c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080029,
+            "localadmin_id":1125302489,
+            "locality_id":9895053452,
+            "region_id":85687323
+        }
+    ],
+    "wof:id":9895053452,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Herburtowo",
+    "wof:parent_id":1125302489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.11001,
+    52.89859,
+    16.11001,
+    52.89859
+],
+  "geometry": {"coordinates":[16.11001,52.89859],"type":"Point"}
+}

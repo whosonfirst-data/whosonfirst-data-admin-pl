@@ -1,0 +1,76 @@
+{
+  "id": 9895053297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.82708,53.99016,15.82708,53.99016",
+    "geom:latitude":53.99016,
+    "geom:longitude":15.82708,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12909151: name \"Garnki\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12909151"
+        },
+        {
+            "citation":"GeoNames populated place 12909151: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12909151"
+        },
+        {
+            "citation":"GeoNames populated place 12909151: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12909151"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477752625 (Gmina Karlino), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687271,
+        102080173,
+        102191581,
+        1477752625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12909151
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"686d6b73b48192fff3615ae7a25380be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080173,
+            "localadmin_id":1477752625,
+            "locality_id":9895053297,
+            "region_id":85687271
+        }
+    ],
+    "wof:id":9895053297,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Garnki",
+    "wof:parent_id":1477752625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.82708,
+    53.99016,
+    15.82708,
+    53.99016
+],
+  "geometry": {"coordinates":[15.82708,53.99016],"type":"Point"}
+}

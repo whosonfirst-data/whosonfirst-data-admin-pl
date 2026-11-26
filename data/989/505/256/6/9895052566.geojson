@@ -1,0 +1,76 @@
+{
+  "id": 9895052566,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.04477,50.16535,20.04477,50.16535",
+    "geom:latitude":50.16535,
+    "geom:longitude":20.04477,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695709: name \"Sieborowice\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695709"
+        },
+        {
+            "citation":"GeoNames populated place 11695709: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695709"
+        },
+        {
+            "citation":"GeoNames populated place 11695709: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695709"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125304327 (Micha\u0142owice), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687291,
+        102079541,
+        102191581,
+        1125304327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695709
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"98652030224c9438f261c221ff2dc220",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079541,
+            "localadmin_id":1125304327,
+            "locality_id":9895052566,
+            "region_id":85687291
+        }
+    ],
+    "wof:id":9895052566,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Sieborowice",
+    "wof:parent_id":1125304327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.04477,
+    50.16535,
+    20.04477,
+    50.16535
+],
+  "geometry": {"coordinates":[20.04477,50.16535],"type":"Point"}
+}

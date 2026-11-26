@@ -1,0 +1,76 @@
+{
+  "id": 9895052813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.14778,52.5458,21.14778,52.5458",
+    "geom:latitude":52.5458,
+    "geom:longitude":21.14778,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11703592: name \"Popowo-Letnisko\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11703592"
+        },
+        {
+            "citation":"GeoNames populated place 11703592: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11703592"
+        },
+        {
+            "citation":"GeoNames populated place 11703592: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11703592"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477752177 (Somianka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687257,
+        102080045,
+        102191581,
+        1477752177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11703592
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"379add2b0bed019577a48ca4ec0effb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080045,
+            "localadmin_id":1477752177,
+            "locality_id":9895052813,
+            "region_id":85687257
+        }
+    ],
+    "wof:id":9895052813,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Popowo-Letnisko",
+    "wof:parent_id":1477752177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.14778,
+    52.5458,
+    21.14778,
+    52.5458
+],
+  "geometry": {"coordinates":[21.14778,52.5458],"type":"Point"}
+}

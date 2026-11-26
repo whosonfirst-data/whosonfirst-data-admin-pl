@@ -1,0 +1,76 @@
+{
+  "id": 9895052844,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.02767,51.67423,22.02767,51.67423",
+    "geom:latitude":51.67423,
+    "geom:longitude":22.02767,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11703865: name \"Leopold\u00f3w\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11703865"
+        },
+        {
+            "citation":"GeoNames populated place 11703865: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11703865"
+        },
+        {
+            "citation":"GeoNames populated place 11703865: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11703865"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477752541 (Gmina Ryki), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687309,
+        102079869,
+        102191581,
+        1477752541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11703865
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"7e8706e0d47f36190a6b2bbe2af0f874",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079869,
+            "localadmin_id":1477752541,
+            "locality_id":9895052844,
+            "region_id":85687309
+        }
+    ],
+    "wof:id":9895052844,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Leopold\u00f3w",
+    "wof:parent_id":1477752541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.02767,
+    51.67423,
+    22.02767,
+    51.67423
+],
+  "geometry": {"coordinates":[22.02767,51.67423],"type":"Point"}
+}

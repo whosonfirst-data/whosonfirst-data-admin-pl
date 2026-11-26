@@ -1,0 +1,76 @@
+{
+  "id": 9895052901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.26849,50.99998,20.26849,50.99998",
+    "geom:latitude":50.99998,
+    "geom:longitude":20.26849,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11703998: name \"Sarbice Drugie\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11703998"
+        },
+        {
+            "citation":"GeoNames populated place 11703998: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11703998"
+        },
+        {
+            "citation":"GeoNames populated place 11703998: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11703998"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125385737 (\u0141opuszno), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687287,
+        102079693,
+        102191581,
+        1125385737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11703998
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"9ef7021f5c72978b013f013da338593d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079693,
+            "localadmin_id":1125385737,
+            "locality_id":9895052901,
+            "region_id":85687287
+        }
+    ],
+    "wof:id":9895052901,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Sarbice Drugie",
+    "wof:parent_id":1125385737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.26849,
+    50.99998,
+    20.26849,
+    50.99998
+],
+  "geometry": {"coordinates":[20.26849,50.99998],"type":"Point"}
+}

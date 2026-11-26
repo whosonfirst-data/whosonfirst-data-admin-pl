@@ -1,0 +1,76 @@
+{
+  "id": 9895053155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.56191,54.00075,22.56191,54.00075",
+    "geom:latitude":54.00075,
+    "geom:longitude":22.56191,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12110766: name \"Lipkowo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12110766"
+        },
+        {
+            "citation":"GeoNames populated place 12110766: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12110766"
+        },
+        {
+            "citation":"GeoNames populated place 12110766: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12110766"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125370867 (Gmina Olecko), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687305,
+        102080243,
+        102191581,
+        1125370867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12110766
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"44b8ebe0fe77b254c5d0bf1eaa0e5bfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080243,
+            "localadmin_id":1125370867,
+            "locality_id":9895053155,
+            "region_id":85687305
+        }
+    ],
+    "wof:id":9895053155,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Lipkowo",
+    "wof:parent_id":1125370867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.56191,
+    54.00075,
+    22.56191,
+    54.00075
+],
+  "geometry": {"coordinates":[22.56191,54.00075],"type":"Point"}
+}

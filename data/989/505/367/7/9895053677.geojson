@@ -1,0 +1,76 @@
+{
+  "id": 9895053677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.56031,49.61048,21.56031,49.61048",
+    "geom:latitude":49.61048,
+    "geom:longitude":21.56031,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13527236: name \"Grabanina\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13527236"
+        },
+        {
+            "citation":"GeoNames populated place 13527236: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13527236"
+        },
+        {
+            "citation":"GeoNames populated place 13527236: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13527236"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125289189 (Nowy \u017bmigr\u00f3d), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687295,
+        102079453,
+        102191581,
+        1125289189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13527236
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"3955ebf41671c506f060dd3ce5b4187d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079453,
+            "localadmin_id":1125289189,
+            "locality_id":9895053677,
+            "region_id":85687295
+        }
+    ],
+    "wof:id":9895053677,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Grabanina",
+    "wof:parent_id":1125289189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.56031,
+    49.61048,
+    21.56031,
+    49.61048
+],
+  "geometry": {"coordinates":[21.56031,49.61048],"type":"Point"}
+}

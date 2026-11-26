@@ -1,0 +1,76 @@
+{
+  "id": 9895052324,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.33547,51.95918,16.33547,51.95918",
+    "geom:latitude":51.95918,
+    "geom:longitude":16.33547,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11694680: name \"Boszkowo-Letnisko\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11694680"
+        },
+        {
+            "citation":"GeoNames populated place 11694680: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11694680"
+        },
+        {
+            "citation":"GeoNames populated place 11694680: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11694680"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477751207 (W\u0142oszakowice), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687323,
+        102079821,
+        102191581,
+        1477751207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11694680
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"6f12873ffb25e22cb147bef881167872",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079821,
+            "localadmin_id":1477751207,
+            "locality_id":9895052324,
+            "region_id":85687323
+        }
+    ],
+    "wof:id":9895052324,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Boszkowo-Letnisko",
+    "wof:parent_id":1477751207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.33547,
+    51.95918,
+    16.33547,
+    51.95918
+],
+  "geometry": {"coordinates":[16.33547,51.95918],"type":"Point"}
+}

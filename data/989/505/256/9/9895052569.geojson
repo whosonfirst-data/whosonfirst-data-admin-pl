@@ -1,0 +1,76 @@
+{
+  "id": 9895052569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.67541,52.50697,20.67541,52.50697",
+    "geom:latitude":52.50697,
+    "geom:longitude":20.67541,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695712: name \"\u015aniad\u00f3wko\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695712"
+        },
+        {
+            "citation":"GeoNames populated place 11695712: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695712"
+        },
+        {
+            "citation":"GeoNames populated place 11695712: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695712"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125417991 (Pomiech\u00f3wek), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687257,
+        102080001,
+        102191581,
+        1125417991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695712
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"2b2c60c153a1ed89b71c0a35ac2a1aca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080001,
+            "localadmin_id":1125417991,
+            "locality_id":9895052569,
+            "region_id":85687257
+        }
+    ],
+    "wof:id":9895052569,
+    "wof:lastmodified":1795735000,
+    "wof:name":"\u015aniad\u00f3wko",
+    "wof:parent_id":1125417991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.67541,
+    52.50697,
+    20.67541,
+    52.50697
+],
+  "geometry": {"coordinates":[20.67541,52.50697],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 9895052442,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.28778,50.8031,23.28778,50.8031",
+    "geom:latitude":50.8031,
+    "geom:longitude":23.28778,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695095: name \"Udrycze-Wola\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695095"
+        },
+        {
+            "citation":"GeoNames populated place 11695095: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695095"
+        },
+        {
+            "citation":"GeoNames populated place 11695095: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695095"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125324397 (Stary Zamo\u015b\u0107), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687309,
+        102079715,
+        102191581,
+        1125324397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695095
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"b063fcb66a2c4092c5f163387f218635",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079715,
+            "localadmin_id":1125324397,
+            "locality_id":9895052442,
+            "region_id":85687309
+        }
+    ],
+    "wof:id":9895052442,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Udrycze-Wola",
+    "wof:parent_id":1125324397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.28778,
+    50.8031,
+    23.28778,
+    50.8031
+],
+  "geometry": {"coordinates":[23.28778,50.8031],"type":"Point"}
+}

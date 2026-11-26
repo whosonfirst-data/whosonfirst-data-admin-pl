@@ -1,0 +1,76 @@
+{
+  "id": 9895052693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.60463,52.07908,16.60463,52.07908",
+    "geom:latitude":52.07908,
+    "geom:longitude":16.60463,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11696152: name \"Pelikan\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11696152"
+        },
+        {
+            "citation":"GeoNames populated place 11696152: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11696152"
+        },
+        {
+            "citation":"GeoNames populated place 11696152: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11696152"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477752735 (Gmina Ko\u015bcian), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687323,
+        102079871,
+        102191581,
+        1477752735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11696152
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"c86e2309e99a1c12707170f93939a816",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079871,
+            "localadmin_id":1477752735,
+            "locality_id":9895052693,
+            "region_id":85687323
+        }
+    ],
+    "wof:id":9895052693,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Pelikan",
+    "wof:parent_id":1477752735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.60463,
+    52.07908,
+    16.60463,
+    52.07908
+],
+  "geometry": {"coordinates":[16.60463,52.07908],"type":"Point"}
+}

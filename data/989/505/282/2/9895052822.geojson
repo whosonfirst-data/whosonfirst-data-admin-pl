@@ -1,0 +1,76 @@
+{
+  "id": 9895052822,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.72076,51.15154,22.72076,51.15154",
+    "geom:latitude":51.15154,
+    "geom:longitude":22.72076,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11703689: name \"Bystrzejowice Drugie\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11703689"
+        },
+        {
+            "citation":"GeoNames populated place 11703689: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11703689"
+        },
+        {
+            "citation":"GeoNames populated place 11703689: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11703689"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125278545 (Gmina Piaski), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687309,
+        102079777,
+        102191581,
+        1125278545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11703689
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"0ce5abd7b878a9bd32cf252fb550ae8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079777,
+            "localadmin_id":1125278545,
+            "locality_id":9895052822,
+            "region_id":85687309
+        }
+    ],
+    "wof:id":9895052822,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Bystrzejowice Drugie",
+    "wof:parent_id":1125278545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.72076,
+    51.15154,
+    22.72076,
+    51.15154
+],
+  "geometry": {"coordinates":[22.72076,51.15154],"type":"Point"}
+}

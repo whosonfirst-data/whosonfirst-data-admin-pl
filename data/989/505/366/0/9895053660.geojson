@@ -1,0 +1,76 @@
+{
+  "id": 9895053660,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.46405,50.89359,16.46405,50.89359",
+    "geom:latitude":50.89359,
+    "geom:longitude":16.46405,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13448321: name \"Boles\u0142awice\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13448321"
+        },
+        {
+            "citation":"GeoNames populated place 13448321: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13448321"
+        },
+        {
+            "citation":"GeoNames populated place 13448321: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13448321"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125327543 (Gmina Jaworzyna \u015al\u0105ska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687301,
+        102079625,
+        102191581,
+        1125327543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13448321
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"45d9efe995c8e66de34c42997c70cad4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079625,
+            "localadmin_id":1125327543,
+            "locality_id":9895053660,
+            "region_id":85687301
+        }
+    ],
+    "wof:id":9895053660,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Boles\u0142awice",
+    "wof:parent_id":1125327543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.46405,
+    50.89359,
+    16.46405,
+    50.89359
+],
+  "geometry": {"coordinates":[16.46405,50.89359],"type":"Point"}
+}

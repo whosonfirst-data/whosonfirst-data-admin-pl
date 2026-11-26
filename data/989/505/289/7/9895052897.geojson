@@ -1,0 +1,76 @@
+{
+  "id": 9895052897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.46782,53.6168,16.46782,53.6168",
+    "geom:latitude":53.6168,
+    "geom:longitude":16.46782,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11703994: name \"Pi\u0142awa\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11703994"
+        },
+        {
+            "citation":"GeoNames populated place 11703994: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11703994"
+        },
+        {
+            "citation":"GeoNames populated place 11703994: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11703994"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125389425 (Gmina Borne Sulinowo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687271,
+        102080155,
+        102191581,
+        1125389425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11703994
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"a432089088252eea580731251527d8a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080155,
+            "localadmin_id":1125389425,
+            "locality_id":9895052897,
+            "region_id":85687271
+        }
+    ],
+    "wof:id":9895052897,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Pi\u0142awa",
+    "wof:parent_id":1125389425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.46782,
+    53.6168,
+    16.46782,
+    53.6168
+],
+  "geometry": {"coordinates":[16.46782,53.6168],"type":"Point"}
+}

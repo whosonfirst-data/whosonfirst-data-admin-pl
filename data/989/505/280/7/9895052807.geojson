@@ -1,0 +1,76 @@
+{
+  "id": 9895052807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.27487,50.89854,22.27487,50.89854",
+    "geom:latitude":50.89854,
+    "geom:longitude":22.27487,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11703585: name \"S\u0142odk\u00f3w Drugi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11703585"
+        },
+        {
+            "citation":"GeoNames populated place 11703585: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11703585"
+        },
+        {
+            "citation":"GeoNames populated place 11703585: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11703585"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477752259 (Gmina Kra\u015bnik), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687309,
+        102079721,
+        102191581,
+        1477752259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11703585
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"9e4a17bc72f945fe4c2688cfe2a8b0cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079721,
+            "localadmin_id":1477752259,
+            "locality_id":9895052807,
+            "region_id":85687309
+        }
+    ],
+    "wof:id":9895052807,
+    "wof:lastmodified":1795735000,
+    "wof:name":"S\u0142odk\u00f3w Drugi",
+    "wof:parent_id":1477752259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.27487,
+    50.89854,
+    22.27487,
+    50.89854
+],
+  "geometry": {"coordinates":[22.27487,50.89854],"type":"Point"}
+}

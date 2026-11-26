@@ -1,0 +1,76 @@
+{
+  "id": 9895052488,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.14001,51.11554,21.14001,51.11554",
+    "geom:latitude":51.11554,
+    "geom:longitude":21.14001,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695403: name \"Ma\u0142yszyn G\u00f3rny\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695403"
+        },
+        {
+            "citation":"GeoNames populated place 11695403: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695403"
+        },
+        {
+            "citation":"GeoNames populated place 11695403: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695403"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125362987 (Mirzec), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687287,
+        102079727,
+        102191581,
+        1125362987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695403
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"479341e3d707d3b2aa109335fb982152",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079727,
+            "localadmin_id":1125362987,
+            "locality_id":9895052488,
+            "region_id":85687287
+        }
+    ],
+    "wof:id":9895052488,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Ma\u0142yszyn G\u00f3rny",
+    "wof:parent_id":1125362987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.14001,
+    51.11554,
+    21.14001,
+    51.11554
+],
+  "geometry": {"coordinates":[21.14001,51.11554],"type":"Point"}
+}

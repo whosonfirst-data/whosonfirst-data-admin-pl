@@ -1,0 +1,76 @@
+{
+  "id": 9895052449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.17176,52.23879,20.17176,52.23879",
+    "geom:latitude":52.23879,
+    "geom:longitude":20.17176,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695103: name \"Zd\u017car\u00f3w\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695103"
+        },
+        {
+            "citation":"GeoNames populated place 11695103: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695103"
+        },
+        {
+            "citation":"GeoNames populated place 11695103: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695103"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125319697 (Gmina Sochaczew), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687257,
+        102079945,
+        102191581,
+        1125319697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695103
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"7cf19aa68d068afe88400c32f297ac14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079945,
+            "localadmin_id":1125319697,
+            "locality_id":9895052449,
+            "region_id":85687257
+        }
+    ],
+    "wof:id":9895052449,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Zd\u017car\u00f3w",
+    "wof:parent_id":1125319697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.17176,
+    52.23879,
+    20.17176,
+    52.23879
+],
+  "geometry": {"coordinates":[20.17176,52.23879],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 9895052262,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.13475,49.55,19.13475,49.55",
+    "geom:latitude":49.55,
+    "geom:longitude":19.13475,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3091742: name \"Mil\u00f3wki\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3091742"
+        },
+        {
+            "citation":"GeoNames populated place 3091742: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3091742"
+        },
+        {
+            "citation":"GeoNames populated place 3091742: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3091742"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125356073 (Mil\u00f3wka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687277,
+        102079411,
+        102191581,
+        1125356073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3091742
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"867b6ef248434fc35a310f73c7650908",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079411,
+            "localadmin_id":1125356073,
+            "locality_id":9895052262,
+            "region_id":85687277
+        }
+    ],
+    "wof:id":9895052262,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Mil\u00f3wki",
+    "wof:parent_id":1125356073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.13475,
+    49.55,
+    19.13475,
+    49.55
+],
+  "geometry": {"coordinates":[19.13475,49.55],"type":"Point"}
+}

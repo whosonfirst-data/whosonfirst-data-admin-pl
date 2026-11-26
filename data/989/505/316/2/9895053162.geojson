@@ -1,0 +1,77 @@
+{
+  "id": 9895053162,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.94754,51.05711,16.94754,51.05711",
+    "geom:latitude":51.05711,
+    "geom:longitude":16.94754,
+    "gn:population":306,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12148811: name \"Zabrodzie\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12148811"
+        },
+        {
+            "citation":"GeoNames populated place 12148811: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12148811"
+        },
+        {
+            "citation":"GeoNames populated place 12148811: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12148811"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125372921 (Gmina K\u0105ty Wroc\u0142awskie), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687301,
+        102079685,
+        102191581,
+        1125372921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12148811
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"5ffc4aa51ff5beb84ea58591e895db7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079685,
+            "localadmin_id":1125372921,
+            "locality_id":9895053162,
+            "region_id":85687301
+        }
+    ],
+    "wof:id":9895053162,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Zabrodzie",
+    "wof:parent_id":1125372921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.94754,
+    51.05711,
+    16.94754,
+    51.05711
+],
+  "geometry": {"coordinates":[16.94754,51.05711],"type":"Point"}
+}

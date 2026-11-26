@@ -1,0 +1,76 @@
+{
+  "id": 9895053325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.62025,54.12774,17.62025,54.12774",
+    "geom:latitude":54.12774,
+    "geom:longitude":17.62025,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12909195: name \"Czarna D\u0105browa\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12909195"
+        },
+        {
+            "citation":"GeoNames populated place 12909195: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12909195"
+        },
+        {
+            "citation":"GeoNames populated place 12909195: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12909195"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125389319 (Studzienice), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687267,
+        102080217,
+        102191581,
+        1125389319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12909195
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"480a178fdd25dc270049263afa19c90d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080217,
+            "localadmin_id":1125389319,
+            "locality_id":9895053325,
+            "region_id":85687267
+        }
+    ],
+    "wof:id":9895053325,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Czarna D\u0105browa",
+    "wof:parent_id":1125389319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.62025,
+    54.12774,
+    17.62025,
+    54.12774
+],
+  "geometry": {"coordinates":[17.62025,54.12774],"type":"Point"}
+}

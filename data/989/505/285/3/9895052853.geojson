@@ -1,0 +1,76 @@
+{
+  "id": 9895052853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.28541,52.36952,21.28541,52.36952",
+    "geom:latitude":52.36952,
+    "geom:longitude":21.28541,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11703897: name \"Lipinki\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11703897"
+        },
+        {
+            "citation":"GeoNames populated place 11703897: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11703897"
+        },
+        {
+            "citation":"GeoNames populated place 11703897: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11703897"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125370879 (Gmina Wo\u0142omin), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687257,
+        102079995,
+        102191581,
+        1125370879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11703897
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"4f7811e234e3232ecbda761959501024",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079995,
+            "localadmin_id":1125370879,
+            "locality_id":9895052853,
+            "region_id":85687257
+        }
+    ],
+    "wof:id":9895052853,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Lipinki",
+    "wof:parent_id":1125370879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.28541,
+    52.36952,
+    21.28541,
+    52.36952
+],
+  "geometry": {"coordinates":[21.28541,52.36952],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 9895053274,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.63653,53.17307,18.63653,53.17307",
+    "geom:latitude":53.17307,
+    "geom:longitude":18.63653,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12519703: name \"Stru\u017cal\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12519703"
+        },
+        {
+            "citation":"GeoNames populated place 12519703: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12519703"
+        },
+        {
+            "citation":"GeoNames populated place 12519703: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12519703"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477751727 (Gmina Che\u0142m\u017ca), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687319,
+        102080063,
+        102191581,
+        1477751727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12519703
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"2677d3708a594aea393bdfd946890a1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080063,
+            "localadmin_id":1477751727,
+            "locality_id":9895053274,
+            "region_id":85687319
+        }
+    ],
+    "wof:id":9895053274,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Stru\u017cal",
+    "wof:parent_id":1477751727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.63653,
+    53.17307,
+    18.63653,
+    53.17307
+],
+  "geometry": {"coordinates":[18.63653,53.17307],"type":"Point"}
+}

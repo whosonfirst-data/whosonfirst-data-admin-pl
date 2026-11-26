@@ -1,0 +1,76 @@
+{
+  "id": 9895052474,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.2866,50.7607,23.2866,50.7607",
+    "geom:latitude":50.7607,
+    "geom:longitude":23.2866,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695147: name \"\u0141apiguz\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695147"
+        },
+        {
+            "citation":"GeoNames populated place 11695147: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695147"
+        },
+        {
+            "citation":"GeoNames populated place 11695147: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695147"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477752855 (Gmina Zamo\u015b\u0107), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687309,
+        102079715,
+        102191581,
+        1477752855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695147
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"4743920fae62c4b603e6fefb4b729e82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079715,
+            "localadmin_id":1477752855,
+            "locality_id":9895052474,
+            "region_id":85687309
+        }
+    ],
+    "wof:id":9895052474,
+    "wof:lastmodified":1795735000,
+    "wof:name":"\u0141apiguz",
+    "wof:parent_id":1477752855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.2866,
+    50.7607,
+    23.2866,
+    50.7607
+],
+  "geometry": {"coordinates":[23.2866,50.7607],"type":"Point"}
+}

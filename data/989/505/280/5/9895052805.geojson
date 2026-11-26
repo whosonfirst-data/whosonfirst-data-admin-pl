@@ -1,0 +1,76 @@
+{
+  "id": 9895052805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.00459,51.23919,22.00459,51.23919",
+    "geom:latitude":51.23919,
+    "geom:longitude":22.00459,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11703583: name \"Karczmiska Drugie\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11703583"
+        },
+        {
+            "citation":"GeoNames populated place 11703583: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11703583"
+        },
+        {
+            "citation":"GeoNames populated place 11703583: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11703583"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125399525 (Karczmiska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687309,
+        102079761,
+        102191581,
+        1125399525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11703583
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"f705c323f8f4049435bc91e50e0458df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079761,
+            "localadmin_id":1125399525,
+            "locality_id":9895052805,
+            "region_id":85687309
+        }
+    ],
+    "wof:id":9895052805,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Karczmiska Drugie",
+    "wof:parent_id":1125399525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.00459,
+    51.23919,
+    22.00459,
+    51.23919
+],
+  "geometry": {"coordinates":[22.00459,51.23919],"type":"Point"}
+}

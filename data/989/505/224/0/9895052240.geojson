@@ -1,0 +1,76 @@
+{
+  "id": 9895052240,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.42068,52.21139,21.42068,52.21139",
+    "geom:latitude":52.21139,
+    "geom:longitude":21.42068,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 763273: name \"Olesin\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/763273"
+        },
+        {
+            "citation":"GeoNames populated place 763273: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/763273"
+        },
+        {
+            "citation":"GeoNames populated place 763273: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/763273"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125304513 (D\u0119be Wielkie), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687257,
+        102079965,
+        102191581,
+        1125304513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":763273
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"5f80aa3debec7ab650395871bb4f6841",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079965,
+            "localadmin_id":1125304513,
+            "locality_id":9895052240,
+            "region_id":85687257
+        }
+    ],
+    "wof:id":9895052240,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Olesin",
+    "wof:parent_id":1125304513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.42068,
+    52.21139,
+    21.42068,
+    52.21139
+],
+  "geometry": {"coordinates":[21.42068,52.21139],"type":"Point"}
+}

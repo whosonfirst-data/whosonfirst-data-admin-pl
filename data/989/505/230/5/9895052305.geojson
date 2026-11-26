@@ -1,0 +1,76 @@
+{
+  "id": 9895052305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.57504,52.30617,17.57504,52.30617",
+    "geom:latitude":52.30617,
+    "geom:longitude":17.57504,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11694575: name \"Bierzglinek\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11694575"
+        },
+        {
+            "citation":"GeoNames populated place 11694575: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11694575"
+        },
+        {
+            "citation":"GeoNames populated place 11694575: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11694575"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125402535 (Gmina Wrze\u015bnia), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687323,
+        102079907,
+        102191581,
+        1125402535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11694575
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"5252c1773c652bf2b279208a94e618e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079907,
+            "localadmin_id":1125402535,
+            "locality_id":9895052305,
+            "region_id":85687323
+        }
+    ],
+    "wof:id":9895052305,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Bierzglinek",
+    "wof:parent_id":1125402535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.57504,
+    52.30617,
+    17.57504,
+    52.30617
+],
+  "geometry": {"coordinates":[17.57504,52.30617],"type":"Point"}
+}

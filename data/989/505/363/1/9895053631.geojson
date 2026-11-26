@@ -1,0 +1,76 @@
+{
+  "id": 9895053631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.82736,50.75022,15.82736,50.75022",
+    "geom:latitude":50.75022,
+    "geom:longitude":15.82736,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13405736: name \"Podgorze\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13405736"
+        },
+        {
+            "citation":"GeoNames populated place 13405736: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13405736"
+        },
+        {
+            "citation":"GeoNames populated place 13405736: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13405736"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125280617 (Kowary), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687301,
+        102079617,
+        102191581,
+        1125280617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13405736
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"109dfb138b617eedd655bd4fb1c7bde5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079617,
+            "localadmin_id":1125280617,
+            "locality_id":9895053631,
+            "region_id":85687301
+        }
+    ],
+    "wof:id":9895053631,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Podgorze",
+    "wof:parent_id":1125280617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.82736,
+    50.75022,
+    15.82736,
+    50.75022
+],
+  "geometry": {"coordinates":[15.82736,50.75022],"type":"Point"}
+}

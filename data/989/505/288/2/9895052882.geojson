@@ -1,0 +1,76 @@
+{
+  "id": 9895052882,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.53272,52.30853,17.53272,52.30853",
+    "geom:latitude":52.30853,
+    "geom:longitude":17.53272,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11703958: name \"Bia\u0142\u0119\u017cyce\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11703958"
+        },
+        {
+            "citation":"GeoNames populated place 11703958: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11703958"
+        },
+        {
+            "citation":"GeoNames populated place 11703958: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11703958"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125402535 (Gmina Wrze\u015bnia), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687323,
+        102079907,
+        102191581,
+        1125402535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11703958
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"dad8df4a0c403d96c7f95a5af06e07e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079907,
+            "localadmin_id":1125402535,
+            "locality_id":9895052882,
+            "region_id":85687323
+        }
+    ],
+    "wof:id":9895052882,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Bia\u0142\u0119\u017cyce",
+    "wof:parent_id":1125402535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.53272,
+    52.30853,
+    17.53272,
+    52.30853
+],
+  "geometry": {"coordinates":[17.53272,52.30853],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 9895053525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.9024,51.05692,16.9024,51.05692",
+    "geom:latitude":51.05692,
+    "geom:longitude":16.9024,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13308761: name \"Jaszkotle\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13308761"
+        },
+        {
+            "citation":"GeoNames populated place 13308761: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13308761"
+        },
+        {
+            "citation":"GeoNames populated place 13308761: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13308761"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125372921 (Gmina K\u0105ty Wroc\u0142awskie), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687301,
+        102079685,
+        102191581,
+        1125372921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13308761
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"d34351375978dbe51a7a8e32be5cff0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079685,
+            "localadmin_id":1125372921,
+            "locality_id":9895053525,
+            "region_id":85687301
+        }
+    ],
+    "wof:id":9895053525,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Jaszkotle",
+    "wof:parent_id":1125372921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.9024,
+    51.05692,
+    16.9024,
+    51.05692
+],
+  "geometry": {"coordinates":[16.9024,51.05692],"type":"Point"}
+}

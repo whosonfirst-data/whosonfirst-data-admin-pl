@@ -1,0 +1,76 @@
+{
+  "id": 9895052649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.05576,51.60629,20.05576,51.60629",
+    "geom:latitude":51.60629,
+    "geom:longitude":20.05576,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11696040: name \"Lubochnia Dworska\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11696040"
+        },
+        {
+            "citation":"GeoNames populated place 11696040: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11696040"
+        },
+        {
+            "citation":"GeoNames populated place 11696040: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11696040"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125375689 (Lubochnia), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687261,
+        102079831,
+        102191581,
+        1125375689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11696040
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"976a854e05f95d63ecc2d7ef38135ce6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079831,
+            "localadmin_id":1125375689,
+            "locality_id":9895052649,
+            "region_id":85687261
+        }
+    ],
+    "wof:id":9895052649,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Lubochnia Dworska",
+    "wof:parent_id":1125375689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.05576,
+    51.60629,
+    20.05576,
+    51.60629
+],
+  "geometry": {"coordinates":[20.05576,51.60629],"type":"Point"}
+}

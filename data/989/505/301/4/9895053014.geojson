@@ -1,0 +1,76 @@
+{
+  "id": 9895053014,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.55609,51.82474,19.55609,51.82474",
+    "geom:latitude":51.82474,
+    "geom:longitude":19.55609,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11745980: name \"W\u00f3dka\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11745980"
+        },
+        {
+            "citation":"GeoNames populated place 11745980: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11745980"
+        },
+        {
+            "citation":"GeoNames populated place 11745980: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11745980"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477752657 (Nowosolna), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687261,
+        102079837,
+        102191581,
+        1477752657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11745980
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"96db4eab00930ccb8e7495767ff5f40d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079837,
+            "localadmin_id":1477752657,
+            "locality_id":9895053014,
+            "region_id":85687261
+        }
+    ],
+    "wof:id":9895053014,
+    "wof:lastmodified":1795735000,
+    "wof:name":"W\u00f3dka",
+    "wof:parent_id":1477752657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.55609,
+    51.82474,
+    19.55609,
+    51.82474
+],
+  "geometry": {"coordinates":[19.55609,51.82474],"type":"Point"}
+}

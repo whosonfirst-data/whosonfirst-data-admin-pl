@@ -1,0 +1,76 @@
+{
+  "id": 9895052806,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.45018,51.11295,19.45018,51.11295",
+    "geom:latitude":51.11295,
+    "geom:longitude":19.45018,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11703584: name \"Blok Dobryszyce\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11703584"
+        },
+        {
+            "citation":"GeoNames populated place 11703584: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11703584"
+        },
+        {
+            "citation":"GeoNames populated place 11703584: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11703584"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477752605 (Dobryszyce), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687261,
+        102079711,
+        102191581,
+        1477752605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11703584
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"158202032d6dc32966c2fcb5f3f82dc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079711,
+            "localadmin_id":1477752605,
+            "locality_id":9895052806,
+            "region_id":85687261
+        }
+    ],
+    "wof:id":9895052806,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Blok Dobryszyce",
+    "wof:parent_id":1477752605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.45018,
+    51.11295,
+    19.45018,
+    51.11295
+],
+  "geometry": {"coordinates":[19.45018,51.11295],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 9895053332,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.71474,53.04583,15.71474,53.04583",
+    "geom:latitude":53.04583,
+    "geom:longitude":15.71474,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12909204: name \"Przeczno\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12909204"
+        },
+        {
+            "citation":"GeoNames populated place 12909204: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12909204"
+        },
+        {
+            "citation":"GeoNames populated place 12909204: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12909204"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477752627 (Bierzwnik), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687271,
+        102080049,
+        102191581,
+        1477752627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12909204
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"71d8ff2e236d3a8bae09f814b60a38df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080049,
+            "localadmin_id":1477752627,
+            "locality_id":9895053332,
+            "region_id":85687271
+        }
+    ],
+    "wof:id":9895053332,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Przeczno",
+    "wof:parent_id":1477752627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.71474,
+    53.04583,
+    15.71474,
+    53.04583
+],
+  "geometry": {"coordinates":[15.71474,53.04583],"type":"Point"}
+}

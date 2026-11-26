@@ -1,0 +1,76 @@
+{
+  "id": 9895053649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.57872,50.70803,16.57872,50.70803",
+    "geom:latitude":50.70803,
+    "geom:longitude":16.57872,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13407328: name \"Mittel-Peterswaldau\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13407328"
+        },
+        {
+            "citation":"GeoNames populated place 13407328: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13407328"
+        },
+        {
+            "citation":"GeoNames populated place 13407328: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13407328"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125289129 (Gmina Pieszyce), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687301,
+        102079591,
+        102191581,
+        1125289129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13407328
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"260ecd121b75244bc7278d765afc33f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079591,
+            "localadmin_id":1125289129,
+            "locality_id":9895053649,
+            "region_id":85687301
+        }
+    ],
+    "wof:id":9895053649,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Mittel-Peterswaldau",
+    "wof:parent_id":1125289129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.57872,
+    50.70803,
+    16.57872,
+    50.70803
+],
+  "geometry": {"coordinates":[16.57872,50.70803],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 9895052963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.42309,51.00012,15.42309,51.00012",
+    "geom:latitude":51.00012,
+    "geom:longitude":15.42309,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11704166: name \"Prosz\u00f3wka\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11704166"
+        },
+        {
+            "citation":"GeoNames populated place 11704166: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11704166"
+        },
+        {
+            "citation":"GeoNames populated place 11704166: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11704166"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125375843 (Gmina Gryf\u00f3w \u015al\u0105ski), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687301,
+        102079649,
+        102191581,
+        1125375843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11704166
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"c62969cbe42d815073012f80c232906b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079649,
+            "localadmin_id":1125375843,
+            "locality_id":9895052963,
+            "region_id":85687301
+        }
+    ],
+    "wof:id":9895052963,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Prosz\u00f3wka",
+    "wof:parent_id":1125375843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.42309,
+    51.00012,
+    15.42309,
+    51.00012
+],
+  "geometry": {"coordinates":[15.42309,51.00012],"type":"Point"}
+}

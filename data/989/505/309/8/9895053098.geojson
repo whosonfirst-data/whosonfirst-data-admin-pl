@@ -1,0 +1,76 @@
+{
+  "id": 9895053098,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.41509,51.44185,16.41509,51.44185",
+    "geom:latitude":51.44185,
+    "geom:longitude":16.41509,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11978139: name \"Lasowice\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11978139"
+        },
+        {
+            "citation":"GeoNames populated place 11978139: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11978139"
+        },
+        {
+            "citation":"GeoNames populated place 11978139: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11978139"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477752983 (Gmina \u015acinawa), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687301,
+        102079735,
+        102191581,
+        1477752983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11978139
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"7b7b7633114c8afbd780756fc817686c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079735,
+            "localadmin_id":1477752983,
+            "locality_id":9895053098,
+            "region_id":85687301
+        }
+    ],
+    "wof:id":9895053098,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Lasowice",
+    "wof:parent_id":1477752983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.41509,
+    51.44185,
+    16.41509,
+    51.44185
+],
+  "geometry": {"coordinates":[16.41509,51.44185],"type":"Point"}
+}

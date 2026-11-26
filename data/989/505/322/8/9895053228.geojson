@@ -1,0 +1,76 @@
+{
+  "id": 9895053228,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.54569,51.26162,19.54569,51.26162",
+    "geom:latitude":51.26162,
+    "geom:longitude":19.54569,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12199995: name \"Bia\u0142a R\u00f3\u017ca\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12199995"
+        },
+        {
+            "citation":"GeoNames populated place 12199995: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12199995"
+        },
+        {
+            "citation":"GeoNames populated place 12199995: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12199995"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125324715 (Rozprza), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687261,
+        102079783,
+        102191581,
+        1125324715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12199995
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"7fca4a64d38449a1c1710413fe8b48aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079783,
+            "localadmin_id":1125324715,
+            "locality_id":9895053228,
+            "region_id":85687261
+        }
+    ],
+    "wof:id":9895053228,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Bia\u0142a R\u00f3\u017ca",
+    "wof:parent_id":1125324715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.54569,
+    51.26162,
+    19.54569,
+    51.26162
+],
+  "geometry": {"coordinates":[19.54569,51.26162],"type":"Point"}
+}

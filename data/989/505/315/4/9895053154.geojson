@@ -1,0 +1,76 @@
+{
+  "id": 9895053154,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.32323,52.28276,20.32323,52.28276",
+    "geom:latitude":52.28276,
+    "geom:longitude":20.32323,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12104326: name \"Budki \u017belazowskie\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12104326"
+        },
+        {
+            "citation":"GeoNames populated place 12104326: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12104326"
+        },
+        {
+            "citation":"GeoNames populated place 12104326: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12104326"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125327473 (Kampinos), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687257,
+        102079949,
+        102191581,
+        1125327473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12104326
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"625da77d527e57e6bdd1f25bf84782ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079949,
+            "localadmin_id":1125327473,
+            "locality_id":9895053154,
+            "region_id":85687257
+        }
+    ],
+    "wof:id":9895053154,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Budki \u017belazowskie",
+    "wof:parent_id":1125327473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.32323,
+    52.28276,
+    20.32323,
+    52.28276
+],
+  "geometry": {"coordinates":[20.32323,52.28276],"type":"Point"}
+}

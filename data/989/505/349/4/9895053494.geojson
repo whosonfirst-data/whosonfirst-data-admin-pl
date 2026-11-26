@@ -1,0 +1,76 @@
+{
+  "id": 9895053494,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.02656,51.53753,16.02656,51.53753",
+    "geom:latitude":51.53753,
+    "geom:longitude":16.02656,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13308202: name \"Sucha G\u00f3rna\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13308202"
+        },
+        {
+            "citation":"GeoNames populated place 13308202: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13308202"
+        },
+        {
+            "citation":"GeoNames populated place 13308202: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13308202"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477751347 (Gmina Polkowice), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687301,
+        102079741,
+        102191581,
+        1477751347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13308202
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"408bf55a39e369fbe049565f09c2edbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079741,
+            "localadmin_id":1477751347,
+            "locality_id":9895053494,
+            "region_id":85687301
+        }
+    ],
+    "wof:id":9895053494,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Sucha G\u00f3rna",
+    "wof:parent_id":1477751347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.02656,
+    51.53753,
+    16.02656,
+    51.53753
+],
+  "geometry": {"coordinates":[16.02656,51.53753],"type":"Point"}
+}

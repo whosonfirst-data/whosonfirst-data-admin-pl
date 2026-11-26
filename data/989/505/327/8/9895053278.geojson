@@ -1,0 +1,76 @@
+{
+  "id": 9895053278,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.22645,52.02999,23.22645,52.02999",
+    "geom:latitude":52.02999,
+    "geom:longitude":23.22645,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12557250: name \"Hola\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12557250"
+        },
+        {
+            "citation":"GeoNames populated place 12557250: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12557250"
+        },
+        {
+            "citation":"GeoNames populated place 12557250: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12557250"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477751485 (Gmina Bia\u0142a Podlaska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687309,
+        102079973,
+        102191581,
+        1477751485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12557250
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"31a86481e6cfe88c990f87c24845361f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079973,
+            "localadmin_id":1477751485,
+            "locality_id":9895053278,
+            "region_id":85687309
+        }
+    ],
+    "wof:id":9895053278,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Hola",
+    "wof:parent_id":1477751485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.22645,
+    52.02999,
+    23.22645,
+    52.02999
+],
+  "geometry": {"coordinates":[23.22645,52.02999],"type":"Point"}
+}

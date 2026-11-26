@@ -1,0 +1,76 @@
+{
+  "id": 9895052972,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.67106,52.24578,19.67106,52.24578",
+    "geom:latitude":52.24578,
+    "geom:longitude":19.67106,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11704175: name \"Buszk\u00f3w Dolny\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11704175"
+        },
+        {
+            "citation":"GeoNames populated place 11704175: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11704175"
+        },
+        {
+            "citation":"GeoNames populated place 11704175: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11704175"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125413287 (Gmina \u017bychlin), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687261,
+        102079929,
+        102191581,
+        1125413287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11704175
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"30753ea7a441f7336069edad4b9a8c2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079929,
+            "localadmin_id":1125413287,
+            "locality_id":9895052972,
+            "region_id":85687261
+        }
+    ],
+    "wof:id":9895052972,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Buszk\u00f3w Dolny",
+    "wof:parent_id":1125413287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.67106,
+    52.24578,
+    19.67106,
+    52.24578
+],
+  "geometry": {"coordinates":[19.67106,52.24578],"type":"Point"}
+}

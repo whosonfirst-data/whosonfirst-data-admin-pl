@@ -1,0 +1,76 @@
+{
+  "id": 9895052375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.58675,52.01743,20.58675,52.01743",
+    "geom:latitude":52.01743,
+    "geom:longitude":20.58675,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11694871: name \"Adam\u00f3w-Parcel\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11694871"
+        },
+        {
+            "citation":"GeoNames populated place 11694871: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11694871"
+        },
+        {
+            "citation":"GeoNames populated place 11694871: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11694871"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125417979 (Radziejowice), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687257,
+        102079897,
+        102191581,
+        1125417979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11694871
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"dbb5939a47979d08fa60cb9a5ddbb1ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079897,
+            "localadmin_id":1125417979,
+            "locality_id":9895052375,
+            "region_id":85687257
+        }
+    ],
+    "wof:id":9895052375,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Adam\u00f3w-Parcel",
+    "wof:parent_id":1125417979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.58675,
+    52.01743,
+    20.58675,
+    52.01743
+],
+  "geometry": {"coordinates":[20.58675,52.01743],"type":"Point"}
+}

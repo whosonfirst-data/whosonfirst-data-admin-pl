@@ -1,0 +1,76 @@
+{
+  "id": 9895053483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.26561,51.40859,16.26561,51.40859",
+    "geom:latitude":51.40859,
+    "geom:longitude":16.26561,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13308075: name \"Ksi\u0119ginice\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13308075"
+        },
+        {
+            "citation":"GeoNames populated place 13308075: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13308075"
+        },
+        {
+            "citation":"GeoNames populated place 13308075: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13308075"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477752981 (Gmina Lubin), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687301,
+        102079735,
+        102191581,
+        1477752981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13308075
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"39a0b66b9f092aca4566ed1112f997e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079735,
+            "localadmin_id":1477752981,
+            "locality_id":9895053483,
+            "region_id":85687301
+        }
+    ],
+    "wof:id":9895053483,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Ksi\u0119ginice",
+    "wof:parent_id":1477752981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.26561,
+    51.40859,
+    16.26561,
+    51.40859
+],
+  "geometry": {"coordinates":[16.26561,51.40859],"type":"Point"}
+}

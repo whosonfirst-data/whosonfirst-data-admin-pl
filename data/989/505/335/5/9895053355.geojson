@@ -1,0 +1,76 @@
+{
+  "id": 9895053355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.79196,53.30358,16.79196,53.30358",
+    "geom:latitude":53.30358,
+    "geom:longitude":16.79196,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13118758: name \"P\u0142ytnica\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13118758"
+        },
+        {
+            "citation":"GeoNames populated place 13118758: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13118758"
+        },
+        {
+            "citation":"GeoNames populated place 13118758: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13118758"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477752321 (Tarn\u00f3wka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687323,
+        102080109,
+        102191581,
+        1477752321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13118758
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"d93fec4bdba5601153bb3870f83b12e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080109,
+            "localadmin_id":1477752321,
+            "locality_id":9895053355,
+            "region_id":85687323
+        }
+    ],
+    "wof:id":9895053355,
+    "wof:lastmodified":1795735000,
+    "wof:name":"P\u0142ytnica",
+    "wof:parent_id":1477752321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.79196,
+    53.30358,
+    16.79196,
+    53.30358
+],
+  "geometry": {"coordinates":[16.79196,53.30358],"type":"Point"}
+}

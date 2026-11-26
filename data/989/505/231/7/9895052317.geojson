@@ -1,0 +1,76 @@
+{
+  "id": 9895052317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.99636,54.50559,16.99636,54.50559",
+    "geom:latitude":54.50559,
+    "geom:longitude":16.99636,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11694618: name \"W\u0142ynk\u00f3wko\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11694618"
+        },
+        {
+            "citation":"GeoNames populated place 11694618: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11694618"
+        },
+        {
+            "citation":"GeoNames populated place 11694618: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11694618"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125358813 (Gmina S\u0142upsk), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687267,
+        102080255,
+        102191581,
+        1125358813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11694618
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"52efe913f044f1e7ccaf223f6ab68e8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080255,
+            "localadmin_id":1125358813,
+            "locality_id":9895052317,
+            "region_id":85687267
+        }
+    ],
+    "wof:id":9895052317,
+    "wof:lastmodified":1795735000,
+    "wof:name":"W\u0142ynk\u00f3wko",
+    "wof:parent_id":1125358813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.99636,
+    54.50559,
+    16.99636,
+    54.50559
+],
+  "geometry": {"coordinates":[16.99636,54.50559],"type":"Point"}
+}

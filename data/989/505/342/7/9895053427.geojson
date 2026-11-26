@@ -1,0 +1,76 @@
+{
+  "id": 9895053427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.77593,52.09649,14.77593,52.09649",
+    "geom:latitude":52.09649,
+    "geom:longitude":14.77593,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13264606: name \"Krzesin\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13264606"
+        },
+        {
+            "citation":"GeoNames populated place 13264606: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13264606"
+        },
+        {
+            "citation":"GeoNames populated place 13264606: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13264606"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125412363 (Gmina Cybinka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687327,
+        102079913,
+        102191581,
+        1125412363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13264606
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"b43a0d929e097b06fdb0b41baa2880b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079913,
+            "localadmin_id":1125412363,
+            "locality_id":9895053427,
+            "region_id":85687327
+        }
+    ],
+    "wof:id":9895053427,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Krzesin",
+    "wof:parent_id":1125412363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.77593,
+    52.09649,
+    14.77593,
+    52.09649
+],
+  "geometry": {"coordinates":[14.77593,52.09649],"type":"Point"}
+}

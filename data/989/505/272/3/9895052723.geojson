@@ -1,0 +1,76 @@
+{
+  "id": 9895052723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.30997,52.45135,22.30997,52.45135",
+    "geom:latitude":52.45135,
+    "geom:longitude":22.30997,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11696367: name \"Nieciecz W\u0142o\u015bcia\u0144ska\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11696367"
+        },
+        {
+            "citation":"GeoNames populated place 11696367: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11696367"
+        },
+        {
+            "citation":"GeoNames populated place 11696367: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11696367"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125364643 (Sabnie), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687257,
+        102080023,
+        102191581,
+        1125364643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11696367
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"745c2cee44e86c3a20db48c1054e0a2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080023,
+            "localadmin_id":1125364643,
+            "locality_id":9895052723,
+            "region_id":85687257
+        }
+    ],
+    "wof:id":9895052723,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Nieciecz W\u0142o\u015bcia\u0144ska",
+    "wof:parent_id":1125364643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.30997,
+    52.45135,
+    22.30997,
+    52.45135
+],
+  "geometry": {"coordinates":[22.30997,52.45135],"type":"Point"}
+}

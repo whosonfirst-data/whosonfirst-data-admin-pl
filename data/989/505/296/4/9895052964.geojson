@@ -1,0 +1,76 @@
+{
+  "id": 9895052964,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.02757,50.9808,21.02757,50.9808",
+    "geom:latitude":50.9808,
+    "geom:longitude":21.02757,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11704167: name \"Radkowice-Kolonia\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11704167"
+        },
+        {
+            "citation":"GeoNames populated place 11704167: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11704167"
+        },
+        {
+            "citation":"GeoNames populated place 11704167: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11704167"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125375707 (Paw\u0142\u00f3w), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687287,
+        102079727,
+        102191581,
+        1125375707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11704167
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"5cb2f1131f6c9c5cadc27378b58137bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079727,
+            "localadmin_id":1125375707,
+            "locality_id":9895052964,
+            "region_id":85687287
+        }
+    ],
+    "wof:id":9895052964,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Radkowice-Kolonia",
+    "wof:parent_id":1125375707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.02757,
+    50.9808,
+    21.02757,
+    50.9808
+],
+  "geometry": {"coordinates":[21.02757,50.9808],"type":"Point"}
+}

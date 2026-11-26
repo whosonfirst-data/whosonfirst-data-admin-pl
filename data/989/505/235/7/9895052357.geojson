@@ -1,0 +1,76 @@
+{
+  "id": 9895052357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.2384,50.68868,23.2384,50.68868",
+    "geom:latitude":50.68868,
+    "geom:longitude":23.2384,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11694792: name \"Skok\u00f3wka\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11694792"
+        },
+        {
+            "citation":"GeoNames populated place 11694792: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11694792"
+        },
+        {
+            "citation":"GeoNames populated place 11694792: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11694792"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477752855 (Gmina Zamo\u015b\u0107), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687309,
+        102079715,
+        102191581,
+        1477752855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11694792
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"1f75d8cc5d3472d7c42f6e858b621b46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079715,
+            "localadmin_id":1477752855,
+            "locality_id":9895052357,
+            "region_id":85687309
+        }
+    ],
+    "wof:id":9895052357,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Skok\u00f3wka",
+    "wof:parent_id":1477752855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.2384,
+    50.68868,
+    23.2384,
+    50.68868
+],
+  "geometry": {"coordinates":[23.2384,50.68868],"type":"Point"}
+}

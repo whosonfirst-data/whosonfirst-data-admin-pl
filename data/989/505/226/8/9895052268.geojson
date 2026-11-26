@@ -1,0 +1,76 @@
+{
+  "id": 9895052268,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.54838,52.2,16.54838,52.2",
+    "geom:latitude":52.2,
+    "geom:longitude":16.54838,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3098395: name \"Gran\u00f3wko\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3098395"
+        },
+        {
+            "citation":"GeoNames populated place 3098395: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3098395"
+        },
+        {
+            "citation":"GeoNames populated place 3098395: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3098395"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125394657 (Granowo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687323,
+        102079879,
+        102191581,
+        1125394657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3098395
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"7ae5c9c5ca5f9435471e78ba556d210b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079879,
+            "localadmin_id":1125394657,
+            "locality_id":9895052268,
+            "region_id":85687323
+        }
+    ],
+    "wof:id":9895052268,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Gran\u00f3wko",
+    "wof:parent_id":1125394657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.54838,
+    52.2,
+    16.54838,
+    52.2
+],
+  "geometry": {"coordinates":[16.54838,52.2],"type":"Point"}
+}

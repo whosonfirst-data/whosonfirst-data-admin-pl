@@ -1,0 +1,76 @@
+{
+  "id": 9895053260,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.17077,53.82501,17.17077,53.82501",
+    "geom:latitude":53.82501,
+    "geom:longitude":17.17077,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12451015: name \"Rudniki\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12451015"
+        },
+        {
+            "citation":"GeoNames populated place 12451015: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12451015"
+        },
+        {
+            "citation":"GeoNames populated place 12451015: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12451015"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477752749 (Przechlewo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687267,
+        102080157,
+        102191581,
+        1477752749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12451015
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"40a2f2c57eeab0a2a292bb45beac2190",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080157,
+            "localadmin_id":1477752749,
+            "locality_id":9895053260,
+            "region_id":85687267
+        }
+    ],
+    "wof:id":9895053260,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Rudniki",
+    "wof:parent_id":1477752749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.17077,
+    53.82501,
+    17.17077,
+    53.82501
+],
+  "geometry": {"coordinates":[17.17077,53.82501],"type":"Point"}
+}

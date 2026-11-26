@@ -1,0 +1,76 @@
+{
+  "id": 9895053027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.67264,52.0774,18.67264,52.0774",
+    "geom:latitude":52.0774,
+    "geom:longitude":18.67264,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11747862: name \"Ko\u017amin\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11747862"
+        },
+        {
+            "citation":"GeoNames populated place 11747862: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11747862"
+        },
+        {
+            "citation":"GeoNames populated place 11747862: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11747862"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125364627 (Brudzew), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687323,
+        102079883,
+        102191581,
+        1125364627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11747862
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"534a1c4b9299b16e2f243cc009189202",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079883,
+            "localadmin_id":1125364627,
+            "locality_id":9895053027,
+            "region_id":85687323
+        }
+    ],
+    "wof:id":9895053027,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Ko\u017amin",
+    "wof:parent_id":1125364627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.67264,
+    52.0774,
+    18.67264,
+    52.0774
+],
+  "geometry": {"coordinates":[18.67264,52.0774],"type":"Point"}
+}

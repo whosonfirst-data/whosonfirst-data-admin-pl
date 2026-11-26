@@ -1,0 +1,76 @@
+{
+  "id": 9895052331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.30987,52.38713,21.30987,52.38713",
+    "geom:latitude":52.38713,
+    "geom:longitude":21.30987,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11694761: name \"Pasek\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11694761"
+        },
+        {
+            "citation":"GeoNames populated place 11694761: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11694761"
+        },
+        {
+            "citation":"GeoNames populated place 11694761: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11694761"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125318521 (Klemb\u00f3w), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687257,
+        102079995,
+        102191581,
+        1125318521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11694761
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"b3c8231338e7dcde3621e07ff8c53378",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079995,
+            "localadmin_id":1125318521,
+            "locality_id":9895052331,
+            "region_id":85687257
+        }
+    ],
+    "wof:id":9895052331,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Pasek",
+    "wof:parent_id":1125318521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.30987,
+    52.38713,
+    21.30987,
+    52.38713
+],
+  "geometry": {"coordinates":[21.30987,52.38713],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 9895053102,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.38206,51.41366,16.38206,51.41366",
+    "geom:latitude":51.41366,
+    "geom:longitude":16.38206,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11978143: name \"Tur\u00f3w\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11978143"
+        },
+        {
+            "citation":"GeoNames populated place 11978143: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11978143"
+        },
+        {
+            "citation":"GeoNames populated place 11978143: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11978143"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477752983 (Gmina \u015acinawa), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687301,
+        102079735,
+        102191581,
+        1477752983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11978143
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"b5be8e8be46e96ebfa51513f2279745f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079735,
+            "localadmin_id":1477752983,
+            "locality_id":9895053102,
+            "region_id":85687301
+        }
+    ],
+    "wof:id":9895053102,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Tur\u00f3w",
+    "wof:parent_id":1477752983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.38206,
+    51.41366,
+    16.38206,
+    51.41366
+],
+  "geometry": {"coordinates":[16.38206,51.41366],"type":"Point"}
+}

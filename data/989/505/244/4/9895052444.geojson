@@ -1,0 +1,76 @@
+{
+  "id": 9895052444,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.52034,50.68575,22.52034,50.68575",
+    "geom:latitude":50.68575,
+    "geom:longitude":22.52034,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695098: name \"Krzemie\u0144 Drugi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695098"
+        },
+        {
+            "citation":"GeoNames populated place 11695098: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695098"
+        },
+        {
+            "citation":"GeoNames populated place 11695098: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695098"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125372711 (Dzwola), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687309,
+        102079697,
+        102191581,
+        1125372711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695098
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"f5b7d696318128f4321da33bcf1c2e21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079697,
+            "localadmin_id":1125372711,
+            "locality_id":9895052444,
+            "region_id":85687309
+        }
+    ],
+    "wof:id":9895052444,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Krzemie\u0144 Drugi",
+    "wof:parent_id":1125372711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.52034,
+    50.68575,
+    22.52034,
+    50.68575
+],
+  "geometry": {"coordinates":[22.52034,50.68575],"type":"Point"}
+}

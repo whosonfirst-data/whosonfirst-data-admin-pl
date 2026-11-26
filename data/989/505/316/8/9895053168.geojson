@@ -1,0 +1,76 @@
+{
+  "id": 9895053168,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.14181,51.90108,17.14181,51.90108",
+    "geom:latitude":51.90108,
+    "geom:longitude":17.14181,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12156312: name \"D\u0105br\u00f3wka\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12156312"
+        },
+        {
+            "citation":"GeoNames populated place 12156312: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12156312"
+        },
+        {
+            "citation":"GeoNames populated place 12156312: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12156312"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125272075 (Gmina Borek Wielkopolski), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687323,
+        102079829,
+        102191581,
+        1125272075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12156312
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"c49c672dcbfefa9ac42071b5f243d42f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079829,
+            "localadmin_id":1125272075,
+            "locality_id":9895053168,
+            "region_id":85687323
+        }
+    ],
+    "wof:id":9895053168,
+    "wof:lastmodified":1795735000,
+    "wof:name":"D\u0105br\u00f3wka",
+    "wof:parent_id":1125272075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.14181,
+    51.90108,
+    17.14181,
+    51.90108
+],
+  "geometry": {"coordinates":[17.14181,51.90108],"type":"Point"}
+}

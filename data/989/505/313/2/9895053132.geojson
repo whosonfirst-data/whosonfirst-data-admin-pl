@@ -1,0 +1,76 @@
+{
+  "id": 9895053132,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.55023,52.41035,22.55023,52.41035",
+    "geom:latitude":52.41035,
+    "geom:longitude":22.55023,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11994462: name \"Frankopol\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11994462"
+        },
+        {
+            "citation":"GeoNames populated place 11994462: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11994462"
+        },
+        {
+            "citation":"GeoNames populated place 11994462: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11994462"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125288609 (Repki), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687257,
+        102080023,
+        102191581,
+        1125288609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11994462
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"f53375b3bf2cd2237c697d19b8599d39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080023,
+            "localadmin_id":1125288609,
+            "locality_id":9895053132,
+            "region_id":85687257
+        }
+    ],
+    "wof:id":9895053132,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Frankopol",
+    "wof:parent_id":1125288609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.55023,
+    52.41035,
+    22.55023,
+    52.41035
+],
+  "geometry": {"coordinates":[22.55023,52.41035],"type":"Point"}
+}

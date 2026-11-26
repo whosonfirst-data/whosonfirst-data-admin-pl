@@ -1,0 +1,76 @@
+{
+  "id": 9895052266,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.35129,51.19484,18.35129,51.19484",
+    "geom:latitude":51.19484,
+    "geom:longitude":18.35129,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3096187: name \"Klasak Du\u017cy\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3096187"
+        },
+        {
+            "citation":"GeoNames populated place 3096187: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3096187"
+        },
+        {
+            "citation":"GeoNames populated place 3096187: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3096187"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477752511 (Skomlin), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687261,
+        102079729,
+        102191581,
+        1477752511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3096187
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"3ea67ac424e84d46cf3f7ea07dea8084",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079729,
+            "localadmin_id":1477752511,
+            "locality_id":9895052266,
+            "region_id":85687261
+        }
+    ],
+    "wof:id":9895052266,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Klasak Du\u017cy",
+    "wof:parent_id":1477752511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.35129,
+    51.19484,
+    18.35129,
+    51.19484
+],
+  "geometry": {"coordinates":[18.35129,51.19484],"type":"Point"}
+}

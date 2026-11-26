@@ -1,0 +1,76 @@
+{
+  "id": 9895053371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.07795,53.60094,17.07795,53.60094",
+    "geom:latitude":53.60094,
+    "geom:longitude":17.07795,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13118915: name \"Skowarnki\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13118915"
+        },
+        {
+            "citation":"GeoNames populated place 13118915: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13118915"
+        },
+        {
+            "citation":"GeoNames populated place 13118915: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13118915"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477751729 (Gmina Debrzno), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687267,
+        102080157,
+        102191581,
+        1477751729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13118915
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"8f1abc9837e9155087124cda51dca5b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080157,
+            "localadmin_id":1477751729,
+            "locality_id":9895053371,
+            "region_id":85687267
+        }
+    ],
+    "wof:id":9895053371,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Skowarnki",
+    "wof:parent_id":1477751729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.07795,
+    53.60094,
+    17.07795,
+    53.60094
+],
+  "geometry": {"coordinates":[17.07795,53.60094],"type":"Point"}
+}

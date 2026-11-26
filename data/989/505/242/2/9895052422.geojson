@@ -1,0 +1,76 @@
+{
+  "id": 9895052422,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.29215,50.57882,21.29215,50.57882",
+    "geom:latitude":50.57882,
+    "geom:longitude":21.29215,
+    "iso:country":"PL",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695074: name \"Czajk\u00f3w P\u00f3\u0142nocny\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695074"
+        },
+        {
+            "citation":"GeoNames populated place 11695074: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695074"
+        },
+        {
+            "citation":"GeoNames populated place 11695074: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695074"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1477752287 (Gmina Stasz\u00f3w), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633723,
+        85687287,
+        102079635,
+        102191581,
+        1477752287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695074
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"8cc0f20a07a87c8459d72d77a74efff9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079635,
+            "localadmin_id":1477752287,
+            "locality_id":9895052422,
+            "region_id":85687287
+        }
+    ],
+    "wof:id":9895052422,
+    "wof:lastmodified":1795735000,
+    "wof:name":"Czajk\u00f3w P\u00f3\u0142nocny",
+    "wof:parent_id":1477752287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.29215,
+    50.57882,
+    21.29215,
+    50.57882
+],
+  "geometry": {"coordinates":[21.29215,50.57882],"type":"Point"}
+}
